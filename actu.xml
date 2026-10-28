@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Kiki · Le point du jour</title>
+<link>https://chiki03.github.io/Feeds/</link>
+<atom:link href="https://chiki03.github.io/Feeds/actu.xml" rel="self" type="application/rss+xml"/>
+<description>Chaque matin, ce qui s'est passé en Europe, en France et en Suisse, politique et économie, avec les liens vers les articles.</description>
+<language>fr</language>
+<lastBuildDate>Wed, 28 Oct 2026 07:59:43 +0000</lastBuildDate>
+<ttl>180</ttl>
+<item>
+<title>28 oct. : Otan, loi « casseurs-payeurs », Novartis</title>
+<link>https://chiki03.github.io/Feeds/actu/2026-10-28.html</link>
+<guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-28.html</guid>
+<pubDate>Wed, 28 Oct 2026 08:15:00 +0000</pubDate>
+<description>Les Européens se disent prêts à peser davantage dans l'Otan, le Sénat français adopte la loi « casseurs-payeurs », et en Suisse les chiffres de l'aide sociale et du logement tombent.
+
+EUROPE
+• Les cinq principales puissances militaires européennes (France, Allemagne, Italie, Pologne, Royaume-Uni) se disent prêtes à prendre davantage de responsabilités au sein de l'Otan face aux États-Unis. (France 24: https://www.france24.com/fr/europe/20261027-otan-france-allemange-italie-pologne-royaume-uni-pretes-assumer-responsabilite-accrue-etats-unis)
+• Ukraine : le Danemark reproche à la Finlande et à la Norvège d'avoir appelé Vladimir Poutine chacune de leur côté, sans concertation européenne. (France 24: https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine)
+• Ukraine : une trêve locale a commencé à Olechky pour permettre une opération humanitaire. (France 24: https://www.france24.com/fr/europe/20261027-ukraine-treve-olechky-commence-operation-humanitaire-russie)
+• Serbie : après des élections marquées par une forte mobilisation contre la fraude, Aleksandar Vučić est désormais présenté comme l'ex-dirigeant du pays. (France 24: https://www.france24.com/fr/europe/20261027-%C3%A9lections-serbie-mobilisation-contre-fraude-s%C3%BBrement-impact-r%C3%A9sultats)
+
+FRANCE
+• Le Sénat adopte le projet de loi « casseurs-payeurs », qui vise à faire payer les dégâts aux auteurs de violences après les émeutes du 17 octobre. (Euronews: https://fr.euronews.com/2026/10/28/casseurs-payeurs-apres-les-emeutes-du-17-octobre-le-projet-de-loi-passe-letape-du-senat)
+• La mobilisation étudiante continue malgré les annonces du gouvernement sur Parcoursup et le contrôle continu. (France 24: https://france24.com/fr/france/20261026-france-en-direct-emmanuel-macron-juge-que-samedi-prochain-sera-%C3%A0-risque)
+
+SUISSE
+• Selon l'OFS, 267 300 personnes ont touché l'aide sociale en 2025, soit un taux de 2,9 %, avec une hausse marquée à Genève. Les familles monoparentales y sont de plus en plus nombreuses. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
+• Une étude de TA-Swiss estime que les nouvelles technologies nucléaires pourraient réduire la dépendance de la Suisse aux importations d'électricité. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
+• Et aussi : « goumin », « pain » et « battle d'aura » sont élus mots jeunes de l'année en Suisse romande. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
+
+ÉCONOMIE
+• Les prix du logement en Suisse accélèrent : +1,7 % au troisième trimestre et +4,4 % sur un an, selon l'OFS. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
+• Novartis passe une dépréciation d'environ 2 milliards de dollars après l'échec d'un essai clinique ; son bénéfice net trimestriel recule de 70 %. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
+• UBS annonce un bénéfice net de 2,7 milliards de dollars au troisième trimestre, en hausse de 8 % sur un an. (Le Temps: https://www.letemps.ch/economie/finance/ubs-enregistre-un-benefice-net-de-2-7-milliards-de-dollars-au-3e-trimestre-en-hausse-de-8-sur-un-an)
+• La trêve commerciale entre les États-Unis et l'UE est menacée par un prêt de 3,4 milliards de dollars accordé à Airbus, avertit un responsable de l'administration Trump. (France 24 (EN): https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump)
+
+Mots clés : une responsabilité accrue — une part plus grande des obligations ou du rôle ; une trêve — un arrêt temporaire des combats ; un casseur — une personne qui commet des dégradations lors d'une manifestation ; une dépréciation — une baisse comptable de la valeur d'un actif ; l'aide sociale — le soutien financier public aux personnes sans ressources suffisantes</description>
+</item>
+</channel>
+</rss>
