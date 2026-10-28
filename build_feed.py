@@ -23,11 +23,12 @@ MAX_ITEMS = 60
 FEEDS = {
     "design": {
         "kind": "articles",
-        "title": "Kiki · Design Daily",
-        "description": "Daily picks from UX, visual design and creative industries, summarised in English with key terms.",
+        "title": "Kiki Daily",
+        "description": "Le point du jour (French news digest: Europe, France, Suisse, économie) plus daily design picks in English.",
         "language": "en",
         "terms_label": "Key terms",
         "source_label": "Source",
+        "include_digest": "actu",
     },
     "actu": {
         "kind": "digest",
@@ -96,13 +97,27 @@ def rss_item(title, link, when, description, category=None):
 
 def build_articles(name, cfg):
     items = load(name)
-    out = channel_head(name, cfg)
+    entries = []
     for i in items:
         desc = i["summary"]
         if i.get("terms"):
             desc += f"\n\n{cfg['terms_label']}: " + "; ".join(f"{a} — {b}" for a, b in i["terms"])
         desc += f"\n\n{cfg['source_label']}: {i['source']}"
-        out += rss_item(i["title"], i["link"], pub_time(i), desc, i["source"])
+        entries.append((pub_time(i), rss_item(i["title"], i["link"], pub_time(i), desc, i["source"])))
+    # The daily French digest rides in the same feed (one RSS slot in the widget).
+    # It is dated just after that day's newest article so it sits at the top of its day.
+    if cfg.get("include_digest"):
+        dname = cfg["include_digest"]
+        dcfg = FEEDS[dname]
+        for d in load(dname):
+            same_day = [t for t, _ in entries if t.date().isoformat() == d["date"]]
+            when = max([ts(d["added"])] + same_day) + timedelta(minutes=1)
+            link = f"{SITE}/{dname}/{d['date']}.html"
+            entries.append((when, rss_item(d["title"], link, when, digest_text(d, dcfg), "Le point du jour")))
+    entries.sort(key=lambda e: e[0], reverse=True)
+    out = channel_head(name, cfg)
+    for _, lines in entries:
+        out += lines
     out += ["</channel>", "</rss>", ""]
     (ROOT / f"{name}.xml").write_text("\n".join(out), encoding="utf-8")
     return len(items)
