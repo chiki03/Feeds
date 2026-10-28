@@ -9,11 +9,11 @@
     "terms": [
       [
         "taste",
-        "品味、审美判断"
+        "the ability to judge what is good or fitting"
       ],
       [
         "paradox",
-        "悖论"
+        "a situation that seems to contradict itself"
       ]
     ]
   },
@@ -27,11 +27,11 @@
     "terms": [
       [
         "feature creep",
-        "功能膨胀"
+        "adding more and more features until a product gets bloated"
       ],
       [
         "user need",
-        "用户需求"
+        "what people actually require, not what a team assumes"
       ]
     ]
   },
@@ -45,11 +45,11 @@
     "terms": [
       [
         "trend forecast",
-        "趋势预测"
+        "a prediction of where a field is heading"
       ],
       [
         "beyond the interface",
-        "超越界面"
+        "design work that reaches past screens and UI"
       ]
     ]
   },
@@ -63,11 +63,11 @@
     "terms": [
       [
         "retrospective",
-        "回顾展"
+        "an exhibition covering an artist's whole career"
       ],
       [
         "scenography",
-        "舞台美术"
+        "the design of a stage or performance space"
       ]
     ]
   },
@@ -81,11 +81,11 @@
     "terms": [
       [
         "public vote",
-        "公众投票"
+        "a choice made by the general public rather than a jury"
       ],
       [
         "interiors",
-        "室内设计"
+        "the design of indoor spaces"
       ]
     ]
   },
@@ -99,11 +99,11 @@
     "terms": [
       [
         "cluster",
-        "建筑群"
+        "a group of buildings placed close together"
       ],
       [
         "blend into",
-        "融入"
+        "to merge with the surroundings so it is hard to notice"
       ]
     ]
   },
@@ -117,11 +117,11 @@
     "terms": [
       [
         "unveil",
-        "发布、揭幕"
+        "to show something publicly for the first time"
       ],
       [
         "brand mark",
-        "品牌标志"
+        "the symbol or logo that identifies a brand"
       ]
     ]
   },
@@ -135,11 +135,11 @@
     "terms": [
       [
         "spotlight",
-        "专题聚焦"
+        "a feature that focuses attention on one person or work"
       ],
       [
         "happy accident",
-        "意外的好效果"
+        "a mistake that turns out well"
       ]
     ]
   },
@@ -153,11 +153,11 @@
     "terms": [
       [
         "practitioner",
-        "从业者"
+        "someone who actively works in a profession"
       ],
       [
         "ambivalent",
-        "矛盾的、态度复杂的"
+        "having mixed or conflicting feelings"
       ]
     ]
   },
@@ -171,11 +171,11 @@
     "terms": [
       [
         "umbrella term",
-        "统称"
+        "a broad name that covers several related things"
       ],
       [
         "service design",
-        "服务设计"
+        "planning the people, processes and touchpoints behind a service"
       ]
     ]
   },
@@ -189,11 +189,11 @@
     "terms": [
       [
         "seamstress",
-        "女裁缝"
+        "a woman who sews clothes for a living"
       ],
       [
         "publishing project",
-        "出版项目"
+        "a book, zine or series produced around one theme"
       ]
     ]
   },
@@ -207,11 +207,11 @@
     "terms": [
       [
         "synthetic users",
-        "AI 模拟用户"
+        "AI-generated stand-ins for real research participants"
       ],
       [
         "variance",
-        "差异、离散程度"
+        "how much answers differ from one another"
       ]
     ]
   },
@@ -225,11 +225,11 @@
     "terms": [
       [
         "journey map",
-        "用户旅程图"
+        "a diagram of the steps a person takes to reach a goal"
       ],
       [
         "service blueprint",
-        "服务蓝图"
+        "a map of what happens front-stage and back-stage in a service"
       ]
     ]
   },
@@ -243,11 +243,11 @@
     "terms": [
       [
         "blackletter",
-        "哥特体（黑体字）"
+        "a heavy, Gothic style of lettering"
       ],
       [
         "bespoke typeface",
-        "定制字体"
+        "a font designed for one specific client"
       ]
     ]
   },
@@ -261,11 +261,11 @@
     "terms": [
       [
         "packaging",
-        "包装"
+        "the box, wrapper or container a product is sold in"
       ],
       [
         "touchpoint",
-        "接触点"
+        "any moment where a customer meets a brand"
       ]
     ]
   },
@@ -279,11 +279,11 @@
     "terms": [
       [
         "context",
-        "情境、上下文"
+        "the surrounding information that gives something meaning"
       ],
       [
         "affordance",
-        "可供性（让人知道能做什么的设计线索）"
+        "a design cue that shows how something can be used"
       ]
     ]
   }

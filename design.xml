@@ -6,7 +6,7 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Daily picks from UX, visual design and creative industries, summarised in English with key terms.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 07:53:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 07:56:33 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>The taste paradox</title>
@@ -16,7 +16,7 @@
 <category>UX Collective</category>
 <description>An essay on why taste is widely called essential in design, yet rarely practised or trained on purpose.
 
-Key terms: taste — 品味、审美判断; paradox — 悖论
+Key terms: taste — the ability to judge what is good or fitting; paradox — a situation that seems to contradict itself
 
 Source: UX Collective</description>
 </item>
@@ -28,7 +28,7 @@ Source: UX Collective</description>
 <category>UX Collective</category>
 <description>A critique of the AI 'sparkle' buttons appearing across products, regardless of whether users need them.
 
-Key terms: feature creep — 功能膨胀; user need — 用户需求
+Key terms: feature creep — adding more and more features until a product gets bloated; user need — what people actually require, not what a team assumes
 
 Source: UX Collective</description>
 </item>
@@ -40,7 +40,7 @@ Source: UX Collective</description>
 <category>UX Collective</category>
 <description>A look at where UX work is heading next year, with the focus moving beyond interface design itself.
 
-Key terms: trend forecast — 趋势预测; beyond the interface — 超越界面
+Key terms: trend forecast — a prediction of where a field is heading; beyond the interface — design work that reaches past screens and UI
 
 Source: UX Collective</description>
 </item>
@@ -52,7 +52,7 @@ Source: UX Collective</description>
 <category>Dezeen</category>
 <description>Stage designer Es Devlin talks about her retrospective at London's Design Museum and how her large works begin from very simple gestures.
 
-Key terms: retrospective — 回顾展; scenography — 舞台美术
+Key terms: retrospective — an exhibition covering an artist's whole career; scenography — the design of a stage or performance space
 
 Source: Dezeen</description>
 </item>
@@ -64,7 +64,7 @@ Source: Dezeen</description>
 <category>Dezeen</category>
 <description>The interiors chosen by public vote in this year's Dezeen Awards, gathered on one page.
 
-Key terms: public vote — 公众投票; interiors — 室内设计
+Key terms: public vote — a choice made by the general public rather than a jury; interiors — the design of indoor spaces
 
 Source: Dezeen</description>
 </item>
@@ -76,7 +76,7 @@ Source: Dezeen</description>
 <category>Dezeen</category>
 <description>Büro Ziyu Zhuang designed a group of museums in Xianning, China, meant to sit quietly within the surrounding grassland.
 
-Key terms: cluster — 建筑群; blend into — 融入
+Key terms: cluster — a group of buildings placed close together; blend into — to merge with the surroundings so it is hard to notice
 
 Source: Dezeen</description>
 </item>
@@ -88,7 +88,7 @@ Source: Dezeen</description>
 <category>Dezeen</category>
 <description>Apple Music unveiled a new logo whose form was physically produced by sound rather than drawn by hand.
 
-Key terms: unveil — 发布、揭幕; brand mark — 品牌标志
+Key terms: unveil — to show something publicly for the first time; brand mark — the symbol or logo that identifies a brand
 
 Source: Dezeen</description>
 </item>
@@ -100,7 +100,7 @@ Source: Dezeen</description>
 <category>It's Nice That</category>
 <description>A profile of graphic designer Bráulio Amado and how mistakes, chaos and meditation feed into his work.
 
-Key terms: spotlight — 专题聚焦; happy accident — 意外的好效果
+Key terms: spotlight — a feature that focuses attention on one person or work; happy accident — a mistake that turns out well
 
 Source: It's Nice That</description>
 </item>
@@ -112,7 +112,7 @@ Source: It's Nice That</description>
 <category>Nielsen Norman Group</category>
 <description>A survey of about 500 UX practitioners finds AI tools save time on routine work, yet many designers feel ambivalent about what that means for the craft.
 
-Key terms: practitioner — 从业者; ambivalent — 矛盾的、态度复杂的
+Key terms: practitioner — someone who actively works in a profession; ambivalent — having mixed or conflicting feelings
 
 Source: Nielsen Norman Group</description>
 </item>
@@ -124,7 +124,7 @@ Source: Nielsen Norman Group</description>
 <category>Nielsen Norman Group</category>
 <description>Short definitions of the fields that sit under the UX umbrella, from UI and interaction design to service design and UX research.
 
-Key terms: umbrella term — 统称; service design — 服务设计
+Key terms: umbrella term — a broad name that covers several related things; service design — planning the people, processes and touchpoints behind a service
 
 Source: Nielsen Norman Group</description>
 </item>
@@ -136,7 +136,7 @@ Source: Nielsen Norman Group</description>
 <category>It's Nice That</category>
 <description>The publishing project All Work is Women's Work brings back the overlooked history of Amsterdam's seamstresses.
 
-Key terms: seamstress — 女裁缝; publishing project — 出版项目
+Key terms: seamstress — a woman who sews clothes for a living; publishing project — a book, zine or series produced around one theme
 
 Source: It's Nice That</description>
 </item>
@@ -148,7 +148,7 @@ Source: It's Nice That</description>
 <category>Nielsen Norman Group</category>
 <description>AI-simulated research participants reached the same conclusions as real people in this study, but their answers were far less varied.
 
-Key terms: synthetic users — AI 模拟用户; variance — 差异、离散程度
+Key terms: synthetic users — AI-generated stand-ins for real research participants; variance — how much answers differ from one another
 
 Source: Nielsen Norman Group</description>
 </item>
@@ -160,7 +160,7 @@ Source: Nielsen Norman Group</description>
 <category>Nielsen Norman Group</category>
 <description>A guide to telling journey maps, experience maps, service blueprints and similar diagrams apart, and when each one is useful.
 
-Key terms: journey map — 用户旅程图; service blueprint — 服务蓝图
+Key terms: journey map — a diagram of the steps a person takes to reach a goal; service blueprint — a map of what happens front-stage and back-stage in a service
 
 Source: Nielsen Norman Group</description>
 </item>
@@ -172,7 +172,7 @@ Source: Nielsen Norman Group</description>
 <category>It's Nice That</category>
 <description>David Rudnick on the demanding process of creating a custom blackletter typeface for Arsenal football club.
 
-Key terms: blackletter — 哥特体（黑体字）; bespoke typeface — 定制字体
+Key terms: blackletter — a heavy, Gothic style of lettering; bespoke typeface — a font designed for one specific client
 
 Source: It's Nice That</description>
 </item>
@@ -184,7 +184,7 @@ Source: It's Nice That</description>
 <category>It's Nice That</category>
 <description>At a Nicer Tuesdays talk, Mother Design argued that packaging is the one direct line a designer has to the customer.
 
-Key terms: packaging — 包装; touchpoint — 接触点
+Key terms: packaging — the box, wrapper or container a product is sold in; touchpoint — any moment where a customer meets a brand
 
 Source: It's Nice That</description>
 </item>
@@ -196,7 +196,7 @@ Source: It's Nice That</description>
 <category>Nielsen Norman Group</category>
 <description>An AI assistant becomes useful through personal context, the ability to act, and being clear about its limits, more than through raw intelligence.
 
-Key terms: context — 情境、上下文; affordance — 可供性（让人知道能做什么的设计线索）
+Key terms: context — the surrounding information that gives something meaning; affordance — a design cue that shows how something can be used
 
 Source: Nielsen Norman Group</description>
 </item>
