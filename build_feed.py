@@ -23,8 +23,8 @@ MAX_ITEMS = 60
 FEEDS = {
     "design": {
         "kind": "articles",
-        "title": "Kiki Daily",
-        "description": "Le point du jour (French news digest: Europe, France, Suisse, économie) plus daily design picks in English.",
+        "title": "Croissant & Kerning",
+        "description": "Kikichou's morning read: le point du jour en français, then design picks in English.",
         "language": "en",
         "terms_label": "Key terms",
         "source_label": "Source",

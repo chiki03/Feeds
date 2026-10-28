@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Kiki Daily</title>
+<title>Croissant &amp; Kerning</title>
 <link>https://chiki03.github.io/Feeds/</link>
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
-<description>Le point du jour (French news digest: Europe, France, Suisse, économie) plus daily design picks in English.</description>
+<description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 08:00:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 08:02:21 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>28 oct. : Otan, loi « casseurs-payeurs », Novartis</title>
