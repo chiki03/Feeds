@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-10-29",
+    "added": "2026-10-29T05:49:07Z",
+    "title": "29 oct. : drame ferroviaire en Espagne, Trappes, UBS",
+    "lede": "L'Espagne est en deuil après une collision entre deux trains à grande vitesse, la France prépare un hommage national après l'attentat de Trappes, et UBS publie de solides résultats trimestriels.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Espagne : deux trains à grande vitesse sont entrés en collision entre Madrid et l'Andalousie. Selon France 24, le bilan s'élève à au moins 68 morts, et la piste d'une « erreur humaine » est évoquée.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda"
+          },
+          {
+            "text": "Le Premier ministre espagnol Pedro Sánchez a décrété trois jours de deuil national après cette catastrophe ferroviaire.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/10/28/catastrophe-ferroviaire-en-espagne-pedro-sanchez-decrete-trois-jours-de-deuil-national"
+          },
+          {
+            "text": "Ukraine : la trêve locale d'Olechky, surnommée « trêve Melania », tient pour la deuxième journée consécutive, tandis que des drones russes continuent de frapper le reste du pays.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261028-ukraine-le-cessez-le-feu-d-olechky-continue-les-drone-russes-frappent-le-reste-du-pays"
+          },
+          {
+            "text": "À l'approche des élections de mi-mandat aux États-Unis, les Européens doutent qu'elles suffisent à « dompter » Donald Trump.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261028-trump-tamed-after-us-midterms-europe-doubts-it"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Attentat de Trappes : un hommage national sera rendu à Pengo Bossio Wangi, la victime.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/10/28/attentat-de-trappes-un-hommage-national-sera-rendu-a-pengo-bossio-wangi"
+          },
+          {
+            "text": "L'attentat de Trappes, qualifié de raciste, provoque une bataille politique à l'Assemblée nationale.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261028-attentat-de-trappes-bataille-politique-%C3%A0-l-assembl%C3%A9e-nationale"
+          },
+          {
+            "text": "La gauche (LFI, PS, PCF) dénonce la tenue de manifestations qu'elle qualifie de « néofascistes » ce week-end à Paris.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261028-gauche-d%C3%A9nonce-tenue-manifestations-n%C3%A9ofascistes-week-end-paris-lfi-ps-pcf-objectif-remigration"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Armasuisse veut désormais acheter du matériel militaire directement auprès des fabricants américains plutôt que par l'intermédiaire du gouvernement des États-Unis. Son directeur y voit une leçon clé de l'achat des F-35.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "La commission de l'économie du Conseil national a commencé l'examen du projet de loi sur UBS (« Lex UBS ») ; les avis de ses membres restent divergents.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Incendie du bar Le Constellation à Crans-Montana : Jacques Moretti sera entendu seul lundi prochain à Sion, le ministère public ne convoquant plus son épouse.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Vaud : le PVL, Le Centre, le Parti évangélique et Les Libres ont officialisé leur alliance sous le nom de « Forces centristes » pour les élections cantonales de février 2027.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "UBS annonce un bénéfice net de 2,7 milliards de dollars au troisième trimestre. La banque se dit en bonne voie pour ses objectifs annuels et compte achever cette année l'intégration de Credit Suisse.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Sandoz abaisse sa prévision de croissance pour l'année à 5–6 %, contre 5–9 % auparavant. Logitech, de son côté, a dépassé les attentes, et Straumann confirme ses objectifs après une nette hausse de son chiffre d'affaires.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "En Europe, le prix du gaz naturel dépasse les 100 euros pour la première fois depuis 2022.",
+            "source": "France 24 (EN)",
+            "link": "https://france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022"
+          },
+          {
+            "text": "France : le nombre d'inscrits à France Travail poursuit sa lente progression.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261028-ch%C3%B4mage-le-nombre-d-inscrits-%C3%A0-france-travail-poursuit-sa-lente-progression"
+          },
+          {
+            "text": "Airbus vise un accord sur le projet d'avion de combat mené par le Royaume-Uni, le Japon et l'Italie, après l'échec du projet rival.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/10/29/airbus-vise-un-accord-sur-le-chasseur-uk-japon-italie-apres-lechec-du-projet-rival"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "un deuil national",
+        "une période officielle de tristesse décrétée par l'État après un drame"
+      ],
+      [
+        "une collision",
+        "un choc entre deux véhicules en mouvement"
+      ],
+      [
+        "une trêve",
+        "un arrêt temporaire des combats"
+      ],
+      [
+        "un hommage national",
+        "une cérémonie officielle pour honorer une personne au nom du pays"
+      ],
+      [
+        "abaisser ses prévisions",
+        "revoir à la baisse ce que l'on attend pour l'avenir"
+      ],
+      [
+        "les élections de mi-mandat",
+        "des élections organisées au milieu du mandat présidentiel américain"
+      ]
+    ]
+  },
+  {
     "date": "2026-10-28",
     "added": "2026-10-28T08:15:00Z",
     "title": "28 oct. : Otan, loi « casseurs-payeurs », Novartis",
