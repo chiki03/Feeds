@@ -1,5 +1,77 @@
 [
   {
+    "title": "A campaign spelling out the sewage crisis",
+    "link": "https://www.creativereview.co.uk/campaign-sewage-crisis-amv-bbdo/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "AMV BBDO's campaign uses a typeface inspired by waste to draw attention to sewage spills in UK rivers and seas.",
+    "terms": [
+      [
+        "sewage",
+        "waste water from toilets and drains"
+      ],
+      [
+        "awareness campaign",
+        "advertising meant to make people notice an issue"
+      ]
+    ]
+  },
+  {
+    "title": "Design systems should be fast by default",
+    "link": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "An essay picked by Sidebar argues that slow components in a design system make every app built on it slow, so speed must be built in.",
+    "terms": [
+      [
+        "design system",
+        "a shared library of components and rules for building products"
+      ],
+      [
+        "by default",
+        "automatically, without anyone having to choose it"
+      ]
+    ]
+  },
+  {
+    "title": "Thinking of design as a garden",
+    "link": "https://justinjay.wang/design-as-a-garden/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "A short essay, curated by Sidebar, proposes thinking about creative work as tending a garden.",
+    "terms": [
+      [
+        "metaphor",
+        "describing one thing as if it were another"
+      ],
+      [
+        "tend",
+        "to look after something carefully over time"
+      ]
+    ]
+  },
+  {
+    "title": "A working clock built from junk",
+    "link": "https://niklasroy.com/gtc/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "Niklas Roy's Glashütte Trash Clock is a working clockwork made from rubbish found in the watchmaking town of Glashütte, Germany.",
+    "terms": [
+      [
+        "clockwork",
+        "the gears and springs that make a clock run"
+      ],
+      [
+        "found objects",
+        "everyday items reused as art materials"
+      ]
+    ]
+  },
+  {
     "title": "The taste paradox",
     "link": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95",
     "source": "UX Collective",
@@ -50,6 +122,96 @@
       [
         "beyond the interface",
         "design work that reaches past screens and UI"
+      ]
+    ]
+  },
+  {
+    "title": "A museum typeface for Louisiana",
+    "link": "https://www.itsnicethat.com/articles/a2-type-louisiana-museum-of-modern-art-graphic-design-project-281026",
+    "source": "It's Nice That",
+    "date": "2026-10-28",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "Type foundry A2 Type has made a new typeface for the Louisiana Museum of Modern Art in Denmark.",
+    "terms": [
+      [
+        "typeface",
+        "a family of letters sharing one design"
+      ],
+      [
+        "foundry",
+        "a studio that designs and sells typefaces"
+      ]
+    ]
+  },
+  {
+    "title": "Dezeen Awards public vote: design winners",
+    "link": "https://www.dezeen.com/2026/10/28/dezeen-awards-public-vote-winner-design-2026",
+    "source": "Dezeen",
+    "date": "2026-10-28",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "Dezeen announces the 16 design projects that won its 2026 awards public vote.",
+    "terms": [
+      [
+        "public vote",
+        "a contest decided by readers rather than a jury"
+      ],
+      [
+        "shortlist",
+        "the final selection of candidates before winners are chosen"
+      ]
+    ]
+  },
+  {
+    "title": "Is branding draining football's character?",
+    "link": "https://www.itsnicethat.com/articles/pov-football-is-branding-the-life-out-of-itself-graphic-design-271026",
+    "source": "It's Nice That",
+    "date": "2026-10-27",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "An opinion piece argues that corporate rebrands are stripping football clubs of the character that made them distinctive.",
+    "terms": [
+      [
+        "point of view (POV)",
+        "an opinion piece giving one writer's personal take"
+      ],
+      [
+        "rebrand",
+        "a change to a company's name, logo or visual identity"
+      ]
+    ]
+  },
+  {
+    "title": "A dreamlike identity for Bar Rêve",
+    "link": "https://www.itsnicethat.com/articles/dutchscots-bar-reve-graphic-design-project-271026",
+    "source": "It's Nice That",
+    "date": "2026-10-27",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "Studio DutchScot built the visual identity for Bar Rêve around the symbols found in dreams.",
+    "terms": [
+      [
+        "visual identity",
+        "the set of logos, colours and type that make a brand recognisable"
+      ],
+      [
+        "dreamlike",
+        "strange and unreal, as if from a dream"
+      ]
+    ]
+  },
+  {
+    "title": "When children pick up the camera",
+    "link": "https://www.itsnicethat.com/articles/annebella-pollen-whippersnappers-photography-publication-project-271026",
+    "source": "It's Nice That",
+    "date": "2026-10-27",
+    "added": "2026-10-29T05:52:06Z",
+    "summary": "A new photography book by Annebella Pollen, Whippersnappers, explores what happens when children take photographs themselves.",
+    "terms": [
+      [
+        "whippersnapper",
+        "an informal word for a cheeky young person"
+      ],
+      [
+        "vernacular photography",
+        "everyday pictures taken by ordinary people, not professionals"
       ]
     ]
   },

@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 05:49:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:52:17 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>29 oct. : drame ferroviaire en Espagne, Trappes, UBS</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-10-29.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-29.html</guid>
-<pubDate>Thu, 29 Oct 2026 05:50:07 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 05:53:06 +0000</pubDate>
 <category>Le point du jour</category>
 <description>L'Espagne est en deuil après une collision entre deux trains à grande vitesse, la France prépare un hommage national après l'attentat de Trappes, et UBS publie de solides résultats trimestriels.
 
@@ -41,6 +41,54 @@ SUISSE
 • Airbus vise un accord sur le projet d'avion de combat mené par le Royaume-Uni, le Japon et l'Italie, après l'échec du projet rival. (Euronews: https://fr.euronews.com/2026/10/29/airbus-vise-un-accord-sur-le-chasseur-uk-japon-italie-apres-lechec-du-projet-rival)
 
 Mots clés : un deuil national — une période officielle de tristesse décrétée par l'État après un drame ; une collision — un choc entre deux véhicules en mouvement ; une trêve — un arrêt temporaire des combats ; un hommage national — une cérémonie officielle pour honorer une personne au nom du pays ; abaisser ses prévisions — revoir à la baisse ce que l'on attend pour l'avenir ; les élections de mi-mandat — des élections organisées au milieu du mandat présidentiel américain</description>
+</item>
+<item>
+<title>A campaign spelling out the sewage crisis</title>
+<link>https://www.creativereview.co.uk/campaign-sewage-crisis-amv-bbdo/</link>
+<guid isPermaLink="true">https://www.creativereview.co.uk/campaign-sewage-crisis-amv-bbdo/</guid>
+<pubDate>Thu, 29 Oct 2026 05:52:06 +0000</pubDate>
+<category>Creative Review</category>
+<description>AMV BBDO's campaign uses a typeface inspired by waste to draw attention to sewage spills in UK rivers and seas.
+
+Key terms: sewage — waste water from toilets and drains; awareness campaign — advertising meant to make people notice an issue
+
+Source: Creative Review</description>
+</item>
+<item>
+<title>Design systems should be fast by default</title>
+<link>https://denodell.com/blog/design-systems-should-be-fast-by-default</link>
+<guid isPermaLink="true">https://denodell.com/blog/design-systems-should-be-fast-by-default</guid>
+<pubDate>Thu, 29 Oct 2026 05:52:06 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay picked by Sidebar argues that slow components in a design system make every app built on it slow, so speed must be built in.
+
+Key terms: design system — a shared library of components and rules for building products; by default — automatically, without anyone having to choose it
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Thinking of design as a garden</title>
+<link>https://justinjay.wang/design-as-a-garden/</link>
+<guid isPermaLink="true">https://justinjay.wang/design-as-a-garden/</guid>
+<pubDate>Thu, 29 Oct 2026 05:52:06 +0000</pubDate>
+<category>Sidebar</category>
+<description>A short essay, curated by Sidebar, proposes thinking about creative work as tending a garden.
+
+Key terms: metaphor — describing one thing as if it were another; tend — to look after something carefully over time
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>A working clock built from junk</title>
+<link>https://niklasroy.com/gtc/</link>
+<guid isPermaLink="true">https://niklasroy.com/gtc/</guid>
+<pubDate>Thu, 29 Oct 2026 05:52:06 +0000</pubDate>
+<category>Sidebar</category>
+<description>Niklas Roy's Glashütte Trash Clock is a working clockwork made from rubbish found in the watchmaking town of Glashütte, Germany.
+
+Key terms: clockwork — the gears and springs that make a clock run; found objects — everyday items reused as art materials
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>28 oct. : Otan, loi « casseurs-payeurs », Novartis</title>
@@ -108,6 +156,66 @@ Source: UX Collective</description>
 Key terms: trend forecast — a prediction of where a field is heading; beyond the interface — design work that reaches past screens and UI
 
 Source: UX Collective</description>
+</item>
+<item>
+<title>A museum typeface for Louisiana</title>
+<link>https://www.itsnicethat.com/articles/a2-type-louisiana-museum-of-modern-art-graphic-design-project-281026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/a2-type-louisiana-museum-of-modern-art-graphic-design-project-281026</guid>
+<pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Type foundry A2 Type has made a new typeface for the Louisiana Museum of Modern Art in Denmark.
+
+Key terms: typeface — a family of letters sharing one design; foundry — a studio that designs and sells typefaces
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Dezeen Awards public vote: design winners</title>
+<link>https://www.dezeen.com/2026/10/28/dezeen-awards-public-vote-winner-design-2026</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/10/28/dezeen-awards-public-vote-winner-design-2026</guid>
+<pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Dezeen announces the 16 design projects that won its 2026 awards public vote.
+
+Key terms: public vote — a contest decided by readers rather than a jury; shortlist — the final selection of candidates before winners are chosen
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>Is branding draining football's character?</title>
+<link>https://www.itsnicethat.com/articles/pov-football-is-branding-the-life-out-of-itself-graphic-design-271026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/pov-football-is-branding-the-life-out-of-itself-graphic-design-271026</guid>
+<pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>An opinion piece argues that corporate rebrands are stripping football clubs of the character that made them distinctive.
+
+Key terms: point of view (POV) — an opinion piece giving one writer's personal take; rebrand — a change to a company's name, logo or visual identity
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>A dreamlike identity for Bar Rêve</title>
+<link>https://www.itsnicethat.com/articles/dutchscots-bar-reve-graphic-design-project-271026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/dutchscots-bar-reve-graphic-design-project-271026</guid>
+<pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Studio DutchScot built the visual identity for Bar Rêve around the symbols found in dreams.
+
+Key terms: visual identity — the set of logos, colours and type that make a brand recognisable; dreamlike — strange and unreal, as if from a dream
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>When children pick up the camera</title>
+<link>https://www.itsnicethat.com/articles/annebella-pollen-whippersnappers-photography-publication-project-271026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/annebella-pollen-whippersnappers-photography-publication-project-271026</guid>
+<pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A new photography book by Annebella Pollen, Whippersnappers, explores what happens when children take photographs themselves.
+
+Key terms: whippersnapper — an informal word for a cheeky young person; vernacular photography — everyday pictures taken by ordinary people, not professionals
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>Es Devlin on her Design Museum retrospective</title>
