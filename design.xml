@@ -6,7 +6,7 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 08:14:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:19:19 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>30 oct. : Lagarde quitte la BCE, Dnipro, Binance</title>
@@ -46,7 +46,7 @@ Mots clés : un mandat — la durée pendant laquelle une personne exerce une fo
 <title>29 oct. : drame ferroviaire en Espagne, Trappes, UBS</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-10-29.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-29.html</guid>
-<pubDate>Thu, 29 Oct 2026 05:53:06 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>L'Espagne est en deuil après une collision entre deux trains à grande vitesse, la France prépare un hommage national après l'attentat de Trappes, et UBS publie de solides résultats trimestriels.
 
@@ -75,6 +75,78 @@ SUISSE
 • Airbus vise un accord sur le projet d'avion de combat mené par le Royaume-Uni, le Japon et l'Italie, après l'échec du projet rival. (Euronews: https://fr.euronews.com/2026/10/29/airbus-vise-un-accord-sur-le-chasseur-uk-japon-italie-apres-lechec-du-projet-rival)
 
 Mots clés : un deuil national — une période officielle de tristesse décrétée par l'État après un drame ; une collision — un choc entre deux véhicules en mouvement ; une trêve — un arrêt temporaire des combats ; un hommage national — une cérémonie officielle pour honorer une personne au nom du pays ; abaisser ses prévisions — revoir à la baisse ce que l'on attend pour l'avenir ; les élections de mi-mandat — des élections organisées au milieu du mandat présidentiel américain</description>
+</item>
+<item>
+<title>Perfume packaging styled like handwritten letters</title>
+<link>https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Studio Lotta Nieminen designed the identity and packaging for Aplomb, a Scandinavian luxury perfume brand. It borrows from letter writing, with illustrated stamps for each scent and caps shaped like melted sealing wax.
+
+Key terms: packaging — the box, bottle and wrapping that hold and present a product; motif — a repeated image or idea used throughout a design
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>A band identity grown from mould</title>
+<link>https://www.itsnicethat.com/articles/robocobra-quartet-hundred-pieces-art-project-291026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/robocobra-quartet-hundred-pieces-art-project-291026</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Robocobra Quartet's 100-track album gives every track its own artwork: a petri dish of mould left to grow. The process mirrors how the band lets unfinished ideas develop into songs.
+
+Key terms: petri dish — a shallow glass or plastic dish used to grow cultures in a lab; improvisation — creating something on the spot, without a plan
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Copenhagen bookshop doubles as gallery and venue</title>
+<link>https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Simone is a bookstore in Copenhagen whose space can also work as a gallery, an event venue or a listening room.
+
+Key terms: multipurpose — able to be used for several different things; listening room — a space designed for focused listening to music
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>The software factory forgot about design</title>
+<link>https://atifaz.am/writing/the-software-factory-forgot-about-design</link>
+<guid isPermaLink="true">https://atifaz.am/writing/the-software-factory-forgot-about-design</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay arguing that factory-style software production has left design behind, as its headline suggests.
+
+Key terms: software factory — an approach that treats building software like an assembly line; throughput — the amount of work completed in a given time
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Giving people an undo button in AI products</title>
+<link>https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products</link>
+<guid isPermaLink="true">https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>A piece on why AI products should let people undo what the AI has done.
+
+Key terms: undo — to reverse the last action; reversible — able to be changed back to how it was
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Microsoft's Copilot identity aims at work</title>
+<link>https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work</link>
+<guid isPermaLink="true">https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>A look at Microsoft's visual identity for Copilot, which positions the assistant as a tool for work.
+
+Key terms: visual identity — the logo, colours and type that make a brand recognisable; positioning — how a brand wants people to see it compared with others
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>A campaign spelling out the sewage crisis</title>
@@ -190,6 +262,18 @@ Source: UX Collective</description>
 Key terms: trend forecast — a prediction of where a field is heading; beyond the interface — design work that reaches past screens and UI
 
 Source: UX Collective</description>
+</item>
+<item>
+<title>Norman Foster designs his first watch</title>
+<link>https://www.dezeen.com/2026/10/28/norman-foster-first-watch-lebond/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/10/28/norman-foster-first-watch-lebond/</guid>
+<pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Architect Norman Foster has designed his first-ever watch, created in collaboration with the brand Lebond.
+
+Key terms: collaboration — work done jointly by two or more people or companies; timepiece — a formal word for a watch or clock
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>A museum typeface for Louisiana</title>
