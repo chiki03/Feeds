@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 05:49:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 06:02:18 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>31 oct. : manifestations, PIB en recul, Parmelin à Pékin</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-10-31.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-31.html</guid>
-<pubDate>Sat, 31 Oct 2026 05:50:11 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 06:03:05 +0000</pubDate>
 <category>Le point du jour</category>
 <description>La France se prépare à un week-end de manifestations sous haute tension alors que son PIB recule au troisième trimestre, tandis que la Suisse signe à Pékin un accord de libre-échange modernisé avec la Chine.
 
@@ -41,6 +41,30 @@ SUISSE
 • TotalEnergies annonce une baisse du prix du gazole dans certaines de ses stations dès samedi. (France 24: https://www.france24.com/fr/info-en-continu/20261030-totalenergies-annonce-baisser-le-prix-du-gazole-dans-certaines-stations-d%C3%A8s-samedi)
 
 Mots clés : être à l'arrêt — ne plus avancer, être bloqué ; un recours — une démarche pour contester une décision devant une autorité ou un tribunal ; avec sursis — se dit d'une peine qui ne sera pas exécutée si la personne ne récidive pas ; un accord de libre-échange — un traité qui réduit ou supprime les droits de douane entre pays ; sous haute tension — dans un climat de forte inquiétude, où un conflit peut éclater ; renouer le dialogue — reprendre des discussions interrompues</description>
+</item>
+<item>
+<title>The New York Times turns 175</title>
+<link>https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign</link>
+<guid isPermaLink="true">https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign</guid>
+<pubDate>Sat, 31 Oct 2026 06:02:05 +0000</pubDate>
+<category>Sidebar</category>
+<description>A link shared on Sidebar about how The New York Times is marking its 175th anniversary with an identity, events and a campaign.
+
+Key terms: anniversary — the date marking a number of years since an event; campaign — a planned series of ads or activities with one goal
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Website migration costs are going to zero</title>
+<link>https://dri.es/website-migration-costs-are-going-to-zero</link>
+<guid isPermaLink="true">https://dri.es/website-migration-costs-are-going-to-zero</guid>
+<pubDate>Sat, 31 Oct 2026 06:02:05 +0000</pubDate>
+<category>Sidebar</category>
+<description>A blog post shared on Sidebar arguing that the cost of moving a website to a new platform is approaching zero.
+
+Key terms: migration — moving a website or data from one system to another; platform — the underlying software a product is built on
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>30 oct. : Lagarde quitte la BCE, Dnipro, Binance</title>
@@ -77,6 +101,54 @@ SUISSE
 Mots clés : un mandat — la durée pendant laquelle une personne exerce une fonction pour laquelle elle a été choisie ; un témoin assisté — dans une enquête judiciaire, une personne entendue avec un avocat, entre le simple témoin et le mis en examen ; geler des fonds — bloquer de l'argent pour qu'il ne puisse plus être déplacé ni utilisé ; revaloriser — augmenter le montant d'un salaire, d'une pension ou d'une allocation ; une cyberattaque — une attaque informatique visant un système ou un réseau ; la réduction des primes — l'aide publique qui diminue le coût de l'assurance maladie pour les revenus modestes</description>
 </item>
 <item>
+<title>Dropping 'user' from user experience</title>
+<link>https://www.nngroup.com/articles/ux-vs-experience-design/</link>
+<guid isPermaLink="true">https://www.nngroup.com/articles/ux-vs-experience-design/</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<category>Nielsen Norman Group</category>
+<description>An NN/g article about experience design, and the case for dropping the word "user" from "user experience".
+
+Key terms: experience design — designing the whole set of interactions a person has with a product or service; terminology — the specific words a field uses for its ideas
+
+Source: Nielsen Norman Group</description>
+</item>
+<item>
+<title>UX in agentic software factories</title>
+<link>https://www.nngroup.com/articles/ux-agentic-software-factories/</link>
+<guid isPermaLink="true">https://www.nngroup.com/articles/ux-agentic-software-factories/</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<category>Nielsen Norman Group</category>
+<description>An NN/g article on what role UX plays when software is increasingly built by automated AI agents, sometimes called agentic software factories.
+
+Key terms: agentic — describing AI that takes actions on its own toward a goal; software factory — a highly automated pipeline for producing software
+
+Source: Nielsen Norman Group</description>
+</item>
+<item>
+<title>Arielle Bobb Willis on image making</title>
+<link>https://www.itsnicethat.com/articles/arielle-bobb-willis-nicer-tuesdays-la-3011026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/arielle-bobb-willis-nicer-tuesdays-la-3011026</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Photographer Arielle Bobb Willis talks about the power of making images, in a piece from It's Nice That's Nicer Tuesdays LA talks. She says photography lets her remain open to life.
+
+Key terms: image making — the practice of creating pictures, by photography or other means; talk series — a regular run of public lectures or presentations
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Terracotta counter for Aesop at Harrods</title>
+<link>https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Al-Jawad Pike has refreshed the Aesop store at Harrods, adding a terracotta-tiled counter that evokes ancient Persia.
+
+Key terms: terracotta — brownish-red fired clay used for tiles and pots; evoke — to bring a feeling or image to mind
+
+Source: Dezeen</description>
+</item>
+<item>
 <title>29 oct. : drame ferroviaire en Espagne, Trappes, UBS</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-10-29.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-29.html</guid>
@@ -109,6 +181,18 @@ SUISSE
 • Airbus vise un accord sur le projet d'avion de combat mené par le Royaume-Uni, le Japon et l'Italie, après l'échec du projet rival. (Euronews: https://fr.euronews.com/2026/10/29/airbus-vise-un-accord-sur-le-chasseur-uk-japon-italie-apres-lechec-du-projet-rival)
 
 Mots clés : un deuil national — une période officielle de tristesse décrétée par l'État après un drame ; une collision — un choc entre deux véhicules en mouvement ; une trêve — un arrêt temporaire des combats ; un hommage national — une cérémonie officielle pour honorer une personne au nom du pays ; abaisser ses prévisions — revoir à la baisse ce que l'on attend pour l'avenir ; les élections de mi-mandat — des élections organisées au milieu du mandat présidentiel américain</description>
+</item>
+<item>
+<title>Henry Holland's ceramics-inspired wallpaper range</title>
+<link>https://www.dezeen.com/2026/10/29/henry-holland-wallpaper-fabric-collection-ceramics/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/10/29/henry-holland-wallpaper-fabric-collection-ceramics/</guid>
+<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Henry Holland has created a collection of wallpaper and fabric that uses a visual language developed through his ceramics work.
+
+Key terms: collection — a set of products designed and released together; ceramics — objects made from clay and hardened by heat
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>Perfume packaging styled like handwritten letters</title>
@@ -298,6 +382,30 @@ Key terms: trend forecast — a prediction of where a field is heading; beyond t
 Source: UX Collective</description>
 </item>
 <item>
+<title>How Apple Music's identity visualised sound</title>
+<link>https://www.itsnicethat.com/features/apple-music-rebrand-graphic-design-spotlight-281026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/features/apple-music-rebrand-graphic-design-spotlight-281026</guid>
+<pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A feature on how TBWA\Media Arts Lab tried to make sound visible for the Apple Music rebrand. It covers the long period of experimentation and the decision to show the process.
+
+Key terms: rebrand — a redesign of a company's name, logo or overall visual identity; experimentation — trying many approaches to see what works
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Estudio Cru's design that asks questions</title>
+<link>https://www.itsnicethat.com/articles/estudio-cru-graphic-design-discover-281026</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/estudio-cru-graphic-design-discover-281026</guid>
+<pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>It's Nice That profiles the graphic design studio Estudio Cru, whose responsive work aims to raise questions rather than provide answers.
+
+Key terms: responsive design — design that adapts to its context or audience; studio — a small creative business or workshop
+
+Source: It's Nice That</description>
+</item>
+<item>
 <title>Norman Foster designs his first watch</title>
 <link>https://www.dezeen.com/2026/10/28/norman-foster-first-watch-lebond/</link>
 <guid isPermaLink="true">https://www.dezeen.com/2026/10/28/norman-foster-first-watch-lebond/</guid>
@@ -404,6 +512,18 @@ Source: Dezeen</description>
 Key terms: cluster — a group of buildings placed close together; blend into — to merge with the surroundings so it is hard to notice
 
 Source: Dezeen</description>
+</item>
+<item>
+<title>Why your team tells the wrong story</title>
+<link>https://newsletter.uxdesign.cc/p/why-your-team-is-telling-the-wrong</link>
+<guid isPermaLink="true">https://newsletter.uxdesign.cc/p/why-your-team-is-telling-the-wrong</guid>
+<pubDate>Mon, 26 Oct 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay from the UX Collective newsletter arguing that designers skip steps to ship faster. It says the more important contest is winning stakeholder alignment.
+
+Key terms: stakeholder — someone with an interest in or influence over a project; alignment — agreement among people on goals and direction
+
+Source: UX Collective</description>
 </item>
 <item>
 <title>Apple Music's logo, shaped by sound</title>

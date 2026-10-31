@@ -1,5 +1,131 @@
 [
   {
+    "title": "The New York Times turns 175",
+    "link": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "A link shared on Sidebar about how The New York Times is marking its 175th anniversary with an identity, events and a campaign.",
+    "terms": [
+      [
+        "anniversary",
+        "the date marking a number of years since an event"
+      ],
+      [
+        "campaign",
+        "a planned series of ads or activities with one goal"
+      ]
+    ]
+  },
+  {
+    "title": "Website migration costs are going to zero",
+    "link": "https://dri.es/website-migration-costs-are-going-to-zero",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "A blog post shared on Sidebar arguing that the cost of moving a website to a new platform is approaching zero.",
+    "terms": [
+      [
+        "migration",
+        "moving a website or data from one system to another"
+      ],
+      [
+        "platform",
+        "the underlying software a product is built on"
+      ]
+    ]
+  },
+  {
+    "title": "Dropping 'user' from user experience",
+    "link": "https://www.nngroup.com/articles/ux-vs-experience-design/",
+    "source": "Nielsen Norman Group",
+    "date": "2026-10-30",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "An NN/g article about experience design, and the case for dropping the word \"user\" from \"user experience\".",
+    "terms": [
+      [
+        "experience design",
+        "designing the whole set of interactions a person has with a product or service"
+      ],
+      [
+        "terminology",
+        "the specific words a field uses for its ideas"
+      ]
+    ]
+  },
+  {
+    "title": "UX in agentic software factories",
+    "link": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
+    "source": "Nielsen Norman Group",
+    "date": "2026-10-30",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "An NN/g article on what role UX plays when software is increasingly built by automated AI agents, sometimes called agentic software factories.",
+    "terms": [
+      [
+        "agentic",
+        "describing AI that takes actions on its own toward a goal"
+      ],
+      [
+        "software factory",
+        "a highly automated pipeline for producing software"
+      ]
+    ]
+  },
+  {
+    "title": "Arielle Bobb Willis on image making",
+    "link": "https://www.itsnicethat.com/articles/arielle-bobb-willis-nicer-tuesdays-la-3011026",
+    "source": "It's Nice That",
+    "date": "2026-10-30",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "Photographer Arielle Bobb Willis talks about the power of making images, in a piece from It's Nice That's Nicer Tuesdays LA talks. She says photography lets her remain open to life.",
+    "terms": [
+      [
+        "image making",
+        "the practice of creating pictures, by photography or other means"
+      ],
+      [
+        "talk series",
+        "a regular run of public lectures or presentations"
+      ]
+    ]
+  },
+  {
+    "title": "Terracotta counter for Aesop at Harrods",
+    "link": "https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/",
+    "source": "Dezeen",
+    "date": "2026-10-30",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "Al-Jawad Pike has refreshed the Aesop store at Harrods, adding a terracotta-tiled counter that evokes ancient Persia.",
+    "terms": [
+      [
+        "terracotta",
+        "brownish-red fired clay used for tiles and pots"
+      ],
+      [
+        "evoke",
+        "to bring a feeling or image to mind"
+      ]
+    ]
+  },
+  {
+    "title": "Henry Holland's ceramics-inspired wallpaper range",
+    "link": "https://www.dezeen.com/2026/10/29/henry-holland-wallpaper-fabric-collection-ceramics/",
+    "source": "Dezeen",
+    "date": "2026-10-29",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "Henry Holland has created a collection of wallpaper and fabric that uses a visual language developed through his ceramics work.",
+    "terms": [
+      [
+        "collection",
+        "a set of products designed and released together"
+      ],
+      [
+        "ceramics",
+        "objects made from clay and hardened by heat"
+      ]
+    ]
+  },
+  {
     "title": "Perfume packaging styled like handwritten letters",
     "link": "https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026",
     "source": "It's Nice That",
@@ -234,6 +360,42 @@
     ]
   },
   {
+    "title": "How Apple Music's identity visualised sound",
+    "link": "https://www.itsnicethat.com/features/apple-music-rebrand-graphic-design-spotlight-281026",
+    "source": "It's Nice That",
+    "date": "2026-10-28",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "A feature on how TBWA\\Media Arts Lab tried to make sound visible for the Apple Music rebrand. It covers the long period of experimentation and the decision to show the process.",
+    "terms": [
+      [
+        "rebrand",
+        "a redesign of a company's name, logo or overall visual identity"
+      ],
+      [
+        "experimentation",
+        "trying many approaches to see what works"
+      ]
+    ]
+  },
+  {
+    "title": "Estudio Cru's design that asks questions",
+    "link": "https://www.itsnicethat.com/articles/estudio-cru-graphic-design-discover-281026",
+    "source": "It's Nice That",
+    "date": "2026-10-28",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "It's Nice That profiles the graphic design studio Estudio Cru, whose responsive work aims to raise questions rather than provide answers.",
+    "terms": [
+      [
+        "responsive design",
+        "design that adapts to its context or audience"
+      ],
+      [
+        "studio",
+        "a small creative business or workshop"
+      ]
+    ]
+  },
+  {
     "title": "Norman Foster designs his first watch",
     "link": "https://www.dezeen.com/2026/10/28/norman-foster-first-watch-lebond/",
     "source": "Dezeen",
@@ -392,6 +554,24 @@
       [
         "blend into",
         "to merge with the surroundings so it is hard to notice"
+      ]
+    ]
+  },
+  {
+    "title": "Why your team tells the wrong story",
+    "link": "https://newsletter.uxdesign.cc/p/why-your-team-is-telling-the-wrong",
+    "source": "UX Collective",
+    "date": "2026-10-26",
+    "added": "2026-10-31T06:02:05Z",
+    "summary": "An essay from the UX Collective newsletter arguing that designers skip steps to ship faster. It says the more important contest is winning stakeholder alignment.",
+    "terms": [
+      [
+        "stakeholder",
+        "someone with an interest in or influence over a project"
+      ],
+      [
+        "alignment",
+        "agreement among people on goals and direction"
       ]
     ]
   },
