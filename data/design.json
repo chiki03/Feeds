@@ -1,5 +1,59 @@
 [
   {
+    "title": "Hellmann's campaign to save mayo",
+    "link": "https://www.creativereview.co.uk/hellmans-campaign-sos-adopt-sandwich/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-01T05:52:21Z",
+    "summary": "A Hellmann's campaign that tackles the risk of mayonnaise disappearing as a sandwich condiment.",
+    "terms": [
+      [
+        "condiment",
+        "a sauce or seasoning added to food, like mustard or mayo"
+      ],
+      [
+        "safeguard",
+        "to protect something from harm or loss"
+      ]
+    ]
+  },
+  {
+    "title": "Struggle together",
+    "link": "https://ryo.lu/journal/struggle-together",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-01T05:52:21Z",
+    "summary": "A journal post shared on Sidebar titled \"Struggle together\".",
+    "terms": [
+      [
+        "struggle",
+        "to work hard against difficulty"
+      ],
+      [
+        "journal",
+        "a personal written record or blog of thoughts"
+      ]
+    ]
+  },
+  {
+    "title": "Shipping the roadmap is the minimum",
+    "link": "https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-01T05:52:21Z",
+    "summary": "A link shared on Sidebar arguing that delivering what is on the product roadmap is only the baseline expectation.",
+    "terms": [
+      [
+        "roadmap",
+        "a plan showing what a team intends to build and when"
+      ],
+      [
+        "baseline",
+        "the minimum standard used for comparison"
+      ]
+    ]
+  },
+  {
     "title": "The New York Times turns 175",
     "link": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign",
     "source": "Sidebar",
@@ -32,6 +86,60 @@
       [
         "platform",
         "the underlying software a product is built on"
+      ]
+    ]
+  },
+  {
+    "title": "Let AI users set AI strategy",
+    "link": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94",
+    "source": "UX Collective",
+    "date": "2026-10-30",
+    "added": "2026-11-01T05:52:21Z",
+    "summary": "An essay arguing that the people who actually use AI tools should decide how they are adopted, while operations teams look after security, contracts and maintenance.",
+    "terms": [
+      [
+        "adoption",
+        "the process of starting to use a new tool or practice"
+      ],
+      [
+        "stakeholder",
+        "a person with an interest in a decision or its outcome"
+      ]
+    ]
+  },
+  {
+    "title": "Tokyo-style listening bar in Rotterdam",
+    "link": "https://www.dezeen.com/2026/10/30/echo-rotterdam-listening-bar/",
+    "source": "Dezeen",
+    "date": "2026-10-30",
+    "added": "2026-11-01T05:52:21Z",
+    "summary": "Echo is a listening bar in Rotterdam with a Japanese-inspired interior, set inside the brutalist Groot Handelsgebouw building.",
+    "terms": [
+      [
+        "listening bar",
+        "a bar built around playing recorded music on a high-quality sound system"
+      ],
+      [
+        "brutalist",
+        "an architectural style of raw, massive concrete forms"
+      ]
+    ]
+  },
+  {
+    "title": "Dubai Design Week's twelfth edition",
+    "link": "https://www.dezeen.com/2026/10/30/dubai-design-week-downtown-design-12-edition/",
+    "source": "Dezeen",
+    "date": "2026-10-30",
+    "added": "2026-11-01T05:52:21Z",
+    "summary": "Coverage of the 12th Dubai Design Week, which showcases bold design from the Middle East.",
+    "terms": [
+      [
+        "edition",
+        "one instance of a recurring event"
+      ],
+      [
+        "showcase",
+        "an event that displays work to the public"
       ]
     ]
   },
@@ -104,6 +212,24 @@
       [
         "evoke",
         "to bring a feeling or image to mind"
+      ]
+    ]
+  },
+  {
+    "title": "The New Company on novel brand ideas",
+    "link": "https://www.itsnicethat.com/articles/the-new-company-nicer-tuesdays-la-291026",
+    "source": "It's Nice That",
+    "date": "2026-10-29",
+    "added": "2026-11-01T05:52:21Z",
+    "summary": "From a Nicer Tuesdays talk in Los Angeles, the studio The New Company explains why fresh ideas keep brands relevant and why creatives should leave their comfort zone.",
+    "terms": [
+      [
+        "comfort zone",
+        "a familiar situation where you feel safe and unchallenged"
+      ],
+      [
+        "relevance",
+        "how much something matters to people right now"
       ]
     ]
   },
@@ -356,6 +482,24 @@
       [
         "beyond the interface",
         "design work that reaches past screens and UI"
+      ]
+    ]
+  },
+  {
+    "title": "UX lessons for deep AI research tools",
+    "link": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e",
+    "source": "UX Collective",
+    "date": "2026-10-28",
+    "added": "2026-11-01T05:52:21Z",
+    "summary": "A look at how several AI research products design the interface when an answer takes a long time to produce.",
+    "terms": [
+      [
+        "latency",
+        "the delay between a request and its response"
+      ],
+      [
+        "progress indicator",
+        "a visual cue showing that a task is still running"
       ]
     ]
   },
