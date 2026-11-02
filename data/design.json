@@ -1,5 +1,95 @@
 [
   {
+    "title": "When accessible colors make bad palettes",
+    "link": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d",
+    "source": "UX Collective",
+    "date": "2026-11-01",
+    "added": "2026-11-02T05:59:01Z",
+    "summary": "An essay on accessibility problems that appear when generative AI builds diverging color palettes for data visualization, even if each color passes on its own.",
+    "terms": [
+      [
+        "diverging palette",
+        "a set of colors running from one hue to another through a neutral middle"
+      ],
+      [
+        "contrast ratio",
+        "a measure of how different two colors look in brightness"
+      ]
+    ]
+  },
+  {
+    "title": "Designing clear AI cost controls",
+    "link": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104",
+    "source": "UX Collective",
+    "date": "2026-11-01",
+    "added": "2026-11-02T05:59:01Z",
+    "summary": "A practical guide to choosing usage units, setting spending limits and explaining AI costs to users before, during and after a task.",
+    "terms": [
+      [
+        "spending cap",
+        "a fixed limit on how much can be spent"
+      ],
+      [
+        "transparent",
+        "open and easy to understand, with nothing hidden"
+      ]
+    ]
+  },
+  {
+    "title": "Design systems are about reasoning",
+    "link": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038",
+    "source": "UX Collective",
+    "date": "2026-11-01",
+    "added": "2026-11-02T05:59:01Z",
+    "summary": "Argues that a design system should record the reasoning behind design decisions, not just a library of components.",
+    "terms": [
+      [
+        "rationale",
+        "the reasons behind a decision"
+      ],
+      [
+        "component",
+        "a reusable building block of an interface"
+      ]
+    ]
+  },
+  {
+    "title": "Marine rope turned into rocking stools",
+    "link": "https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw/",
+    "source": "Dezeen",
+    "date": "2026-11-01",
+    "added": "2026-11-02T05:59:01Z",
+    "summary": "Discarded marine rope has been recycled into stools that rock gently, like buoys floating on water.",
+    "terms": [
+      [
+        "buoy",
+        "a floating marker anchored in water"
+      ],
+      [
+        "upcycle",
+        "to turn waste material into something of higher value"
+      ]
+    ]
+  },
+  {
+    "title": "Dezeen's October furniture favourites",
+    "link": "https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/",
+    "source": "Dezeen",
+    "date": "2026-11-01",
+    "added": "2026-11-02T05:59:01Z",
+    "summary": "A roundup of the furniture and homeware pieces Dezeen liked most during October.",
+    "terms": [
+      [
+        "homeware",
+        "objects used to furnish and decorate a home"
+      ],
+      [
+        "roundup",
+        "a summary collecting several related items"
+      ]
+    ]
+  },
+  {
     "title": "Hellmann's campaign to save mayo",
     "link": "https://www.creativereview.co.uk/hellmans-campaign-sos-adopt-sandwich/",
     "source": "Creative Review",
@@ -86,6 +176,42 @@
       [
         "platform",
         "the underlying software a product is built on"
+      ]
+    ]
+  },
+  {
+    "title": "Mexico City bar lined with books",
+    "link": "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/",
+    "source": "Dezeen",
+    "date": "2026-10-31",
+    "added": "2026-11-02T05:59:01Z",
+    "summary": "Studio Em-Estudio has designed a bar in Mexico City whose walls are lined with books.",
+    "terms": [
+      [
+        "fit-out",
+        "the work of furnishing and finishing an interior"
+      ],
+      [
+        "shelving",
+        "a set of shelves for storing things"
+      ]
+    ]
+  },
+  {
+    "title": "Apple's first touchscreen MacBook",
+    "link": "https://www.dezeen.com/2026/10/30/macbook-pro-touchscreen-apple/",
+    "source": "Dezeen",
+    "date": "2026-10-30",
+    "added": "2026-11-02T05:59:01Z",
+    "summary": "Apple has introduced its first MacBook with a touchscreen, which the headline calls a monumental step forward.",
+    "terms": [
+      [
+        "touchscreen",
+        "a display you control by touching it"
+      ],
+      [
+        "form factor",
+        "the physical size, shape and layout of a device"
       ]
     ]
   },

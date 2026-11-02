@@ -6,7 +6,7 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 05:48:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 05:59:21 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>2 nov. : Bulgarie, blocage des lycées, Suisse-Chine</title>
@@ -46,7 +46,7 @@ Mots clés : un second tour — le deuxième vote d'une élection, entre les can
 <title>1er nov. : Acte III, scandale Ruag, taxe sur les colis</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-01.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-01.html</guid>
-<pubDate>Sun, 01 Nov 2026 05:53:21 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>La France a connu un troisième samedi de manifestations contre la vie chère, la Suisse découvre l'ampleur du scandale Ruag, et la nouvelle taxe européenne sur les petits colis entre en vigueur.
 
@@ -72,6 +72,66 @@ SUISSE
 • Les colis envoyés de Suisse vers l'UE sont eux aussi frappés par cette nouvelle taxe. (RTS: https://www.rts.ch/info/economie/2026/article/les-colis-suisses-vers-l-ue-frappes-par-une-nouvelle-taxe-29400496.html)
 
 Mots clés : un cortège — un groupe de personnes qui défilent ensemble, par exemple lors d'une manifestation ; des heurts — des affrontements, souvent brefs, entre manifestants et forces de l'ordre ; des suites pénales — des poursuites devant la justice pénale après une affaire ; présenter des excuses officielles — reconnaître publiquement une faute au nom d'un État ou d'une institution ; des réparations — une compensation, souvent financière, accordée pour un tort subi ; entrer en vigueur — commencer à s'appliquer, pour une loi ou une règle</description>
+</item>
+<item>
+<title>When accessible colors make bad palettes</title>
+<link>https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d</link>
+<guid isPermaLink="true">https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d</guid>
+<pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay on accessibility problems that appear when generative AI builds diverging color palettes for data visualization, even if each color passes on its own.
+
+Key terms: diverging palette — a set of colors running from one hue to another through a neutral middle; contrast ratio — a measure of how different two colors look in brightness
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Designing clear AI cost controls</title>
+<link>https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104</link>
+<guid isPermaLink="true">https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104</guid>
+<pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>A practical guide to choosing usage units, setting spending limits and explaining AI costs to users before, during and after a task.
+
+Key terms: spending cap — a fixed limit on how much can be spent; transparent — open and easy to understand, with nothing hidden
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Design systems are about reasoning</title>
+<link>https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038</link>
+<guid isPermaLink="true">https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038</guid>
+<pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>Argues that a design system should record the reasoning behind design decisions, not just a library of components.
+
+Key terms: rationale — the reasons behind a decision; component — a reusable building block of an interface
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Marine rope turned into rocking stools</title>
+<link>https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw/</guid>
+<pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Discarded marine rope has been recycled into stools that rock gently, like buoys floating on water.
+
+Key terms: buoy — a floating marker anchored in water; upcycle — to turn waste material into something of higher value
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>Dezeen's October furniture favourites</title>
+<link>https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/</guid>
+<pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>A roundup of the furniture and homeware pieces Dezeen liked most during October.
+
+Key terms: homeware — objects used to furnish and decorate a home; roundup — a summary collecting several related items
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>Hellmann's campaign to save mayo</title>
@@ -168,6 +228,18 @@ Key terms: migration — moving a website or data from one system to another; pl
 Source: Sidebar</description>
 </item>
 <item>
+<title>Mexico City bar lined with books</title>
+<link>https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/</guid>
+<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Studio Em-Estudio has designed a bar in Mexico City whose walls are lined with books.
+
+Key terms: fit-out — the work of furnishing and finishing an interior; shelving — a set of shelves for storing things
+
+Source: Dezeen</description>
+</item>
+<item>
 <title>30 oct. : Lagarde quitte la BCE, Dnipro, Binance</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-10-30.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-30.html</guid>
@@ -200,6 +272,18 @@ SUISSE
 • En Suisse, Glencore a augmenté de 3 % sa production de cuivre sur neuf mois, Implenia a décroché un contrat de 165 millions de francs pour construire l'hôpital de Schaffhouse, et Oerlikon se dit en bonne voie après un bon troisième trimestre. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
 
 Mots clés : un mandat — la durée pendant laquelle une personne exerce une fonction pour laquelle elle a été choisie ; un témoin assisté — dans une enquête judiciaire, une personne entendue avec un avocat, entre le simple témoin et le mis en examen ; geler des fonds — bloquer de l'argent pour qu'il ne puisse plus être déplacé ni utilisé ; revaloriser — augmenter le montant d'un salaire, d'une pension ou d'une allocation ; une cyberattaque — une attaque informatique visant un système ou un réseau ; la réduction des primes — l'aide publique qui diminue le coût de l'assurance maladie pour les revenus modestes</description>
+</item>
+<item>
+<title>Apple's first touchscreen MacBook</title>
+<link>https://www.dezeen.com/2026/10/30/macbook-pro-touchscreen-apple/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/10/30/macbook-pro-touchscreen-apple/</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Apple has introduced its first MacBook with a touchscreen, which the headline calls a monumental step forward.
+
+Key terms: touchscreen — a display you control by touching it; form factor — the physical size, shape and layout of a device
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>Let AI users set AI strategy</title>
