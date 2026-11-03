@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-03",
+    "added": "2026-11-03T05:50:00Z",
+    "title": "3 nov. : Ukraine, Dubaï Papers, émeutes en Suisse",
+    "lede": "En Ukraine, des frappes russes font 26 morts après la fin de la trêve, le procès des « Dubaï Papers » s'ouvre à Paris, et la Suisse condamne les émeutes du week-end à Zurich et Bâle.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Ukraine : des frappes russes menées pendant une distribution d'aide humanitaire dans un village du Sud-Est ont fait 26 morts, peu après la fin de la plus longue trêve du conflit.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261102-en-ukraine-des-frappes-russes-pendant-une-distribution-d-aide-humanitaire-font-26-morts"
+          },
+          {
+            "text": "Une nouvelle vague de cyberattaques vise les réfrigérateurs de chaînes de supermarchés en Belgique, au Luxembourg et en Suède.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261102-europe-des-chaines-de-supermarches-victimes-incidents-informatiques-sur-refrigerateurs"
+          },
+          {
+            "text": "La force multinationale européenne de soutien à l'Ukraine doit tenir son premier exercice en Pologne.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland"
+          },
+          {
+            "text": "Coût de la vie, logement et précarité de l'emploi alimentent la colère de la jeunesse en Europe, selon France 24.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261103-living-costs-housing-job-uncertainty-fuel-european-youth-anger"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Le procès des « Dubaï Papers », une vaste affaire présumée de fraude fiscale internationale, s'est ouvert lundi à Paris.",
+            "source": "France 24",
+            "link": "https://france24.com/fr/france/20261102-duba%C3%AF-papers-proc%C3%A8s-pour-fraude-fiscale-internationale-ouvre-paris"
+          },
+          {
+            "text": "Après les vacances de la Toussaint, la mobilisation des lycéens reprend, mais à plus petite échelle ; quelques établissements sont bloqués.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/video/20261102-french-school-protests-resume-on-smaller-scale-after-autumn-break"
+          },
+          {
+            "text": "Après les jeunes, c'est au tour du monde du travail de descendre dans la rue : une nouvelle journée de mobilisation est prévue le 5 novembre.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261102-mobilisation-du-5-novembre-en-france-au-tour-du-monde-du-travail-de-descendre-dans-la-rue"
+          },
+          {
+            "text": "Une pétition demandant l'interdiction d'une chaîne de télévision de droite a dépassé 600 000 signatures après un meurtre raciste.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/france/20261102-petition-to-ban-french-right-wing-tv-channel-clears-500-000-signatures-after-racist-killing"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Samedi soir, des émeutes ont éclaté dans plusieurs villes après des appels à manifester de l'extrême gauche ; à Zurich, une voiture a été incendiée. La conseillère fédérale Elisabeth Baume-Schneider a condamné une « violence insensée », tout en rappelant que le droit de manifester est fondamental.",
+            "source": "Swissinfo (EN)",
+            "link": "https://www.swissinfo.ch/eng/swiss-abroad-community/switzerland-today/92314704"
+          },
+          {
+            "text": "Crans-Montana : dix mois après l'incendie du Constellation (41 morts), un professeur de droit estime les demandes de dommages entre 780 millions et 1 milliard de francs ; le président de la commune prévoit de provisionner 5 millions par an. Le propriétaire du bar a de nouveau été entendu par la justice.",
+            "source": "Swissinfo (EN)",
+            "link": "https://www.swissinfo.ch/eng/swiss-abroad-community/switzerland-today/92314704"
+          },
+          {
+            "text": "Dans l'Oberland bernois, tout le conseil communal de Brienzwiler (environ 530 habitants) a démissionné avec effet immédiat ; le canton reprend l'administration en attendant une élection le 9 décembre.",
+            "source": "Swissinfo (EN)",
+            "link": "https://www.swissinfo.ch/eng/swiss-abroad-community/switzerland-today/92314704"
+          },
+          {
+            "text": "Depuis le 2 novembre, la carte d'identité suisse est délivrée dans un nouveau modèle biométrique.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/carte-d-identite-suisse-modele-biometrique-des-le-2-novembre-29390485.html"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Les Bourses européennes ont terminé lundi dans le vert.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261102-les-bourses-europ%C3%A9ennes-terminent-dans-le-vert"
+          },
+          {
+            "text": "Mardi, les marchés reculent pour la plupart : les inquiétudes liées à l'intelligence artificielle l'emportent sur la chute des prix du pétrole.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261103-stocks-mostly-down-as-ai-concerns-top-plunge-in-oil-prices"
+          },
+          {
+            "text": "Le grand magasin parisien BHV Marais obtient la protection de la justice face à la faillite.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261102-storied-paris-department-store-receives-bankruptcy-protection"
+          },
+          {
+            "text": "Négociations commerciales annuelles : la réunion préparatoire de lundi à Bercy a été boycottée par les distributeurs.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261102-n%C3%A9gociations-commerciales-r%C3%A9union-pr%C3%A9paratoire-lundi-%C3%A0-bercy-boycott%C3%A9e-par-les-distributeurs"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "une trêve",
+        "un arrêt temporaire des combats"
+      ],
+      [
+        "la fraude fiscale",
+        "le fait d'échapper illégalement à l'impôt"
+      ],
+      [
+        "une émeute",
+        "un soulèvement violent dans la rue"
+      ],
+      [
+        "démissionner",
+        "quitter volontairement ses fonctions"
+      ],
+      [
+        "la protection contre la faillite",
+        "une procédure qui protège une entreprise de ses créanciers pendant qu'elle se restructure"
+      ],
+      [
+        "boycotter",
+        "refuser de participer pour protester"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-02",
     "added": "2026-11-02T05:48:47Z",
     "title": "2 nov. : Bulgarie, blocage des lycées, Suisse-Chine",
