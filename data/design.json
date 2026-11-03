@@ -1,5 +1,113 @@
 [
   {
+    "title": "Who owns the doubt in design?",
+    "link": "https://www.doc.cc/humankind/doubt",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-03T05:57:26Z",
+    "summary": "An essay asking who is responsible for doubt and uncertainty.",
+    "terms": [
+      [
+        "doubt",
+        "a feeling of being unsure about something"
+      ],
+      [
+        "ownership",
+        "being responsible for something"
+      ]
+    ]
+  },
+  {
+    "title": "Someone will always be faster and cheaper",
+    "link": "https://www.chrbutler.com/faster-cheaper-better",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-03T05:57:26Z",
+    "summary": "An essay by Christopher Butler on the fact that there will always be someone faster, cheaper and better.",
+    "terms": [
+      [
+        "competition",
+        "rivalry between people trying to win the same thing"
+      ],
+      [
+        "value",
+        "how useful or important something is to someone"
+      ]
+    ]
+  },
+  {
+    "title": "Why poster design is still a dark art",
+    "link": "https://www.itsnicethat.com/features/intl-poster-competition-graphic-design-spotlight-021126",
+    "source": "It's Nice That",
+    "date": "2026-11-02",
+    "added": "2026-11-03T05:57:26Z",
+    "summary": "INTL co-founder James Gilchrist talks about how poster design has changed over ten years. He picks out three trends from this year's competition, including textured surfaces, collaged 90s-style type and deliberately naive styles.",
+    "terms": [
+      [
+        "provoke",
+        "to cause a strong reaction in someone"
+      ],
+      [
+        "naive style",
+        "art that looks simple or untrained on purpose"
+      ]
+    ]
+  },
+  {
+    "title": "A calm, tactile identity for toy brand Toyto",
+    "link": "https://www.itsnicethat.com/articles/odd-works-toyto-graphic-design-project-021126",
+    "source": "It's Nice That",
+    "date": "2026-11-02",
+    "added": "2026-11-03T05:57:26Z",
+    "summary": "Studio Odd Works designed the identity for Toyto, a Berlin maker of wooden block toys that encourage screen-free play. It uses a custom wordmark, a geometric typeface and simple, tactile packaging.",
+    "terms": [
+      [
+        "wordmark",
+        "a logo made only of a brand's name in styled letters"
+      ],
+      [
+        "tactile",
+        "pleasant or interesting to touch"
+      ]
+    ]
+  },
+  {
+    "title": "Alex Rorison treats photos as physical objects",
+    "link": "https://www.itsnicethat.com/articles/alex-rorison-photography-discover-021126",
+    "source": "It's Nice That",
+    "date": "2026-11-02",
+    "added": "2026-11-03T05:57:26Z",
+    "summary": "London photographer Alex Rorison reworks his images through darkroom printing, collage and hand embroidery. He welcomes imperfection and sees making an image as continuing after the photo is taken.",
+    "terms": [
+      [
+        "still life",
+        "a picture of arranged objects that do not move"
+      ],
+      [
+        "darkroom",
+        "a dark room where photographic film and prints are developed"
+      ]
+    ]
+  },
+  {
+    "title": "Eight design events to see in November",
+    "link": "https://www.dezeen.com/2026/11/02/eight-architecture-and-design-events-in-november-from-dezeen-events-guide/",
+    "source": "Dezeen",
+    "date": "2026-11-02",
+    "added": "2026-11-03T05:57:26Z",
+    "summary": "Dezeen's Events Guide picks eight architecture and design events taking place in November.",
+    "terms": [
+      [
+        "events guide",
+        "a listing of upcoming shows, fairs and talks"
+      ],
+      [
+        "design week",
+        "a city-wide festival of design exhibitions and talks"
+      ]
+    ]
+  },
+  {
     "title": "When accessible colors make bad palettes",
     "link": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d",
     "source": "UX Collective",
@@ -720,6 +828,24 @@
     ]
   },
   {
+    "title": "What a select menu should tell you",
+    "link": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html",
+    "source": "Sidebar",
+    "date": "2026-10-27",
+    "added": "2026-11-03T05:57:26Z",
+    "summary": "A post arguing that a select (drop-down) control should communicate something useful to the user.",
+    "terms": [
+      [
+        "select",
+        "a form control that lets you pick one option from a list"
+      ],
+      [
+        "affordance",
+        "a clue in a design that shows how to use it"
+      ]
+    ]
+  },
+  {
     "title": "Is branding draining football's character?",
     "link": "https://www.itsnicethat.com/articles/pov-football-is-branding-the-life-out-of-itself-graphic-design-271026",
     "source": "It's Nice That",
@@ -950,78 +1076,6 @@
       [
         "variance",
         "how much answers differ from one another"
-      ]
-    ]
-  },
-  {
-    "title": "UX maps: a glossary",
-    "link": "https://www.nngroup.com/articles/ux-maps-glossary/",
-    "source": "Nielsen Norman Group",
-    "date": "2026-10-16",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "A guide to telling journey maps, experience maps, service blueprints and similar diagrams apart, and when each one is useful.",
-    "terms": [
-      [
-        "journey map",
-        "a diagram of the steps a person takes to reach a goal"
-      ],
-      [
-        "service blueprint",
-        "a map of what happens front-stage and back-stage in a service"
-      ]
-    ]
-  },
-  {
-    "title": "Designing a blackletter typeface for Arsenal",
-    "link": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
-    "source": "It's Nice That",
-    "date": "2026-10-12",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "David Rudnick on the demanding process of creating a custom blackletter typeface for Arsenal football club.",
-    "terms": [
-      [
-        "blackletter",
-        "a heavy, Gothic style of lettering"
-      ],
-      [
-        "bespoke typeface",
-        "a font designed for one specific client"
-      ]
-    ]
-  },
-  {
-    "title": "Mother Design: packaging is how designers speak to customers",
-    "link": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-september-mother-design-121026",
-    "source": "It's Nice That",
-    "date": "2026-10-12",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "At a Nicer Tuesdays talk, Mother Design argued that packaging is the one direct line a designer has to the customer.",
-    "terms": [
-      [
-        "packaging",
-        "the box, wrapper or container a product is sold in"
-      ],
-      [
-        "touchpoint",
-        "any moment where a customer meets a brand"
-      ]
-    ]
-  },
-  {
-    "title": "The new Siri's real strength is context",
-    "link": "https://www.nngroup.com/articles/ai-assistant-context/",
-    "source": "Nielsen Norman Group",
-    "date": "2026-10-09",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "An AI assistant becomes useful through personal context, the ability to act, and being clear about its limits, more than through raw intelligence.",
-    "terms": [
-      [
-        "context",
-        "the surrounding information that gives something meaning"
-      ],
-      [
-        "affordance",
-        "a design cue that shows how something can be used"
       ]
     ]
   }
