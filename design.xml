@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 05:48:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 05:53:40 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>4 nov. : Ukraine, blocages scolaires, TVA armée</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-04.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-04.html</guid>
-<pubDate>Wed, 04 Nov 2026 05:49:48 +0000</pubDate>
+<pubDate>Wed, 04 Nov 2026 05:54:01 +0000</pubDate>
 <category>Le point du jour</category>
 <description>De nouvelles frappes russes meurtrières touchent un centre humanitaire en Ukraine, les blocages de facs et de lycées reprennent en France, et une commission parlementaire suisse rejette la hausse de la TVA pour l'armée.
 
@@ -43,10 +43,34 @@ SUISSE
 Mots clés : un redressement judiciaire — une procédure qui permet à une entreprise en difficulté de continuer son activité sous le contrôle d'un tribunal ; un blocage — le fait d'empêcher l'accès à un établissement pour protester ; une alerte à la bombe — une menace annonçant la présence d'un engin explosif ; un équipementier — une entreprise qui fabrique des pièces pour les constructeurs automobiles ; les élections de mi-mandat — aux États-Unis, élections législatives organisées au milieu du mandat présidentiel</description>
 </item>
 <item>
+<title>Fingerprints are the new cookies</title>
+<link>https://royfish.dev/fingerprints-are-the-new-cookies</link>
+<guid isPermaLink="true">https://royfish.dev/fingerprints-are-the-new-cookies</guid>
+<pubDate>Wed, 04 Nov 2026 05:53:01 +0000</pubDate>
+<category>Sidebar</category>
+<description>A piece arguing that browser fingerprinting is taking over the tracking role that cookies used to play.
+
+Key terms: fingerprinting — identifying a device from its unique settings; tracking — following what people do online
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Entering the era of bleh</title>
+<link>https://www.noemamag.com/now-entering-the-era-of-bleh/</link>
+<guid isPermaLink="true">https://www.noemamag.com/now-entering-the-era-of-bleh/</guid>
+<pubDate>Wed, 04 Nov 2026 05:53:01 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay announcing what it calls the era of bleh, a time of dull, uninspiring culture.
+
+Key terms: bleh — a word expressing boredom or mild disgust; era — a long period of time with a shared character
+
+Source: Sidebar</description>
+</item>
+<item>
 <title>3 nov. : Ukraine, Dubaï Papers, émeutes en Suisse</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-03.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-03.html</guid>
-<pubDate>Tue, 03 Nov 2026 05:58:26 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>En Ukraine, des frappes russes font 26 morts après la fin de la trêve, le procès des « Dubaï Papers » s'ouvre à Paris, et la Suisse condamne les émeutes du week-end à Zurich et Bâle.
 
@@ -75,6 +99,66 @@ SUISSE
 • Négociations commerciales annuelles : la réunion préparatoire de lundi à Bercy a été boycottée par les distributeurs. (France 24: https://www.france24.com/fr/info-en-continu/20261102-n%C3%A9gociations-commerciales-r%C3%A9union-pr%C3%A9paratoire-lundi-%C3%A0-bercy-boycott%C3%A9e-par-les-distributeurs)
 
 Mots clés : une trêve — un arrêt temporaire des combats ; la fraude fiscale — le fait d'échapper illégalement à l'impôt ; une émeute — un soulèvement violent dans la rue ; démissionner — quitter volontairement ses fonctions ; la protection contre la faillite — une procédure qui protège une entreprise de ses créanciers pendant qu'elle se restructure ; boycotter — refuser de participer pour protester</description>
+</item>
+<item>
+<title>Teaching AI prototyping to fashion students</title>
+<link>https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e</link>
+<guid isPermaLink="true">https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e</guid>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>A designer shares lessons from teaching fashion design students to prototype apps with AI tools instead of Figma.
+
+Key terms: prototype — an early test version of a product; curriculum — the set of subjects taught in a course
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Hot Cottage, a studio that mixes media</title>
+<link>https://www.itsnicethat.com/articles/hot-cottage-ed-davis-rob-cordiner-olivia-radonich-graphic-design-discover-031126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/hot-cottage-ed-davis-rob-cordiner-olivia-radonich-graphic-design-discover-031126</guid>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A profile of Hot Cottage, a design studio run by three partners whose work spans branding, album art, publishing and exhibitions, including a collage-style logo for an incense brand.
+
+Key terms: jack of all trades — a person who can do many different kinds of work; logotype — a logo made from a styled word or name
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>A magazine about eating whole fish</title>
+<link>https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126</guid>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Studio Beam designed a 200-page publication, part cookbook and part research archive, encouraging people to cook whole fish from New England waters.
+
+Key terms: hybrid — something that combines two or more different things; anatomical diagram — a drawing showing the parts of a body
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Sabine Marcelis holds first museum exhibition</title>
+<link>https://www.dezeen.com/2026/11/03/sabine-marcelis-exhibition-zurich-museum-fuer-gestaltung/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/03/sabine-marcelis-exhibition-zurich-museum-fuer-gestaltung/</guid>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Designer Sabine Marcelis presents her first museum exhibition, at the Museum für Gestaltung in Zurich, as a moment of reflection on her work.
+
+Key terms: exhibition — a public show of art or objects; reflect — to think carefully about the past
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>John Tree's sculptural pine Hoop lamp</title>
+<link>https://www.dezeen.com/2026/11/03/john-tree-sculptural-hoop-lamp-pine-vaarni/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/03/john-tree-sculptural-hoop-lamp-pine-vaarni/</guid>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Designer John Tree has created a sculptural lamp called Hoop, made from pine, for the furniture brand Vaarni.
+
+Key terms: sculptural — shaped like a work of sculpture; pine — a soft, light-coloured wood from evergreen trees
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>Who owns the doubt in design?</title>
@@ -133,6 +217,42 @@ SUISSE
 • Les Bourses asiatiques sont partagées lundi, le secteur technologique peinant à se redresser après une vague de ventes. (France 24 (EN): https://www.france24.com/en/live-news/20261102-asian-stocks-mixed-as-tech-sector-struggles-to-rebound-from-selloff)
 
 Mots clés : un second tour — le deuxième vote d'une élection, entre les candidats arrivés en tête au premier ; un cocktail Molotov — une bouteille remplie de liquide inflammable, utilisée comme projectile incendiaire ; une tentative de meurtre — le fait d'avoir essayé de tuer quelqu'un, même sans y parvenir ; une primaire — un vote organisé pour désigner le candidat d'un camp politique avant une élection ; mettre sous régie — placer une commune sous l'administration temporaire d'une autorité supérieure ; un impôt sur la fortune — une taxe calculée sur la valeur totale des biens d'une personne</description>
+</item>
+<item>
+<title>Rebuilding a design system's source of truth</title>
+<link>https://uxdesign.cc/state-of-a-system-5c8473db1e9</link>
+<guid isPermaLink="true">https://uxdesign.cc/state-of-a-system-5c8473db1e9</guid>
+<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>A designer reflects on rebuilding a design system and asks whether code or AI model skills should be its source of truth.
+
+Key terms: source of truth — the one place treated as the official, correct version; design system — a shared set of reusable components and rules
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Virtue ethics in everyday interface design</title>
+<link>https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781</link>
+<guid isPermaLink="true">https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781</guid>
+<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay on how interface wording, visual hierarchy and friction can either support or undermine thoughtful choices by users.
+
+Key terms: virtue ethics — a moral theory focused on good character rather than rules; friction — anything that slows a user down on purpose or by accident
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Jaguar's Knightsbridge flagship store</title>
+<link>https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/</guid>
+<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Jaguar has designed its new London flagship store in Knightsbridge as a physical expression of its Type 01 electric car.
+
+Key terms: flagship store — a brand's main and most important shop; showroom — a space where products are displayed for buyers
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>Why poster design is still a dark art</title>
@@ -873,126 +993,6 @@ Source: It's Nice That</description>
 Key terms: whippersnapper — an informal word for a cheeky young person; vernacular photography — everyday pictures taken by ordinary people, not professionals
 
 Source: It's Nice That</description>
-</item>
-<item>
-<title>Es Devlin on her Design Museum retrospective</title>
-<link>https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/</guid>
-<pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Stage designer Es Devlin talks about her retrospective at London's Design Museum and how her large works begin from very simple gestures.
-
-Key terms: retrospective — an exhibition covering an artist's whole career; scenography — the design of a stage or performance space
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Dezeen Awards: the 14 interiors readers picked</title>
-<link>https://www.dezeen.com/2026/10/27/dezeen-awards-public-vote-winner-interiors-2026</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/27/dezeen-awards-public-vote-winner-interiors-2026</guid>
-<pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>The interiors chosen by public vote in this year's Dezeen Awards, gathered on one page.
-
-Key terms: public vote — a choice made by the general public rather than a jury; interiors — the design of indoor spaces
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>A museum cluster that disappears into a meadow</title>
-<link>https://dezeen.com/2026/10/27/buro-ziyu-zhuang-zi-museum-cluster-xianning</link>
-<guid isPermaLink="true">https://dezeen.com/2026/10/27/buro-ziyu-zhuang-zi-museum-cluster-xianning</guid>
-<pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Büro Ziyu Zhuang designed a group of museums in Xianning, China, meant to sit quietly within the surrounding grassland.
-
-Key terms: cluster — a group of buildings placed close together; blend into — to merge with the surroundings so it is hard to notice
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Why your team tells the wrong story</title>
-<link>https://newsletter.uxdesign.cc/p/why-your-team-is-telling-the-wrong</link>
-<guid isPermaLink="true">https://newsletter.uxdesign.cc/p/why-your-team-is-telling-the-wrong</guid>
-<pubDate>Mon, 26 Oct 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>An essay from the UX Collective newsletter arguing that designers skip steps to ship faster. It says the more important contest is winning stakeholder alignment.
-
-Key terms: stakeholder — someone with an interest in or influence over a project; alignment — agreement among people on goals and direction
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Apple Music's logo, shaped by sound</title>
-<link>https://dezeen.com/2026/10/26/apple-music-logo-physically-made-by-sound</link>
-<guid isPermaLink="true">https://dezeen.com/2026/10/26/apple-music-logo-physically-made-by-sound</guid>
-<pubDate>Mon, 26 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Apple Music unveiled a new logo whose form was physically produced by sound rather than drawn by hand.
-
-Key terms: unveil — to show something publicly for the first time; brand mark — the symbol or logo that identifies a brand
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Inside the mind of Bráulio Amado</title>
-<link>https://www.itsnicethat.com/features/braulio-amado-graphic-design-spotlight-261026</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/features/braulio-amado-graphic-design-spotlight-261026</guid>
-<pubDate>Mon, 26 Oct 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A profile of graphic designer Bráulio Amado and how mistakes, chaos and meditation feed into his work.
-
-Key terms: spotlight — a feature that focuses attention on one person or work; happy accident — a mistake that turns out well
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>AI in UX: faster work, mixed feelings</title>
-<link>https://www.nngroup.com/articles/ai-in-ux-survey-26/</link>
-<guid isPermaLink="true">https://www.nngroup.com/articles/ai-in-ux-survey-26/</guid>
-<pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
-<category>Nielsen Norman Group</category>
-<description>A survey of about 500 UX practitioners finds AI tools save time on routine work, yet many designers feel ambivalent about what that means for the craft.
-
-Key terms: practitioner — someone who actively works in a profession; ambivalent — having mixed or conflicting feelings
-
-Source: Nielsen Norman Group</description>
-</item>
-<item>
-<title>UX disciplines: a glossary</title>
-<link>https://www.nngroup.com/articles/ux-disciplines-glossary/</link>
-<guid isPermaLink="true">https://www.nngroup.com/articles/ux-disciplines-glossary/</guid>
-<pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
-<category>Nielsen Norman Group</category>
-<description>Short definitions of the fields that sit under the UX umbrella, from UI and interaction design to service design and UX research.
-
-Key terms: umbrella term — a broad name that covers several related things; service design — planning the people, processes and touchpoints behind a service
-
-Source: Nielsen Norman Group</description>
-</item>
-<item>
-<title>The forgotten seamstresses of Amsterdam</title>
-<link>https://www.itsnicethat.com/articles/hanka-van-der-voet-all-work-is-womens-work-publishing-project-221026</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/hanka-van-der-voet-all-work-is-womens-work-publishing-project-221026</guid>
-<pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>The publishing project All Work is Women's Work brings back the overlooked history of Amsterdam's seamstresses.
-
-Key terms: seamstress — a woman who sews clothes for a living; publishing project — a book, zine or series produced around one theme
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Synthetic users vs. real respondents</title>
-<link>https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/</link>
-<guid isPermaLink="true">https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/</guid>
-<pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
-<category>Nielsen Norman Group</category>
-<description>AI-simulated research participants reached the same conclusions as real people in this study, but their answers were far less varied.
-
-Key terms: synthetic users — AI-generated stand-ins for real research participants; variance — how much answers differ from one another
-
-Source: Nielsen Norman Group</description>
 </item>
 </channel>
 </rss>

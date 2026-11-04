@@ -1,5 +1,131 @@
 [
   {
+    "title": "Fingerprints are the new cookies",
+    "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "A piece arguing that browser fingerprinting is taking over the tracking role that cookies used to play.",
+    "terms": [
+      [
+        "fingerprinting",
+        "identifying a device from its unique settings"
+      ],
+      [
+        "tracking",
+        "following what people do online"
+      ]
+    ]
+  },
+  {
+    "title": "Entering the era of bleh",
+    "link": "https://www.noemamag.com/now-entering-the-era-of-bleh/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "An essay announcing what it calls the era of bleh, a time of dull, uninspiring culture.",
+    "terms": [
+      [
+        "bleh",
+        "a word expressing boredom or mild disgust"
+      ],
+      [
+        "era",
+        "a long period of time with a shared character"
+      ]
+    ]
+  },
+  {
+    "title": "Teaching AI prototyping to fashion students",
+    "link": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e",
+    "source": "UX Collective",
+    "date": "2026-11-03",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "A designer shares lessons from teaching fashion design students to prototype apps with AI tools instead of Figma.",
+    "terms": [
+      [
+        "prototype",
+        "an early test version of a product"
+      ],
+      [
+        "curriculum",
+        "the set of subjects taught in a course"
+      ]
+    ]
+  },
+  {
+    "title": "Hot Cottage, a studio that mixes media",
+    "link": "https://www.itsnicethat.com/articles/hot-cottage-ed-davis-rob-cordiner-olivia-radonich-graphic-design-discover-031126",
+    "source": "It's Nice That",
+    "date": "2026-11-03",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "A profile of Hot Cottage, a design studio run by three partners whose work spans branding, album art, publishing and exhibitions, including a collage-style logo for an incense brand.",
+    "terms": [
+      [
+        "jack of all trades",
+        "a person who can do many different kinds of work"
+      ],
+      [
+        "logotype",
+        "a logo made from a styled word or name"
+      ]
+    ]
+  },
+  {
+    "title": "A magazine about eating whole fish",
+    "link": "https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126",
+    "source": "It's Nice That",
+    "date": "2026-11-03",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "Studio Beam designed a 200-page publication, part cookbook and part research archive, encouraging people to cook whole fish from New England waters.",
+    "terms": [
+      [
+        "hybrid",
+        "something that combines two or more different things"
+      ],
+      [
+        "anatomical diagram",
+        "a drawing showing the parts of a body"
+      ]
+    ]
+  },
+  {
+    "title": "Sabine Marcelis holds first museum exhibition",
+    "link": "https://www.dezeen.com/2026/11/03/sabine-marcelis-exhibition-zurich-museum-fuer-gestaltung/",
+    "source": "Dezeen",
+    "date": "2026-11-03",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "Designer Sabine Marcelis presents her first museum exhibition, at the Museum für Gestaltung in Zurich, as a moment of reflection on her work.",
+    "terms": [
+      [
+        "exhibition",
+        "a public show of art or objects"
+      ],
+      [
+        "reflect",
+        "to think carefully about the past"
+      ]
+    ]
+  },
+  {
+    "title": "John Tree's sculptural pine Hoop lamp",
+    "link": "https://www.dezeen.com/2026/11/03/john-tree-sculptural-hoop-lamp-pine-vaarni/",
+    "source": "Dezeen",
+    "date": "2026-11-03",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "Designer John Tree has created a sculptural lamp called Hoop, made from pine, for the furniture brand Vaarni.",
+    "terms": [
+      [
+        "sculptural",
+        "shaped like a work of sculpture"
+      ],
+      [
+        "pine",
+        "a soft, light-coloured wood from evergreen trees"
+      ]
+    ]
+  },
+  {
     "title": "Who owns the doubt in design?",
     "link": "https://www.doc.cc/humankind/doubt",
     "source": "Sidebar",
@@ -32,6 +158,60 @@
       [
         "value",
         "how useful or important something is to someone"
+      ]
+    ]
+  },
+  {
+    "title": "Rebuilding a design system's source of truth",
+    "link": "https://uxdesign.cc/state-of-a-system-5c8473db1e9",
+    "source": "UX Collective",
+    "date": "2026-11-02",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "A designer reflects on rebuilding a design system and asks whether code or AI model skills should be its source of truth.",
+    "terms": [
+      [
+        "source of truth",
+        "the one place treated as the official, correct version"
+      ],
+      [
+        "design system",
+        "a shared set of reusable components and rules"
+      ]
+    ]
+  },
+  {
+    "title": "Virtue ethics in everyday interface design",
+    "link": "https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781",
+    "source": "UX Collective",
+    "date": "2026-11-02",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "An essay on how interface wording, visual hierarchy and friction can either support or undermine thoughtful choices by users.",
+    "terms": [
+      [
+        "virtue ethics",
+        "a moral theory focused on good character rather than rules"
+      ],
+      [
+        "friction",
+        "anything that slows a user down on purpose or by accident"
+      ]
+    ]
+  },
+  {
+    "title": "Jaguar's Knightsbridge flagship store",
+    "link": "https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/",
+    "source": "Dezeen",
+    "date": "2026-11-02",
+    "added": "2026-11-04T05:53:01Z",
+    "summary": "Jaguar has designed its new London flagship store in Knightsbridge as a physical expression of its Type 01 electric car.",
+    "terms": [
+      [
+        "flagship store",
+        "a brand's main and most important shop"
+      ],
+      [
+        "showroom",
+        "a space where products are displayed for buyers"
       ]
     ]
   },
@@ -896,186 +1076,6 @@
       [
         "vernacular photography",
         "everyday pictures taken by ordinary people, not professionals"
-      ]
-    ]
-  },
-  {
-    "title": "Es Devlin on her Design Museum retrospective",
-    "link": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
-    "source": "Dezeen",
-    "date": "2026-10-27",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "Stage designer Es Devlin talks about her retrospective at London's Design Museum and how her large works begin from very simple gestures.",
-    "terms": [
-      [
-        "retrospective",
-        "an exhibition covering an artist's whole career"
-      ],
-      [
-        "scenography",
-        "the design of a stage or performance space"
-      ]
-    ]
-  },
-  {
-    "title": "Dezeen Awards: the 14 interiors readers picked",
-    "link": "https://www.dezeen.com/2026/10/27/dezeen-awards-public-vote-winner-interiors-2026",
-    "source": "Dezeen",
-    "date": "2026-10-27",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "The interiors chosen by public vote in this year's Dezeen Awards, gathered on one page.",
-    "terms": [
-      [
-        "public vote",
-        "a choice made by the general public rather than a jury"
-      ],
-      [
-        "interiors",
-        "the design of indoor spaces"
-      ]
-    ]
-  },
-  {
-    "title": "A museum cluster that disappears into a meadow",
-    "link": "https://dezeen.com/2026/10/27/buro-ziyu-zhuang-zi-museum-cluster-xianning",
-    "source": "Dezeen",
-    "date": "2026-10-27",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "Büro Ziyu Zhuang designed a group of museums in Xianning, China, meant to sit quietly within the surrounding grassland.",
-    "terms": [
-      [
-        "cluster",
-        "a group of buildings placed close together"
-      ],
-      [
-        "blend into",
-        "to merge with the surroundings so it is hard to notice"
-      ]
-    ]
-  },
-  {
-    "title": "Why your team tells the wrong story",
-    "link": "https://newsletter.uxdesign.cc/p/why-your-team-is-telling-the-wrong",
-    "source": "UX Collective",
-    "date": "2026-10-26",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "An essay from the UX Collective newsletter arguing that designers skip steps to ship faster. It says the more important contest is winning stakeholder alignment.",
-    "terms": [
-      [
-        "stakeholder",
-        "someone with an interest in or influence over a project"
-      ],
-      [
-        "alignment",
-        "agreement among people on goals and direction"
-      ]
-    ]
-  },
-  {
-    "title": "Apple Music's logo, shaped by sound",
-    "link": "https://dezeen.com/2026/10/26/apple-music-logo-physically-made-by-sound",
-    "source": "Dezeen",
-    "date": "2026-10-26",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "Apple Music unveiled a new logo whose form was physically produced by sound rather than drawn by hand.",
-    "terms": [
-      [
-        "unveil",
-        "to show something publicly for the first time"
-      ],
-      [
-        "brand mark",
-        "the symbol or logo that identifies a brand"
-      ]
-    ]
-  },
-  {
-    "title": "Inside the mind of Bráulio Amado",
-    "link": "https://www.itsnicethat.com/features/braulio-amado-graphic-design-spotlight-261026",
-    "source": "It's Nice That",
-    "date": "2026-10-26",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "A profile of graphic designer Bráulio Amado and how mistakes, chaos and meditation feed into his work.",
-    "terms": [
-      [
-        "spotlight",
-        "a feature that focuses attention on one person or work"
-      ],
-      [
-        "happy accident",
-        "a mistake that turns out well"
-      ]
-    ]
-  },
-  {
-    "title": "AI in UX: faster work, mixed feelings",
-    "link": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
-    "source": "Nielsen Norman Group",
-    "date": "2026-10-23",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "A survey of about 500 UX practitioners finds AI tools save time on routine work, yet many designers feel ambivalent about what that means for the craft.",
-    "terms": [
-      [
-        "practitioner",
-        "someone who actively works in a profession"
-      ],
-      [
-        "ambivalent",
-        "having mixed or conflicting feelings"
-      ]
-    ]
-  },
-  {
-    "title": "UX disciplines: a glossary",
-    "link": "https://www.nngroup.com/articles/ux-disciplines-glossary/",
-    "source": "Nielsen Norman Group",
-    "date": "2026-10-23",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "Short definitions of the fields that sit under the UX umbrella, from UI and interaction design to service design and UX research.",
-    "terms": [
-      [
-        "umbrella term",
-        "a broad name that covers several related things"
-      ],
-      [
-        "service design",
-        "planning the people, processes and touchpoints behind a service"
-      ]
-    ]
-  },
-  {
-    "title": "The forgotten seamstresses of Amsterdam",
-    "link": "https://www.itsnicethat.com/articles/hanka-van-der-voet-all-work-is-womens-work-publishing-project-221026",
-    "source": "It's Nice That",
-    "date": "2026-10-22",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "The publishing project All Work is Women's Work brings back the overlooked history of Amsterdam's seamstresses.",
-    "terms": [
-      [
-        "seamstress",
-        "a woman who sews clothes for a living"
-      ],
-      [
-        "publishing project",
-        "a book, zine or series produced around one theme"
-      ]
-    ]
-  },
-  {
-    "title": "Synthetic users vs. real respondents",
-    "link": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/",
-    "source": "Nielsen Norman Group",
-    "date": "2026-10-16",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "AI-simulated research participants reached the same conclusions as real people in this study, but their answers were far less varied.",
-    "terms": [
-      [
-        "synthetic users",
-        "AI-generated stand-ins for real research participants"
-      ],
-      [
-        "variance",
-        "how much answers differ from one another"
       ]
     ]
   }
