@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-11-04",
+    "added": "2026-11-04T05:48:48Z",
+    "title": "4 nov. : Ukraine, blocages scolaires, TVA armée",
+    "lede": "De nouvelles frappes russes meurtrières touchent un centre humanitaire en Ukraine, les blocages de facs et de lycées reprennent en France, et une commission parlementaire suisse rejette la hausse de la TVA pour l'armée.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Ukraine : au moins 33 personnes sont mortes dans des frappes russes contre un centre humanitaire, selon France 24.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261103-ukraine-au-moins-33-personnes-meurent-dans-des-frappes-russes-sur-un-centre-humanitaire"
+          },
+          {
+            "text": "La Force multinationale pour l'Ukraine, portée notamment par la France et le Royaume-Uni, tiendra son premier exercice en Pologne en novembre.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261103-force-multinationale-pour-l-ukraine-pemier-exercice-pologne-novembre-france-royaume-uni"
+          },
+          {
+            "text": "Des alertes à la bombe visant des compagnies aériennes européennes ont entraîné la fermeture de l'aéroport de Varsovie et perturbé plusieurs vols.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights"
+          },
+          {
+            "text": "L'Italie a tenu des discussions sur la sécurité après la vague de cyberattaques contre des congélateurs de supermarchés en Europe.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261103-italy-holds-security-talks-after-european-freezer-cyberattacks"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Avec la fin des vacances, de nouveaux blocages touchent des universités et des lycées ; certains parents et lycéens se disent préoccupés.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261103-mobilisations-en-france-nouveaux-blocages-de-facs-et-de-lyc%C3%A9es"
+          },
+          {
+            "text": "Une partie de l'épargne placée sur le Livret A contribuera au financement des lycées et des collèges.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/03/livret-a-lepargne-des-francais-contribuera-au-financement-des-lycees-et-des-colleges"
+          },
+          {
+            "text": "Budget 2027 : le gouvernement est rattrapé par la réalité économique, alors que le ministre Roland Lescure a récemment jugé l'économie française « à l'arrêt ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261103-budget-2027-le-gouvernement-rattrap%C3%A9-par-la-r%C3%A9alit%C3%A9-%C3%A9conomique"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Une commission parlementaire dit non à la hausse de la TVA destinée à financer l'armée.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/hausse-de-la-tva-pour-l-armee-une-commission-dit-non-29404706.html"
+          },
+          {
+            "text": "13e rente AVS : la conseillère fédérale Élisabeth Baume-Schneider défend une hausse de la TVA pour la financer.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/13e-rente-avs-baume-schneider-defend-la-hausse-de-la-tva-29402432.html"
+          },
+          {
+            "text": "CFF : le trafic ferroviaire a été interrompu entre Lausanne et Genève.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/cff-le-trafic-interrompu-entre-lausanne-et-geneve-29404815.html"
+          },
+          {
+            "text": "À Genève, les milieux culturels craignent des coupes budgétaires en cascade.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-la-culture-craint-des-coupes-budgetaires-en-cascade-29404151.html"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "L'équipementier automobile allemand Schaeffler va supprimer 3 460 postes et fermer cinq sites en Europe.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261103-automobile-l-%C3%A9quipementier-schaeffler-va-supprimer-3-460-postes-et-fermer-cinq-sites-en-europe"
+          },
+          {
+            "text": "En grande difficulté, l'enseigne GiFi est placée en redressement judiciaire.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261103-en-grande-difficult%C3%A9-le-groupe-gifi-plac%C3%A9-en-redressement-judiciaire"
+          },
+          {
+            "text": "L'Union européenne valide le rachat du deuxième actionnaire de Fnac Darty par le géant chinois JD.com.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261103-l-ue-valide-le-rachat-du-2e-actionnaire-de-fnac-darty-par-le-g%C3%A9ant-chinois-jd-com"
+          },
+          {
+            "text": "Le groupe bâlois Lonza rachète cinq sites de production de l'allemand Merck aux États-Unis.",
+            "source": "Swissinfo",
+            "link": "https://swissinfo.ch/fre/lonza-rach%C3%A8te-cinq-sites-de-production-de-l'allemand-merck-aux-usa/92317936"
+          },
+          {
+            "text": "La Bourse de Paris a terminé en baisse mardi, l'attention des marchés étant tournée vers les élections de mi-mandat américaines.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261103-la-bourse-de-paris-termine-en-baisse-les-mid-terms-captent-l-attention"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "un redressement judiciaire",
+        "une procédure qui permet à une entreprise en difficulté de continuer son activité sous le contrôle d'un tribunal"
+      ],
+      [
+        "un blocage",
+        "le fait d'empêcher l'accès à un établissement pour protester"
+      ],
+      [
+        "une alerte à la bombe",
+        "une menace annonçant la présence d'un engin explosif"
+      ],
+      [
+        "un équipementier",
+        "une entreprise qui fabrique des pièces pour les constructeurs automobiles"
+      ],
+      [
+        "les élections de mi-mandat",
+        "aux États-Unis, élections législatives organisées au milieu du mandat présidentiel"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-03",
     "added": "2026-11-03T05:50:00Z",
     "title": "3 nov. : Ukraine, Dubaï Papers, émeutes en Suisse",
