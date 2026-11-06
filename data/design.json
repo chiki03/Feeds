@@ -1,5 +1,167 @@
 [
   {
+    "title": "The hidden cost of good, fast and cheap",
+    "link": "https://buzzusborne.com/writing/pick-three/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "An essay exploring the hidden cost of trying to make creative work that is good, fast and cheap all at once.",
+    "terms": [
+      [
+        "trade-off",
+        "giving up one thing to gain another"
+      ],
+      [
+        "hidden cost",
+        "a price you pay that is not obvious at first"
+      ]
+    ]
+  },
+  {
+    "title": "Revisiting the taboo-breaking Avant Garde magazine",
+    "link": "https://avantgarde.110west40th.com/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "A site about Avant Garde, an influential but often overlooked magazine that broke taboos and made enemies in its time.",
+    "terms": [
+      [
+        "seminal",
+        "strongly influencing later work"
+      ],
+      [
+        "taboo",
+        "a subject people avoid or forbid talking about"
+      ]
+    ]
+  },
+  {
+    "title": "Paper Mono, a free open-source monospace font",
+    "link": "https://paper.design/mono",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "Paper Mono is a free, open-source monospace type family with eight variable weights and ligatures for code.",
+    "terms": [
+      [
+        "monospace",
+        "a typeface where every character takes the same width"
+      ],
+      [
+        "ligature",
+        "two or more letters joined into a single glyph"
+      ]
+    ]
+  },
+  {
+    "title": "Is AI ruining UX, or speeding up old problems?",
+    "link": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422",
+    "source": "UX Collective",
+    "date": "2026-11-05",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "The author says asking whether AI will replace UX designers is the wrong question. The essay argues that what AI outputs is not the same as a good design outcome.",
+    "terms": [
+      [
+        "outcome",
+        "the real result or effect something has, not just what was produced"
+      ],
+      [
+        "accelerant",
+        "something that makes an existing process or problem grow faster"
+      ]
+    ]
+  },
+  {
+    "title": "A Slack bot for the team's quick questions",
+    "link": "https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb",
+    "source": "UX Collective",
+    "date": "2026-11-05",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "After reviewing more than two thousand requests from colleagues, the author built a Slack agent to handle routine team questions. The piece argues you should not have to answer every one yourself.",
+    "terms": [
+      [
+        "routine",
+        "ordinary and repeated often"
+      ],
+      [
+        "triage",
+        "sorting requests to decide which need attention first"
+      ]
+    ]
+  },
+  {
+    "title": "Design Doha Biennial looks to traditional crafts",
+    "link": "https://www.dezeen.com/2026/11/05/design-doha-biennial-2026-open",
+    "source": "Dezeen",
+    "date": "2026-11-05",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "Dezeen previews the 2026 Design Doha Biennial in Qatar. Its theme is how traditional crafts can shape the future of design.",
+    "terms": [
+      [
+        "biennial",
+        "an event held every two years"
+      ],
+      [
+        "craft",
+        "skilled work made by hand"
+      ]
+    ]
+  },
+  {
+    "title": "Six standout projects at Designart Tokyo",
+    "link": "https://www.dezeen.com/2026/11/05/designart-tokyo-2026-highlights/",
+    "source": "Dezeen",
+    "date": "2026-11-05",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "Dezeen picks six highlights from the 2026 edition of Designart Tokyo, a design and art festival held across the city.",
+    "terms": [
+      [
+        "standout",
+        "clearly better or more noticeable than the rest"
+      ],
+      [
+        "highlight",
+        "one of the best or most interesting parts of an event"
+      ]
+    ]
+  },
+  {
+    "title": "Surreal dioramas for Amsterdam Museum Night",
+    "link": "https://www.itsnicethat.com/articles/from-form-amsterdam-museum-night-graphic-design-project-051126",
+    "source": "It's Nice That",
+    "date": "2026-11-05",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "Studio From Form created the campaign for Amsterdam Museum Night, drawing on surrealism and 17th-century dioramas. The identity plays with perception and invites visitors to explore the city's museums.",
+    "terms": [
+      [
+        "diorama",
+        "a small three-dimensional scene showing a place or event"
+      ],
+      [
+        "surrealism",
+        "an art style that mixes dreamlike, unexpected images"
+      ]
+    ]
+  },
+  {
+    "title": "AI makes interfaces; what makes them matter?",
+    "link": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986",
+    "source": "UX Collective",
+    "date": "2026-11-04",
+    "added": "2026-11-06T05:47:05Z",
+    "summary": "The essay says consistent components are not enough when AI can generate screens. Teams still have to decide when an interface should celebrate, hold back or stay out of the way.",
+    "terms": [
+      [
+        "restraint",
+        "choosing to do less on purpose"
+      ],
+      [
+        "component",
+        "a reusable building block of an interface, like a button"
+      ]
+    ]
+  },
+  {
     "title": "Polar types out bakery P.A.C.'s logo",
     "link": "https://www.itsnicethat.com/articles/polar-pac-graphic-design-project-041126",
     "source": "It's Nice That",
@@ -914,168 +1076,6 @@
       [
         "paradox",
         "a situation that seems to contradict itself"
-      ]
-    ]
-  },
-  {
-    "title": "Nobody asked for the sparkle button",
-    "link": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
-    "source": "UX Collective",
-    "date": "",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "A critique of the AI 'sparkle' buttons appearing across products, regardless of whether users need them.",
-    "terms": [
-      [
-        "feature creep",
-        "adding more and more features until a product gets bloated"
-      ],
-      [
-        "user need",
-        "what people actually require, not what a team assumes"
-      ]
-    ]
-  },
-  {
-    "title": "UX trends for 2027",
-    "link": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07",
-    "source": "UX Collective",
-    "date": "",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "A look at where UX work is heading next year, with the focus moving beyond interface design itself.",
-    "terms": [
-      [
-        "trend forecast",
-        "a prediction of where a field is heading"
-      ],
-      [
-        "beyond the interface",
-        "design work that reaches past screens and UI"
-      ]
-    ]
-  },
-  {
-    "title": "UX lessons for deep AI research tools",
-    "link": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e",
-    "source": "UX Collective",
-    "date": "2026-10-28",
-    "added": "2026-11-01T05:52:21Z",
-    "summary": "A look at how several AI research products design the interface when an answer takes a long time to produce.",
-    "terms": [
-      [
-        "latency",
-        "the delay between a request and its response"
-      ],
-      [
-        "progress indicator",
-        "a visual cue showing that a task is still running"
-      ]
-    ]
-  },
-  {
-    "title": "How Apple Music's identity visualised sound",
-    "link": "https://www.itsnicethat.com/features/apple-music-rebrand-graphic-design-spotlight-281026",
-    "source": "It's Nice That",
-    "date": "2026-10-28",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "A feature on how TBWA\\Media Arts Lab tried to make sound visible for the Apple Music rebrand. It covers the long period of experimentation and the decision to show the process.",
-    "terms": [
-      [
-        "rebrand",
-        "a redesign of a company's name, logo or overall visual identity"
-      ],
-      [
-        "experimentation",
-        "trying many approaches to see what works"
-      ]
-    ]
-  },
-  {
-    "title": "Estudio Cru's design that asks questions",
-    "link": "https://www.itsnicethat.com/articles/estudio-cru-graphic-design-discover-281026",
-    "source": "It's Nice That",
-    "date": "2026-10-28",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "It's Nice That profiles the graphic design studio Estudio Cru, whose responsive work aims to raise questions rather than provide answers.",
-    "terms": [
-      [
-        "responsive design",
-        "design that adapts to its context or audience"
-      ],
-      [
-        "studio",
-        "a small creative business or workshop"
-      ]
-    ]
-  },
-  {
-    "title": "Norman Foster designs his first watch",
-    "link": "https://www.dezeen.com/2026/10/28/norman-foster-first-watch-lebond/",
-    "source": "Dezeen",
-    "date": "2026-10-28",
-    "added": "2026-10-30T08:19:04Z",
-    "summary": "Architect Norman Foster has designed his first-ever watch, created in collaboration with the brand Lebond.",
-    "terms": [
-      [
-        "collaboration",
-        "work done jointly by two or more people or companies"
-      ],
-      [
-        "timepiece",
-        "a formal word for a watch or clock"
-      ]
-    ]
-  },
-  {
-    "title": "A museum typeface for Louisiana",
-    "link": "https://www.itsnicethat.com/articles/a2-type-louisiana-museum-of-modern-art-graphic-design-project-281026",
-    "source": "It's Nice That",
-    "date": "2026-10-28",
-    "added": "2026-10-29T05:52:06Z",
-    "summary": "Type foundry A2 Type has made a new typeface for the Louisiana Museum of Modern Art in Denmark.",
-    "terms": [
-      [
-        "typeface",
-        "a family of letters sharing one design"
-      ],
-      [
-        "foundry",
-        "a studio that designs and sells typefaces"
-      ]
-    ]
-  },
-  {
-    "title": "Dezeen Awards public vote: design winners",
-    "link": "https://www.dezeen.com/2026/10/28/dezeen-awards-public-vote-winner-design-2026",
-    "source": "Dezeen",
-    "date": "2026-10-28",
-    "added": "2026-10-29T05:52:06Z",
-    "summary": "Dezeen announces the 16 design projects that won its 2026 awards public vote.",
-    "terms": [
-      [
-        "public vote",
-        "a contest decided by readers rather than a jury"
-      ],
-      [
-        "shortlist",
-        "the final selection of candidates before winners are chosen"
-      ]
-    ]
-  },
-  {
-    "title": "What a select menu should tell you",
-    "link": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html",
-    "source": "Sidebar",
-    "date": "2026-10-27",
-    "added": "2026-11-03T05:57:26Z",
-    "summary": "A post arguing that a select (drop-down) control should communicate something useful to the user.",
-    "terms": [
-      [
-        "select",
-        "a form control that lets you pick one option from a list"
-      ],
-      [
-        "affordance",
-        "a clue in a design that shows how to use it"
       ]
     ]
   }
