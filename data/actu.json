@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-07",
+    "added": "2026-11-07T05:49:42Z",
+    "title": "7 nov. : Ukraine, programme de LFI, Bourses en baisse",
+    "lede": "Le bilan d'une frappe russe dans le sud de l'Ukraine s'alourdit, LFI dévoile son programme pour 2027 et les marchés européens reculent après les élections de mi-mandat américaines.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Le bilan de la frappe russe de lundi sur un point de distribution d'aide dans le sud de l'Ukraine est monté à 50 morts.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261106-ukraine-le-bilan-de-la-frappe-russe-de-lundi-dans-le-sud-monte-%C3%A0-50-morts"
+          },
+          {
+            "text": "À Madrid, Volodymyr Zelensky lance un appel urgent à l'aide pour sauver le réseau électrique ukrainien.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/06/a-madrid-zelensky-lance-un-appel-urgent-a-laide-pour-sauver-le-reseau-electrique-ukrainien"
+          },
+          {
+            "text": "Une nouvelle vague de fausses alertes à la bombe agite l'Europe ; l'Irlande soupçonne une « campagne coordonnée ».",
+            "source": "France 24",
+            "link": "https://france24.com/fr/info-en-continu/20261106-une-nouvelle-vague-de-fausses-alertes-%C3%A0-la-bombe-agite-l-europe"
+          },
+          {
+            "text": "Après l'accident ferroviaire en Espagne, le Parquet européen enquête sur d'éventuelles fraudes.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/06/apres-la-collision-durda-en-espagne-le-parquet-europeen-enquete-sur-deventuelles-fraudes"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "La France insoumise présente son programme pour la présidentielle de 2027, fidèle à sa volonté de rupture.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261106-france-insoumise-jean-luc-melenchon-presente-programme-presidentielle-2027-fidele-volonte-rupture-lfi"
+          },
+          {
+            "text": "Jordan Bardella accuse LFI de « tentation totalitaire » parce qu'elle veut « fermer » la chaîne CNews.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261106-bardella-accuse-lfi-de-tentation-totalitaire-en-voulant-fermer-cnews"
+          },
+          {
+            "text": "Selon France 24, la campagne présidentielle d'Édouard Philippe et de Gabriel Attal, héritiers du macronisme, patine.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261106-france-edouard-philippe-gabriel-attal-la-campagne-presidentielle-2027-des-heritiers-du-macronisme-patine"
+          },
+          {
+            "text": "Des manifestants blessés, par l'intermédiaire de leurs avocats, veulent porter plainte contre le ministre de l'Intérieur pour violences policières.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality"
+          },
+          {
+            "text": "La France se prépare à de nouvelles manifestations : des Gilets jaunes appellent à la « désobéissance de masse ».",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261107-france-braces-for-protests-as-yellow-vests-urge-mass-disobedience"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "La Suisse reprend les transferts de demandeurs d'asile vers l'Italie.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/asile-la-suisse-reprend-les-transferts-vers-l-italie-29408059.html"
+          },
+          {
+            "text": "Le gouvernement suisse réduit de près de moitié le financement de Swissinfo.",
+            "source": "Swissinfo (EN)",
+            "link": "https://swissinfo.ch/eng/swiss-politics/swiss-government-cuts-swissinfo-funding-by-nearly-half/92326127"
+          },
+          {
+            "text": "Hockey sur glace : aux Mondiaux, les Suissesses s'inclinent 7-0 face aux États-Unis.",
+            "source": "RTS",
+            "link": "https://rts.ch/sport/2026/article/mondiaux-dames-la-suisse-s-incline-7-0-face-aux-etats-unis-29408136.html"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Les marchés européens sont en forte baisse : la politique américaine plombe les valeurs de la tech et de l'IA.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/am%C3%A9riques/20261106-forte-baisse-des-march%C3%A9s-en-europe-la-politique-am%C3%A9ricaine-plombe-la-tech-et-l-ia"
+          },
+          {
+            "text": "La Bourse de Paris a terminé dans le rouge, dans un climat d'aversion pour le risque.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261106-la-bourse-de-paris-termine-dans-le-rouge-dans-un-climat-d-aversion-pour-le-risque"
+          },
+          {
+            "text": "Pékin menace l'UE de représailles face à ses projets de protection du marché européen.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/06/pekin-menace-lue-de-represailles-face-a-ses-projets-de-protection-du-marche"
+          },
+          {
+            "text": "Pénurie de logements : la RTS passe en revue les solutions trouvées à l'étranger qui pourraient inspirer la Suisse.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/economie/2026/article/penurie-de-logements-les-pistes-de-l-etranger-pour-la-suisse-29407513.html"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "un bilan",
+        "le nombre total de victimes d'un événement"
+      ],
+      [
+        "une fausse alerte",
+        "un avertissement de danger qui se révèle sans fondement"
+      ],
+      [
+        "la désobéissance",
+        "le refus délibéré d'obéir aux règles ou aux autorités"
+      ],
+      [
+        "l'aversion pour le risque",
+        "la tendance à éviter les placements jugés dangereux"
+      ],
+      [
+        "des représailles",
+        "des mesures prises pour riposter à une action jugée hostile"
+      ],
+      [
+        "patiner",
+        "ne pas avancer, piétiner"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-06",
     "added": "2026-11-06T05:44:15Z",
     "title": "6 nov. : grève en France, tech en chute, canicule",
