@@ -1,5 +1,131 @@
 [
   {
+    "title": "Who designs the stop button for AI agents?",
+    "link": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "An essay on designing AI agents, arguing that the hardest design decisions happen at the point where an agent's autonomy ends.",
+    "terms": [
+      [
+        "autonomy",
+        "the ability to act independently without supervision"
+      ],
+      [
+        "non-deterministic",
+        "able to give different results from the same input"
+      ]
+    ],
+    "added": "2026-11-07T05:52:09Z"
+  },
+  {
+    "title": "A sans serif with oversized round shapes",
+    "link": "https://the-brandidentity.com/typeface/superior-types-heaven-is-a-sans-serif-built-on-oversized-round-shapes",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "Presents Heaven, a typeface from Superior Type described as a brutalist grotesque built around oversized round forms.",
+    "terms": [
+      [
+        "grotesque",
+        "a style of early sans serif typeface"
+      ],
+      [
+        "brutalist",
+        "raw, bold and deliberately unpolished in style"
+      ]
+    ],
+    "added": "2026-11-07T05:52:09Z"
+  },
+  {
+    "title": "A monospace font that shows LLM tokens",
+    "link": "https://george.mand.is/2026/11/the-tokenizer-font/",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "Introduces Tokenizer Mono, a monospace font that highlights how a large language model splits text into tokens as you type, using OpenType substitution rules.",
+    "terms": [
+      [
+        "monospace",
+        "a font where every character takes the same width"
+      ],
+      [
+        "token",
+        "a small chunk of text that a language model processes"
+      ]
+    ],
+    "added": "2026-11-07T05:52:09Z"
+  },
+  {
+    "title": "AI, attention and civilization's pace layers",
+    "link": "https://longnow.org/ideas/attention-ai-pace-layers/",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "A Long Now essay about AI, human attention and what it takes to maintain a civilization over time.",
+    "terms": [
+      [
+        "pace layers",
+        "a model where parts of society change at different speeds"
+      ],
+      [
+        "attention",
+        "the mental focus a person gives to something"
+      ]
+    ],
+    "added": "2026-11-07T05:52:09Z"
+  },
+  {
+    "title": "Berrypicking still beats single-answer AI search",
+    "link": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500",
+    "source": "UX Collective",
+    "date": "2026-11-06",
+    "summary": "Argues that Marcia Bates's 1989 berrypicking model, where people gather information bit by bit, still describes how we search with AI. It lists five design implications for search products.",
+    "terms": [
+      [
+        "berrypicking",
+        "searching by collecting small pieces of information along the way"
+      ],
+      [
+        "single answer",
+        "one result presented as the final response"
+      ]
+    ],
+    "added": "2026-11-07T05:52:09Z"
+  },
+  {
+    "title": "Native components are a floor, not ceiling",
+    "link": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce",
+    "source": "UX Collective",
+    "date": "2026-11-06",
+    "summary": "Argues that using the operating system's own interface components keeps apps from feeling fake and lets them follow OS updates, while brand identity sits on a separate layer.",
+    "terms": [
+      [
+        "native component",
+        "a built-in interface element provided by the operating system"
+      ],
+      [
+        "brand identity",
+        "the visual and verbal personality of a company"
+      ]
+    ],
+    "added": "2026-11-07T05:52:09Z"
+  },
+  {
+    "title": "Cabinetmakers' exhibition: rug-wrapped chair and candle holder",
+    "link": "https://www.dezeen.com/2026/11/06/cabinetmakers-autumn-exhibition-2026-danish-furniture/",
+    "source": "Dezeen",
+    "date": "2026-11-06",
+    "summary": "Dezeen covers the Cabinetmakers' Autumn Exhibition, a Danish furniture show whose pieces include a chair wrapped in a rug and a giant candle holder.",
+    "terms": [
+      [
+        "cabinetmaker",
+        "a craftsperson who builds fine wooden furniture"
+      ],
+      [
+        "candle holder",
+        "an object that keeps a candle upright"
+      ]
+    ],
+    "added": "2026-11-07T05:52:09Z"
+  },
+  {
     "title": "The hidden cost of good, fast and cheap",
     "link": "https://buzzusborne.com/writing/pick-three/",
     "source": "Sidebar",
@@ -950,132 +1076,6 @@
       [
         "throughput",
         "the amount of work completed in a given time"
-      ]
-    ]
-  },
-  {
-    "title": "Giving people an undo button in AI products",
-    "link": "https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products",
-    "source": "Sidebar",
-    "date": "2026-10-29",
-    "added": "2026-10-30T08:19:04Z",
-    "summary": "A piece on why AI products should let people undo what the AI has done.",
-    "terms": [
-      [
-        "undo",
-        "to reverse the last action"
-      ],
-      [
-        "reversible",
-        "able to be changed back to how it was"
-      ]
-    ]
-  },
-  {
-    "title": "Microsoft's Copilot identity aims at work",
-    "link": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
-    "source": "Sidebar",
-    "date": "2026-10-29",
-    "added": "2026-10-30T08:19:04Z",
-    "summary": "A look at Microsoft's visual identity for Copilot, which positions the assistant as a tool for work.",
-    "terms": [
-      [
-        "visual identity",
-        "the logo, colours and type that make a brand recognisable"
-      ],
-      [
-        "positioning",
-        "how a brand wants people to see it compared with others"
-      ]
-    ]
-  },
-  {
-    "title": "A campaign spelling out the sewage crisis",
-    "link": "https://www.creativereview.co.uk/campaign-sewage-crisis-amv-bbdo/",
-    "source": "Creative Review",
-    "date": "",
-    "added": "2026-10-29T05:52:06Z",
-    "summary": "AMV BBDO's campaign uses a typeface inspired by waste to draw attention to sewage spills in UK rivers and seas.",
-    "terms": [
-      [
-        "sewage",
-        "waste water from toilets and drains"
-      ],
-      [
-        "awareness campaign",
-        "advertising meant to make people notice an issue"
-      ]
-    ]
-  },
-  {
-    "title": "Design systems should be fast by default",
-    "link": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-10-29T05:52:06Z",
-    "summary": "An essay picked by Sidebar argues that slow components in a design system make every app built on it slow, so speed must be built in.",
-    "terms": [
-      [
-        "design system",
-        "a shared library of components and rules for building products"
-      ],
-      [
-        "by default",
-        "automatically, without anyone having to choose it"
-      ]
-    ]
-  },
-  {
-    "title": "Thinking of design as a garden",
-    "link": "https://justinjay.wang/design-as-a-garden/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-10-29T05:52:06Z",
-    "summary": "A short essay, curated by Sidebar, proposes thinking about creative work as tending a garden.",
-    "terms": [
-      [
-        "metaphor",
-        "describing one thing as if it were another"
-      ],
-      [
-        "tend",
-        "to look after something carefully over time"
-      ]
-    ]
-  },
-  {
-    "title": "A working clock built from junk",
-    "link": "https://niklasroy.com/gtc/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-10-29T05:52:06Z",
-    "summary": "Niklas Roy's Glashütte Trash Clock is a working clockwork made from rubbish found in the watchmaking town of Glashütte, Germany.",
-    "terms": [
-      [
-        "clockwork",
-        "the gears and springs that make a clock run"
-      ],
-      [
-        "found objects",
-        "everyday items reused as art materials"
-      ]
-    ]
-  },
-  {
-    "title": "The taste paradox",
-    "link": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95",
-    "source": "UX Collective",
-    "date": "",
-    "added": "2026-10-28T08:00:00Z",
-    "summary": "An essay on why taste is widely called essential in design, yet rarely practised or trained on purpose.",
-    "terms": [
-      [
-        "taste",
-        "the ability to judge what is good or fitting"
-      ],
-      [
-        "paradox",
-        "a situation that seems to contradict itself"
       ]
     ]
   }
