@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 05:43:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 05:52:06 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>8 nov. : Cracovie, Mélenchon, Thomas Aeschi</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-08.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-08.html</guid>
-<pubDate>Sun, 08 Nov 2026 05:44:46 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 05:52:52 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Une fusillade fait six morts à Cracovie, Jean-Luc Mélenchon lance sa campagne au Bourget pendant une nouvelle journée de manifestations, et l'UDC Thomas Aeschi se porte candidat au Conseil fédéral.
 
@@ -43,10 +43,82 @@ SUISSE
 Mots clés : une fusillade — une série de coups de feu tirés sur des personnes ; un tireur interpellé — l'auteur des tirs arrêté par la police ; une démonstration de force — une manifestation destinée à montrer sa puissance ou son soutien ; briguer un siège — se porter candidat à une fonction ; l'intersyndicale — le regroupement de plusieurs syndicats qui agissent ensemble ; un assouplissement — le fait de rendre des règles moins strictes</description>
 </item>
 <item>
+<title>Nubank's rebrand by Koto</title>
+<link>https://koto.com/projects/nubank</link>
+<guid isPermaLink="true">https://koto.com/projects/nubank</guid>
+<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
+<category>Sidebar</category>
+<description>Branding agency Koto presents its rebrand of the digital bank Nubank, shared on Sidebar.
+
+Key terms: rebrand — a change to a company's name, logo or visual identity; fintech — companies that use technology to offer financial services
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Designing a skill</title>
+<link>https://iamnoman.com/writing/designing-a-skill</link>
+<guid isPermaLink="true">https://iamnoman.com/writing/designing-a-skill</guid>
+<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
+<category>Sidebar</category>
+<description>A short essay, shared on Sidebar, about the process of designing a skill.
+
+Key terms: craft — skill and care in making something by hand or mind; iteration — repeating a process to improve the result each time
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>The window with no buttons</title>
+<link>https://www.baselinedesign.com/posts/the-window-with-no-buttons</link>
+<guid isPermaLink="true">https://www.baselinedesign.com/posts/the-window-with-no-buttons</guid>
+<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
+<category>Sidebar</category>
+<description>A design post, shared on Sidebar, about a window that has no buttons.
+
+Key terms: affordance — a visual clue that shows how something can be used; chrome — the frame and controls around a window's content
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Building an AI-ready design system library</title>
+<link>https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2</link>
+<guid isPermaLink="true">https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2</guid>
+<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
+<category>Sidebar</category>
+<description>A guide, shared on Sidebar, to preparing a design system library in code and Figma so AI tools can use it through MCP.
+
+Key terms: design system — shared components and rules a team reuses to build products; MCP — Model Context Protocol, a standard for connecting AI tools to data
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>M&amp;S Christmas ad stars Punch and Norton</title>
+<link>https://creativereview.co.uk/lucy-punch-james-norton-ms-christmas-ad</link>
+<guid isPermaLink="true">https://creativereview.co.uk/lucy-punch-james-norton-ms-christmas-ad</guid>
+<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
+<category>Creative Review</category>
+<description>Lucy Punch and James Norton appear in a glamorous but funny Christmas advert for M&amp;S.
+
+Key terms: glitzy — showy and glamorous; festive — related to a holiday, especially Christmas
+
+Source: Creative Review</description>
+</item>
+<item>
+<title>Richard Ayoade plays Scrooge for Argos</title>
+<link>https://creativereview.co.uk/argos-christmas-ad-2026-richard-ayoade-scrooge</link>
+<guid isPermaLink="true">https://creativereview.co.uk/argos-christmas-ad-2026-richard-ayoade-scrooge</guid>
+<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
+<category>Creative Review</category>
+<description>Richard Ayoade takes on a Scrooge-like role in Argos's 2026 Christmas advert.
+
+Key terms: Scrooge — a mean person who hates spending, from Dickens; spot — a single television or video advert
+
+Source: Creative Review</description>
+</item>
+<item>
 <title>7 nov. : Ukraine, programme de LFI, Bourses en baisse</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-07.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-07.html</guid>
-<pubDate>Sat, 07 Nov 2026 05:53:09 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Le bilan d'une frappe russe dans le sud de l'Ukraine s'alourdit, LFI dévoile son programme pour 2027 et les marchés européens reculent après les élections de mi-mandat américaines.
 
@@ -75,6 +147,30 @@ SUISSE
 • Pénurie de logements : la RTS passe en revue les solutions trouvées à l'étranger qui pourraient inspirer la Suisse. (RTS: https://www.rts.ch/info/economie/2026/article/penurie-de-logements-les-pistes-de-l-etranger-pour-la-suisse-29407513.html)
 
 Mots clés : un bilan — le nombre total de victimes d'un événement ; une fausse alerte — un avertissement de danger qui se révèle sans fondement ; la désobéissance — le refus délibéré d'obéir aux règles ou aux autorités ; l'aversion pour le risque — la tendance à éviter les placements jugés dangereux ; des représailles — des mesures prises pour riposter à une action jugée hostile ; patiner — ne pas avancer, piétiner</description>
+</item>
+<item>
+<title>SABO Project softens a Manhattan apartment</title>
+<link>https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side</guid>
+<pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Studio SABO Project renovated an apartment on Manhattan's Lower East Side, using gentler ways to divide the rooms.
+
+Key terms: renovation — the work of repairing and updating a building; partition — a light wall or screen that divides a space
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>Eight art galleries built from concrete</title>
+<link>https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/</guid>
+<pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>A roundup of eight art galleries whose architecture is made mainly from concrete.
+
+Key terms: roundup — a short collection of related examples; raw concrete — concrete left exposed without paint or cladding
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>Who designs the stop button for AI agents?</title>
@@ -357,6 +453,18 @@ SUISSE
 • La Bourse de Paris a terminé en baisse mardi, l'attention des marchés étant tournée vers les élections de mi-mandat américaines. (France 24: https://www.france24.com/fr/info-en-continu/20261103-la-bourse-de-paris-termine-en-baisse-les-mid-terms-captent-l-attention)
 
 Mots clés : un redressement judiciaire — une procédure qui permet à une entreprise en difficulté de continuer son activité sous le contrôle d'un tribunal ; un blocage — le fait d'empêcher l'accès à un établissement pour protester ; une alerte à la bombe — une menace annonçant la présence d'un engin explosif ; un équipementier — une entreprise qui fabrique des pièces pour les constructeurs automobiles ; les élections de mi-mandat — aux États-Unis, élections législatives organisées au milieu du mandat présidentiel</description>
+</item>
+<item>
+<title>Figur's lived-in graphics for sportswear brands</title>
+<link>https://www.itsnicethat.com/articles/figur-graphic-design-discover-041126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/figur-graphic-design-discover-041126</guid>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A profile of the studio Figur, whose graphic systems for sportswear brands such as Hoka take a lived-in approach to athletic culture.
+
+Key terms: lived-in — worn and familiar, as if used every day; graphic system — a set of visual rules that keeps a brand consistent
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>AI makes interfaces; what makes them matter?</title>
@@ -958,46 +1066,10 @@ Key terms: experience design — designing the whole set of interactions a perso
 Source: Nielsen Norman Group</description>
 </item>
 <item>
-<title>UX in agentic software factories</title>
-<link>https://www.nngroup.com/articles/ux-agentic-software-factories/</link>
-<guid isPermaLink="true">https://www.nngroup.com/articles/ux-agentic-software-factories/</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-<category>Nielsen Norman Group</category>
-<description>An NN/g article on what role UX plays when software is increasingly built by automated AI agents, sometimes called agentic software factories.
-
-Key terms: agentic — describing AI that takes actions on its own toward a goal; software factory — a highly automated pipeline for producing software
-
-Source: Nielsen Norman Group</description>
-</item>
-<item>
-<title>Arielle Bobb Willis on image making</title>
-<link>https://www.itsnicethat.com/articles/arielle-bobb-willis-nicer-tuesdays-la-3011026</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/arielle-bobb-willis-nicer-tuesdays-la-3011026</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Photographer Arielle Bobb Willis talks about the power of making images, in a piece from It's Nice That's Nicer Tuesdays LA talks. She says photography lets her remain open to life.
-
-Key terms: image making — the practice of creating pictures, by photography or other means; talk series — a regular run of public lectures or presentations
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Terracotta counter for Aesop at Harrods</title>
-<link>https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Al-Jawad Pike has refreshed the Aesop store at Harrods, adding a terracotta-tiled counter that evokes ancient Persia.
-
-Key terms: terracotta — brownish-red fired clay used for tiles and pots; evoke — to bring a feeling or image to mind
-
-Source: Dezeen</description>
-</item>
-<item>
 <title>29 oct. : drame ferroviaire en Espagne, Trappes, UBS</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-10-29.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-29.html</guid>
-<pubDate>Thu, 29 Oct 2026 06:01:00 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 05:50:07 +0000</pubDate>
 <category>Le point du jour</category>
 <description>L'Espagne est en deuil après une collision entre deux trains à grande vitesse, la France prépare un hommage national après l'attentat de Trappes, et UBS publie de solides résultats trimestriels.
 
@@ -1026,78 +1098,6 @@ SUISSE
 • Airbus vise un accord sur le projet d'avion de combat mené par le Royaume-Uni, le Japon et l'Italie, après l'échec du projet rival. (Euronews: https://fr.euronews.com/2026/10/29/airbus-vise-un-accord-sur-le-chasseur-uk-japon-italie-apres-lechec-du-projet-rival)
 
 Mots clés : un deuil national — une période officielle de tristesse décrétée par l'État après un drame ; une collision — un choc entre deux véhicules en mouvement ; une trêve — un arrêt temporaire des combats ; un hommage national — une cérémonie officielle pour honorer une personne au nom du pays ; abaisser ses prévisions — revoir à la baisse ce que l'on attend pour l'avenir ; les élections de mi-mandat — des élections organisées au milieu du mandat présidentiel américain</description>
-</item>
-<item>
-<title>The New Company on novel brand ideas</title>
-<link>https://www.itsnicethat.com/articles/the-new-company-nicer-tuesdays-la-291026</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/the-new-company-nicer-tuesdays-la-291026</guid>
-<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>From a Nicer Tuesdays talk in Los Angeles, the studio The New Company explains why fresh ideas keep brands relevant and why creatives should leave their comfort zone.
-
-Key terms: comfort zone — a familiar situation where you feel safe and unchallenged; relevance — how much something matters to people right now
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Henry Holland's ceramics-inspired wallpaper range</title>
-<link>https://www.dezeen.com/2026/10/29/henry-holland-wallpaper-fabric-collection-ceramics/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/29/henry-holland-wallpaper-fabric-collection-ceramics/</guid>
-<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Henry Holland has created a collection of wallpaper and fabric that uses a visual language developed through his ceramics work.
-
-Key terms: collection — a set of products designed and released together; ceramics — objects made from clay and hardened by heat
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Perfume packaging styled like handwritten letters</title>
-<link>https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026</guid>
-<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Studio Lotta Nieminen designed the identity and packaging for Aplomb, a Scandinavian luxury perfume brand. It borrows from letter writing, with illustrated stamps for each scent and caps shaped like melted sealing wax.
-
-Key terms: packaging — the box, bottle and wrapping that hold and present a product; motif — a repeated image or idea used throughout a design
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>A band identity grown from mould</title>
-<link>https://www.itsnicethat.com/articles/robocobra-quartet-hundred-pieces-art-project-291026</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/robocobra-quartet-hundred-pieces-art-project-291026</guid>
-<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Robocobra Quartet's 100-track album gives every track its own artwork: a petri dish of mould left to grow. The process mirrors how the band lets unfinished ideas develop into songs.
-
-Key terms: petri dish — a shallow glass or plastic dish used to grow cultures in a lab; improvisation — creating something on the spot, without a plan
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Copenhagen bookshop doubles as gallery and venue</title>
-<link>https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/</guid>
-<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Simone is a bookstore in Copenhagen whose space can also work as a gallery, an event venue or a listening room.
-
-Key terms: multipurpose — able to be used for several different things; listening room — a space designed for focused listening to music
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>The software factory forgot about design</title>
-<link>https://atifaz.am/writing/the-software-factory-forgot-about-design</link>
-<guid isPermaLink="true">https://atifaz.am/writing/the-software-factory-forgot-about-design</guid>
-<pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay arguing that factory-style software production has left design behind, as its headline suggests.
-
-Key terms: software factory — an approach that treats building software like an assembly line; throughput — the amount of work completed in a given time
-
-Source: Sidebar</description>
 </item>
 <item>
 <title>28 oct. : Otan, loi « casseurs-payeurs », Novartis</title>

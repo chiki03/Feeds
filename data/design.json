@@ -1,5 +1,149 @@
 [
   {
+    "title": "Nubank's rebrand by Koto",
+    "link": "https://koto.com/projects/nubank",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "Branding agency Koto presents its rebrand of the digital bank Nubank, shared on Sidebar.",
+    "terms": [
+      [
+        "rebrand",
+        "a change to a company's name, logo or visual identity"
+      ],
+      [
+        "fintech",
+        "companies that use technology to offer financial services"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
+  },
+  {
+    "title": "Designing a skill",
+    "link": "https://iamnoman.com/writing/designing-a-skill",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "A short essay, shared on Sidebar, about the process of designing a skill.",
+    "terms": [
+      [
+        "craft",
+        "skill and care in making something by hand or mind"
+      ],
+      [
+        "iteration",
+        "repeating a process to improve the result each time"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
+  },
+  {
+    "title": "The window with no buttons",
+    "link": "https://www.baselinedesign.com/posts/the-window-with-no-buttons",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "A design post, shared on Sidebar, about a window that has no buttons.",
+    "terms": [
+      [
+        "affordance",
+        "a visual clue that shows how something can be used"
+      ],
+      [
+        "chrome",
+        "the frame and controls around a window's content"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
+  },
+  {
+    "title": "Building an AI-ready design system library",
+    "link": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "A guide, shared on Sidebar, to preparing a design system library in code and Figma so AI tools can use it through MCP.",
+    "terms": [
+      [
+        "design system",
+        "shared components and rules a team reuses to build products"
+      ],
+      [
+        "MCP",
+        "Model Context Protocol, a standard for connecting AI tools to data"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
+  },
+  {
+    "title": "M&S Christmas ad stars Punch and Norton",
+    "link": "https://creativereview.co.uk/lucy-punch-james-norton-ms-christmas-ad",
+    "source": "Creative Review",
+    "date": "",
+    "summary": "Lucy Punch and James Norton appear in a glamorous but funny Christmas advert for M&S.",
+    "terms": [
+      [
+        "glitzy",
+        "showy and glamorous"
+      ],
+      [
+        "festive",
+        "related to a holiday, especially Christmas"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
+  },
+  {
+    "title": "Richard Ayoade plays Scrooge for Argos",
+    "link": "https://creativereview.co.uk/argos-christmas-ad-2026-richard-ayoade-scrooge",
+    "source": "Creative Review",
+    "date": "",
+    "summary": "Richard Ayoade takes on a Scrooge-like role in Argos's 2026 Christmas advert.",
+    "terms": [
+      [
+        "Scrooge",
+        "a mean person who hates spending, from Dickens"
+      ],
+      [
+        "spot",
+        "a single television or video advert"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
+  },
+  {
+    "title": "SABO Project softens a Manhattan apartment",
+    "link": "https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side",
+    "source": "Dezeen",
+    "date": "2026-11-07",
+    "summary": "Studio SABO Project renovated an apartment on Manhattan's Lower East Side, using gentler ways to divide the rooms.",
+    "terms": [
+      [
+        "renovation",
+        "the work of repairing and updating a building"
+      ],
+      [
+        "partition",
+        "a light wall or screen that divides a space"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
+  },
+  {
+    "title": "Eight art galleries built from concrete",
+    "link": "https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/",
+    "source": "Dezeen",
+    "date": "2026-11-07",
+    "summary": "A roundup of eight art galleries whose architecture is made mainly from concrete.",
+    "terms": [
+      [
+        "roundup",
+        "a short collection of related examples"
+      ],
+      [
+        "raw concrete",
+        "concrete left exposed without paint or cladding"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
+  },
+  {
     "title": "Who designs the stop button for AI agents?",
     "link": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
     "source": "Sidebar",
@@ -268,6 +412,24 @@
         "an art style that mixes dreamlike, unexpected images"
       ]
     ]
+  },
+  {
+    "title": "Figur's lived-in graphics for sportswear brands",
+    "link": "https://www.itsnicethat.com/articles/figur-graphic-design-discover-041126",
+    "source": "It's Nice That",
+    "date": "2026-11-04",
+    "summary": "A profile of the studio Figur, whose graphic systems for sportswear brands such as Hoka take a lived-in approach to athletic culture.",
+    "terms": [
+      [
+        "lived-in",
+        "worn and familiar, as if used every day"
+      ],
+      [
+        "graphic system",
+        "a set of visual rules that keeps a brand consistent"
+      ]
+    ],
+    "added": "2026-11-08T05:51:52Z"
   },
   {
     "title": "AI makes interfaces; what makes them matter?",
@@ -914,168 +1076,6 @@
       [
         "terminology",
         "the specific words a field uses for its ideas"
-      ]
-    ]
-  },
-  {
-    "title": "UX in agentic software factories",
-    "link": "https://www.nngroup.com/articles/ux-agentic-software-factories/",
-    "source": "Nielsen Norman Group",
-    "date": "2026-10-30",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "An NN/g article on what role UX plays when software is increasingly built by automated AI agents, sometimes called agentic software factories.",
-    "terms": [
-      [
-        "agentic",
-        "describing AI that takes actions on its own toward a goal"
-      ],
-      [
-        "software factory",
-        "a highly automated pipeline for producing software"
-      ]
-    ]
-  },
-  {
-    "title": "Arielle Bobb Willis on image making",
-    "link": "https://www.itsnicethat.com/articles/arielle-bobb-willis-nicer-tuesdays-la-3011026",
-    "source": "It's Nice That",
-    "date": "2026-10-30",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "Photographer Arielle Bobb Willis talks about the power of making images, in a piece from It's Nice That's Nicer Tuesdays LA talks. She says photography lets her remain open to life.",
-    "terms": [
-      [
-        "image making",
-        "the practice of creating pictures, by photography or other means"
-      ],
-      [
-        "talk series",
-        "a regular run of public lectures or presentations"
-      ]
-    ]
-  },
-  {
-    "title": "Terracotta counter for Aesop at Harrods",
-    "link": "https://www.dezeen.com/2026/10/30/al-jawad-pike-aesop-store-harrods-terracotta-counter/",
-    "source": "Dezeen",
-    "date": "2026-10-30",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "Al-Jawad Pike has refreshed the Aesop store at Harrods, adding a terracotta-tiled counter that evokes ancient Persia.",
-    "terms": [
-      [
-        "terracotta",
-        "brownish-red fired clay used for tiles and pots"
-      ],
-      [
-        "evoke",
-        "to bring a feeling or image to mind"
-      ]
-    ]
-  },
-  {
-    "title": "The New Company on novel brand ideas",
-    "link": "https://www.itsnicethat.com/articles/the-new-company-nicer-tuesdays-la-291026",
-    "source": "It's Nice That",
-    "date": "2026-10-29",
-    "added": "2026-11-01T05:52:21Z",
-    "summary": "From a Nicer Tuesdays talk in Los Angeles, the studio The New Company explains why fresh ideas keep brands relevant and why creatives should leave their comfort zone.",
-    "terms": [
-      [
-        "comfort zone",
-        "a familiar situation where you feel safe and unchallenged"
-      ],
-      [
-        "relevance",
-        "how much something matters to people right now"
-      ]
-    ]
-  },
-  {
-    "title": "Henry Holland's ceramics-inspired wallpaper range",
-    "link": "https://www.dezeen.com/2026/10/29/henry-holland-wallpaper-fabric-collection-ceramics/",
-    "source": "Dezeen",
-    "date": "2026-10-29",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "Henry Holland has created a collection of wallpaper and fabric that uses a visual language developed through his ceramics work.",
-    "terms": [
-      [
-        "collection",
-        "a set of products designed and released together"
-      ],
-      [
-        "ceramics",
-        "objects made from clay and hardened by heat"
-      ]
-    ]
-  },
-  {
-    "title": "Perfume packaging styled like handwritten letters",
-    "link": "https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026",
-    "source": "It's Nice That",
-    "date": "2026-10-29",
-    "added": "2026-10-30T08:19:04Z",
-    "summary": "Studio Lotta Nieminen designed the identity and packaging for Aplomb, a Scandinavian luxury perfume brand. It borrows from letter writing, with illustrated stamps for each scent and caps shaped like melted sealing wax.",
-    "terms": [
-      [
-        "packaging",
-        "the box, bottle and wrapping that hold and present a product"
-      ],
-      [
-        "motif",
-        "a repeated image or idea used throughout a design"
-      ]
-    ]
-  },
-  {
-    "title": "A band identity grown from mould",
-    "link": "https://www.itsnicethat.com/articles/robocobra-quartet-hundred-pieces-art-project-291026",
-    "source": "It's Nice That",
-    "date": "2026-10-29",
-    "added": "2026-10-30T08:19:04Z",
-    "summary": "Robocobra Quartet's 100-track album gives every track its own artwork: a petri dish of mould left to grow. The process mirrors how the band lets unfinished ideas develop into songs.",
-    "terms": [
-      [
-        "petri dish",
-        "a shallow glass or plastic dish used to grow cultures in a lab"
-      ],
-      [
-        "improvisation",
-        "creating something on the spot, without a plan"
-      ]
-    ]
-  },
-  {
-    "title": "Copenhagen bookshop doubles as gallery and venue",
-    "link": "https://www.dezeen.com/2026/10/29/simone-book-services-copenhagen/",
-    "source": "Dezeen",
-    "date": "2026-10-29",
-    "added": "2026-10-30T08:19:04Z",
-    "summary": "Simone is a bookstore in Copenhagen whose space can also work as a gallery, an event venue or a listening room.",
-    "terms": [
-      [
-        "multipurpose",
-        "able to be used for several different things"
-      ],
-      [
-        "listening room",
-        "a space designed for focused listening to music"
-      ]
-    ]
-  },
-  {
-    "title": "The software factory forgot about design",
-    "link": "https://atifaz.am/writing/the-software-factory-forgot-about-design",
-    "source": "Sidebar",
-    "date": "2026-10-29",
-    "added": "2026-10-30T08:19:04Z",
-    "summary": "An essay arguing that factory-style software production has left design behind, as its headline suggests.",
-    "terms": [
-      [
-        "software factory",
-        "an approach that treats building software like an assembly line"
-      ],
-      [
-        "throughput",
-        "the amount of work completed in a given time"
       ]
     ]
   }
