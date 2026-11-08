@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-08",
+    "added": "2026-11-08T05:43:46Z",
+    "title": "8 nov. : Cracovie, Mélenchon, Thomas Aeschi",
+    "lede": "Une fusillade fait six morts à Cracovie, Jean-Luc Mélenchon lance sa campagne au Bourget pendant une nouvelle journée de manifestations, et l'UDC Thomas Aeschi se porte candidat au Conseil fédéral.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Pologne : un homme « fasciné par l'extrême droite », selon le gouvernement polonais, a tué six personnes dans une fusillade à Cracovie. Le tireur a été interpellé.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261107-fusillade-pologne-au-moins-cinq-morts-plusieurs-bless%C3%A9s-tireur-interpell%C3%A9"
+          },
+          {
+            "text": "Ukraine : des frappes russes nocturnes qualifiées de « massives » ont touché Kiev et sa région, notamment un pont et des infrastructures énergétiques, alors que Kiev se prépare à des pourparlers avec la Russie et les États-Unis.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261107-ukraine-un-pont-et-des-infrastructures-touch%C3%A9es-par-des-frappes-russes-%C3%A0-kiev-et-sa-r%C3%A9gion"
+          },
+          {
+            "text": "Fausses alertes à la bombe visant des compagnies aériennes : la France ouvre une enquête pour savoir s'il existe un « lien avec des puissances étrangères ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261107-fausses-alertes-%C3%A0-la-bombe-enqu%C3%AAte-ouverte-en-france-sur-un-lien-avec-des-puissances-%C3%A9trang%C3%A8res"
+          },
+          {
+            "text": "Pays-Bas : des militants occupent le chantier d'un centre de données de Microsoft à Amsterdam.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Nouvelle journée de mobilisation samedi : 250 000 manifestants selon l'intersyndicale de la jeunesse, 146 000 selon le ministère de l'Intérieur.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261107-en-direct-nouvelle-journ%C3%A9e-de-mobilisation-en-france-pour-faire-pression-sur-le-gouvernement"
+          },
+          {
+            "text": "Selon Euronews, la participation à ces manifestations est en « net recul » par rapport aux journées précédentes.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/07/france-nouvelle-journee-de-manifestations-ce-samedi"
+          },
+          {
+            "text": "Présidentielle 2027 : au Bourget, Jean-Luc Mélenchon fait une « nouvelle démonstration de force » ; les insoumis, écrit France 24, « s'y voient déjà ». Il promet notamment d'abaisser l'âge de départ à la retraite.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261107-france-presidentielle-2027-nouvelle-demonstration-de-force-de-jean-luc-melenchon-meeting-le-bourget-victoire"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Le chef du groupe UDC Thomas Aeschi veut succéder à Guy Parmelin au Conseil fédéral, a-t-il déclaré au SonntagsBlick. Il se dit prêt à reprendre le dossier de l'asile, aujourd'hui géré par Beat Jans.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Élections fédérales 2027 : le PS valaisan vise trois des huit sièges du canton au Conseil national, et le coprésident du PS Cédric Wermuth sera candidat en Argovie malgré son déménagement à Lucerne.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Genève : le Reflet d'Or du GIFF (Geneva International Film Festival) récompense « La Gradiva » de la Française Marine Atlan. Lundi, la présidente du CICR Mirjana Spoljaric ouvrira la Semaine des droits humains de l'Université de Genève.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Le Musée national de Prangins (VD) expose dès vendredi les lauréats du Swiss Press Photo et du World Press Photo 2025.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Le FMI met en garde contre un nouvel assouplissement des règles budgétaires de la zone euro.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/06/le-fmi-met-en-garde-contre-un-nouvel-assouplissement-des-regles-budgetaires-de-la-zone-eur"
+          },
+          {
+            "text": "Après la chute des valeurs liées à l'intelligence artificielle, France 24 analyse les effets financiers et économiques multiples de cette « correction ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261106-la-correction-de-l-ia-un-mouvement-aux-effets-financiers-et-%C3%A9conomiques-multiples"
+          },
+          {
+            "text": "Allemagne : la production industrielle progresse, portée par le secteur automobile.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261106-auto-sector-propels-growth-in-german-factory-output"
+          },
+          {
+            "text": "Les entreprises suisses prévoient des hausses de salaires de 1 % pour 2027, sur fond d'incertitudes concernant l'inflation.",
+            "source": "Le Temps",
+            "link": "https://www.letemps.ch/economie/les-entreprises-suisses-prevoient-des-augmentations-salariales-de-1-pour-2027-tandis-que-des-incertitudes-planent-sur-l-inflation"
+          },
+          {
+            "text": "Comme les voitures, les motos chinoises partent à la conquête du marché européen.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261107-just-like-cars-chinese-motorcycles-out-to-conquer-europe"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "une fusillade",
+        "une série de coups de feu tirés sur des personnes"
+      ],
+      [
+        "un tireur interpellé",
+        "l'auteur des tirs arrêté par la police"
+      ],
+      [
+        "une démonstration de force",
+        "une manifestation destinée à montrer sa puissance ou son soutien"
+      ],
+      [
+        "briguer un siège",
+        "se porter candidat à une fonction"
+      ],
+      [
+        "l'intersyndicale",
+        "le regroupement de plusieurs syndicats qui agissent ensemble"
+      ],
+      [
+        "un assouplissement",
+        "le fait de rendre des règles moins strictes"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-07",
     "added": "2026-11-07T05:49:42Z",
     "title": "7 nov. : Ukraine, programme de LFI, Bourses en baisse",
