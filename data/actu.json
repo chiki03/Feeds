@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-09",
+    "added": "2026-11-09T05:44:14Z",
+    "title": "9 nov. : G7 à Paris, Mélenchon, élections à Fribourg",
+    "lede": "Les ministres du G7 se réunissent à Paris sur l'Ukraine et l'Iran, Jean-Luc Mélenchon est vivement critiqué pour ses propos sur le Donbass, et l'UDC devient la première force du canton de Fribourg en voix.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Les ministres des Affaires étrangères du G7 se réunissent à Paris. Les Européens comptent y presser les États-Unis sur la paix en Ukraine et sur l'Iran.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers"
+          },
+          {
+            "text": "Selon le ministre français des Affaires étrangères, l'Europe participera aux pourparlers sur l'Ukraine organisés sous médiation américaine à Abou Dhabi.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
+          },
+          {
+            "text": "Ukraine : des centaines de milliers d'habitants sont privés d'électricité après de nouvelles frappes russes.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261108-des-centaines-de-milliers-d-ukrainiens-sans-%C3%A9lectricit%C3%A9-apr%C3%A8s-des-frappes-russes"
+          },
+          {
+            "text": "Pologne : après la fusillade de Cracovie, le pays est en deuil et les autorités ont ouvert une enquête pour terrorisme ; on y parle de « terrorisme de l'intérieur ».",
+            "source": "France 24",
+            "link": "https://france24.com/fr/vid%C3%A9o/20261108-la-pologne-en-deuil-confront%C3%A9e-au-terrorisme-de-l-int%C3%A9rieur"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Ukraine/Donbass : selon le ministre des Affaires étrangères, Jean-Luc Mélenchon « s'est fait porte-parole du Kremlin » après ses déclarations sur le conflit.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261108-ukraine-donbass-m%C3%A9lenchon-s-est-fait-porte-parole-du-kremlin-ministre-affaires-%C3%A9trang%C3%A8res"
+          },
+          {
+            "text": "La pétition qui demande la fermeture de la chaîne CNews a dépassé le million de signatures.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261108-cnews-la-p%C3%A9tition-appelant-%C3%A0-la-fermeture-de-la-cha%C3%AEne-d%C3%A9passe-le-million-de-signatures"
+          },
+          {
+            "text": "Dans le Gers, le domicile d'un policier a été incendié.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261108-le-domicile-d-un-policier-incendi%C3%A9-dans-le-gers"
+          },
+          {
+            "text": "À Rantigny (Oise), des habitants ont manifesté contre un projet de centre de données et, plus largement, contre le développement de l'intelligence artificielle.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261108-non-au-data-center-de-rantigny-manifestation-contre-le-d%C3%A9veloppement-de-l-ia"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Élections fribourgeoises : l'UDC devient la première force du canton en nombre de voix au Grand Conseil, tout en restant juste derrière le Centre en sièges. Le PS progresse, le PLR et les Verts reculent.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Au Conseil d'État fribourgeois, trois candidats du centre-droit sont élus dès le premier tour : Romain Collaud, Didier Castella (PLR) et Marie-France Roth Pasquier (Centre). Les quatre autres sièges se joueront le 29 novembre.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/regions/fribourg/2026/minute-par-minute/29407781.html"
+          },
+          {
+            "text": "À Zurich, les livreurs de Just Eat ont fait grève dimanche face à la menace de licenciements ; ils réclament des emplois fixes.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Genève : une manifestation contre l'austérité est annoncée pour le 14 novembre.",
+            "source": "Tribune de Genève",
+            "link": "https://www.tdg.ch/geneve-une-manifestation-contre-lausterite-le-14-novembre-216505642700"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Selon Le Temps, les craintes autour du secteur technologique poussent la Bourse suisse vers de nouveaux sommets.",
+            "source": "Le Temps",
+            "link": "https://www.letemps.ch/economie/finance/les-craintes-sur-la-tech-propulsent-la-bourse-suisse-vers-de-nouveaux-sommets"
+          },
+          {
+            "text": "Après les élections de mi-mandat aux États-Unis, les marchés redoutent une réglementation de l'IA durcie par les démocrates, mais les analystes nuancent les conséquences à moyen terme.",
+            "source": "Le Temps",
+            "link": "https://www.letemps.ch/economie/finance/les-marches-s-inquietent-d-une-reglementation-de-l-ia-durcie-par-les-democrates-mais-les-analystes-nuancent-les-consequences-de-l-election-a-moyen-terme"
+          },
+          {
+            "text": "Les valeurs technologiques regagnent une partie du terrain perdu après la déroute des midterms ; les investisseurs attendent les résultats de Nvidia.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261109-tech-firms-claw-back-some-losses-after-midterms-rout-eyes-on-nvidia"
+          },
+          {
+            "text": "La France insoumise s'attend à un accueil hostile de son programme par les marchés financiers, mais ne cherche pas à les rassurer.",
+            "source": "Le Temps",
+            "link": "https://www.letemps.ch/monde/france/ce-n-est-pas-notre-sujet-les-melenchonistes-assument-de-ne-pas-vouloir-rassurer-les-marches-financiers-avec-leur-nouveau-programme"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "un porte-parole",
+        "une personne qui parle au nom d'un groupe ou d'un gouvernement"
+      ],
+      [
+        "une pétition",
+        "un texte signé par de nombreuses personnes pour demander quelque chose aux autorités"
+      ],
+      [
+        "élu au premier tour",
+        "qui obtient la majorité dès le premier vote, sans second tour"
+      ],
+      [
+        "une médiation",
+        "l'intervention d'un tiers pour aider deux parties à trouver un accord"
+      ],
+      [
+        "l'austérité",
+        "une politique de réduction des dépenses publiques"
+      ],
+      [
+        "atteindre de nouveaux sommets",
+        "pour un indice boursier, monter à un niveau jamais atteint"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-08",
     "added": "2026-11-08T05:43:46Z",
     "title": "8 nov. : Cracovie, Mélenchon, Thomas Aeschi",
