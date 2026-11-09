@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 05:44:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 05:52:40 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>9 nov. : G7 à Paris, Mélenchon, élections à Fribourg</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-09.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-09.html</guid>
-<pubDate>Mon, 09 Nov 2026 05:45:14 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 05:53:40 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les ministres du G7 se réunissent à Paris sur l'Ukraine et l'Iran, Jean-Luc Mélenchon est vivement critiqué pour ses propos sur le Donbass, et l'UDC devient la première force du canton de Fribourg en voix.
 
@@ -41,6 +41,30 @@ SUISSE
 • La France insoumise s'attend à un accueil hostile de son programme par les marchés financiers, mais ne cherche pas à les rassurer. (Le Temps: https://www.letemps.ch/monde/france/ce-n-est-pas-notre-sujet-les-melenchonistes-assument-de-ne-pas-vouloir-rassurer-les-marches-financiers-avec-leur-nouveau-programme)
 
 Mots clés : un porte-parole — une personne qui parle au nom d'un groupe ou d'un gouvernement ; une pétition — un texte signé par de nombreuses personnes pour demander quelque chose aux autorités ; élu au premier tour — qui obtient la majorité dès le premier vote, sans second tour ; une médiation — l'intervention d'un tiers pour aider deux parties à trouver un accord ; l'austérité — une politique de réduction des dépenses publiques ; atteindre de nouveaux sommets — pour un indice boursier, monter à un niveau jamais atteint</description>
+</item>
+<item>
+<title>Make painful things less painful</title>
+<link>https://www.lesswrong.com/posts/KThSe2vPZw4zn7f8W/great-but-painful</link>
+<guid isPermaLink="true">https://www.lesswrong.com/posts/KThSe2vPZw4zn7f8W/great-but-painful</guid>
+<pubDate>Mon, 09 Nov 2026 05:52:40 +0000</pubDate>
+<category>Sidebar</category>
+<description>A short essay, shared on Sidebar, suggesting that good products come from making something people already do less painful.
+
+Key terms: pain point — a specific problem that frustrates users; product-market fit — when a product clearly meets a real need of its market
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Mean: visual handoff for humans and agents</title>
+<link>https://mean.app/</link>
+<guid isPermaLink="true">https://mean.app/</guid>
+<pubDate>Mon, 09 Nov 2026 05:52:40 +0000</pubDate>
+<category>Sidebar</category>
+<description>A tool, shared on Sidebar, that lets you freeze or record your screen, annotate it and hand it off to people or AI agents.
+
+Key terms: handoff — passing work from one person or team to another; annotate — to add notes or marks to explain something
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>8 nov. : Cracovie, Mélenchon, Thomas Aeschi</title>
@@ -183,6 +207,18 @@ SUISSE
 Mots clés : un bilan — le nombre total de victimes d'un événement ; une fausse alerte — un avertissement de danger qui se révèle sans fondement ; la désobéissance — le refus délibéré d'obéir aux règles ou aux autorités ; l'aversion pour le risque — la tendance à éviter les placements jugés dangereux ; des représailles — des mesures prises pour riposter à une action jugée hostile ; patiner — ne pas avancer, piétiner</description>
 </item>
 <item>
+<title>Keep your craft as AI gets better</title>
+<link>https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5</link>
+<guid isPermaLink="true">https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5</guid>
+<pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay arguing that as AI improves at design, designers should keep building their own craft, taste and judgement instead of handing their thinking to tools.
+
+Key terms: craft — the skill and care that goes into making something well; judgement — the ability to make good decisions after thinking carefully
+
+Source: UX Collective</description>
+</item>
+<item>
 <title>SABO Project softens a Manhattan apartment</title>
 <link>https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side</link>
 <guid isPermaLink="true">https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side</guid>
@@ -289,6 +325,18 @@ SUISSE
 Mots clés : une grève interprofessionnelle — une grève qui réunit des salariés de nombreux secteurs à la fois ; le Smic — le salaire minimum légal en France ; un cortège — un groupe de personnes qui défilent ensemble lors d'une manifestation ; une alerte à la bombe — un avertissement, souvent faux, signalant la présence d'un explosif ; la canicule — une longue période de très fortes chaleurs ; l'austérité — une politique de réduction des dépenses publiques</description>
 </item>
 <item>
+<title>A manifesto for after the AI bubble</title>
+<link>https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662</link>
+<guid isPermaLink="true">https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662</guid>
+<pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>A manifesto claiming the AI boom has turned computers into tools for pushing people around, and calling for more humane uses of computing, touching on economics and the environment.
+
+Key terms: bubble — a period when prices or hype rise far above real value, then collapse; humane — kind and respectful toward people
+
+Source: UX Collective</description>
+</item>
+<item>
 <title>Berrypicking still beats single-answer AI search</title>
 <link>https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500</link>
 <guid isPermaLink="true">https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500</guid>
@@ -393,6 +441,18 @@ SUISSE
 • La direction de la BCE exhorte la zone euro à s'adapter plus vite au changement climatique. (France 24 (EN): https://www.france24.com/en/live-news/20261104-ecb-chief-urges-eurozone-to-adapt-faster-to-climate-change)
 
 Mots clés : une première lecture — le premier examen d'un texte de loi par une assemblée parlementaire ; l'indexation des salaires — l'ajustement des salaires à la hausse des prix ; une cotisation salariale — la part du salaire prélevée pour financer une assurance sociale ; les élections de mi-mandat — aux États-Unis, élections organisées au milieu du mandat présidentiel ; un prestataire — une entreprise qui fournit un service à une autre ; un taux d'intérêt minimal — le rendement plancher que les caisses de pension doivent verser sur l'avoir de vieillesse</description>
+</item>
+<item>
+<title>A book celebrating torn posters and ephemera</title>
+<link>https://www.itsnicethat.com/articles/dr-me-waiting-room-press-accidental-collage-advertising-publication-project-051126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/dr-me-waiting-room-press-accidental-collage-advertising-publication-project-051126</guid>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A publication called Accidental Collage celebrates noticing the hidden visual worlds in printed ephemera, torn posters and old advertising.
+
+Key terms: ephemera — printed items made to be used briefly, like tickets or flyers; collage — a picture made by sticking different pieces together
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>Is AI ruining UX, or speeding up old problems?</title>
@@ -725,6 +785,18 @@ SUISSE
 Mots clés : un second tour — le deuxième vote d'une élection, entre les candidats arrivés en tête au premier ; un cocktail Molotov — une bouteille remplie de liquide inflammable, utilisée comme projectile incendiaire ; une tentative de meurtre — le fait d'avoir essayé de tuer quelqu'un, même sans y parvenir ; une primaire — un vote organisé pour désigner le candidat d'un camp politique avant une élection ; mettre sous régie — placer une commune sous l'administration temporaire d'une autorité supérieure ; un impôt sur la fortune — une taxe calculée sur la valeur totale des biens d'une personne</description>
 </item>
 <item>
+<title>Nothing's creative lead on joy and wonder</title>
+<link>https://www.itsnicethat.com/features/in-house-nothing-charlie-smith-creative-industry-021126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/features/in-house-nothing-charlie-smith-creative-industry-021126</guid>
+<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A feature on Charlie Smith of the tech brand Nothing and why he is doubling down on joy and wonder in the company's creative work.
+
+Key terms: in-house — done by a company's own staff rather than an outside agency; double down — to commit even more strongly to something
+
+Source: It's Nice That</description>
+</item>
+<item>
 <title>Rebuilding a design system's source of truth</title>
 <link>https://uxdesign.cc/state-of-a-system-5c8473db1e9</link>
 <guid isPermaLink="true">https://uxdesign.cc/state-of-a-system-5c8473db1e9</guid>
@@ -994,18 +1066,6 @@ Key terms: migration — moving a website or data from one system to another; pl
 Source: Sidebar</description>
 </item>
 <item>
-<title>Mexico City bar lined with books</title>
-<link>https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/</guid>
-<pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Studio Em-Estudio has designed a bar in Mexico City whose walls are lined with books.
-
-Key terms: fit-out — the work of furnishing and finishing an interior; shelving — a set of shelves for storing things
-
-Source: Dezeen</description>
-</item>
-<item>
 <title>30 oct. : Lagarde quitte la BCE, Dnipro, Binance</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-10-30.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-30.html</guid>
@@ -1038,66 +1098,6 @@ SUISSE
 • En Suisse, Glencore a augmenté de 3 % sa production de cuivre sur neuf mois, Implenia a décroché un contrat de 165 millions de francs pour construire l'hôpital de Schaffhouse, et Oerlikon se dit en bonne voie après un bon troisième trimestre. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
 
 Mots clés : un mandat — la durée pendant laquelle une personne exerce une fonction pour laquelle elle a été choisie ; un témoin assisté — dans une enquête judiciaire, une personne entendue avec un avocat, entre le simple témoin et le mis en examen ; geler des fonds — bloquer de l'argent pour qu'il ne puisse plus être déplacé ni utilisé ; revaloriser — augmenter le montant d'un salaire, d'une pension ou d'une allocation ; une cyberattaque — une attaque informatique visant un système ou un réseau ; la réduction des primes — l'aide publique qui diminue le coût de l'assurance maladie pour les revenus modestes</description>
-</item>
-<item>
-<title>Apple's first touchscreen MacBook</title>
-<link>https://www.dezeen.com/2026/10/30/macbook-pro-touchscreen-apple/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/30/macbook-pro-touchscreen-apple/</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Apple has introduced its first MacBook with a touchscreen, which the headline calls a monumental step forward.
-
-Key terms: touchscreen — a display you control by touching it; form factor — the physical size, shape and layout of a device
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Let AI users set AI strategy</title>
-<link>https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94</link>
-<guid isPermaLink="true">https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>An essay arguing that the people who actually use AI tools should decide how they are adopted, while operations teams look after security, contracts and maintenance.
-
-Key terms: adoption — the process of starting to use a new tool or practice; stakeholder — a person with an interest in a decision or its outcome
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Tokyo-style listening bar in Rotterdam</title>
-<link>https://www.dezeen.com/2026/10/30/echo-rotterdam-listening-bar/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/30/echo-rotterdam-listening-bar/</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Echo is a listening bar in Rotterdam with a Japanese-inspired interior, set inside the brutalist Groot Handelsgebouw building.
-
-Key terms: listening bar — a bar built around playing recorded music on a high-quality sound system; brutalist — an architectural style of raw, massive concrete forms
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Dubai Design Week's twelfth edition</title>
-<link>https://www.dezeen.com/2026/10/30/dubai-design-week-downtown-design-12-edition/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/10/30/dubai-design-week-downtown-design-12-edition/</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Coverage of the 12th Dubai Design Week, which showcases bold design from the Middle East.
-
-Key terms: edition — one instance of a recurring event; showcase — an event that displays work to the public
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Dropping 'user' from user experience</title>
-<link>https://www.nngroup.com/articles/ux-vs-experience-design/</link>
-<guid isPermaLink="true">https://www.nngroup.com/articles/ux-vs-experience-design/</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-<category>Nielsen Norman Group</category>
-<description>An NN/g article about experience design, and the case for dropping the word "user" from "user experience".
-
-Key terms: experience design — designing the whole set of interactions a person has with a product or service; terminology — the specific words a field uses for its ideas
-
-Source: Nielsen Norman Group</description>
 </item>
 <item>
 <title>29 oct. : drame ferroviaire en Espagne, Trappes, UBS</title>

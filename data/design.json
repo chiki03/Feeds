@@ -1,5 +1,41 @@
 [
   {
+    "title": "Make painful things less painful",
+    "link": "https://www.lesswrong.com/posts/KThSe2vPZw4zn7f8W/great-but-painful",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "A short essay, shared on Sidebar, suggesting that good products come from making something people already do less painful.",
+    "terms": [
+      [
+        "pain point",
+        "a specific problem that frustrates users"
+      ],
+      [
+        "product-market fit",
+        "when a product clearly meets a real need of its market"
+      ]
+    ],
+    "added": "2026-11-09T05:52:40Z"
+  },
+  {
+    "title": "Mean: visual handoff for humans and agents",
+    "link": "https://mean.app/",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "A tool, shared on Sidebar, that lets you freeze or record your screen, annotate it and hand it off to people or AI agents.",
+    "terms": [
+      [
+        "handoff",
+        "passing work from one person or team to another"
+      ],
+      [
+        "annotate",
+        "to add notes or marks to explain something"
+      ]
+    ],
+    "added": "2026-11-09T05:52:40Z"
+  },
+  {
     "title": "Nubank's rebrand by Koto",
     "link": "https://koto.com/projects/nubank",
     "source": "Sidebar",
@@ -106,6 +142,24 @@
       ]
     ],
     "added": "2026-11-08T05:51:52Z"
+  },
+  {
+    "title": "Keep your craft as AI gets better",
+    "link": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5",
+    "source": "UX Collective",
+    "date": "2026-11-07",
+    "summary": "An essay arguing that as AI improves at design, designers should keep building their own craft, taste and judgement instead of handing their thinking to tools.",
+    "terms": [
+      [
+        "craft",
+        "the skill and care that goes into making something well"
+      ],
+      [
+        "judgement",
+        "the ability to make good decisions after thinking carefully"
+      ]
+    ],
+    "added": "2026-11-09T05:52:40Z"
   },
   {
     "title": "SABO Project softens a Manhattan apartment",
@@ -216,6 +270,24 @@
     "added": "2026-11-07T05:52:09Z"
   },
   {
+    "title": "A manifesto for after the AI bubble",
+    "link": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662",
+    "source": "UX Collective",
+    "date": "2026-11-06",
+    "summary": "A manifesto claiming the AI boom has turned computers into tools for pushing people around, and calling for more humane uses of computing, touching on economics and the environment.",
+    "terms": [
+      [
+        "bubble",
+        "a period when prices or hype rise far above real value, then collapse"
+      ],
+      [
+        "humane",
+        "kind and respectful toward people"
+      ]
+    ],
+    "added": "2026-11-09T05:52:40Z"
+  },
+  {
     "title": "Berrypicking still beats single-answer AI search",
     "link": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500",
     "source": "UX Collective",
@@ -322,6 +394,24 @@
         "two or more letters joined into a single glyph"
       ]
     ]
+  },
+  {
+    "title": "A book celebrating torn posters and ephemera",
+    "link": "https://www.itsnicethat.com/articles/dr-me-waiting-room-press-accidental-collage-advertising-publication-project-051126",
+    "source": "It's Nice That",
+    "date": "2026-11-05",
+    "summary": "A publication called Accidental Collage celebrates noticing the hidden visual worlds in printed ephemera, torn posters and old advertising.",
+    "terms": [
+      [
+        "ephemera",
+        "printed items made to be used briefly, like tickets or flyers"
+      ],
+      [
+        "collage",
+        "a picture made by sticking different pieces together"
+      ]
+    ],
+    "added": "2026-11-09T05:52:40Z"
   },
   {
     "title": "Is AI ruining UX, or speeding up old problems?",
@@ -666,6 +756,24 @@
     ]
   },
   {
+    "title": "Nothing's creative lead on joy and wonder",
+    "link": "https://www.itsnicethat.com/features/in-house-nothing-charlie-smith-creative-industry-021126",
+    "source": "It's Nice That",
+    "date": "2026-11-02",
+    "summary": "A feature on Charlie Smith of the tech brand Nothing and why he is doubling down on joy and wonder in the company's creative work.",
+    "terms": [
+      [
+        "in-house",
+        "done by a company's own staff rather than an outside agency"
+      ],
+      [
+        "double down",
+        "to commit even more strongly to something"
+      ]
+    ],
+    "added": "2026-11-09T05:52:40Z"
+  },
+  {
     "title": "Rebuilding a design system's source of truth",
     "link": "https://uxdesign.cc/state-of-a-system-5c8473db1e9",
     "source": "UX Collective",
@@ -968,114 +1076,6 @@
       [
         "platform",
         "the underlying software a product is built on"
-      ]
-    ]
-  },
-  {
-    "title": "Mexico City bar lined with books",
-    "link": "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/",
-    "source": "Dezeen",
-    "date": "2026-10-31",
-    "added": "2026-11-02T05:59:01Z",
-    "summary": "Studio Em-Estudio has designed a bar in Mexico City whose walls are lined with books.",
-    "terms": [
-      [
-        "fit-out",
-        "the work of furnishing and finishing an interior"
-      ],
-      [
-        "shelving",
-        "a set of shelves for storing things"
-      ]
-    ]
-  },
-  {
-    "title": "Apple's first touchscreen MacBook",
-    "link": "https://www.dezeen.com/2026/10/30/macbook-pro-touchscreen-apple/",
-    "source": "Dezeen",
-    "date": "2026-10-30",
-    "added": "2026-11-02T05:59:01Z",
-    "summary": "Apple has introduced its first MacBook with a touchscreen, which the headline calls a monumental step forward.",
-    "terms": [
-      [
-        "touchscreen",
-        "a display you control by touching it"
-      ],
-      [
-        "form factor",
-        "the physical size, shape and layout of a device"
-      ]
-    ]
-  },
-  {
-    "title": "Let AI users set AI strategy",
-    "link": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94",
-    "source": "UX Collective",
-    "date": "2026-10-30",
-    "added": "2026-11-01T05:52:21Z",
-    "summary": "An essay arguing that the people who actually use AI tools should decide how they are adopted, while operations teams look after security, contracts and maintenance.",
-    "terms": [
-      [
-        "adoption",
-        "the process of starting to use a new tool or practice"
-      ],
-      [
-        "stakeholder",
-        "a person with an interest in a decision or its outcome"
-      ]
-    ]
-  },
-  {
-    "title": "Tokyo-style listening bar in Rotterdam",
-    "link": "https://www.dezeen.com/2026/10/30/echo-rotterdam-listening-bar/",
-    "source": "Dezeen",
-    "date": "2026-10-30",
-    "added": "2026-11-01T05:52:21Z",
-    "summary": "Echo is a listening bar in Rotterdam with a Japanese-inspired interior, set inside the brutalist Groot Handelsgebouw building.",
-    "terms": [
-      [
-        "listening bar",
-        "a bar built around playing recorded music on a high-quality sound system"
-      ],
-      [
-        "brutalist",
-        "an architectural style of raw, massive concrete forms"
-      ]
-    ]
-  },
-  {
-    "title": "Dubai Design Week's twelfth edition",
-    "link": "https://www.dezeen.com/2026/10/30/dubai-design-week-downtown-design-12-edition/",
-    "source": "Dezeen",
-    "date": "2026-10-30",
-    "added": "2026-11-01T05:52:21Z",
-    "summary": "Coverage of the 12th Dubai Design Week, which showcases bold design from the Middle East.",
-    "terms": [
-      [
-        "edition",
-        "one instance of a recurring event"
-      ],
-      [
-        "showcase",
-        "an event that displays work to the public"
-      ]
-    ]
-  },
-  {
-    "title": "Dropping 'user' from user experience",
-    "link": "https://www.nngroup.com/articles/ux-vs-experience-design/",
-    "source": "Nielsen Norman Group",
-    "date": "2026-10-30",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "An NN/g article about experience design, and the case for dropping the word \"user\" from \"user experience\".",
-    "terms": [
-      [
-        "experience design",
-        "designing the whole set of interactions a person has with a product or service"
-      ],
-      [
-        "terminology",
-        "the specific words a field uses for its ideas"
       ]
     ]
   }
