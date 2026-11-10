@@ -1,5 +1,149 @@
 [
   {
+    "title": "What AI readiness means for design systems",
+    "link": "https://seanvoisen.com/writing/design-system-ai-readiness/",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "An essay, shared on Sidebar, arguing that making a design system ready for AI is less about machine-readable files and more about where people stay involved.",
+    "terms": [
+      [
+        "design system",
+        "a shared set of components and rules for building products"
+      ],
+      [
+        "human in the loop",
+        "a process where people review or guide automated steps"
+      ]
+    ],
+    "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "Testing pages beyond the usual viewport",
+    "link": "https://ishadeed.com/article/beyond-the-viewport/",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "An article, shared on Sidebar, about a way to see how a web page behaves at unusual screen and window sizes.",
+    "terms": [
+      [
+        "viewport",
+        "the visible area of a web page in a browser"
+      ],
+      [
+        "responsive design",
+        "layouts that adapt to different screen sizes"
+      ]
+    ],
+    "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "Boots goes for laughs at Christmas",
+    "link": "https://www.creativereview.co.uk/boots-christmas-ad-2026-wpp/",
+    "source": "Creative Review",
+    "date": "",
+    "summary": "Creative Review covers the British retailer Boots' 2026 Christmas advert, which takes a humorous approach.",
+    "terms": [
+      [
+        "festive",
+        "relating to Christmas or a holiday celebration"
+      ],
+      [
+        "tongue-in-cheek",
+        "meant to be funny, not taken seriously"
+      ]
+    ],
+    "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "What design tools quietly leave out",
+    "link": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85",
+    "source": "UX Collective",
+    "date": "2026-11-09",
+    "summary": "An essay arguing that building a design tool is like writing rules, and that those rules silently remove some possibilities from the world.",
+    "terms": [
+      [
+        "constraint",
+        "a limit that shapes what can be made"
+      ],
+      [
+        "affordance",
+        "what an object or tool suggests you can do with it"
+      ]
+    ],
+    "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "What typesetters can teach designers about AI",
+    "link": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285",
+    "source": "UX Collective",
+    "date": "2026-11-09",
+    "summary": "An interview with Christian Crumlish comparing typesetters displaced by personal computers with designers now facing AI, and what that means for professional identity.",
+    "terms": [
+      [
+        "typesetter",
+        "a person who arranged type for printing"
+      ],
+      [
+        "displaced",
+        "pushed out of a job or place by something new"
+      ]
+    ],
+    "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "Unlimited AI tokens as a status symbol",
+    "link": "https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3",
+    "source": "UX Collective",
+    "date": "2026-11-09",
+    "summary": "A short piece suggesting that huge AI usage budgets have become a kind of status display, while well-chosen limits actually help people think clearly.",
+    "terms": [
+      [
+        "flex",
+        "a showy display of wealth or status (informal)"
+      ],
+      [
+        "country club",
+        "an exclusive private club, used as a symbol of privilege"
+      ]
+    ],
+    "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "Check this before shipping a year-end recap",
+    "link": "https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8",
+    "source": "UX Collective",
+    "date": "2026-11-09",
+    "summary": "A look at what last year's personalised year-in-review features got right, what has changed in 2026, and one step teams often skip before launch.",
+    "terms": [
+      [
+        "year-in-review",
+        "a summary of someone's activity over the past year"
+      ],
+      [
+        "personalisation",
+        "tailoring content to each individual user"
+      ]
+    ],
+    "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "Career advice: you remain a designer regardless",
+    "link": "https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-091126",
+    "source": "It's Nice That",
+    "date": "2026-11-09",
+    "summary": "An entry in It's Nice That's careers advice column, reassuring a reader that being a designer is part of who you are, whether or not you do it full time.",
+    "terms": [
+      [
+        "side hustle",
+        "paid work done alongside a main job"
+      ],
+      [
+        "career pivot",
+        "a deliberate change of career direction"
+      ]
+    ],
+    "added": "2026-11-10T05:51:44Z"
+  },
+  {
     "title": "Make painful things less painful",
     "link": "https://www.lesswrong.com/posts/KThSe2vPZw4zn7f8W/great-but-painful",
     "source": "Sidebar",
@@ -932,150 +1076,6 @@
       [
         "transparent",
         "open and easy to understand, with nothing hidden"
-      ]
-    ]
-  },
-  {
-    "title": "Design systems are about reasoning",
-    "link": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038",
-    "source": "UX Collective",
-    "date": "2026-11-01",
-    "added": "2026-11-02T05:59:01Z",
-    "summary": "Argues that a design system should record the reasoning behind design decisions, not just a library of components.",
-    "terms": [
-      [
-        "rationale",
-        "the reasons behind a decision"
-      ],
-      [
-        "component",
-        "a reusable building block of an interface"
-      ]
-    ]
-  },
-  {
-    "title": "Marine rope turned into rocking stools",
-    "link": "https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw/",
-    "source": "Dezeen",
-    "date": "2026-11-01",
-    "added": "2026-11-02T05:59:01Z",
-    "summary": "Discarded marine rope has been recycled into stools that rock gently, like buoys floating on water.",
-    "terms": [
-      [
-        "buoy",
-        "a floating marker anchored in water"
-      ],
-      [
-        "upcycle",
-        "to turn waste material into something of higher value"
-      ]
-    ]
-  },
-  {
-    "title": "Dezeen's October furniture favourites",
-    "link": "https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/",
-    "source": "Dezeen",
-    "date": "2026-11-01",
-    "added": "2026-11-02T05:59:01Z",
-    "summary": "A roundup of the furniture and homeware pieces Dezeen liked most during October.",
-    "terms": [
-      [
-        "homeware",
-        "objects used to furnish and decorate a home"
-      ],
-      [
-        "roundup",
-        "a summary collecting several related items"
-      ]
-    ]
-  },
-  {
-    "title": "Hellmann's campaign to save mayo",
-    "link": "https://www.creativereview.co.uk/hellmans-campaign-sos-adopt-sandwich/",
-    "source": "Creative Review",
-    "date": "",
-    "added": "2026-11-01T05:52:21Z",
-    "summary": "A Hellmann's campaign that tackles the risk of mayonnaise disappearing as a sandwich condiment.",
-    "terms": [
-      [
-        "condiment",
-        "a sauce or seasoning added to food, like mustard or mayo"
-      ],
-      [
-        "safeguard",
-        "to protect something from harm or loss"
-      ]
-    ]
-  },
-  {
-    "title": "Struggle together",
-    "link": "https://ryo.lu/journal/struggle-together",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-01T05:52:21Z",
-    "summary": "A journal post shared on Sidebar titled \"Struggle together\".",
-    "terms": [
-      [
-        "struggle",
-        "to work hard against difficulty"
-      ],
-      [
-        "journal",
-        "a personal written record or blog of thoughts"
-      ]
-    ]
-  },
-  {
-    "title": "Shipping the roadmap is the minimum",
-    "link": "https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-01T05:52:21Z",
-    "summary": "A link shared on Sidebar arguing that delivering what is on the product roadmap is only the baseline expectation.",
-    "terms": [
-      [
-        "roadmap",
-        "a plan showing what a team intends to build and when"
-      ],
-      [
-        "baseline",
-        "the minimum standard used for comparison"
-      ]
-    ]
-  },
-  {
-    "title": "The New York Times turns 175",
-    "link": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "A link shared on Sidebar about how The New York Times is marking its 175th anniversary with an identity, events and a campaign.",
-    "terms": [
-      [
-        "anniversary",
-        "the date marking a number of years since an event"
-      ],
-      [
-        "campaign",
-        "a planned series of ads or activities with one goal"
-      ]
-    ]
-  },
-  {
-    "title": "Website migration costs are going to zero",
-    "link": "https://dri.es/website-migration-costs-are-going-to-zero",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-10-31T06:02:05Z",
-    "summary": "A blog post shared on Sidebar arguing that the cost of moving a website to a new platform is approaching zero.",
-    "terms": [
-      [
-        "migration",
-        "moving a website or data from one system to another"
-      ],
-      [
-        "platform",
-        "the underlying software a product is built on"
       ]
     ]
   }

@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 05:44:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 05:51:58 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>10 nov. : Abou Dhabi, Smic, Just Eat</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-10.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-10.html</guid>
-<pubDate>Tue, 10 Nov 2026 05:45:00 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 05:52:44 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les pourparlers sur l'Ukraine s'ouvrent à Abou Dhabi sous médiation américaine, la France avance la hausse du Smic pour apaiser la colère sociale, et Just Eat supprime 373 contrats en Suisse.
 
@@ -42,10 +42,46 @@ SUISSE
 Mots clés : des pourparlers — des discussions officielles en vue d'un accord ; avancer une mesure — la mettre en œuvre plus tôt que prévu ; la défiscalisation — l'exonération d'impôt d'un revenu ; un recours — une démarche en justice pour contester une décision ; la désescalade — la baisse progressive des tensions ; un excédent commercial — quand un pays exporte plus qu'il n'importe</description>
 </item>
 <item>
+<title>What AI readiness means for design systems</title>
+<link>https://seanvoisen.com/writing/design-system-ai-readiness/</link>
+<guid isPermaLink="true">https://seanvoisen.com/writing/design-system-ai-readiness/</guid>
+<pubDate>Tue, 10 Nov 2026 05:51:44 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay, shared on Sidebar, arguing that making a design system ready for AI is less about machine-readable files and more about where people stay involved.
+
+Key terms: design system — a shared set of components and rules for building products; human in the loop — a process where people review or guide automated steps
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Testing pages beyond the usual viewport</title>
+<link>https://ishadeed.com/article/beyond-the-viewport/</link>
+<guid isPermaLink="true">https://ishadeed.com/article/beyond-the-viewport/</guid>
+<pubDate>Tue, 10 Nov 2026 05:51:44 +0000</pubDate>
+<category>Sidebar</category>
+<description>An article, shared on Sidebar, about a way to see how a web page behaves at unusual screen and window sizes.
+
+Key terms: viewport — the visible area of a web page in a browser; responsive design — layouts that adapt to different screen sizes
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Boots goes for laughs at Christmas</title>
+<link>https://www.creativereview.co.uk/boots-christmas-ad-2026-wpp/</link>
+<guid isPermaLink="true">https://www.creativereview.co.uk/boots-christmas-ad-2026-wpp/</guid>
+<pubDate>Tue, 10 Nov 2026 05:51:44 +0000</pubDate>
+<category>Creative Review</category>
+<description>Creative Review covers the British retailer Boots' 2026 Christmas advert, which takes a humorous approach.
+
+Key terms: festive — relating to Christmas or a holiday celebration; tongue-in-cheek — meant to be funny, not taken seriously
+
+Source: Creative Review</description>
+</item>
+<item>
 <title>9 nov. : G7 à Paris, Mélenchon, élections à Fribourg</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-09.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-09.html</guid>
-<pubDate>Mon, 09 Nov 2026 05:53:40 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les ministres du G7 se réunissent à Paris sur l'Ukraine et l'Iran, Jean-Luc Mélenchon est vivement critiqué pour ses propos sur le Donbass, et l'UDC devient la première force du canton de Fribourg en voix.
 
@@ -74,6 +110,66 @@ SUISSE
 • La France insoumise s'attend à un accueil hostile de son programme par les marchés financiers, mais ne cherche pas à les rassurer. (Le Temps: https://www.letemps.ch/monde/france/ce-n-est-pas-notre-sujet-les-melenchonistes-assument-de-ne-pas-vouloir-rassurer-les-marches-financiers-avec-leur-nouveau-programme)
 
 Mots clés : un porte-parole — une personne qui parle au nom d'un groupe ou d'un gouvernement ; une pétition — un texte signé par de nombreuses personnes pour demander quelque chose aux autorités ; élu au premier tour — qui obtient la majorité dès le premier vote, sans second tour ; une médiation — l'intervention d'un tiers pour aider deux parties à trouver un accord ; l'austérité — une politique de réduction des dépenses publiques ; atteindre de nouveaux sommets — pour un indice boursier, monter à un niveau jamais atteint</description>
+</item>
+<item>
+<title>What design tools quietly leave out</title>
+<link>https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85</link>
+<guid isPermaLink="true">https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay arguing that building a design tool is like writing rules, and that those rules silently remove some possibilities from the world.
+
+Key terms: constraint — a limit that shapes what can be made; affordance — what an object or tool suggests you can do with it
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>What typesetters can teach designers about AI</title>
+<link>https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285</link>
+<guid isPermaLink="true">https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An interview with Christian Crumlish comparing typesetters displaced by personal computers with designers now facing AI, and what that means for professional identity.
+
+Key terms: typesetter — a person who arranged type for printing; displaced — pushed out of a job or place by something new
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Unlimited AI tokens as a status symbol</title>
+<link>https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3</link>
+<guid isPermaLink="true">https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>A short piece suggesting that huge AI usage budgets have become a kind of status display, while well-chosen limits actually help people think clearly.
+
+Key terms: flex — a showy display of wealth or status (informal); country club — an exclusive private club, used as a symbol of privilege
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Check this before shipping a year-end recap</title>
+<link>https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8</link>
+<guid isPermaLink="true">https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>A look at what last year's personalised year-in-review features got right, what has changed in 2026, and one step teams often skip before launch.
+
+Key terms: year-in-review — a summary of someone's activity over the past year; personalisation — tailoring content to each individual user
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Career advice: you remain a designer regardless</title>
+<link>https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-091126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-091126</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>An entry in It's Nice That's careers advice column, reassuring a reader that being a designer is part of who you are, whether or not you do it full time.
+
+Key terms: side hustle — paid work done alongside a main job; career pivot — a deliberate change of career direction
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>Make painful things less painful</title>
@@ -969,82 +1065,10 @@ Key terms: spending cap — a fixed limit on how much can be spent; transparent 
 Source: UX Collective</description>
 </item>
 <item>
-<title>Design systems are about reasoning</title>
-<link>https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038</link>
-<guid isPermaLink="true">https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038</guid>
-<pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>Argues that a design system should record the reasoning behind design decisions, not just a library of components.
-
-Key terms: rationale — the reasons behind a decision; component — a reusable building block of an interface
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Marine rope turned into rocking stools</title>
-<link>https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw/</guid>
-<pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Discarded marine rope has been recycled into stools that rock gently, like buoys floating on water.
-
-Key terms: buoy — a floating marker anchored in water; upcycle — to turn waste material into something of higher value
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Dezeen's October furniture favourites</title>
-<link>https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/</guid>
-<pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>A roundup of the furniture and homeware pieces Dezeen liked most during October.
-
-Key terms: homeware — objects used to furnish and decorate a home; roundup — a summary collecting several related items
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Hellmann's campaign to save mayo</title>
-<link>https://www.creativereview.co.uk/hellmans-campaign-sos-adopt-sandwich/</link>
-<guid isPermaLink="true">https://www.creativereview.co.uk/hellmans-campaign-sos-adopt-sandwich/</guid>
-<pubDate>Sun, 01 Nov 2026 05:52:21 +0000</pubDate>
-<category>Creative Review</category>
-<description>A Hellmann's campaign that tackles the risk of mayonnaise disappearing as a sandwich condiment.
-
-Key terms: condiment — a sauce or seasoning added to food, like mustard or mayo; safeguard — to protect something from harm or loss
-
-Source: Creative Review</description>
-</item>
-<item>
-<title>Struggle together</title>
-<link>https://ryo.lu/journal/struggle-together</link>
-<guid isPermaLink="true">https://ryo.lu/journal/struggle-together</guid>
-<pubDate>Sun, 01 Nov 2026 05:52:21 +0000</pubDate>
-<category>Sidebar</category>
-<description>A journal post shared on Sidebar titled "Struggle together".
-
-Key terms: struggle — to work hard against difficulty; journal — a personal written record or blog of thoughts
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Shipping the roadmap is the minimum</title>
-<link>https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum/</link>
-<guid isPermaLink="true">https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum/</guid>
-<pubDate>Sun, 01 Nov 2026 05:52:21 +0000</pubDate>
-<category>Sidebar</category>
-<description>A link shared on Sidebar arguing that delivering what is on the product roadmap is only the baseline expectation.
-
-Key terms: roadmap — a plan showing what a team intends to build and when; baseline — the minimum standard used for comparison
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>31 oct. : manifestations, PIB en recul, Parmelin à Pékin</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-10-31.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-31.html</guid>
-<pubDate>Sat, 31 Oct 2026 06:03:05 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 05:50:11 +0000</pubDate>
 <category>Le point du jour</category>
 <description>La France se prépare à un week-end de manifestations sous haute tension alors que son PIB recule au troisième trimestre, tandis que la Suisse signe à Pékin un accord de libre-échange modernisé avec la Chine.
 
@@ -1073,30 +1097,6 @@ SUISSE
 • TotalEnergies annonce une baisse du prix du gazole dans certaines de ses stations dès samedi. (France 24: https://www.france24.com/fr/info-en-continu/20261030-totalenergies-annonce-baisser-le-prix-du-gazole-dans-certaines-stations-d%C3%A8s-samedi)
 
 Mots clés : être à l'arrêt — ne plus avancer, être bloqué ; un recours — une démarche pour contester une décision devant une autorité ou un tribunal ; avec sursis — se dit d'une peine qui ne sera pas exécutée si la personne ne récidive pas ; un accord de libre-échange — un traité qui réduit ou supprime les droits de douane entre pays ; sous haute tension — dans un climat de forte inquiétude, où un conflit peut éclater ; renouer le dialogue — reprendre des discussions interrompues</description>
-</item>
-<item>
-<title>The New York Times turns 175</title>
-<link>https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign</link>
-<guid isPermaLink="true">https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign</guid>
-<pubDate>Sat, 31 Oct 2026 06:02:05 +0000</pubDate>
-<category>Sidebar</category>
-<description>A link shared on Sidebar about how The New York Times is marking its 175th anniversary with an identity, events and a campaign.
-
-Key terms: anniversary — the date marking a number of years since an event; campaign — a planned series of ads or activities with one goal
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Website migration costs are going to zero</title>
-<link>https://dri.es/website-migration-costs-are-going-to-zero</link>
-<guid isPermaLink="true">https://dri.es/website-migration-costs-are-going-to-zero</guid>
-<pubDate>Sat, 31 Oct 2026 06:02:05 +0000</pubDate>
-<category>Sidebar</category>
-<description>A blog post shared on Sidebar arguing that the cost of moving a website to a new platform is approaching zero.
-
-Key terms: migration — moving a website or data from one system to another; platform — the underlying software a product is built on
-
-Source: Sidebar</description>
 </item>
 <item>
 <title>30 oct. : Lagarde quitte la BCE, Dnipro, Binance</title>
