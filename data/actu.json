@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-11",
+    "added": "2026-11-11T05:44:14Z",
+    "title": "11 nov. : Abou Dhabi, Riner et Zemmour, OIT",
+    "lede": "Les pourparlers entre l'Ukraine et la Russie se poursuivent à Abou Dhabi, la course à la présidentielle française s'anime avec Teddy Riner et Éric Zemmour, et à Genève le personnel de l'OIT se mobilise contre les coupes.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Ukraine-Russie : la première journée de pourparlers à Abou Dhabi, sous médiation américaine, a été « constructive » et « substantielle », selon Volodymyr Zelensky. Les discussions se poursuivent ce mercredi.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261110-en-direct-ukraine-russie-negociations-directes-abu-dhabi-%C3%A9mirats-witkoff-kushner"
+          },
+          {
+            "text": "Selon Washington, Kyiv et Moscou feraient preuve d'une « légère flexibilité territoriale ». Les États-Unis plaident aussi pour un « nouveau » cadre de sécurité avec l'Europe.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/10/guerre-en-ukraine-kyiv-et-moscou-montreraient-une-legere-flexibilite-territoriale-selon-wa"
+          },
+          {
+            "text": "Le Royaume-Uni a arrêté un militaire américain soupçonné d'espionnage au profit de la Russie.",
+            "source": "France 24",
+            "link": "https://france24.com/fr/europe/20261110-royaume-uni-arrete-militaire-americain-soup%C3%A7onne-espionnage-russie"
+          },
+          {
+            "text": "L'Union européenne veut qu'il soit plus facile de désactiver les fonctions jugées addictives des applications.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261111-eu-to-make-addictive-app-features-easier-to-switch-off"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Le champion olympique de judo Teddy Riner se lance dans la course à la présidentielle de 2027. Selon un sondage, 22 % des électeurs seraient « prêts » à voter pour lui.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261110-22-des-%C3%A9lecteurs-seraient-pr%C3%AAts-%C3%A0-voter-pour-teddy-riner-en-2027-selon-un-sondage"
+          },
+          {
+            "text": "Éric Zemmour confirme sa candidature à la présidentielle, affirmant vouloir « enrayer le déclin ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin"
+          },
+          {
+            "text": "Le Rassemblement national tient une piste à l'étranger pour financer sa campagne présidentielle ; selon France 24, deux banques européennes envisagent un prêt d'environ 10 millions d'euros.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/10/presidentielle-le-rn-tient-enfin-une-piste-a-letranger-pour-financer-sa-campagne"
+          },
+          {
+            "text": "Nouvelle journée de mobilisation dans l'éducation, avec des blocages de lycées. Emmanuel Macron a apporté son soutien à une élue atteinte par une bouteille d'essence.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/10/on-ne-se-bat-pas-que-pour-nous-les-lyceens-de-nouveau-dans-la-rue-pour-accentuer-la-pressi"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Genève : près de 300 employés et retraités de l'Organisation internationale du travail (OIT) ont manifesté dans les locaux de l'organisation contre les coupes budgétaires, avec le soutien des syndicats genevois.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Une manifestation contre l'austérité est prévue à Genève le 14 novembre.",
+            "source": "Tribune de Genève",
+            "link": "https://www.tdg.ch/geneve-une-manifestation-contre-lausterite-le-14-novembre-216505642700"
+          },
+          {
+            "text": "La semaine de 45 heures au lieu de 50 pour le personnel infirmier reste dans la course : le Conseil national s'y oppose, mais une commission recommande au Conseil des États de la soutenir.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Une cinquantaine de personnes ont manifesté à Berne contre les coupes annoncées par le Conseil fédéral dans l'offre internationale de la SSR, dont Swissinfo.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Les Bourses européennes ont terminé la séance de mardi majoritairement en petite hausse.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261110-les-bourses-europ%C3%A9ennes-terminent-majoritairement-en-petite-hausse"
+          },
+          {
+            "text": "Grèves en Europe : selon une analyse, c'est l'Allemagne qui en paierait la plus grosse facture.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/10/greves-en-europe-lallemagne-paierait-la-plus-grosse-facture"
+          },
+          {
+            "text": "Kyriakos Pierrakakis s'est exprimé sur la flambée des prix et sur la succession de Christine Lagarde à la tête de la BCE.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/10/europe-today-pierrakakis-sur-la-flambee-des-prix-et-la-succession-de-lagarde"
+          },
+          {
+            "text": "La Chine a dépassé dès octobre la barre des 1 000 milliards de dollars d'excédent commercial sur l'année.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261110-la-chine-passe-la-marque-des-1-000-milliards-de-dollars-d-exc%C3%A9dent-commercial-d%C3%A8s-octobre"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "l'austérité",
+        "une politique de réduction stricte des dépenses publiques"
+      ],
+      [
+        "une coupe budgétaire",
+        "une réduction des moyens financiers accordés"
+      ],
+      [
+        "se porter candidat",
+        "se présenter officiellement à une élection"
+      ],
+      [
+        "un sondage",
+        "une enquête d'opinion auprès d'un échantillon de personnes"
+      ],
+      [
+        "la flexibilité",
+        "la capacité à faire des concessions, à s'adapter"
+      ],
+      [
+        "payer la facture",
+        "supporter le coût d'une situation"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-10",
     "added": "2026-11-10T05:44:00Z",
     "title": "10 nov. : Abou Dhabi, Smic, Just Eat",
