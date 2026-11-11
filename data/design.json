@@ -1,5 +1,41 @@
 [
   {
+    "title": "John Lewis marks its 20th Christmas ad",
+    "link": "https://www.creativereview.co.uk/john-lewis-christmas-ad-2026-kristin-scott-thomas-sam-fender/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-11T05:46:39Z",
+    "summary": "John Lewis celebrates its twentieth Christmas advert with a star-studded film featuring Kristin Scott Thomas and Sam Fender.",
+    "terms": [
+      [
+        "star-studded",
+        "featuring many famous people"
+      ],
+      [
+        "milestone",
+        "an important point or anniversary in a long history"
+      ]
+    ]
+  },
+  {
+    "title": "Waitrose brings back The Perfect Gift lovers",
+    "link": "https://www.creativereview.co.uk/waitrose-the-perfect-gift-2-christmas-ad-keira-knightley-joe-wilkinson/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-11T05:46:39Z",
+    "summary": "Waitrose's Christmas ad is a sequel to The Perfect Gift, reuniting the star-crossed couple played by Keira Knightley and Joe Wilkinson.",
+    "terms": [
+      [
+        "sequel",
+        "a follow-up that continues an earlier story"
+      ],
+      [
+        "star-crossed lovers",
+        "a couple whose romance seems doomed by bad luck"
+      ]
+    ]
+  },
+  {
     "title": "What AI readiness means for design systems",
     "link": "https://seanvoisen.com/writing/design-system-ai-readiness/",
     "source": "Sidebar",
@@ -52,6 +88,24 @@
       ]
     ],
     "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "Mona Chalabi's illustrated book on wealth inequality",
+    "link": "https://www.itsnicethat.com/features/mona-chalabi-ten-lives-illustration-spotlight-091126",
+    "source": "It's Nice That",
+    "date": "2026-11-09",
+    "added": "2026-11-11T05:46:39Z",
+    "summary": "A feature on Mona Chalabi's new illustrated book about wealth inequality, which aims to get readers talking openly with friends about money.",
+    "terms": [
+      [
+        "wealth inequality",
+        "the uneven way money and assets are shared across a society"
+      ],
+      [
+        "illustrated book",
+        "a book where drawings carry much of the story or data"
+      ]
+    ]
   },
   {
     "title": "What design tools quietly leave out",
@@ -648,6 +702,24 @@
     ]
   },
   {
+    "title": "Alter exhibition returns to Tokyo",
+    "link": "https://www.dezeen.com/2026/11/04/alter-design-exhibition-tokyo/",
+    "source": "Dezeen",
+    "date": "2026-11-04",
+    "added": "2026-11-11T05:46:39Z",
+    "summary": "The Alter design exhibition is back in Tokyo, with highlights including an AI-powered tea ceremony and furniture made from washi paper.",
+    "terms": [
+      [
+        "washi",
+        "a strong, light traditional Japanese paper"
+      ],
+      [
+        "tea ceremony",
+        "a formal Japanese ritual of preparing and serving tea"
+      ]
+    ]
+  },
+  {
     "title": "Figur's lived-in graphics for sportswear brands",
     "link": "https://www.itsnicethat.com/articles/figur-graphic-design-discover-041126",
     "source": "It's Nice That",
@@ -1004,78 +1076,6 @@
       [
         "tactile",
         "pleasant or interesting to touch"
-      ]
-    ]
-  },
-  {
-    "title": "Alex Rorison treats photos as physical objects",
-    "link": "https://www.itsnicethat.com/articles/alex-rorison-photography-discover-021126",
-    "source": "It's Nice That",
-    "date": "2026-11-02",
-    "added": "2026-11-03T05:57:26Z",
-    "summary": "London photographer Alex Rorison reworks his images through darkroom printing, collage and hand embroidery. He welcomes imperfection and sees making an image as continuing after the photo is taken.",
-    "terms": [
-      [
-        "still life",
-        "a picture of arranged objects that do not move"
-      ],
-      [
-        "darkroom",
-        "a dark room where photographic film and prints are developed"
-      ]
-    ]
-  },
-  {
-    "title": "Eight design events to see in November",
-    "link": "https://www.dezeen.com/2026/11/02/eight-architecture-and-design-events-in-november-from-dezeen-events-guide/",
-    "source": "Dezeen",
-    "date": "2026-11-02",
-    "added": "2026-11-03T05:57:26Z",
-    "summary": "Dezeen's Events Guide picks eight architecture and design events taking place in November.",
-    "terms": [
-      [
-        "events guide",
-        "a listing of upcoming shows, fairs and talks"
-      ],
-      [
-        "design week",
-        "a city-wide festival of design exhibitions and talks"
-      ]
-    ]
-  },
-  {
-    "title": "When accessible colors make bad palettes",
-    "link": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d",
-    "source": "UX Collective",
-    "date": "2026-11-01",
-    "added": "2026-11-02T05:59:01Z",
-    "summary": "An essay on accessibility problems that appear when generative AI builds diverging color palettes for data visualization, even if each color passes on its own.",
-    "terms": [
-      [
-        "diverging palette",
-        "a set of colors running from one hue to another through a neutral middle"
-      ],
-      [
-        "contrast ratio",
-        "a measure of how different two colors look in brightness"
-      ]
-    ]
-  },
-  {
-    "title": "Designing clear AI cost controls",
-    "link": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104",
-    "source": "UX Collective",
-    "date": "2026-11-01",
-    "added": "2026-11-02T05:59:01Z",
-    "summary": "A practical guide to choosing usage units, setting spending limits and explaining AI costs to users before, during and after a task.",
-    "terms": [
-      [
-        "spending cap",
-        "a fixed limit on how much can be spent"
-      ],
-      [
-        "transparent",
-        "open and easy to understand, with nothing hidden"
       ]
     ]
   }
