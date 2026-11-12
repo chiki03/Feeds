@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 05:44:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 05:52:28 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>12 nov. : prisonniers, primaire à droite, Moody's</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-12.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-12.html</guid>
-<pubDate>Thu, 12 Nov 2026 05:45:45 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 05:53:22 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les pourparlers d'Abou Dhabi s'achèvent sur un vaste échange de prisonniers entre l'Ukraine et la Russie, Bruno Retailleau propose une primaire de la droite et du centre, et Moody's abaisse sa prévision de croissance pour la France.
 
@@ -41,6 +41,54 @@ SUISSE
 • L'Allemagne va constituer une réserve stratégique de gaz pour faire face aux situations d'urgence. (France 24 (EN): https://www.france24.com/en/live-news/20261111-germany-to-create-strategic-gas-reserve-to-guard-against-emergencies)
 
 Mots clés : un échange de prisonniers — la libération réciproque de détenus entre deux camps ; une primaire — un vote organisé pour désigner le candidat unique d'un camp politique ; lever des sanctions — supprimer des mesures de pression économiques ou politiques ; une prévision de croissance — une estimation de l'évolution future de l'activité économique ; interdire d'entrée — refuser à quelqu'un l'accès au territoire d'un pays ; comparaître — se présenter devant un tribunal</description>
+</item>
+<item>
+<title>A better name for design systems?</title>
+<link>https://karolinaszczur.com/journal/translation-not-rebranding/</link>
+<guid isPermaLink="true">https://karolinaszczur.com/journal/translation-not-rebranding/</guid>
+<pubDate>Thu, 12 Nov 2026 05:52:22 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay titled "There's no better name for design systems", framed around translation rather than rebranding.
+
+Key terms: design system — a shared set of reusable components and rules for building products; rebranding — changing the name or image of something
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Let AI do what it does best</title>
+<link>https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/</link>
+<guid isPermaLink="true">https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/</guid>
+<pubDate>Thu, 12 Nov 2026 05:52:22 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay arguing that people should not be made to do tasks that AI is very good at.
+
+Key terms: delegate — to give a task to someone or something else; tedious — boring because it is long and repetitive
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>What product strategy actually does</title>
+<link>https://www.davesresearch.com/product-strategy/</link>
+<guid isPermaLink="true">https://www.davesresearch.com/product-strategy/</guid>
+<pubDate>Thu, 12 Nov 2026 05:52:22 +0000</pubDate>
+<category>Sidebar</category>
+<description>A piece explaining what product strategy does for a team and a product.
+
+Key terms: product strategy — a plan for what a product should achieve and why; roadmap — a plan showing what will be built and when
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Customer or product?</title>
+<link>https://customerorproduct.org/</link>
+<guid isPermaLink="true">https://customerorproduct.org/</guid>
+<pubDate>Thu, 12 Nov 2026 05:52:22 +0000</pubDate>
+<category>Sidebar</category>
+<description>A site that asks whether you are the customer or the product.
+
+Key terms: customer — someone who pays for a product or service; monetize — to make money from something
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>11 nov. : Abou Dhabi, Riner et Zemmour, OIT</title>
@@ -104,7 +152,7 @@ Source: Creative Review</description>
 <title>10 nov. : Abou Dhabi, Smic, Just Eat</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-10.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-10.html</guid>
-<pubDate>Tue, 10 Nov 2026 05:52:44 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les pourparlers sur l'Ukraine s'ouvrent à Abou Dhabi sous médiation américaine, la France avance la hausse du Smic pour apaiser la colère sociale, et Just Eat supprime 373 contrats en Suisse.
 
@@ -132,6 +180,18 @@ SUISSE
 • Porté par le boom de l'intelligence artificielle, l'excédent commercial de la Chine dépasse 1 000 milliards de dollars. (Euronews: https://fr.euronews.com/2026/11/10/excedent-commercial-chinois-depasse-1-000-milliards-de-dollars-grace-au-boom-de-lia)
 
 Mots clés : des pourparlers — des discussions officielles en vue d'un accord ; avancer une mesure — la mettre en œuvre plus tôt que prévu ; la défiscalisation — l'exonération d'impôt d'un revenu ; un recours — une démarche en justice pour contester une décision ; la désescalade — la baisse progressive des tensions ; un excédent commercial — quand un pays exporte plus qu'il n'importe</description>
+</item>
+<item>
+<title>Bon Iver's 22, A Million artwork revisited</title>
+<link>https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126</guid>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Designer Eric Timothy Carlson looks back, ten years on, at creating the visual world of Bon Iver's album 22, A Million.
+
+Key terms: visual universe — a consistent set of images, symbols and styles around one project; album artwork — the images and graphics designed for a music release
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>What AI readiness means for design systems</title>
@@ -202,6 +262,18 @@ SUISSE
 • La France insoumise s'attend à un accueil hostile de son programme par les marchés financiers, mais ne cherche pas à les rassurer. (Le Temps: https://www.letemps.ch/monde/france/ce-n-est-pas-notre-sujet-les-melenchonistes-assument-de-ne-pas-vouloir-rassurer-les-marches-financiers-avec-leur-nouveau-programme)
 
 Mots clés : un porte-parole — une personne qui parle au nom d'un groupe ou d'un gouvernement ; une pétition — un texte signé par de nombreuses personnes pour demander quelque chose aux autorités ; élu au premier tour — qui obtient la majorité dès le premier vote, sans second tour ; une médiation — l'intervention d'un tiers pour aider deux parties à trouver un accord ; l'austérité — une politique de réduction des dépenses publiques ; atteindre de nouveaux sommets — pour un indice boursier, monter à un niveau jamais atteint</description>
+</item>
+<item>
+<title>Dezeen Awards trophy remade in cork</title>
+<link>https://www.dezeen.com/2026/11/09/dezeen-awards-2026-trophy-cork-amorim-corticeira/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/09/dezeen-awards-2026-trophy-cork-amorim-corticeira/</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>The Dezeen Awards trophy has been updated using cork, which the piece calls one of humanity's oldest natural materials.
+
+Key terms: cork — a light, spongy material taken from the bark of the cork oak; trophy — an object given as a prize for winning
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>Mona Chalabi's illustrated book on wealth inequality</title>
@@ -912,6 +984,18 @@ SUISSE
 Mots clés : une trêve — un arrêt temporaire des combats ; la fraude fiscale — le fait d'échapper illégalement à l'impôt ; une émeute — un soulèvement violent dans la rue ; démissionner — quitter volontairement ses fonctions ; la protection contre la faillite — une procédure qui protège une entreprise de ses créanciers pendant qu'elle se restructure ; boycotter — refuser de participer pour protester</description>
 </item>
 <item>
+<title>A family tree of software job titles</title>
+<link>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</link>
+<guid isPermaLink="true">https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</guid>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>A piece mapping software job titles as a family tree, showing how roles relate to and descend from each other.
+
+Key terms: job title — the official name of a person's role at work; family tree — a diagram showing how members of a group are related
+
+Source: Sidebar</description>
+</item>
+<item>
 <title>Teaching AI prototyping to fashion students</title>
 <link>https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e</link>
 <guid isPermaLink="true">https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e</guid>
@@ -984,22 +1068,10 @@ Key terms: doubt — a feeling of being unsure about something; ownership — be
 Source: Sidebar</description>
 </item>
 <item>
-<title>Someone will always be faster and cheaper</title>
-<link>https://www.chrbutler.com/faster-cheaper-better</link>
-<guid isPermaLink="true">https://www.chrbutler.com/faster-cheaper-better</guid>
-<pubDate>Tue, 03 Nov 2026 05:57:26 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay by Christopher Butler on the fact that there will always be someone faster, cheaper and better.
-
-Key terms: competition — rivalry between people trying to win the same thing; value — how useful or important something is to someone
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>2 nov. : Bulgarie, blocage des lycées, Suisse-Chine</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-02.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-02.html</guid>
-<pubDate>Mon, 02 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 05:49:47 +0000</pubDate>
 <category>Le point du jour</category>
 <description>La Bulgarie a voté pour un second tour présidentiel serré, la contestation sociale se poursuit en France avec l'appel à bloquer les lycées, et la Suisse fait le bilan d'un week-end d'Halloween et de manifestations agité.
 
@@ -1028,78 +1100,6 @@ SUISSE
 • Les Bourses asiatiques sont partagées lundi, le secteur technologique peinant à se redresser après une vague de ventes. (France 24 (EN): https://www.france24.com/en/live-news/20261102-asian-stocks-mixed-as-tech-sector-struggles-to-rebound-from-selloff)
 
 Mots clés : un second tour — le deuxième vote d'une élection, entre les candidats arrivés en tête au premier ; un cocktail Molotov — une bouteille remplie de liquide inflammable, utilisée comme projectile incendiaire ; une tentative de meurtre — le fait d'avoir essayé de tuer quelqu'un, même sans y parvenir ; une primaire — un vote organisé pour désigner le candidat d'un camp politique avant une élection ; mettre sous régie — placer une commune sous l'administration temporaire d'une autorité supérieure ; un impôt sur la fortune — une taxe calculée sur la valeur totale des biens d'une personne</description>
-</item>
-<item>
-<title>Nothing's creative lead on joy and wonder</title>
-<link>https://www.itsnicethat.com/features/in-house-nothing-charlie-smith-creative-industry-021126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/features/in-house-nothing-charlie-smith-creative-industry-021126</guid>
-<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A feature on Charlie Smith of the tech brand Nothing and why he is doubling down on joy and wonder in the company's creative work.
-
-Key terms: in-house — done by a company's own staff rather than an outside agency; double down — to commit even more strongly to something
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Rebuilding a design system's source of truth</title>
-<link>https://uxdesign.cc/state-of-a-system-5c8473db1e9</link>
-<guid isPermaLink="true">https://uxdesign.cc/state-of-a-system-5c8473db1e9</guid>
-<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>A designer reflects on rebuilding a design system and asks whether code or AI model skills should be its source of truth.
-
-Key terms: source of truth — the one place treated as the official, correct version; design system — a shared set of reusable components and rules
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Virtue ethics in everyday interface design</title>
-<link>https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781</link>
-<guid isPermaLink="true">https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781</guid>
-<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>An essay on how interface wording, visual hierarchy and friction can either support or undermine thoughtful choices by users.
-
-Key terms: virtue ethics — a moral theory focused on good character rather than rules; friction — anything that slows a user down on purpose or by accident
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Jaguar's Knightsbridge flagship store</title>
-<link>https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/</guid>
-<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Jaguar has designed its new London flagship store in Knightsbridge as a physical expression of its Type 01 electric car.
-
-Key terms: flagship store — a brand's main and most important shop; showroom — a space where products are displayed for buyers
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Why poster design is still a dark art</title>
-<link>https://www.itsnicethat.com/features/intl-poster-competition-graphic-design-spotlight-021126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/features/intl-poster-competition-graphic-design-spotlight-021126</guid>
-<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>INTL co-founder James Gilchrist talks about how poster design has changed over ten years. He picks out three trends from this year's competition, including textured surfaces, collaged 90s-style type and deliberately naive styles.
-
-Key terms: provoke — to cause a strong reaction in someone; naive style — art that looks simple or untrained on purpose
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>A calm, tactile identity for toy brand Toyto</title>
-<link>https://www.itsnicethat.com/articles/odd-works-toyto-graphic-design-project-021126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/odd-works-toyto-graphic-design-project-021126</guid>
-<pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Studio Odd Works designed the identity for Toyto, a Berlin maker of wooden block toys that encourage screen-free play. It uses a custom wordmark, a geometric typeface and simple, tactile packaging.
-
-Key terms: wordmark — a logo made only of a brand's name in styled letters; tactile — pleasant or interesting to touch
-
-Source: It's Nice That</description>
 </item>
 <item>
 <title>1er nov. : Acte III, scandale Ruag, taxe sur les colis</title>

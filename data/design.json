@@ -1,5 +1,77 @@
 [
   {
+    "title": "A better name for design systems?",
+    "link": "https://karolinaszczur.com/journal/translation-not-rebranding/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-12T05:52:22Z",
+    "summary": "An essay titled \"There's no better name for design systems\", framed around translation rather than rebranding.",
+    "terms": [
+      [
+        "design system",
+        "a shared set of reusable components and rules for building products"
+      ],
+      [
+        "rebranding",
+        "changing the name or image of something"
+      ]
+    ]
+  },
+  {
+    "title": "Let AI do what it does best",
+    "link": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-12T05:52:22Z",
+    "summary": "An essay arguing that people should not be made to do tasks that AI is very good at.",
+    "terms": [
+      [
+        "delegate",
+        "to give a task to someone or something else"
+      ],
+      [
+        "tedious",
+        "boring because it is long and repetitive"
+      ]
+    ]
+  },
+  {
+    "title": "What product strategy actually does",
+    "link": "https://www.davesresearch.com/product-strategy/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-12T05:52:22Z",
+    "summary": "A piece explaining what product strategy does for a team and a product.",
+    "terms": [
+      [
+        "product strategy",
+        "a plan for what a product should achieve and why"
+      ],
+      [
+        "roadmap",
+        "a plan showing what will be built and when"
+      ]
+    ]
+  },
+  {
+    "title": "Customer or product?",
+    "link": "https://customerorproduct.org/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-12T05:52:22Z",
+    "summary": "A site that asks whether you are the customer or the product.",
+    "terms": [
+      [
+        "customer",
+        "someone who pays for a product or service"
+      ],
+      [
+        "monetize",
+        "to make money from something"
+      ]
+    ]
+  },
+  {
     "title": "John Lewis marks its 20th Christmas ad",
     "link": "https://www.creativereview.co.uk/john-lewis-christmas-ad-2026-kristin-scott-thomas-sam-fender/",
     "source": "Creative Review",
@@ -32,6 +104,24 @@
       [
         "star-crossed lovers",
         "a couple whose romance seems doomed by bad luck"
+      ]
+    ]
+  },
+  {
+    "title": "Bon Iver's 22, A Million artwork revisited",
+    "link": "https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126",
+    "source": "It's Nice That",
+    "date": "2026-11-10",
+    "added": "2026-11-12T05:52:22Z",
+    "summary": "Designer Eric Timothy Carlson looks back, ten years on, at creating the visual world of Bon Iver's album 22, A Million.",
+    "terms": [
+      [
+        "visual universe",
+        "a consistent set of images, symbols and styles around one project"
+      ],
+      [
+        "album artwork",
+        "the images and graphics designed for a music release"
       ]
     ]
   },
@@ -88,6 +178,24 @@
       ]
     ],
     "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "Dezeen Awards trophy remade in cork",
+    "link": "https://www.dezeen.com/2026/11/09/dezeen-awards-2026-trophy-cork-amorim-corticeira/",
+    "source": "Dezeen",
+    "date": "2026-11-09",
+    "added": "2026-11-12T05:52:22Z",
+    "summary": "The Dezeen Awards trophy has been updated using cork, which the piece calls one of humanity's oldest natural materials.",
+    "terms": [
+      [
+        "cork",
+        "a light, spongy material taken from the bark of the cork oak"
+      ],
+      [
+        "trophy",
+        "an object given as a prize for winning"
+      ]
+    ]
   },
   {
     "title": "Mona Chalabi's illustrated book on wealth inequality",
@@ -846,6 +954,24 @@
     ]
   },
   {
+    "title": "A family tree of software job titles",
+    "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+    "source": "Sidebar",
+    "date": "2026-11-03",
+    "added": "2026-11-12T05:52:22Z",
+    "summary": "A piece mapping software job titles as a family tree, showing how roles relate to and descend from each other.",
+    "terms": [
+      [
+        "job title",
+        "the official name of a person's role at work"
+      ],
+      [
+        "family tree",
+        "a diagram showing how members of a group are related"
+      ]
+    ]
+  },
+  {
     "title": "Teaching AI prototyping to fashion students",
     "link": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e",
     "source": "UX Collective",
@@ -950,132 +1076,6 @@
       [
         "ownership",
         "being responsible for something"
-      ]
-    ]
-  },
-  {
-    "title": "Someone will always be faster and cheaper",
-    "link": "https://www.chrbutler.com/faster-cheaper-better",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-03T05:57:26Z",
-    "summary": "An essay by Christopher Butler on the fact that there will always be someone faster, cheaper and better.",
-    "terms": [
-      [
-        "competition",
-        "rivalry between people trying to win the same thing"
-      ],
-      [
-        "value",
-        "how useful or important something is to someone"
-      ]
-    ]
-  },
-  {
-    "title": "Nothing's creative lead on joy and wonder",
-    "link": "https://www.itsnicethat.com/features/in-house-nothing-charlie-smith-creative-industry-021126",
-    "source": "It's Nice That",
-    "date": "2026-11-02",
-    "summary": "A feature on Charlie Smith of the tech brand Nothing and why he is doubling down on joy and wonder in the company's creative work.",
-    "terms": [
-      [
-        "in-house",
-        "done by a company's own staff rather than an outside agency"
-      ],
-      [
-        "double down",
-        "to commit even more strongly to something"
-      ]
-    ],
-    "added": "2026-11-09T05:52:40Z"
-  },
-  {
-    "title": "Rebuilding a design system's source of truth",
-    "link": "https://uxdesign.cc/state-of-a-system-5c8473db1e9",
-    "source": "UX Collective",
-    "date": "2026-11-02",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "A designer reflects on rebuilding a design system and asks whether code or AI model skills should be its source of truth.",
-    "terms": [
-      [
-        "source of truth",
-        "the one place treated as the official, correct version"
-      ],
-      [
-        "design system",
-        "a shared set of reusable components and rules"
-      ]
-    ]
-  },
-  {
-    "title": "Virtue ethics in everyday interface design",
-    "link": "https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781",
-    "source": "UX Collective",
-    "date": "2026-11-02",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "An essay on how interface wording, visual hierarchy and friction can either support or undermine thoughtful choices by users.",
-    "terms": [
-      [
-        "virtue ethics",
-        "a moral theory focused on good character rather than rules"
-      ],
-      [
-        "friction",
-        "anything that slows a user down on purpose or by accident"
-      ]
-    ]
-  },
-  {
-    "title": "Jaguar's Knightsbridge flagship store",
-    "link": "https://www.dezeen.com/2026/11/02/jaguar-flagship-store-knightsbridge-london-type-01/",
-    "source": "Dezeen",
-    "date": "2026-11-02",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "Jaguar has designed its new London flagship store in Knightsbridge as a physical expression of its Type 01 electric car.",
-    "terms": [
-      [
-        "flagship store",
-        "a brand's main and most important shop"
-      ],
-      [
-        "showroom",
-        "a space where products are displayed for buyers"
-      ]
-    ]
-  },
-  {
-    "title": "Why poster design is still a dark art",
-    "link": "https://www.itsnicethat.com/features/intl-poster-competition-graphic-design-spotlight-021126",
-    "source": "It's Nice That",
-    "date": "2026-11-02",
-    "added": "2026-11-03T05:57:26Z",
-    "summary": "INTL co-founder James Gilchrist talks about how poster design has changed over ten years. He picks out three trends from this year's competition, including textured surfaces, collaged 90s-style type and deliberately naive styles.",
-    "terms": [
-      [
-        "provoke",
-        "to cause a strong reaction in someone"
-      ],
-      [
-        "naive style",
-        "art that looks simple or untrained on purpose"
-      ]
-    ]
-  },
-  {
-    "title": "A calm, tactile identity for toy brand Toyto",
-    "link": "https://www.itsnicethat.com/articles/odd-works-toyto-graphic-design-project-021126",
-    "source": "It's Nice That",
-    "date": "2026-11-02",
-    "added": "2026-11-03T05:57:26Z",
-    "summary": "Studio Odd Works designed the identity for Toyto, a Berlin maker of wooden block toys that encourage screen-free play. It uses a custom wordmark, a geometric typeface and simple, tactile packaging.",
-    "terms": [
-      [
-        "wordmark",
-        "a logo made only of a brand's name in styled letters"
-      ],
-      [
-        "tactile",
-        "pleasant or interesting to touch"
       ]
     ]
   }
