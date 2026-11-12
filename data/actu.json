@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-12",
+    "added": "2026-11-12T05:44:45Z",
+    "title": "12 nov. : prisonniers, primaire à droite, Moody's",
+    "lede": "Les pourparlers d'Abou Dhabi s'achèvent sur un vaste échange de prisonniers entre l'Ukraine et la Russie, Bruno Retailleau propose une primaire de la droite et du centre, et Moody's abaisse sa prévision de croissance pour la France.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Ukraine-Russie : après deux jours de pourparlers à Abou Dhabi, les deux pays ont acté un échange massif de prisonniers.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261111-ukraine-russie-un-%C3%A9change-massif-de-prisonniers-act%C3%A9-apr%C3%A8s-deux-jours-de-pourparlers"
+          },
+          {
+            "text": "Après ces discussions, les émissaires américains doivent rencontrer Vladimir Poutine et Volodymyr Zelensky.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
+          },
+          {
+            "text": "Kaja Kallas, cheffe de la diplomatie européenne, affirme que les États-Unis « ne peuvent pas négocier au nom » de l'UE sur une levée des sanctions contre la Russie.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/tv-shows/talking-europe/20261111-exclusive-eu-s-kallas-says-us-can-t-negotiate-on-our-behalf-on-lifting-russia-sanctions"
+          },
+          {
+            "text": "La Russie annonce la mort « soudaine » de son ambassadeur aux États-Unis, Alexandre Darchiev, à 66 ans.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/11/lambassadeur-russe-aux-etats-unis-alexandre-darchiev-meurt-a-66-ans"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Bruno Retailleau propose d'organiser une primaire de la droite et du centre les 31 janvier et 7 février, en vue de la présidentielle.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier"
+          },
+          {
+            "text": "Commémorations du 11-Novembre : Emmanuel Macron, Marine Le Pen et Jean-Luc Mélenchon ont rendu hommage, entre mémoire nationale et pacifisme.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/11/11-novembre-entre-memoire-nationale-et-pacifisme-les-hommages-de-macron-le-pen-et-melencho"
+          },
+          {
+            "text": "L'Iran rejette les accusations de la France, qui lui attribue les cyberattaques visant des réfrigérateurs.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/11/iran-rejette-les-accusations-francaises-sur-les-cyberattaques-de-frigos"
+          },
+          {
+            "text": "La Russie interdit d'entrée sur son territoire deux parlementaires et deux journalistes français.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261111-russia-bans-two-french-lawmakers-and-two-journalists-from-entry"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Tribunal fédéral : le juge Yves Donzallaz retire sa candidature, et la juge Beatrice van de Graaf est proposée à la réélection par la commission compétente.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Fribourg : six candidats s'affronteront le 29 novembre au deuxième tour de l'élection au Conseil d'État, pour quatre sièges à pourvoir.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Le conseiller national vaudois Michaël Buffat (UDC) comparaîtra le 23 novembre devant le Tribunal correctionnel d'Yverdon ; il est accusé de violences conjugales envers son ex-compagne.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Lausanne : une centaine de personnes ont manifesté devant le siège des Retraites populaires pour réclamer des placements plus responsables et plus transparents.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "L'agence Moody's abaisse à 0,2 % sa prévision de croissance pour la France en 2026.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261111-france-2026-growth-forecast-cut-to-0-2-by-moody-s"
+          },
+          {
+            "text": "Les Bourses européennes ont terminé la séance de mercredi en hausse.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261111-les-bourses-europ%C3%A9ennes-terminent-en-hausse"
+          },
+          {
+            "text": "Influenceurs, IA, « dark patterns » : l'UE veut mieux protéger les consommateurs contre les pièges du numérique.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261111-l-ue-veut-prot%C3%A9ger-les-consommateurs-des-pi%C3%A8ges-du-num%C3%A9rique"
+          },
+          {
+            "text": "L'Allemagne va constituer une réserve stratégique de gaz pour faire face aux situations d'urgence.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261111-germany-to-create-strategic-gas-reserve-to-guard-against-emergencies"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "un échange de prisonniers",
+        "la libération réciproque de détenus entre deux camps"
+      ],
+      [
+        "une primaire",
+        "un vote organisé pour désigner le candidat unique d'un camp politique"
+      ],
+      [
+        "lever des sanctions",
+        "supprimer des mesures de pression économiques ou politiques"
+      ],
+      [
+        "une prévision de croissance",
+        "une estimation de l'évolution future de l'activité économique"
+      ],
+      [
+        "interdire d'entrée",
+        "refuser à quelqu'un l'accès au territoire d'un pays"
+      ],
+      [
+        "comparaître",
+        "se présenter devant un tribunal"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-11",
     "added": "2026-11-11T05:44:14Z",
     "title": "11 nov. : Abou Dhabi, Riner et Zemmour, OIT",
