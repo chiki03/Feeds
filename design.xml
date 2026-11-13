@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 05:44:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 05:52:37 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>13 nov. : Ukraine, grève en Espagne, Nvidia</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-13.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-13.html</guid>
-<pubDate>Fri, 13 Nov 2026 05:45:41 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:53:37 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les Européens réunis à Dublin réclament leur place dans les négociations sur l'Ukraine, l'Espagne vit sa première grève générale depuis 14 ans, et le patron de Nvidia quitte ses fonctions.
 
@@ -42,10 +42,34 @@ SUISSE
 Mots clés : une grève générale — un arrêt de travail organisé dans tous les secteurs d'un pays ; porter plainte — saisir la justice pour dénoncer une infraction ; l'austérité — une politique de fortes économies dans les dépenses publiques ; une valeur refuge — un placement jugé sûr en période d'incertitude ; une fausse alerte — un avertissement de danger qui se révèle sans fondement ; démissionner — quitter volontairement ses fonctions</description>
 </item>
 <item>
+<title>Live one life in real statistics</title>
+<link>https://1in8b.life/en/</link>
+<guid isPermaLink="true">https://1in8b.life/en/</guid>
+<pubDate>Fri, 13 Nov 2026 05:52:37 +0000</pubDate>
+<category>Sidebar</category>
+<description>An interactive site that plays out the life of a baby born today using real national statistics.
+
+Key terms: statistics — numbers collected to describe a population; interactive — responding to what the user does
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>How AI agents decide what to remember</title>
+<link>https://www.anthropic.com/research/components-of-agent-memory</link>
+<guid isPermaLink="true">https://www.anthropic.com/research/components-of-agent-memory</guid>
+<pubDate>Fri, 13 Nov 2026 05:52:37 +0000</pubDate>
+<category>Sidebar</category>
+<description>A research piece on how an AI assistant decides what is worth remembering before it knows what will come next.
+
+Key terms: agent — an AI system that carries out tasks on its own; memory — stored information that can be used later
+
+Source: Sidebar</description>
+</item>
+<item>
 <title>12 nov. : prisonniers, primaire à droite, Moody's</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-12.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-12.html</guid>
-<pubDate>Thu, 12 Nov 2026 05:53:22 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les pourparlers d'Abou Dhabi s'achèvent sur un vaste échange de prisonniers entre l'Ukraine et la Russie, Bruno Retailleau propose une primaire de la droite et du centre, et Moody's abaisse sa prévision de croissance pour la France.
 
@@ -74,6 +98,54 @@ SUISSE
 • L'Allemagne va constituer une réserve stratégique de gaz pour faire face aux situations d'urgence. (France 24 (EN): https://www.france24.com/en/live-news/20261111-germany-to-create-strategic-gas-reserve-to-guard-against-emergencies)
 
 Mots clés : un échange de prisonniers — la libération réciproque de détenus entre deux camps ; une primaire — un vote organisé pour désigner le candidat unique d'un camp politique ; lever des sanctions — supprimer des mesures de pression économiques ou politiques ; une prévision de croissance — une estimation de l'évolution future de l'activité économique ; interdire d'entrée — refuser à quelqu'un l'accès au territoire d'un pays ; comparaître — se présenter devant un tribunal</description>
+</item>
+<item>
+<title>The hidden mental cost of heavy AI use</title>
+<link>https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0</link>
+<guid isPermaLink="true">https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>Dan Maccarone argues that the people who rely on AI most carry an extra job: juggling many separate AI tools. He points to research on context switching and mental fatigue.
+
+Key terms: context switching — moving your attention from one task or tool to another; fatigue — tiredness caused by effort over time
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Georgie McAusland skips expensive drawing tools</title>
+<link>https://www.itsnicethat.com/articles/georgie-mcausland-illustration-discover-121126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/georgie-mcausland-illustration-discover-121126</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A profile of illustrator Georgie McAusland, who avoids expensive tools to keep more softness and texture in her drawings.
+
+Key terms: texture — the feel or surface quality of a material or image; illustrator — an artist who makes pictures for books, media or brands
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Dum Dum Studio's playful design approach</title>
+<link>https://www.itsnicethat.com/articles/dum-dum-studio-graphic-design-discover-121126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/dum-dum-studio-graphic-design-discover-121126</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A look at Dum Dum Studio, whose inventive graphic design comes from an open mind and a love of play.
+
+Key terms: inventive — full of new and original ideas; playful — light-hearted and fun in spirit
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Cologne Cathedral lit with near-invisible lights</title>
+<link>https://www.dezeen.com/2026/11/12/licht-kunst-licht-cologne-cathedral</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/12/licht-kunst-licht-cologne-cathedral</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Lighting designers Licht Kunst Licht have lit the historic facade of Cologne Cathedral using fittings meant to be almost invisible.
+
+Key terms: facade — the front or outer face of a building; lighting design — planning how light is used in a space or on a building
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>A better name for design systems?</title>
@@ -127,7 +199,7 @@ Source: Sidebar</description>
 <title>11 nov. : Abou Dhabi, Riner et Zemmour, OIT</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-11.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-11.html</guid>
-<pubDate>Wed, 11 Nov 2026 05:47:39 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les pourparlers entre l'Ukraine et la Russie se poursuivent à Abou Dhabi, la course à la présidentielle française s'anime avec Teddy Riner et Éric Zemmour, et à Genève le personnel de l'OIT se mobilise contre les coupes.
 
@@ -156,6 +228,54 @@ SUISSE
 • La Chine a dépassé dès octobre la barre des 1 000 milliards de dollars d'excédent commercial sur l'année. (France 24: https://www.france24.com/fr/info-en-continu/20261110-la-chine-passe-la-marque-des-1-000-milliards-de-dollars-d-exc%C3%A9dent-commercial-d%C3%A8s-octobre)
 
 Mots clés : l'austérité — une politique de réduction stricte des dépenses publiques ; une coupe budgétaire — une réduction des moyens financiers accordés ; se porter candidat — se présenter officiellement à une élection ; un sondage — une enquête d'opinion auprès d'un échantillon de personnes ; la flexibilité — la capacité à faire des concessions, à s'adapter ; payer la facture — supporter le coût d'une situation</description>
+</item>
+<item>
+<title>Why build AI clones of Photoshop?</title>
+<link>https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7</link>
+<guid isPermaLink="true">https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>Heenesh Patel looks at AI-made copies of Photoshop and argues designers should focus on what users need to do and control, not on a cheaper copy.
+
+Key terms: clone — a close copy of an existing product; user task — the goal a person is trying to complete with a tool
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Designing how paying per click feels</title>
+<link>https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8</link>
+<guid isPermaLink="true">https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>Arin Bhowmick says AI products are moving to usage- and credit-based pricing, and that UX designers should shape how that cost is shown to people.
+
+Key terms: usage-based pricing — charging people according to how much they use something; credits — prepaid units spent on actions in a product
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Biabum's retro, illustration-led brand identities</title>
+<link>https://www.itsnicethat.com/articles/biabum-graphic-design-illustration-discover-111126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/biabum-graphic-design-illustration-discover-111126</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>The piece explores why studio Biabum builds illustration into the core of its retro-style brand identities.
+
+Key terms: brand identity — the visual system (logo, colours, type) that represents a company; retro — imitating styles from the recent past
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Emily Stein photographs Italian waterparks</title>
+<link>https://www.itsnicethat.com/articles/emily-stein-aquasplash-photography-project-111126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/emily-stein-aquasplash-photography-project-111126</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Photographer Emily Stein's colourful, chaotic pictures of waterparks in Italy.
+
+Key terms: chaotic — in a state of complete disorder; snap — an informal word for a photograph
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>John Lewis marks its 20th Christmas ad</title>
@@ -947,46 +1067,10 @@ Key terms: triennial — an event held every three years; inaugural — the firs
 Source: Dezeen</description>
 </item>
 <item>
-<title>Ontario house inspired by farm buildings</title>
-<link>https://www.dezeen.com/2026/11/04/hemlock-house-ontario-brian-o-brian/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/04/hemlock-house-ontario-brian-o-brian/</guid>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Brian O'Brian's Hemlock House in Ontario takes its cues from rural farm buildings.
-
-Key terms: vernacular — a local, traditional style of building; take cues from — to be inspired by or borrow ideas from
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Fingerprints are the new cookies</title>
-<link>https://royfish.dev/fingerprints-are-the-new-cookies</link>
-<guid isPermaLink="true">https://royfish.dev/fingerprints-are-the-new-cookies</guid>
-<pubDate>Wed, 04 Nov 2026 05:53:01 +0000</pubDate>
-<category>Sidebar</category>
-<description>A piece arguing that browser fingerprinting is taking over the tracking role that cookies used to play.
-
-Key terms: fingerprinting — identifying a device from its unique settings; tracking — following what people do online
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Entering the era of bleh</title>
-<link>https://www.noemamag.com/now-entering-the-era-of-bleh/</link>
-<guid isPermaLink="true">https://www.noemamag.com/now-entering-the-era-of-bleh/</guid>
-<pubDate>Wed, 04 Nov 2026 05:53:01 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay announcing what it calls the era of bleh, a time of dull, uninspiring culture.
-
-Key terms: bleh — a word expressing boredom or mild disgust; era — a long period of time with a shared character
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>3 nov. : Ukraine, Dubaï Papers, émeutes en Suisse</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-03.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-03.html</guid>
-<pubDate>Tue, 03 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 05:51:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>En Ukraine, des frappes russes font 26 morts après la fin de la trêve, le procès des « Dubaï Papers » s'ouvre à Paris, et la Suisse condamne les émeutes du week-end à Zurich et Bâle.
 
@@ -1015,90 +1099,6 @@ SUISSE
 • Négociations commerciales annuelles : la réunion préparatoire de lundi à Bercy a été boycottée par les distributeurs. (France 24: https://www.france24.com/fr/info-en-continu/20261102-n%C3%A9gociations-commerciales-r%C3%A9union-pr%C3%A9paratoire-lundi-%C3%A0-bercy-boycott%C3%A9e-par-les-distributeurs)
 
 Mots clés : une trêve — un arrêt temporaire des combats ; la fraude fiscale — le fait d'échapper illégalement à l'impôt ; une émeute — un soulèvement violent dans la rue ; démissionner — quitter volontairement ses fonctions ; la protection contre la faillite — une procédure qui protège une entreprise de ses créanciers pendant qu'elle se restructure ; boycotter — refuser de participer pour protester</description>
-</item>
-<item>
-<title>A family tree of software job titles</title>
-<link>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</link>
-<guid isPermaLink="true">https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</guid>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<category>Sidebar</category>
-<description>A piece mapping software job titles as a family tree, showing how roles relate to and descend from each other.
-
-Key terms: job title — the official name of a person's role at work; family tree — a diagram showing how members of a group are related
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Teaching AI prototyping to fashion students</title>
-<link>https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e</link>
-<guid isPermaLink="true">https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e</guid>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>A designer shares lessons from teaching fashion design students to prototype apps with AI tools instead of Figma.
-
-Key terms: prototype — an early test version of a product; curriculum — the set of subjects taught in a course
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Hot Cottage, a studio that mixes media</title>
-<link>https://www.itsnicethat.com/articles/hot-cottage-ed-davis-rob-cordiner-olivia-radonich-graphic-design-discover-031126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/hot-cottage-ed-davis-rob-cordiner-olivia-radonich-graphic-design-discover-031126</guid>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A profile of Hot Cottage, a design studio run by three partners whose work spans branding, album art, publishing and exhibitions, including a collage-style logo for an incense brand.
-
-Key terms: jack of all trades — a person who can do many different kinds of work; logotype — a logo made from a styled word or name
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>A magazine about eating whole fish</title>
-<link>https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126</guid>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Studio Beam designed a 200-page publication, part cookbook and part research archive, encouraging people to cook whole fish from New England waters.
-
-Key terms: hybrid — something that combines two or more different things; anatomical diagram — a drawing showing the parts of a body
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Sabine Marcelis holds first museum exhibition</title>
-<link>https://www.dezeen.com/2026/11/03/sabine-marcelis-exhibition-zurich-museum-fuer-gestaltung/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/03/sabine-marcelis-exhibition-zurich-museum-fuer-gestaltung/</guid>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Designer Sabine Marcelis presents her first museum exhibition, at the Museum für Gestaltung in Zurich, as a moment of reflection on her work.
-
-Key terms: exhibition — a public show of art or objects; reflect — to think carefully about the past
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>John Tree's sculptural pine Hoop lamp</title>
-<link>https://www.dezeen.com/2026/11/03/john-tree-sculptural-hoop-lamp-pine-vaarni/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/03/john-tree-sculptural-hoop-lamp-pine-vaarni/</guid>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Designer John Tree has created a sculptural lamp called Hoop, made from pine, for the furniture brand Vaarni.
-
-Key terms: sculptural — shaped like a work of sculpture; pine — a soft, light-coloured wood from evergreen trees
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Who owns the doubt in design?</title>
-<link>https://www.doc.cc/humankind/doubt</link>
-<guid isPermaLink="true">https://www.doc.cc/humankind/doubt</guid>
-<pubDate>Tue, 03 Nov 2026 05:57:26 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay asking who is responsible for doubt and uncertainty.
-
-Key terms: doubt — a feeling of being unsure about something; ownership — being responsible for something
-
-Source: Sidebar</description>
 </item>
 <item>
 <title>2 nov. : Bulgarie, blocage des lycées, Suisse-Chine</title>

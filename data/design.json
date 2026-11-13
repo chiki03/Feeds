@@ -1,5 +1,113 @@
 [
   {
+    "title": "Live one life in real statistics",
+    "link": "https://1in8b.life/en/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "An interactive site that plays out the life of a baby born today using real national statistics.",
+    "terms": [
+      [
+        "statistics",
+        "numbers collected to describe a population"
+      ],
+      [
+        "interactive",
+        "responding to what the user does"
+      ]
+    ]
+  },
+  {
+    "title": "How AI agents decide what to remember",
+    "link": "https://www.anthropic.com/research/components-of-agent-memory",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "A research piece on how an AI assistant decides what is worth remembering before it knows what will come next.",
+    "terms": [
+      [
+        "agent",
+        "an AI system that carries out tasks on its own"
+      ],
+      [
+        "memory",
+        "stored information that can be used later"
+      ]
+    ]
+  },
+  {
+    "title": "The hidden mental cost of heavy AI use",
+    "link": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0",
+    "source": "UX Collective",
+    "date": "2026-11-12",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "Dan Maccarone argues that the people who rely on AI most carry an extra job: juggling many separate AI tools. He points to research on context switching and mental fatigue.",
+    "terms": [
+      [
+        "context switching",
+        "moving your attention from one task or tool to another"
+      ],
+      [
+        "fatigue",
+        "tiredness caused by effort over time"
+      ]
+    ]
+  },
+  {
+    "title": "Georgie McAusland skips expensive drawing tools",
+    "link": "https://www.itsnicethat.com/articles/georgie-mcausland-illustration-discover-121126",
+    "source": "It's Nice That",
+    "date": "2026-11-12",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "A profile of illustrator Georgie McAusland, who avoids expensive tools to keep more softness and texture in her drawings.",
+    "terms": [
+      [
+        "texture",
+        "the feel or surface quality of a material or image"
+      ],
+      [
+        "illustrator",
+        "an artist who makes pictures for books, media or brands"
+      ]
+    ]
+  },
+  {
+    "title": "Dum Dum Studio's playful design approach",
+    "link": "https://www.itsnicethat.com/articles/dum-dum-studio-graphic-design-discover-121126",
+    "source": "It's Nice That",
+    "date": "2026-11-12",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "A look at Dum Dum Studio, whose inventive graphic design comes from an open mind and a love of play.",
+    "terms": [
+      [
+        "inventive",
+        "full of new and original ideas"
+      ],
+      [
+        "playful",
+        "light-hearted and fun in spirit"
+      ]
+    ]
+  },
+  {
+    "title": "Cologne Cathedral lit with near-invisible lights",
+    "link": "https://www.dezeen.com/2026/11/12/licht-kunst-licht-cologne-cathedral",
+    "source": "Dezeen",
+    "date": "2026-11-12",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "Lighting designers Licht Kunst Licht have lit the historic facade of Cologne Cathedral using fittings meant to be almost invisible.",
+    "terms": [
+      [
+        "facade",
+        "the front or outer face of a building"
+      ],
+      [
+        "lighting design",
+        "planning how light is used in a space or on a building"
+      ]
+    ]
+  },
+  {
     "title": "A better name for design systems?",
     "link": "https://karolinaszczur.com/journal/translation-not-rebranding/",
     "source": "Sidebar",
@@ -68,6 +176,78 @@
       [
         "monetize",
         "to make money from something"
+      ]
+    ]
+  },
+  {
+    "title": "Why build AI clones of Photoshop?",
+    "link": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7",
+    "source": "UX Collective",
+    "date": "2026-11-11",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "Heenesh Patel looks at AI-made copies of Photoshop and argues designers should focus on what users need to do and control, not on a cheaper copy.",
+    "terms": [
+      [
+        "clone",
+        "a close copy of an existing product"
+      ],
+      [
+        "user task",
+        "the goal a person is trying to complete with a tool"
+      ]
+    ]
+  },
+  {
+    "title": "Designing how paying per click feels",
+    "link": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8",
+    "source": "UX Collective",
+    "date": "2026-11-11",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "Arin Bhowmick says AI products are moving to usage- and credit-based pricing, and that UX designers should shape how that cost is shown to people.",
+    "terms": [
+      [
+        "usage-based pricing",
+        "charging people according to how much they use something"
+      ],
+      [
+        "credits",
+        "prepaid units spent on actions in a product"
+      ]
+    ]
+  },
+  {
+    "title": "Biabum's retro, illustration-led brand identities",
+    "link": "https://www.itsnicethat.com/articles/biabum-graphic-design-illustration-discover-111126",
+    "source": "It's Nice That",
+    "date": "2026-11-11",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "The piece explores why studio Biabum builds illustration into the core of its retro-style brand identities.",
+    "terms": [
+      [
+        "brand identity",
+        "the visual system (logo, colours, type) that represents a company"
+      ],
+      [
+        "retro",
+        "imitating styles from the recent past"
+      ]
+    ]
+  },
+  {
+    "title": "Emily Stein photographs Italian waterparks",
+    "link": "https://www.itsnicethat.com/articles/emily-stein-aquasplash-photography-project-111126",
+    "source": "It's Nice That",
+    "date": "2026-11-11",
+    "added": "2026-11-13T05:52:37Z",
+    "summary": "Photographer Emily Stein's colourful, chaotic pictures of waterparks in Italy.",
+    "terms": [
+      [
+        "chaotic",
+        "in a state of complete disorder"
+      ],
+      [
+        "snap",
+        "an informal word for a photograph"
       ]
     ]
   },
@@ -896,186 +1076,6 @@
       [
         "inaugural",
         "the first of a series"
-      ]
-    ]
-  },
-  {
-    "title": "Ontario house inspired by farm buildings",
-    "link": "https://www.dezeen.com/2026/11/04/hemlock-house-ontario-brian-o-brian/",
-    "source": "Dezeen",
-    "date": "2026-11-04",
-    "added": "2026-11-05T05:47:10Z",
-    "summary": "Brian O'Brian's Hemlock House in Ontario takes its cues from rural farm buildings.",
-    "terms": [
-      [
-        "vernacular",
-        "a local, traditional style of building"
-      ],
-      [
-        "take cues from",
-        "to be inspired by or borrow ideas from"
-      ]
-    ]
-  },
-  {
-    "title": "Fingerprints are the new cookies",
-    "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "A piece arguing that browser fingerprinting is taking over the tracking role that cookies used to play.",
-    "terms": [
-      [
-        "fingerprinting",
-        "identifying a device from its unique settings"
-      ],
-      [
-        "tracking",
-        "following what people do online"
-      ]
-    ]
-  },
-  {
-    "title": "Entering the era of bleh",
-    "link": "https://www.noemamag.com/now-entering-the-era-of-bleh/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "An essay announcing what it calls the era of bleh, a time of dull, uninspiring culture.",
-    "terms": [
-      [
-        "bleh",
-        "a word expressing boredom or mild disgust"
-      ],
-      [
-        "era",
-        "a long period of time with a shared character"
-      ]
-    ]
-  },
-  {
-    "title": "A family tree of software job titles",
-    "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-    "source": "Sidebar",
-    "date": "2026-11-03",
-    "added": "2026-11-12T05:52:22Z",
-    "summary": "A piece mapping software job titles as a family tree, showing how roles relate to and descend from each other.",
-    "terms": [
-      [
-        "job title",
-        "the official name of a person's role at work"
-      ],
-      [
-        "family tree",
-        "a diagram showing how members of a group are related"
-      ]
-    ]
-  },
-  {
-    "title": "Teaching AI prototyping to fashion students",
-    "link": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e",
-    "source": "UX Collective",
-    "date": "2026-11-03",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "A designer shares lessons from teaching fashion design students to prototype apps with AI tools instead of Figma.",
-    "terms": [
-      [
-        "prototype",
-        "an early test version of a product"
-      ],
-      [
-        "curriculum",
-        "the set of subjects taught in a course"
-      ]
-    ]
-  },
-  {
-    "title": "Hot Cottage, a studio that mixes media",
-    "link": "https://www.itsnicethat.com/articles/hot-cottage-ed-davis-rob-cordiner-olivia-radonich-graphic-design-discover-031126",
-    "source": "It's Nice That",
-    "date": "2026-11-03",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "A profile of Hot Cottage, a design studio run by three partners whose work spans branding, album art, publishing and exhibitions, including a collage-style logo for an incense brand.",
-    "terms": [
-      [
-        "jack of all trades",
-        "a person who can do many different kinds of work"
-      ],
-      [
-        "logotype",
-        "a logo made from a styled word or name"
-      ]
-    ]
-  },
-  {
-    "title": "A magazine about eating whole fish",
-    "link": "https://www.itsnicethat.com/articles/beam-eating-the-whole-fish-graphic-design-project-031126",
-    "source": "It's Nice That",
-    "date": "2026-11-03",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "Studio Beam designed a 200-page publication, part cookbook and part research archive, encouraging people to cook whole fish from New England waters.",
-    "terms": [
-      [
-        "hybrid",
-        "something that combines two or more different things"
-      ],
-      [
-        "anatomical diagram",
-        "a drawing showing the parts of a body"
-      ]
-    ]
-  },
-  {
-    "title": "Sabine Marcelis holds first museum exhibition",
-    "link": "https://www.dezeen.com/2026/11/03/sabine-marcelis-exhibition-zurich-museum-fuer-gestaltung/",
-    "source": "Dezeen",
-    "date": "2026-11-03",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "Designer Sabine Marcelis presents her first museum exhibition, at the Museum für Gestaltung in Zurich, as a moment of reflection on her work.",
-    "terms": [
-      [
-        "exhibition",
-        "a public show of art or objects"
-      ],
-      [
-        "reflect",
-        "to think carefully about the past"
-      ]
-    ]
-  },
-  {
-    "title": "John Tree's sculptural pine Hoop lamp",
-    "link": "https://www.dezeen.com/2026/11/03/john-tree-sculptural-hoop-lamp-pine-vaarni/",
-    "source": "Dezeen",
-    "date": "2026-11-03",
-    "added": "2026-11-04T05:53:01Z",
-    "summary": "Designer John Tree has created a sculptural lamp called Hoop, made from pine, for the furniture brand Vaarni.",
-    "terms": [
-      [
-        "sculptural",
-        "shaped like a work of sculpture"
-      ],
-      [
-        "pine",
-        "a soft, light-coloured wood from evergreen trees"
-      ]
-    ]
-  },
-  {
-    "title": "Who owns the doubt in design?",
-    "link": "https://www.doc.cc/humankind/doubt",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-03T05:57:26Z",
-    "summary": "An essay asking who is responsible for doubt and uncertainty.",
-    "terms": [
-      [
-        "doubt",
-        "a feeling of being unsure about something"
-      ],
-      [
-        "ownership",
-        "being responsible for something"
       ]
     ]
   }
