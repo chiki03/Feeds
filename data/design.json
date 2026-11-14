@@ -1,5 +1,113 @@
 [
   {
+    "title": "Design as a search problem",
+    "link": "https://mattstromawn.com/writing/design-is-a-search-problem/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-14T05:52:19Z",
+    "summary": "An essay, picked by Sidebar, arguing that design can be understood as a search problem.",
+    "terms": [
+      [
+        "search space",
+        "the full set of possible solutions you could explore"
+      ],
+      [
+        "iterate",
+        "to repeat a process, improving it each time"
+      ]
+    ]
+  },
+  {
+    "title": "A history of airline logos",
+    "link": "https://www.logohistories.com/p/airline-logos",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-14T05:52:19Z",
+    "summary": "A Logo Histories piece, picked by Sidebar, about the logos of airlines.",
+    "terms": [
+      [
+        "livery",
+        "the colours and graphics painted on a company's vehicles"
+      ],
+      [
+        "emblem",
+        "a symbol that represents an organisation"
+      ]
+    ]
+  },
+  {
+    "title": "Where the disabled button rule came from",
+    "link": "https://www.hipuku.dev/writing/where-the-disabled-button-got-its-rule",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-14T05:52:19Z",
+    "summary": "An essay, picked by Sidebar, tracing the origin of the design rule about disabled buttons.",
+    "terms": [
+      [
+        "disabled state",
+        "how an interface control looks when it cannot be used"
+      ],
+      [
+        "convention",
+        "a widely accepted way of doing something"
+      ]
+    ]
+  },
+  {
+    "title": "Designing by taking away",
+    "link": "https://haydenbleasel.com/taking-away",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-14T05:52:19Z",
+    "summary": "A short essay by Hayden Bleasel, picked by Sidebar, on improving work by removing things.",
+    "terms": [
+      [
+        "subtraction",
+        "making something better by removing parts"
+      ],
+      [
+        "restraint",
+        "holding back from adding more than is needed"
+      ]
+    ]
+  },
+  {
+    "title": "Building interfaces that grasp user intent",
+    "link": "https://agustinbarrientos.com/writing/senior-eye/interfaces-that-understand-what-we-want",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-14T05:52:19Z",
+    "summary": "An essay, picked by Sidebar, about building interfaces that understand what people want to do.",
+    "terms": [
+      [
+        "user intent",
+        "the goal a person has when using a product"
+      ],
+      [
+        "anticipate",
+        "to predict and prepare for something before it happens"
+      ]
+    ]
+  },
+  {
+    "title": "Morrisons retells a fairy tale for Christmas",
+    "link": "https://www.creativereview.co.uk/morrisons-christmas-campaign-leo-uk-nick-ball/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-14T05:52:19Z",
+    "summary": "The supermarket Morrisons reworks a classic fairy tale for its Christmas campaign.",
+    "terms": [
+      [
+        "campaign",
+        "a planned series of ads with one message"
+      ],
+      [
+        "retelling",
+        "a new version of a familiar story"
+      ]
+    ]
+  },
+  {
     "title": "Live one life in real statistics",
     "link": "https://1in8b.life/en/",
     "source": "Sidebar",
@@ -288,6 +396,24 @@
     ]
   },
   {
+    "title": "Nymzo: a sporty chess brand for new players",
+    "link": "https://www.itsnicethat.com/articles/nymzo-product-design-project-101126",
+    "source": "It's Nice That",
+    "date": "2026-11-10",
+    "added": "2026-11-14T05:52:19Z",
+    "summary": "A profile of Nymzo, a chess-equipment brand founded by two designers. Its second product series is lighter and cheaper than the first.",
+    "terms": [
+      [
+        "product line",
+        "a group of related products sold by one brand"
+      ],
+      [
+        "affordable",
+        "cheap enough for most people to buy"
+      ]
+    ]
+  },
+  {
     "title": "Bon Iver's 22, A Million artwork revisited",
     "link": "https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126",
     "source": "It's Nice That",
@@ -358,6 +484,24 @@
       ]
     ],
     "added": "2026-11-10T05:51:44Z"
+  },
+  {
+    "title": "28 voices on starting a creative career",
+    "link": "https://www.itsnicethat.com/features/career-predictions-for-junior-creatives-creative-industry-091126",
+    "source": "It's Nice That",
+    "date": "2026-11-09",
+    "added": "2026-11-14T05:52:19Z",
+    "summary": "Industry figures discuss why junior creative careers feel harder to start. They cover fewer entry-level jobs, new routes into the industry and the mindset newcomers need.",
+    "terms": [
+      [
+        "entry-level",
+        "suitable for someone with little or no experience"
+      ],
+      [
+        "foothold",
+        "a secure first position from which to progress"
+      ]
+    ]
   },
   {
     "title": "Dezeen Awards trophy remade in cork",
@@ -932,150 +1076,6 @@
       [
         "triage",
         "sorting requests to decide which need attention first"
-      ]
-    ]
-  },
-  {
-    "title": "Design Doha Biennial looks to traditional crafts",
-    "link": "https://www.dezeen.com/2026/11/05/design-doha-biennial-2026-open",
-    "source": "Dezeen",
-    "date": "2026-11-05",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "Dezeen previews the 2026 Design Doha Biennial in Qatar. Its theme is how traditional crafts can shape the future of design.",
-    "terms": [
-      [
-        "biennial",
-        "an event held every two years"
-      ],
-      [
-        "craft",
-        "skilled work made by hand"
-      ]
-    ]
-  },
-  {
-    "title": "Six standout projects at Designart Tokyo",
-    "link": "https://www.dezeen.com/2026/11/05/designart-tokyo-2026-highlights/",
-    "source": "Dezeen",
-    "date": "2026-11-05",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "Dezeen picks six highlights from the 2026 edition of Designart Tokyo, a design and art festival held across the city.",
-    "terms": [
-      [
-        "standout",
-        "clearly better or more noticeable than the rest"
-      ],
-      [
-        "highlight",
-        "one of the best or most interesting parts of an event"
-      ]
-    ]
-  },
-  {
-    "title": "Surreal dioramas for Amsterdam Museum Night",
-    "link": "https://www.itsnicethat.com/articles/from-form-amsterdam-museum-night-graphic-design-project-051126",
-    "source": "It's Nice That",
-    "date": "2026-11-05",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "Studio From Form created the campaign for Amsterdam Museum Night, drawing on surrealism and 17th-century dioramas. The identity plays with perception and invites visitors to explore the city's museums.",
-    "terms": [
-      [
-        "diorama",
-        "a small three-dimensional scene showing a place or event"
-      ],
-      [
-        "surrealism",
-        "an art style that mixes dreamlike, unexpected images"
-      ]
-    ]
-  },
-  {
-    "title": "Alter exhibition returns to Tokyo",
-    "link": "https://www.dezeen.com/2026/11/04/alter-design-exhibition-tokyo/",
-    "source": "Dezeen",
-    "date": "2026-11-04",
-    "added": "2026-11-11T05:46:39Z",
-    "summary": "The Alter design exhibition is back in Tokyo, with highlights including an AI-powered tea ceremony and furniture made from washi paper.",
-    "terms": [
-      [
-        "washi",
-        "a strong, light traditional Japanese paper"
-      ],
-      [
-        "tea ceremony",
-        "a formal Japanese ritual of preparing and serving tea"
-      ]
-    ]
-  },
-  {
-    "title": "Figur's lived-in graphics for sportswear brands",
-    "link": "https://www.itsnicethat.com/articles/figur-graphic-design-discover-041126",
-    "source": "It's Nice That",
-    "date": "2026-11-04",
-    "summary": "A profile of the studio Figur, whose graphic systems for sportswear brands such as Hoka take a lived-in approach to athletic culture.",
-    "terms": [
-      [
-        "lived-in",
-        "worn and familiar, as if used every day"
-      ],
-      [
-        "graphic system",
-        "a set of visual rules that keeps a brand consistent"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "AI makes interfaces; what makes them matter?",
-    "link": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986",
-    "source": "UX Collective",
-    "date": "2026-11-04",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "The essay says consistent components are not enough when AI can generate screens. Teams still have to decide when an interface should celebrate, hold back or stay out of the way.",
-    "terms": [
-      [
-        "restraint",
-        "choosing to do less on purpose"
-      ],
-      [
-        "component",
-        "a reusable building block of an interface, like a button"
-      ]
-    ]
-  },
-  {
-    "title": "Polar types out bakery P.A.C.'s logo",
-    "link": "https://www.itsnicethat.com/articles/polar-pac-graphic-design-project-041126",
-    "source": "It's Nice That",
-    "date": "2026-11-04",
-    "added": "2026-11-05T05:47:10Z",
-    "summary": "A look at studio Polar's identity for the bakery P.A.C., whose logo is simply the name typed out. The piece argues this plain approach works in the brand's favour.",
-    "terms": [
-      [
-        "wordmark",
-        "a logo made only from a name set in type"
-      ],
-      [
-        "understated",
-        "deliberately simple and not showy"
-      ]
-    ]
-  },
-  {
-    "title": "Walker Design Triennial looks beyond materialism",
-    "link": "https://www.dezeen.com/2026/11/04/walker-design-triennial-2026-beyond-materialism",
-    "source": "Dezeen",
-    "date": "2026-11-04",
-    "added": "2026-11-05T05:47:10Z",
-    "summary": "The Walker's first design triennial features works such as flesh-like speakers and post-apocalyptic scenes. It explores design beyond material consumption.",
-    "terms": [
-      [
-        "triennial",
-        "an event held every three years"
-      ],
-      [
-        "inaugural",
-        "the first of a series"
       ]
     ]
   }

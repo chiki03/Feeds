@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 05:44:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 05:52:33 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>14 nov. : Ukraine, grève des fonctionnaires, BCE</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-14.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-14.html</guid>
-<pubDate>Sat, 14 Nov 2026 05:45:00 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 05:53:19 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les alliés de l'Ukraine préparent un sommet à Berlin, la France commémore le 13-Novembre sur fond de mobilisation syndicale, et Paris et Berlin négocient la succession de Christine Lagarde à la BCE.
 
@@ -41,6 +41,78 @@ SUISSE
 • Wall Street a terminé orientée en baisse, le secteur des puces étant boudé par les investisseurs. (France 24: https://www.france24.com/fr/info-en-continu/20261113-wall-street-termine-orient%C3%A9e-en-baisse-le-secteur-des-puces-boud%C3%A9)
 
 Mots clés : un ticket (électoral) — en Suisse, la liste des candidats qu'un parti propose pour une élection, par exemple au Conseil fédéral ; l'intersyndicale — l'ensemble des syndicats qui agissent ensemble autour de revendications communes ; l'austérité — une politique de réduction stricte des dépenses publiques ; un plan de relance — un programme de dépenses publiques destiné à soutenir l'économie ; la succession — le fait de remplacer quelqu'un à un poste qu'il quitte ; boudé — délaissé, évité (ici : des actions que les investisseurs n'achètent pas)</description>
+</item>
+<item>
+<title>Design as a search problem</title>
+<link>https://mattstromawn.com/writing/design-is-a-search-problem/</link>
+<guid isPermaLink="true">https://mattstromawn.com/writing/design-is-a-search-problem/</guid>
+<pubDate>Sat, 14 Nov 2026 05:52:19 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay, picked by Sidebar, arguing that design can be understood as a search problem.
+
+Key terms: search space — the full set of possible solutions you could explore; iterate — to repeat a process, improving it each time
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>A history of airline logos</title>
+<link>https://www.logohistories.com/p/airline-logos</link>
+<guid isPermaLink="true">https://www.logohistories.com/p/airline-logos</guid>
+<pubDate>Sat, 14 Nov 2026 05:52:19 +0000</pubDate>
+<category>Sidebar</category>
+<description>A Logo Histories piece, picked by Sidebar, about the logos of airlines.
+
+Key terms: livery — the colours and graphics painted on a company's vehicles; emblem — a symbol that represents an organisation
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Where the disabled button rule came from</title>
+<link>https://www.hipuku.dev/writing/where-the-disabled-button-got-its-rule</link>
+<guid isPermaLink="true">https://www.hipuku.dev/writing/where-the-disabled-button-got-its-rule</guid>
+<pubDate>Sat, 14 Nov 2026 05:52:19 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay, picked by Sidebar, tracing the origin of the design rule about disabled buttons.
+
+Key terms: disabled state — how an interface control looks when it cannot be used; convention — a widely accepted way of doing something
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Designing by taking away</title>
+<link>https://haydenbleasel.com/taking-away</link>
+<guid isPermaLink="true">https://haydenbleasel.com/taking-away</guid>
+<pubDate>Sat, 14 Nov 2026 05:52:19 +0000</pubDate>
+<category>Sidebar</category>
+<description>A short essay by Hayden Bleasel, picked by Sidebar, on improving work by removing things.
+
+Key terms: subtraction — making something better by removing parts; restraint — holding back from adding more than is needed
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Building interfaces that grasp user intent</title>
+<link>https://agustinbarrientos.com/writing/senior-eye/interfaces-that-understand-what-we-want</link>
+<guid isPermaLink="true">https://agustinbarrientos.com/writing/senior-eye/interfaces-that-understand-what-we-want</guid>
+<pubDate>Sat, 14 Nov 2026 05:52:19 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay, picked by Sidebar, about building interfaces that understand what people want to do.
+
+Key terms: user intent — the goal a person has when using a product; anticipate — to predict and prepare for something before it happens
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Morrisons retells a fairy tale for Christmas</title>
+<link>https://www.creativereview.co.uk/morrisons-christmas-campaign-leo-uk-nick-ball/</link>
+<guid isPermaLink="true">https://www.creativereview.co.uk/morrisons-christmas-campaign-leo-uk-nick-ball/</guid>
+<pubDate>Sat, 14 Nov 2026 05:52:19 +0000</pubDate>
+<category>Creative Review</category>
+<description>The supermarket Morrisons reworks a classic fairy tale for its Christmas campaign.
+
+Key terms: campaign — a planned series of ads with one message; retelling — a new version of a familiar story
+
+Source: Creative Review</description>
 </item>
 <item>
 <title>13 nov. : Ukraine, grève en Espagne, Nvidia</title>
@@ -369,6 +441,18 @@ SUISSE
 Mots clés : des pourparlers — des discussions officielles en vue d'un accord ; avancer une mesure — la mettre en œuvre plus tôt que prévu ; la défiscalisation — l'exonération d'impôt d'un revenu ; un recours — une démarche en justice pour contester une décision ; la désescalade — la baisse progressive des tensions ; un excédent commercial — quand un pays exporte plus qu'il n'importe</description>
 </item>
 <item>
+<title>Nymzo: a sporty chess brand for new players</title>
+<link>https://www.itsnicethat.com/articles/nymzo-product-design-project-101126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/nymzo-product-design-project-101126</guid>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A profile of Nymzo, a chess-equipment brand founded by two designers. Its second product series is lighter and cheaper than the first.
+
+Key terms: product line — a group of related products sold by one brand; affordable — cheap enough for most people to buy
+
+Source: It's Nice That</description>
+</item>
+<item>
 <title>Bon Iver's 22, A Million artwork revisited</title>
 <link>https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126</link>
 <guid isPermaLink="true">https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126</guid>
@@ -449,6 +533,18 @@ SUISSE
 • La France insoumise s'attend à un accueil hostile de son programme par les marchés financiers, mais ne cherche pas à les rassurer. (Le Temps: https://www.letemps.ch/monde/france/ce-n-est-pas-notre-sujet-les-melenchonistes-assument-de-ne-pas-vouloir-rassurer-les-marches-financiers-avec-leur-nouveau-programme)
 
 Mots clés : un porte-parole — une personne qui parle au nom d'un groupe ou d'un gouvernement ; une pétition — un texte signé par de nombreuses personnes pour demander quelque chose aux autorités ; élu au premier tour — qui obtient la majorité dès le premier vote, sans second tour ; une médiation — l'intervention d'un tiers pour aider deux parties à trouver un accord ; l'austérité — une politique de réduction des dépenses publiques ; atteindre de nouveaux sommets — pour un indice boursier, monter à un niveau jamais atteint</description>
+</item>
+<item>
+<title>28 voices on starting a creative career</title>
+<link>https://www.itsnicethat.com/features/career-predictions-for-junior-creatives-creative-industry-091126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/features/career-predictions-for-junior-creatives-creative-industry-091126</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Industry figures discuss why junior creative careers feel harder to start. They cover fewer entry-level jobs, new routes into the industry and the mindset newcomers need.
+
+Key terms: entry-level — suitable for someone with little or no experience; foothold — a secure first position from which to progress
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>Dezeen Awards trophy remade in cork</title>
@@ -971,46 +1067,10 @@ Key terms: routine — ordinary and repeated often; triage — sorting requests 
 Source: UX Collective</description>
 </item>
 <item>
-<title>Design Doha Biennial looks to traditional crafts</title>
-<link>https://www.dezeen.com/2026/11/05/design-doha-biennial-2026-open</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/05/design-doha-biennial-2026-open</guid>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Dezeen previews the 2026 Design Doha Biennial in Qatar. Its theme is how traditional crafts can shape the future of design.
-
-Key terms: biennial — an event held every two years; craft — skilled work made by hand
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Six standout projects at Designart Tokyo</title>
-<link>https://www.dezeen.com/2026/11/05/designart-tokyo-2026-highlights/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/05/designart-tokyo-2026-highlights/</guid>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Dezeen picks six highlights from the 2026 edition of Designart Tokyo, a design and art festival held across the city.
-
-Key terms: standout — clearly better or more noticeable than the rest; highlight — one of the best or most interesting parts of an event
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Surreal dioramas for Amsterdam Museum Night</title>
-<link>https://www.itsnicethat.com/articles/from-form-amsterdam-museum-night-graphic-design-project-051126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/from-form-amsterdam-museum-night-graphic-design-project-051126</guid>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Studio From Form created the campaign for Amsterdam Museum Night, drawing on surrealism and 17th-century dioramas. The identity plays with perception and invites visitors to explore the city's museums.
-
-Key terms: diorama — a small three-dimensional scene showing a place or event; surrealism — an art style that mixes dreamlike, unexpected images
-
-Source: It's Nice That</description>
-</item>
-<item>
 <title>4 nov. : Ukraine, blocages scolaires, TVA armée</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-04.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-04.html</guid>
-<pubDate>Wed, 04 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Wed, 04 Nov 2026 05:49:48 +0000</pubDate>
 <category>Le point du jour</category>
 <description>De nouvelles frappes russes meurtrières touchent un centre humanitaire en Ukraine, les blocages de facs et de lycées reprennent en France, et une commission parlementaire suisse rejette la hausse de la TVA pour l'armée.
 
@@ -1039,66 +1099,6 @@ SUISSE
 • La Bourse de Paris a terminé en baisse mardi, l'attention des marchés étant tournée vers les élections de mi-mandat américaines. (France 24: https://www.france24.com/fr/info-en-continu/20261103-la-bourse-de-paris-termine-en-baisse-les-mid-terms-captent-l-attention)
 
 Mots clés : un redressement judiciaire — une procédure qui permet à une entreprise en difficulté de continuer son activité sous le contrôle d'un tribunal ; un blocage — le fait d'empêcher l'accès à un établissement pour protester ; une alerte à la bombe — une menace annonçant la présence d'un engin explosif ; un équipementier — une entreprise qui fabrique des pièces pour les constructeurs automobiles ; les élections de mi-mandat — aux États-Unis, élections législatives organisées au milieu du mandat présidentiel</description>
-</item>
-<item>
-<title>Alter exhibition returns to Tokyo</title>
-<link>https://www.dezeen.com/2026/11/04/alter-design-exhibition-tokyo/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/04/alter-design-exhibition-tokyo/</guid>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>The Alter design exhibition is back in Tokyo, with highlights including an AI-powered tea ceremony and furniture made from washi paper.
-
-Key terms: washi — a strong, light traditional Japanese paper; tea ceremony — a formal Japanese ritual of preparing and serving tea
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Figur's lived-in graphics for sportswear brands</title>
-<link>https://www.itsnicethat.com/articles/figur-graphic-design-discover-041126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/figur-graphic-design-discover-041126</guid>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A profile of the studio Figur, whose graphic systems for sportswear brands such as Hoka take a lived-in approach to athletic culture.
-
-Key terms: lived-in — worn and familiar, as if used every day; graphic system — a set of visual rules that keeps a brand consistent
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>AI makes interfaces; what makes them matter?</title>
-<link>https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986</link>
-<guid isPermaLink="true">https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986</guid>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>The essay says consistent components are not enough when AI can generate screens. Teams still have to decide when an interface should celebrate, hold back or stay out of the way.
-
-Key terms: restraint — choosing to do less on purpose; component — a reusable building block of an interface, like a button
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Polar types out bakery P.A.C.'s logo</title>
-<link>https://www.itsnicethat.com/articles/polar-pac-graphic-design-project-041126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/polar-pac-graphic-design-project-041126</guid>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A look at studio Polar's identity for the bakery P.A.C., whose logo is simply the name typed out. The piece argues this plain approach works in the brand's favour.
-
-Key terms: wordmark — a logo made only from a name set in type; understated — deliberately simple and not showy
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Walker Design Triennial looks beyond materialism</title>
-<link>https://www.dezeen.com/2026/11/04/walker-design-triennial-2026-beyond-materialism</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/04/walker-design-triennial-2026-beyond-materialism</guid>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>The Walker's first design triennial features works such as flesh-like speakers and post-apocalyptic scenes. It explores design beyond material consumption.
-
-Key terms: triennial — an event held every three years; inaugural — the first of a series
-
-Source: Dezeen</description>
 </item>
 <item>
 <title>3 nov. : Ukraine, Dubaï Papers, émeutes en Suisse</title>
