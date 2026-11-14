@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-14",
+    "added": "2026-11-14T05:44:00Z",
+    "title": "14 nov. : Ukraine, grève des fonctionnaires, BCE",
+    "lede": "Les alliés de l'Ukraine préparent un sommet à Berlin, la France commémore le 13-Novembre sur fond de mobilisation syndicale, et Paris et Berlin négocient la succession de Christine Lagarde à la BCE.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Ukraine : les alliés de Kyiv se réuniront en sommet à Berlin le 19 novembre, alors que les Européens doivent être présents aux prochaines négociations entre l'Ukraine et la Russie.",
+            "source": "France 24",
+            "link": "https://france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine"
+          },
+          {
+            "text": "La France fait partie des cinq grandes puissances appelées à représenter l'Union européenne dans les pourparlers sur l'Ukraine, selon France 24.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks"
+          },
+          {
+            "text": "Hongrie : la Commission européenne va débloquer les 10 milliards d'euros du plan de relance hongrois.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/13/la-commission-europeenne-va-debloquer-les-10-milliards-deuros-du-plan-de-relance-hongrois"
+          },
+          {
+            "text": "À Dublin, les dirigeants des Vingt-Sept ont débattu pour la première fois des dangers et des bienfaits de l'intelligence artificielle.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261113-a-dublin-les-27-d%C3%A9battent-pour-la-premi%C3%A8re-fois-des-dangers-et-bienfaits-de-l-ia"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Onze ans après les attentats du 13-Novembre, la France a rendu hommage aux victimes.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/13/attentats-du-13-novembre-onze-ans-apres-la-france-rend-hommage-aux-victimes"
+          },
+          {
+            "text": "Fonction publique : l'intersyndicale est sortie mécontente de Matignon, où Sébastien Lecornu a ouvert un mois de discussions, et la CFDT rejoint l'appel à la grève.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261113-fonction-publique-lecornu-ouvre-mois-discussions-cinq-chantiers-bas-salaires"
+          },
+          {
+            "text": "Une nouvelle journée de manifestations a lieu ce samedi 14 novembre ; France 24 détaille les parcours, les revendications et le dispositif de sécurité.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261113-manifestations-du-14-novembre-parcours-revendications-s%C3%A9curit%C3%A9-ce-qu-il-faut-savoir"
+          },
+          {
+            "text": "Paris demande à Bruxelles d'examiner le non-respect, par l'Algérie, de l'accord d'association qui la lie à l'Union européenne.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/france/20261113-france-asks-brussels-to-examine-algeria-s-non-compliance-of-eu-association-agreement"
+          },
+          {
+            "text": "Au salon du Made in France, l'écologiste Marine Tondelier a défendu la hausse des salaires et le protectionnisme.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261113-au-salon-du-made-in-france-tondelier-d%C3%A9fend-hausse-des-salaires-et-protectionnisme"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Succession de Guy Parmelin au Conseil fédéral : l'UDC reporte le choix de son ticket.",
+            "source": "RTS",
+            "link": "https://rts.ch/info/suisse/2026/article/succession-parmelin-l-udc-reporte-le-choix-de-son-ticket-29413569.html"
+          },
+          {
+            "text": "Le Service de renseignement de la Confédération (SRC) se réorganise.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/src-le-service-de-renseignement-suisse-se-reorganise-29415415.html"
+          },
+          {
+            "text": "La panne mondiale de Microsoft a aussi touché la Suisse et ses administrations.",
+            "source": "RTS",
+            "link": "https://rts.ch/info/suisse/2026/article/panne-de-microsoft-la-suisse-et-ses-administrations-touchees-29415140.html"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "BCE : Paris et Berlin mènent des discussions « intenses » pour régler la succession de Christine Lagarde.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261113-discussions-intenses-entre-paris-et-berlin-pour-r%C3%A9gler-la-succession-de-lagarde-%C3%A0-la-bce"
+          },
+          {
+            "text": "Microsoft annonce un rétablissement partiel d'Outlook après une panne mondiale de ses services.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/13/outlook-microsoft-annonce-un-retablissement-partiel-apres-une-panne-mondiale"
+          },
+          {
+            "text": "Vendredi, la Bourse de Paris a terminé en léger recul.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261113-la-bourse-de-paris-en-l%C3%A9ger-recul"
+          },
+          {
+            "text": "Wall Street a terminé orientée en baisse, le secteur des puces étant boudé par les investisseurs.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261113-wall-street-termine-orient%C3%A9e-en-baisse-le-secteur-des-puces-boud%C3%A9"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "un ticket (électoral)",
+        "en Suisse, la liste des candidats qu'un parti propose pour une élection, par exemple au Conseil fédéral"
+      ],
+      [
+        "l'intersyndicale",
+        "l'ensemble des syndicats qui agissent ensemble autour de revendications communes"
+      ],
+      [
+        "l'austérité",
+        "une politique de réduction stricte des dépenses publiques"
+      ],
+      [
+        "un plan de relance",
+        "un programme de dépenses publiques destiné à soutenir l'économie"
+      ],
+      [
+        "la succession",
+        "le fait de remplacer quelqu'un à un poste qu'il quitte"
+      ],
+      [
+        "boudé",
+        "délaissé, évité (ici : des actions que les investisseurs n'achètent pas)"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-13",
     "added": "2026-11-13T05:44:41Z",
     "title": "13 nov. : Ukraine, grève en Espagne, Nvidia",
@@ -2230,3 +2364,4 @@
     ]
   }
 ]
+
