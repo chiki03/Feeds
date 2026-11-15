@@ -6,7 +6,7 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 05:44:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 05:53:12 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>15 nov. : Donbass, acte V, austérité à Genève</title>
@@ -41,6 +41,42 @@ SUISSE
 • L'affaire Nvidia s'invite dans les discussions sur la sécurité de l'intelligence artificielle entre la Chine et les États-Unis. (France 24: https://www.france24.com/fr/%C3%A9co-tech/20261114-affaire-nvidia-invite-dans-discussions-s%C3%A9curit%C3%A9-ia-entre-chine-%C3%A9tats-unis)
 
 Mots clés : rationner — limiter la quantité de quelque chose que l'on distribue, ici l'aide accordée ; une adhésion — le fait de devenir membre d'une organisation, comme l'Otan ou l'UE ; un baiser empoisonné — un soutien en apparence favorable qui finit par nuire à celui qui le reçoit ; une coupe budgétaire — une réduction des dépenses prévues dans un budget public ; la vie chère — le niveau élevé des prix, qui pèse sur le pouvoir d'achat</description>
+</item>
+<item>
+<title>Kiln's playful identity for weight-loss brand Reset</title>
+<link>https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/</link>
+<guid isPermaLink="true">https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/</guid>
+<pubDate>Sun, 15 Nov 2026 05:53:12 +0000</pubDate>
+<category>Creative Review</category>
+<description>Studio Kiln has designed the identity for a new weight-loss product called Reset, centred on a playful block-like character named Ester.
+
+Key terms: visual identity — the logo, colours and graphics that make a brand recognisable; brand character — a mascot or figure that represents a brand
+
+Source: Creative Review</description>
+</item>
+<item>
+<title>Apple Music's new identity is made by sound</title>
+<link>https://www.creativereview.co.uk/apple-music-brand-identity-fred-again/</link>
+<guid isPermaLink="true">https://www.creativereview.co.uk/apple-music-brand-identity-fred-again/</guid>
+<pubDate>Sun, 15 Nov 2026 05:53:12 +0000</pubDate>
+<category>Creative Review</category>
+<description>Apple Music has a new brand identity created by TBWA\Media Arts Lab in partnership with the musician Fred again.., built around sound.
+
+Key terms: rebrand — to change how a company presents itself visually; sonic branding — using sound to make a brand recognisable
+
+Source: Creative Review</description>
+</item>
+<item>
+<title>Below the surface: Amsterdam's buried finds</title>
+<link>https://belowthesurface.amsterdam/en/vondsten</link>
+<guid isPermaLink="true">https://belowthesurface.amsterdam/en/vondsten</guid>
+<pubDate>Sun, 15 Nov 2026 05:53:12 +0000</pubDate>
+<category>Sidebar</category>
+<description>A website, picked by Sidebar, called Below the surface that presents finds from Amsterdam.
+
+Key terms: archive — a collection of historical records or objects; catalogue — an organised list of items with descriptions
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>14 nov. : Ukraine, grève des fonctionnaires, BCE</title>
@@ -152,7 +188,7 @@ Source: Creative Review</description>
 <title>13 nov. : Ukraine, grève en Espagne, Nvidia</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-13.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-13.html</guid>
-<pubDate>Fri, 13 Nov 2026 05:53:37 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les Européens réunis à Dublin réclament leur place dans les négociations sur l'Ukraine, l'Espagne vit sa première grève générale depuis 14 ans, et le patron de Nvidia quitte ses fonctions.
 
@@ -180,6 +216,54 @@ SUISSE
 • Franc suisse : le dénouement des opérations de portage (« carry trade ») alimente la hausse du franc, considéré comme valeur refuge. (Swissinfo (EN): https://swissinfo.ch/eng/macroeconomics/swiss-franc-carry-trade-squeeze-adds-fuel-to-haven-rally/92370964)
 
 Mots clés : une grève générale — un arrêt de travail organisé dans tous les secteurs d'un pays ; porter plainte — saisir la justice pour dénoncer une infraction ; l'austérité — une politique de fortes économies dans les dépenses publiques ; une valeur refuge — un placement jugé sûr en période d'incertitude ; une fausse alerte — un avertissement de danger qui se révèle sans fondement ; démissionner — quitter volontairement ses fonctions</description>
+</item>
+<item>
+<title>Decision theatre versus real decision design</title>
+<link>https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685</link>
+<guid isPermaLink="true">https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay on how AI output can leave human decisions hollow, and what skills, authority and process people need to truly own AI-assisted decisions.
+
+Key terms: accountability — being responsible for a decision and its results; rubber-stamp — to approve something without really examining it
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>A crooked plate beats algorithmic perfection</title>
+<link>https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147</link>
+<guid isPermaLink="true">https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay arguing that the flawless results of AI can feel empty, and that small imperfections make things feel more human.
+
+Key terms: flawless — without any mistakes or defects; handmade — made by a person rather than a machine
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>AI as the new old design material</title>
+<link>https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a</link>
+<guid isPermaLink="true">https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>Argues that designers should learn AI models by building with them, just as earlier designers learned paint, print and HTML.
+
+Key terms: design material — the medium a designer shapes, like paper, pixels or code; hands-on — learning by doing rather than by reading
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>A football fan zine for Gothenburg's streets</title>
+<link>https://www.itsnicethat.com/features/uefa-womens-champions-league-queenzine-swedish-girls-gothenburg-collaboration-sponsored-content-131126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/features/uefa-womens-champions-league-queenzine-swedish-girls-gothenburg-collaboration-sponsored-content-131126</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A sponsored feature on a UEFA Women's Champions League zine made with the art duo Swedish Girls to bring fan culture onto the streets of Gothenburg.
+
+Key terms: zine — a small, self-published magazine, often handmade; fandom — the community and culture of a group of fans
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>Live one life in real statistics</title>
@@ -238,6 +322,18 @@ SUISSE
 • L'Allemagne va constituer une réserve stratégique de gaz pour faire face aux situations d'urgence. (France 24 (EN): https://www.france24.com/en/live-news/20261111-germany-to-create-strategic-gas-reserve-to-guard-against-emergencies)
 
 Mots clés : un échange de prisonniers — la libération réciproque de détenus entre deux camps ; une primaire — un vote organisé pour désigner le candidat unique d'un camp politique ; lever des sanctions — supprimer des mesures de pression économiques ou politiques ; une prévision de croissance — une estimation de l'évolution future de l'activité économique ; interdire d'entrée — refuser à quelqu'un l'accès au territoire d'un pays ; comparaître — se présenter devant un tribunal</description>
+</item>
+<item>
+<title>Vucko's joyful motion identity for Etsy</title>
+<link>https://www.itsnicethat.com/articles/vucko-etsy-motion-graphic-design-sponsored-content-121126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/vucko-etsy-motion-graphic-design-sponsored-content-121126</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A sponsored piece about the motion identity the studio Vucko created for Etsy, built on joy, simplicity and craft.
+
+Key terms: motion identity — a brand's visual system designed to move and animate; craft — skill in making things carefully by hand
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>The hidden mental cost of heavy AI use</title>
@@ -971,70 +1067,10 @@ Key terms: berrypicking — searching by collecting small pieces of information 
 Source: UX Collective</description>
 </item>
 <item>
-<title>Native components are a floor, not ceiling</title>
-<link>https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce</link>
-<guid isPermaLink="true">https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce</guid>
-<pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>Argues that using the operating system's own interface components keeps apps from feeling fake and lets them follow OS updates, while brand identity sits on a separate layer.
-
-Key terms: native component — a built-in interface element provided by the operating system; brand identity — the visual and verbal personality of a company
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Cabinetmakers' exhibition: rug-wrapped chair and candle holder</title>
-<link>https://www.dezeen.com/2026/11/06/cabinetmakers-autumn-exhibition-2026-danish-furniture/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/06/cabinetmakers-autumn-exhibition-2026-danish-furniture/</guid>
-<pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Dezeen covers the Cabinetmakers' Autumn Exhibition, a Danish furniture show whose pieces include a chair wrapped in a rug and a giant candle holder.
-
-Key terms: cabinetmaker — a craftsperson who builds fine wooden furniture; candle holder — an object that keeps a candle upright
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>The hidden cost of good, fast and cheap</title>
-<link>https://buzzusborne.com/writing/pick-three/</link>
-<guid isPermaLink="true">https://buzzusborne.com/writing/pick-three/</guid>
-<pubDate>Fri, 06 Nov 2026 05:47:05 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay exploring the hidden cost of trying to make creative work that is good, fast and cheap all at once.
-
-Key terms: trade-off — giving up one thing to gain another; hidden cost — a price you pay that is not obvious at first
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Revisiting the taboo-breaking Avant Garde magazine</title>
-<link>https://avantgarde.110west40th.com/</link>
-<guid isPermaLink="true">https://avantgarde.110west40th.com/</guid>
-<pubDate>Fri, 06 Nov 2026 05:47:05 +0000</pubDate>
-<category>Sidebar</category>
-<description>A site about Avant Garde, an influential but often overlooked magazine that broke taboos and made enemies in its time.
-
-Key terms: seminal — strongly influencing later work; taboo — a subject people avoid or forbid talking about
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Paper Mono, a free open-source monospace font</title>
-<link>https://paper.design/mono</link>
-<guid isPermaLink="true">https://paper.design/mono</guid>
-<pubDate>Fri, 06 Nov 2026 05:47:05 +0000</pubDate>
-<category>Sidebar</category>
-<description>Paper Mono is a free, open-source monospace type family with eight variable weights and ligatures for code.
-
-Key terms: monospace — a typeface where every character takes the same width; ligature — two or more letters joined into a single glyph
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>5 nov. : grève en France, budget rejeté, réforme AI</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-05.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-05.html</guid>
-<pubDate>Thu, 05 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 05:44:57 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les syndicats appellent à une journée de grève en France après le rejet unanime du budget 2027 à l'Assemblée, l'Europe analyse la défaite de Donald Trump aux élections de mi-mandat, et le Conseil fédéral lance une nouvelle réforme de l'assurance invalidité.
 
@@ -1063,42 +1099,6 @@ SUISSE
 • La direction de la BCE exhorte la zone euro à s'adapter plus vite au changement climatique. (France 24 (EN): https://www.france24.com/en/live-news/20261104-ecb-chief-urges-eurozone-to-adapt-faster-to-climate-change)
 
 Mots clés : une première lecture — le premier examen d'un texte de loi par une assemblée parlementaire ; l'indexation des salaires — l'ajustement des salaires à la hausse des prix ; une cotisation salariale — la part du salaire prélevée pour financer une assurance sociale ; les élections de mi-mandat — aux États-Unis, élections organisées au milieu du mandat présidentiel ; un prestataire — une entreprise qui fournit un service à une autre ; un taux d'intérêt minimal — le rendement plancher que les caisses de pension doivent verser sur l'avoir de vieillesse</description>
-</item>
-<item>
-<title>A book celebrating torn posters and ephemera</title>
-<link>https://www.itsnicethat.com/articles/dr-me-waiting-room-press-accidental-collage-advertising-publication-project-051126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/dr-me-waiting-room-press-accidental-collage-advertising-publication-project-051126</guid>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A publication called Accidental Collage celebrates noticing the hidden visual worlds in printed ephemera, torn posters and old advertising.
-
-Key terms: ephemera — printed items made to be used briefly, like tickets or flyers; collage — a picture made by sticking different pieces together
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Is AI ruining UX, or speeding up old problems?</title>
-<link>https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422</link>
-<guid isPermaLink="true">https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422</guid>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>The author says asking whether AI will replace UX designers is the wrong question. The essay argues that what AI outputs is not the same as a good design outcome.
-
-Key terms: outcome — the real result or effect something has, not just what was produced; accelerant — something that makes an existing process or problem grow faster
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>A Slack bot for the team's quick questions</title>
-<link>https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb</link>
-<guid isPermaLink="true">https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb</guid>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>After reviewing more than two thousand requests from colleagues, the author built a Slack agent to handle routine team questions. The piece argues you should not have to answer every one yourself.
-
-Key terms: routine — ordinary and repeated often; triage — sorting requests to decide which need attention first
-
-Source: UX Collective</description>
 </item>
 <item>
 <title>4 nov. : Ukraine, blocages scolaires, TVA armée</title>

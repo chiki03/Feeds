@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kiln's playful identity for weight-loss brand Reset",
+    "link": "https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-15T05:53:12Z",
+    "summary": "Studio Kiln has designed the identity for a new weight-loss product called Reset, centred on a playful block-like character named Ester.",
+    "terms": [
+      [
+        "visual identity",
+        "the logo, colours and graphics that make a brand recognisable"
+      ],
+      [
+        "brand character",
+        "a mascot or figure that represents a brand"
+      ]
+    ]
+  },
+  {
+    "title": "Apple Music's new identity is made by sound",
+    "link": "https://www.creativereview.co.uk/apple-music-brand-identity-fred-again/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-15T05:53:12Z",
+    "summary": "Apple Music has a new brand identity created by TBWA\\Media Arts Lab in partnership with the musician Fred again.., built around sound.",
+    "terms": [
+      [
+        "rebrand",
+        "to change how a company presents itself visually"
+      ],
+      [
+        "sonic branding",
+        "using sound to make a brand recognisable"
+      ]
+    ]
+  },
+  {
+    "title": "Below the surface: Amsterdam's buried finds",
+    "link": "https://belowthesurface.amsterdam/en/vondsten",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-15T05:53:12Z",
+    "summary": "A website, picked by Sidebar, called Below the surface that presents finds from Amsterdam.",
+    "terms": [
+      [
+        "archive",
+        "a collection of historical records or objects"
+      ],
+      [
+        "catalogue",
+        "an organised list of items with descriptions"
+      ]
+    ]
+  },
+  {
     "title": "Design as a search problem",
     "link": "https://mattstromawn.com/writing/design-is-a-search-problem/",
     "source": "Sidebar",
@@ -108,6 +162,78 @@
     ]
   },
   {
+    "title": "Decision theatre versus real decision design",
+    "link": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685",
+    "source": "UX Collective",
+    "date": "2026-11-13",
+    "added": "2026-11-15T05:53:12Z",
+    "summary": "An essay on how AI output can leave human decisions hollow, and what skills, authority and process people need to truly own AI-assisted decisions.",
+    "terms": [
+      [
+        "accountability",
+        "being responsible for a decision and its results"
+      ],
+      [
+        "rubber-stamp",
+        "to approve something without really examining it"
+      ]
+    ]
+  },
+  {
+    "title": "A crooked plate beats algorithmic perfection",
+    "link": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147",
+    "source": "UX Collective",
+    "date": "2026-11-13",
+    "added": "2026-11-15T05:53:12Z",
+    "summary": "An essay arguing that the flawless results of AI can feel empty, and that small imperfections make things feel more human.",
+    "terms": [
+      [
+        "flawless",
+        "without any mistakes or defects"
+      ],
+      [
+        "handmade",
+        "made by a person rather than a machine"
+      ]
+    ]
+  },
+  {
+    "title": "AI as the new old design material",
+    "link": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a",
+    "source": "UX Collective",
+    "date": "2026-11-13",
+    "added": "2026-11-15T05:53:12Z",
+    "summary": "Argues that designers should learn AI models by building with them, just as earlier designers learned paint, print and HTML.",
+    "terms": [
+      [
+        "design material",
+        "the medium a designer shapes, like paper, pixels or code"
+      ],
+      [
+        "hands-on",
+        "learning by doing rather than by reading"
+      ]
+    ]
+  },
+  {
+    "title": "A football fan zine for Gothenburg's streets",
+    "link": "https://www.itsnicethat.com/features/uefa-womens-champions-league-queenzine-swedish-girls-gothenburg-collaboration-sponsored-content-131126",
+    "source": "It's Nice That",
+    "date": "2026-11-13",
+    "added": "2026-11-15T05:53:12Z",
+    "summary": "A sponsored feature on a UEFA Women's Champions League zine made with the art duo Swedish Girls to bring fan culture onto the streets of Gothenburg.",
+    "terms": [
+      [
+        "zine",
+        "a small, self-published magazine, often handmade"
+      ],
+      [
+        "fandom",
+        "the community and culture of a group of fans"
+      ]
+    ]
+  },
+  {
     "title": "Live one life in real statistics",
     "link": "https://1in8b.life/en/",
     "source": "Sidebar",
@@ -140,6 +266,24 @@
       [
         "memory",
         "stored information that can be used later"
+      ]
+    ]
+  },
+  {
+    "title": "Vucko's joyful motion identity for Etsy",
+    "link": "https://www.itsnicethat.com/articles/vucko-etsy-motion-graphic-design-sponsored-content-121126",
+    "source": "It's Nice That",
+    "date": "2026-11-12",
+    "added": "2026-11-15T05:53:12Z",
+    "summary": "A sponsored piece about the motion identity the studio Vucko created for Etsy, built on joy, simplicity and craft.",
+    "terms": [
+      [
+        "motion identity",
+        "a brand's visual system designed to move and animate"
+      ],
+      [
+        "craft",
+        "skill in making things carefully by hand"
       ]
     ]
   },
@@ -934,149 +1078,5 @@
       ]
     ],
     "added": "2026-11-07T05:52:09Z"
-  },
-  {
-    "title": "Native components are a floor, not ceiling",
-    "link": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce",
-    "source": "UX Collective",
-    "date": "2026-11-06",
-    "summary": "Argues that using the operating system's own interface components keeps apps from feeling fake and lets them follow OS updates, while brand identity sits on a separate layer.",
-    "terms": [
-      [
-        "native component",
-        "a built-in interface element provided by the operating system"
-      ],
-      [
-        "brand identity",
-        "the visual and verbal personality of a company"
-      ]
-    ],
-    "added": "2026-11-07T05:52:09Z"
-  },
-  {
-    "title": "Cabinetmakers' exhibition: rug-wrapped chair and candle holder",
-    "link": "https://www.dezeen.com/2026/11/06/cabinetmakers-autumn-exhibition-2026-danish-furniture/",
-    "source": "Dezeen",
-    "date": "2026-11-06",
-    "summary": "Dezeen covers the Cabinetmakers' Autumn Exhibition, a Danish furniture show whose pieces include a chair wrapped in a rug and a giant candle holder.",
-    "terms": [
-      [
-        "cabinetmaker",
-        "a craftsperson who builds fine wooden furniture"
-      ],
-      [
-        "candle holder",
-        "an object that keeps a candle upright"
-      ]
-    ],
-    "added": "2026-11-07T05:52:09Z"
-  },
-  {
-    "title": "The hidden cost of good, fast and cheap",
-    "link": "https://buzzusborne.com/writing/pick-three/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "An essay exploring the hidden cost of trying to make creative work that is good, fast and cheap all at once.",
-    "terms": [
-      [
-        "trade-off",
-        "giving up one thing to gain another"
-      ],
-      [
-        "hidden cost",
-        "a price you pay that is not obvious at first"
-      ]
-    ]
-  },
-  {
-    "title": "Revisiting the taboo-breaking Avant Garde magazine",
-    "link": "https://avantgarde.110west40th.com/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "A site about Avant Garde, an influential but often overlooked magazine that broke taboos and made enemies in its time.",
-    "terms": [
-      [
-        "seminal",
-        "strongly influencing later work"
-      ],
-      [
-        "taboo",
-        "a subject people avoid or forbid talking about"
-      ]
-    ]
-  },
-  {
-    "title": "Paper Mono, a free open-source monospace font",
-    "link": "https://paper.design/mono",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "Paper Mono is a free, open-source monospace type family with eight variable weights and ligatures for code.",
-    "terms": [
-      [
-        "monospace",
-        "a typeface where every character takes the same width"
-      ],
-      [
-        "ligature",
-        "two or more letters joined into a single glyph"
-      ]
-    ]
-  },
-  {
-    "title": "A book celebrating torn posters and ephemera",
-    "link": "https://www.itsnicethat.com/articles/dr-me-waiting-room-press-accidental-collage-advertising-publication-project-051126",
-    "source": "It's Nice That",
-    "date": "2026-11-05",
-    "summary": "A publication called Accidental Collage celebrates noticing the hidden visual worlds in printed ephemera, torn posters and old advertising.",
-    "terms": [
-      [
-        "ephemera",
-        "printed items made to be used briefly, like tickets or flyers"
-      ],
-      [
-        "collage",
-        "a picture made by sticking different pieces together"
-      ]
-    ],
-    "added": "2026-11-09T05:52:40Z"
-  },
-  {
-    "title": "Is AI ruining UX, or speeding up old problems?",
-    "link": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422",
-    "source": "UX Collective",
-    "date": "2026-11-05",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "The author says asking whether AI will replace UX designers is the wrong question. The essay argues that what AI outputs is not the same as a good design outcome.",
-    "terms": [
-      [
-        "outcome",
-        "the real result or effect something has, not just what was produced"
-      ],
-      [
-        "accelerant",
-        "something that makes an existing process or problem grow faster"
-      ]
-    ]
-  },
-  {
-    "title": "A Slack bot for the team's quick questions",
-    "link": "https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb",
-    "source": "UX Collective",
-    "date": "2026-11-05",
-    "added": "2026-11-06T05:47:05Z",
-    "summary": "After reviewing more than two thousand requests from colleagues, the author built a Slack agent to handle routine team questions. The piece argues you should not have to answer every one yourself.",
-    "terms": [
-      [
-        "routine",
-        "ordinary and repeated often"
-      ],
-      [
-        "triage",
-        "sorting requests to decide which need attention first"
-      ]
-    ]
   }
 ]
