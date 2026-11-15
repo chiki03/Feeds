@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-11-15",
+    "added": "2026-11-15T05:55:00Z",
+    "title": "15 nov. : Donbass, acte V, austérité à Genève",
+    "lede": "Volodymyr Zelensky affirme que Washington a proposé l'échange du Donbass contre une adhésion à l'Otan, la France manifeste pour un cinquième samedi et Genève défile contre les coupes budgétaires.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Ukraine : selon Volodymyr Zelensky, Washington a proposé que Kiev cède le Donbass en échange d'une adhésion à l'Otan.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261114-washington-propos%C3%A9-kiev-c%C3%A8de-donbass-%C3%A9change-adh%C3%A9sion-otan-affirme-zelensky"
+          },
+          {
+            "text": "Emmanuel Macron affirme que « ceux qui veulent rationner » l'aide à l'Ukraine cherchent à « l'obliger à une paix injuste ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261114-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-veulent-l-obliger-%C3%A0-une-paix-injuste"
+          },
+          {
+            "text": "Volodymyr Zelensky met en garde contre la volonté de Moscou de redessiner sa sphère d'« influence » en Europe.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261114-zelensky-warns-of-moscow-seeking-to-redraw-influence-in-europe"
+          },
+          {
+            "text": "Plusieurs pays européens lancent une campagne pour clarifier l'origine des tomates vendues aux consommateurs.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/14/plusieurs-pays-europeens-lancent-une-campagne-pour-clarifier-lorigine-des-tomates"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Acte V de la colère sociale : la mobilisation de samedi est en baisse, mais des incidents ont éclaté dans plusieurs villes.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261114-manifestations-du-14-novembre-en-direct-des-revendications-diverses-en-amont-de-l-acte-v"
+          },
+          {
+            "text": "Selon le ministère de l'Intérieur, plus de 100 000 personnes ont manifesté dans toute la France.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests"
+          },
+          {
+            "text": "Vie chère, moyens pour l'éducation, protection de l'enfance : les revendications de ce nouveau samedi de mobilisation sont variées.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/14/vie-chere-moyens-pour-leducation-protection-infantile-nouveau-samedi-de-mobilisation-dans-"
+          },
+          {
+            "text": "Présidentielle : Teddy Riner réfute être macroniste et qualifie de « baiser empoisonné » les félicitations d'Emmanuel Macron.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261114-teddy-riner-r%C3%A9fute-%C3%AAtre-macroniste-qualifie-baiser-empoisonn%C3%A9-f%C3%A9licitations-macron"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Genève : plusieurs milliers de personnes ont manifesté samedi à l'appel de la Coalition contre l'austérité, opposée aux coupes budgétaires.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-des-milliers-de-manifestants-contre-l-austerite-29415964.html"
+          },
+          {
+            "text": "Lutte contre la pauvreté : la Suisse crée un nouveau Conseil consacré à cette question.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/lutte-contre-la-pauvrete-la-suisse-cree-un-nouveau-conseil-29410844.html"
+          },
+          {
+            "text": "L'Union syndicale suisse prévoit une initiative populaire pour un salaire minimum de 5000 francs à plein temps après l'apprentissage.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Vaud : la nouvelle ligne de tram Lausanne–Renens entrera en service commercial le 13 décembre, après le feu vert de l'Office fédéral des transports.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Panne mondiale : Microsoft affirme que ses services sont désormais entièrement rétablis et se dit « profondément désolé ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/%C3%A9co-tech/20261114-les-services-de-microsoft-sont-quasiment-r%C3%A9tablis-l-entreprise-se-dit-profond%C3%A9ment-d%C3%A9sol%C3%A9e"
+          },
+          {
+            "text": "Fusion des coopératives Migros : la Commission de la concurrence renonce pour l'instant à enquêter, malgré les critiques de producteurs.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "L'Agence internationale de l'énergie constate des prix du diesel élevés en Europe, malgré une offre mondiale de pétrole excédentaire.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/13/laie-constate-des-prix-du-diesel-europeen-eleves-malgre-une-offre-mondiale-de-petrole-exce"
+          },
+          {
+            "text": "L'affaire Nvidia s'invite dans les discussions sur la sécurité de l'intelligence artificielle entre la Chine et les États-Unis.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/%C3%A9co-tech/20261114-affaire-nvidia-invite-dans-discussions-s%C3%A9curit%C3%A9-ia-entre-chine-%C3%A9tats-unis"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "rationner",
+        "limiter la quantité de quelque chose que l'on distribue, ici l'aide accordée"
+      ],
+      [
+        "une adhésion",
+        "le fait de devenir membre d'une organisation, comme l'Otan ou l'UE"
+      ],
+      [
+        "un baiser empoisonné",
+        "un soutien en apparence favorable qui finit par nuire à celui qui le reçoit"
+      ],
+      [
+        "une coupe budgétaire",
+        "une réduction des dépenses prévues dans un budget public"
+      ],
+      [
+        "la vie chère",
+        "le niveau élevé des prix, qui pèse sur le pouvoir d'achat"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-14",
     "added": "2026-11-14T05:44:00Z",
     "title": "14 nov. : Ukraine, grève des fonctionnaires, BCE",
@@ -2364,4 +2494,3 @@
     ]
   }
 ]
-
