@@ -162,6 +162,60 @@
     ]
   },
   {
+    "title": "Research keeps pace with AI-speed development",
+    "link": "https://www.nngroup.com/articles/research-in-the-loop/",
+    "source": "Nielsen Norman Group",
+    "date": "2026-11-13",
+    "summary": "An NN/g article on how user research can adapt to product development that now moves at AI speed, under the idea of keeping research \"in the loop\".",
+    "terms": [
+      [
+        "in the loop",
+        "kept involved at each step of a process"
+      ],
+      [
+        "cadence",
+        "the regular rhythm at which work happens"
+      ]
+    ],
+    "added": "2026-11-16T05:53:10Z"
+  },
+  {
+    "title": "Acoustic products that calm noisy interiors",
+    "link": "https://www.dezeen.com/2026/11/13/six-quietening-acoustic-products-booths-pods-dezeen-showroom/",
+    "source": "Dezeen",
+    "date": "2026-11-13",
+    "summary": "A Dezeen roundup of six acoustic products, including booths and pods, designed to reduce noise in interiors.",
+    "terms": [
+      [
+        "acoustic",
+        "relating to sound and how it travels"
+      ],
+      [
+        "pod",
+        "a small enclosed unit for one or a few people"
+      ]
+    ],
+    "added": "2026-11-16T05:53:10Z"
+  },
+  {
+    "title": "Polestar's Formula 2030 performance concept car",
+    "link": "https://www.dezeen.com/2026/11/13/polestar-formula-2030-concept-car/",
+    "source": "Dezeen",
+    "date": "2026-11-13",
+    "summary": "Dezeen covers Polestar's Formula 2030 concept car, a design study pitched as all about performance.",
+    "terms": [
+      [
+        "concept car",
+        "a prototype built to show future design ideas, not for sale"
+      ],
+      [
+        "livery",
+        "the colours and graphics painted on a vehicle"
+      ]
+    ],
+    "added": "2026-11-16T05:53:10Z"
+  },
+  {
     "title": "Decision theatre versus real decision design",
     "link": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685",
     "source": "UX Collective",
@@ -630,6 +684,60 @@
     "added": "2026-11-10T05:51:44Z"
   },
   {
+    "title": "The broken economics of US art school",
+    "link": "https://www.itsnicethat.com/articles/elizabeth-goodspeed-art-school-economics-education-creative-industry-091126",
+    "source": "It's Nice That",
+    "date": "2026-11-09",
+    "summary": "Elizabeth Goodspeed argues that US art schools are closing or getting pricier as loan rules and limits on international students tighten. She makes the case that art education should be treated as a public good.",
+    "terms": [
+      [
+        "tuition",
+        "the fee a school charges for teaching"
+      ],
+      [
+        "public good",
+        "something that benefits society as a whole, not just individuals"
+      ]
+    ],
+    "added": "2026-11-16T05:53:10Z"
+  },
+  {
+    "title": "Studios must rebuild junior roles on purpose",
+    "link": "https://www.itsnicethat.com/career-predictions/cat-how-091126",
+    "source": "It's Nice That",
+    "date": "2026-11-09",
+    "summary": "Cat How of branding studio How&How predicts AI will erode entry-level creative work, leaving a gap in mid-level talent later. She argues studios will have to deliberately hire and train juniors again.",
+    "terms": [
+      [
+        "entry-level",
+        "suited to people starting their careers"
+      ],
+      [
+        "talent pipeline",
+        "the flow of people being trained up for future roles"
+      ]
+    ],
+    "added": "2026-11-16T05:53:10Z"
+  },
+  {
+    "title": "Invent your own creative career",
+    "link": "https://www.itsnicethat.com/career-predictions/marcus-wendt-091126",
+    "source": "It's Nice That",
+    "date": "2026-11-09",
+    "summary": "FIELD.IO founder Marcus Wendt predicts young creatives will increasingly build their own brands and products. He advises owning your work and valuing curiosity over mastery of tools.",
+    "terms": [
+      [
+        "ownership",
+        "having legal and practical control over something you made"
+      ],
+      [
+        "self-starter",
+        "someone who begins projects without being told to"
+      ]
+    ],
+    "added": "2026-11-16T05:53:10Z"
+  },
+  {
     "title": "28 voices on starting a creative career",
     "link": "https://www.itsnicethat.com/features/career-predictions-for-junior-creatives-creative-industry-091126",
     "source": "It's Nice That",
@@ -970,113 +1078,5 @@
       ]
     ],
     "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "Who designs the stop button for AI agents?",
-    "link": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "An essay on designing AI agents, arguing that the hardest design decisions happen at the point where an agent's autonomy ends.",
-    "terms": [
-      [
-        "autonomy",
-        "the ability to act independently without supervision"
-      ],
-      [
-        "non-deterministic",
-        "able to give different results from the same input"
-      ]
-    ],
-    "added": "2026-11-07T05:52:09Z"
-  },
-  {
-    "title": "A sans serif with oversized round shapes",
-    "link": "https://the-brandidentity.com/typeface/superior-types-heaven-is-a-sans-serif-built-on-oversized-round-shapes",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "Presents Heaven, a typeface from Superior Type described as a brutalist grotesque built around oversized round forms.",
-    "terms": [
-      [
-        "grotesque",
-        "a style of early sans serif typeface"
-      ],
-      [
-        "brutalist",
-        "raw, bold and deliberately unpolished in style"
-      ]
-    ],
-    "added": "2026-11-07T05:52:09Z"
-  },
-  {
-    "title": "A monospace font that shows LLM tokens",
-    "link": "https://george.mand.is/2026/11/the-tokenizer-font/",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "Introduces Tokenizer Mono, a monospace font that highlights how a large language model splits text into tokens as you type, using OpenType substitution rules.",
-    "terms": [
-      [
-        "monospace",
-        "a font where every character takes the same width"
-      ],
-      [
-        "token",
-        "a small chunk of text that a language model processes"
-      ]
-    ],
-    "added": "2026-11-07T05:52:09Z"
-  },
-  {
-    "title": "AI, attention and civilization's pace layers",
-    "link": "https://longnow.org/ideas/attention-ai-pace-layers/",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "A Long Now essay about AI, human attention and what it takes to maintain a civilization over time.",
-    "terms": [
-      [
-        "pace layers",
-        "a model where parts of society change at different speeds"
-      ],
-      [
-        "attention",
-        "the mental focus a person gives to something"
-      ]
-    ],
-    "added": "2026-11-07T05:52:09Z"
-  },
-  {
-    "title": "A manifesto for after the AI bubble",
-    "link": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662",
-    "source": "UX Collective",
-    "date": "2026-11-06",
-    "summary": "A manifesto claiming the AI boom has turned computers into tools for pushing people around, and calling for more humane uses of computing, touching on economics and the environment.",
-    "terms": [
-      [
-        "bubble",
-        "a period when prices or hype rise far above real value, then collapse"
-      ],
-      [
-        "humane",
-        "kind and respectful toward people"
-      ]
-    ],
-    "added": "2026-11-09T05:52:40Z"
-  },
-  {
-    "title": "Berrypicking still beats single-answer AI search",
-    "link": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500",
-    "source": "UX Collective",
-    "date": "2026-11-06",
-    "summary": "Argues that Marcia Bates's 1989 berrypicking model, where people gather information bit by bit, still describes how we search with AI. It lists five design implications for search products.",
-    "terms": [
-      [
-        "berrypicking",
-        "searching by collecting small pieces of information along the way"
-      ],
-      [
-        "single answer",
-        "one result presented as the final response"
-      ]
-    ],
-    "added": "2026-11-07T05:52:09Z"
   }
 ]

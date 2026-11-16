@@ -6,7 +6,7 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 05:44:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 05:53:10 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>16 nov. : Estonie, médias tchèques, Booking.com</title>
@@ -249,6 +249,42 @@ SUISSE
 • Franc suisse : le dénouement des opérations de portage (« carry trade ») alimente la hausse du franc, considéré comme valeur refuge. (Swissinfo (EN): https://swissinfo.ch/eng/macroeconomics/swiss-franc-carry-trade-squeeze-adds-fuel-to-haven-rally/92370964)
 
 Mots clés : une grève générale — un arrêt de travail organisé dans tous les secteurs d'un pays ; porter plainte — saisir la justice pour dénoncer une infraction ; l'austérité — une politique de fortes économies dans les dépenses publiques ; une valeur refuge — un placement jugé sûr en période d'incertitude ; une fausse alerte — un avertissement de danger qui se révèle sans fondement ; démissionner — quitter volontairement ses fonctions</description>
+</item>
+<item>
+<title>Research keeps pace with AI-speed development</title>
+<link>https://www.nngroup.com/articles/research-in-the-loop/</link>
+<guid isPermaLink="true">https://www.nngroup.com/articles/research-in-the-loop/</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<category>Nielsen Norman Group</category>
+<description>An NN/g article on how user research can adapt to product development that now moves at AI speed, under the idea of keeping research "in the loop".
+
+Key terms: in the loop — kept involved at each step of a process; cadence — the regular rhythm at which work happens
+
+Source: Nielsen Norman Group</description>
+</item>
+<item>
+<title>Acoustic products that calm noisy interiors</title>
+<link>https://www.dezeen.com/2026/11/13/six-quietening-acoustic-products-booths-pods-dezeen-showroom/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/13/six-quietening-acoustic-products-booths-pods-dezeen-showroom/</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>A Dezeen roundup of six acoustic products, including booths and pods, designed to reduce noise in interiors.
+
+Key terms: acoustic — relating to sound and how it travels; pod — a small enclosed unit for one or a few people
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>Polestar's Formula 2030 performance concept car</title>
+<link>https://www.dezeen.com/2026/11/13/polestar-formula-2030-concept-car/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/13/polestar-formula-2030-concept-car/</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Dezeen covers Polestar's Formula 2030 concept car, a design study pitched as all about performance.
+
+Key terms: concept car — a prototype built to show future design ideas, not for sale; livery — the colours and graphics painted on a vehicle
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>Decision theatre versus real decision design</title>
@@ -698,6 +734,42 @@ SUISSE
 Mots clés : un porte-parole — une personne qui parle au nom d'un groupe ou d'un gouvernement ; une pétition — un texte signé par de nombreuses personnes pour demander quelque chose aux autorités ; élu au premier tour — qui obtient la majorité dès le premier vote, sans second tour ; une médiation — l'intervention d'un tiers pour aider deux parties à trouver un accord ; l'austérité — une politique de réduction des dépenses publiques ; atteindre de nouveaux sommets — pour un indice boursier, monter à un niveau jamais atteint</description>
 </item>
 <item>
+<title>The broken economics of US art school</title>
+<link>https://www.itsnicethat.com/articles/elizabeth-goodspeed-art-school-economics-education-creative-industry-091126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/elizabeth-goodspeed-art-school-economics-education-creative-industry-091126</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Elizabeth Goodspeed argues that US art schools are closing or getting pricier as loan rules and limits on international students tighten. She makes the case that art education should be treated as a public good.
+
+Key terms: tuition — the fee a school charges for teaching; public good — something that benefits society as a whole, not just individuals
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Studios must rebuild junior roles on purpose</title>
+<link>https://www.itsnicethat.com/career-predictions/cat-how-091126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/career-predictions/cat-how-091126</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Cat How of branding studio How&amp;How predicts AI will erode entry-level creative work, leaving a gap in mid-level talent later. She argues studios will have to deliberately hire and train juniors again.
+
+Key terms: entry-level — suited to people starting their careers; talent pipeline — the flow of people being trained up for future roles
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Invent your own creative career</title>
+<link>https://www.itsnicethat.com/career-predictions/marcus-wendt-091126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/career-predictions/marcus-wendt-091126</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>FIELD.IO founder Marcus Wendt predicts young creatives will increasingly build their own brands and products. He advises owning your work and valuing curiosity over mastery of tools.
+
+Key terms: ownership — having legal and practical control over something you made; self-starter — someone who begins projects without being told to
+
+Source: It's Nice That</description>
+</item>
+<item>
 <title>28 voices on starting a creative career</title>
 <link>https://www.itsnicethat.com/features/career-predictions-for-junior-creatives-creative-industry-091126</link>
 <guid isPermaLink="true">https://www.itsnicethat.com/features/career-predictions-for-junior-creatives-creative-industry-091126</guid>
@@ -994,58 +1066,10 @@ Key terms: roundup — a short collection of related examples; raw concrete — 
 Source: Dezeen</description>
 </item>
 <item>
-<title>Who designs the stop button for AI agents?</title>
-<link>https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c</link>
-<guid isPermaLink="true">https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c</guid>
-<pubDate>Sat, 07 Nov 2026 05:52:09 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay on designing AI agents, arguing that the hardest design decisions happen at the point where an agent's autonomy ends.
-
-Key terms: autonomy — the ability to act independently without supervision; non-deterministic — able to give different results from the same input
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>A sans serif with oversized round shapes</title>
-<link>https://the-brandidentity.com/typeface/superior-types-heaven-is-a-sans-serif-built-on-oversized-round-shapes</link>
-<guid isPermaLink="true">https://the-brandidentity.com/typeface/superior-types-heaven-is-a-sans-serif-built-on-oversized-round-shapes</guid>
-<pubDate>Sat, 07 Nov 2026 05:52:09 +0000</pubDate>
-<category>Sidebar</category>
-<description>Presents Heaven, a typeface from Superior Type described as a brutalist grotesque built around oversized round forms.
-
-Key terms: grotesque — a style of early sans serif typeface; brutalist — raw, bold and deliberately unpolished in style
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>A monospace font that shows LLM tokens</title>
-<link>https://george.mand.is/2026/11/the-tokenizer-font/</link>
-<guid isPermaLink="true">https://george.mand.is/2026/11/the-tokenizer-font/</guid>
-<pubDate>Sat, 07 Nov 2026 05:52:09 +0000</pubDate>
-<category>Sidebar</category>
-<description>Introduces Tokenizer Mono, a monospace font that highlights how a large language model splits text into tokens as you type, using OpenType substitution rules.
-
-Key terms: monospace — a font where every character takes the same width; token — a small chunk of text that a language model processes
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>AI, attention and civilization's pace layers</title>
-<link>https://longnow.org/ideas/attention-ai-pace-layers/</link>
-<guid isPermaLink="true">https://longnow.org/ideas/attention-ai-pace-layers/</guid>
-<pubDate>Sat, 07 Nov 2026 05:52:09 +0000</pubDate>
-<category>Sidebar</category>
-<description>A Long Now essay about AI, human attention and what it takes to maintain a civilization over time.
-
-Key terms: pace layers — a model where parts of society change at different speeds; attention — the mental focus a person gives to something
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>6 nov. : grève en France, tech en chute, canicule</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-06.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-06.html</guid>
-<pubDate>Fri, 06 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 05:45:15 +0000</pubDate>
 <category>Le point du jour</category>
 <description>La France a connu une nouvelle journée de grève et de manifestations, les valeurs technologiques ont plongé à Wall Street sur fond de craintes liées à l'IA, et en Suisse une étude chiffre à près de 1260 le nombre de morts dus à la canicule de l'été.
 
@@ -1074,30 +1098,6 @@ SUISSE
 • Les constructeurs automobiles allemands sont dans l'impasse face à la concurrence chinoise, selon une analyse de l'AFP. (France 24 (EN): https://www.france24.com/en/live-news/20261106-german-carmakers-hit-a-dead-end-as-china-drives-past)
 
 Mots clés : une grève interprofessionnelle — une grève qui réunit des salariés de nombreux secteurs à la fois ; le Smic — le salaire minimum légal en France ; un cortège — un groupe de personnes qui défilent ensemble lors d'une manifestation ; une alerte à la bombe — un avertissement, souvent faux, signalant la présence d'un explosif ; la canicule — une longue période de très fortes chaleurs ; l'austérité — une politique de réduction des dépenses publiques</description>
-</item>
-<item>
-<title>A manifesto for after the AI bubble</title>
-<link>https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662</link>
-<guid isPermaLink="true">https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662</guid>
-<pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>A manifesto claiming the AI boom has turned computers into tools for pushing people around, and calling for more humane uses of computing, touching on economics and the environment.
-
-Key terms: bubble — a period when prices or hype rise far above real value, then collapse; humane — kind and respectful toward people
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Berrypicking still beats single-answer AI search</title>
-<link>https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500</link>
-<guid isPermaLink="true">https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500</guid>
-<pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>Argues that Marcia Bates's 1989 berrypicking model, where people gather information bit by bit, still describes how we search with AI. It lists five design implications for search products.
-
-Key terms: berrypicking — searching by collecting small pieces of information along the way; single answer — one result presented as the final response
-
-Source: UX Collective</description>
 </item>
 <item>
 <title>5 nov. : grève en France, budget rejeté, réforme AI</title>
