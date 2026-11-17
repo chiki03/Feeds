@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-17",
+    "added": "2026-11-17T05:43:51Z",
+    "title": "17 nov. : pourparlers Ukraine, Smic, Commerzbank",
+    "lede": "Kiev, les Européens et les Américains engagent de nouveaux pourparlers, les candidats à la présidentielle française s'affrontent sur l'impôt et le Smic, et Bruxelles autorise le rachat de Commerzbank par UniCredit.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Guerre en Ukraine : Volodymyr Zelensky annonce de premiers pourparlers entre Kiev, l'Europe et les États-Unis. Selon le maire de Moscou, quelque 600 drones ukrainiens ont été lancés sur la capitale russe.",
+            "source": "France 24",
+            "link": "https://france24.com/fr/europe/20261116-ukraine-en-direct-russie-600-drones-lanc%C3%A9s-sur-moscou-maire-capitale"
+          },
+          {
+            "text": "Des frappes russes ont touché deux ponts importants de Kiev, perturbant l'approvisionnement en eau et en électricité.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine"
+          },
+          {
+            "text": "Politique migratoire : cinq pays européens vont créer des « hubs de retour » au Rwanda pour y envoyer des migrants.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261116-cinq-pays-europ%C3%A9ens-vont-envoyer-des-migrants-au-rwanda"
+          },
+          {
+            "text": "La Suède exhorte l'Union européenne à renforcer son soutien à l'Ukraine.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/16/la-suede-exhorte-lue-a-renforcer-son-soutien-a-lukraine"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Présidentielle : impôts, logement et Smic ont dominé un débat entre candidats. Sur la hausse du Smic, Jean-Luc Mélenchon a rétorqué à Marine Le Pen : « c'est pas l'URSS ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261116-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-candidats-%C3%A0-la-pr%C3%A9sidentielle"
+          },
+          {
+            "text": "Marine Le Pen a confirmé à l'ambassadeur d'Ukraine que la France mettrait fin à son aide financière à Kiev si elle était élue.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261116-ukraine-marine-le-pen-confirme-%C3%A0-l-ambassadeur-la-fin-de-l-aide-financi%C3%A8re-si-elle-est-%C3%A9lue"
+          },
+          {
+            "text": "Pour Gabriel Attal et Bruno Retailleau, une primaire de la droite serait « un aveu d'échec ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261116-france-presidentielle-2027-primaire-de-la-droite-un-aveu-dechec-pour-gabriel-attal-et-bruno-retailleau"
+          },
+          {
+            "text": "Gérard Depardieu renonce à son procès en appel et présente ses excuses.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/depardieu-renonce-%C3%A0-son-proc%C3%A8s-en-appel-et-pr%C3%A9sente-ses-excuses/92386943"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Paquet d'accords Suisse-UE : en commission, c'est l'option du référendum obligatoire qui l'emporte.",
+            "source": "Swissinfo",
+            "link": "https://swissinfo.ch/fre/paquet-suisse-ue:-le-r%C3%A9f%C3%A9rendum-obligatoire-l'emporte-en-commission/92388564"
+          },
+          {
+            "text": "À l'approche de la votation du 29 novembre sur la hausse de la TVA destinée à financer la 13e rente AVS, la RTS compare le taux suisse à ceux des autres pays européens.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/economie/2026/article/hausse-de-la-tva-comment-la-suisse-se-situe-en-europe-29416801.html"
+          },
+          {
+            "text": "La ligne CFF Lausanne-Brigue a été coupée lundi soir.",
+            "source": "Le Temps",
+            "link": "https://www.letemps.ch/suisse/la-ligne-cff-lausanne-brigue-est-coupee"
+          },
+          {
+            "text": "Dans l'ouest lausannois, une voiture s'est retrouvée sur les rails du métro m1.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/une-voiture-sur-les-rails-du-m%c3%a9tro-m1-dans-l%27ouest-lausannois/92388596"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "L'Union européenne donne son feu vert au rachat de la banque allemande Commerzbank par l'italienne UniCredit.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/16/lue-donne-son-feu-vert-au-rachat-de-commerzbank-par-litalien-unicredit"
+          },
+          {
+            "text": "Le groupe industriel suisse Sulzer décroche un contrat auprès de North American Blue Energy Partners, une société pétrolière basée à la Barbade et active au Venezuela.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Maileva : une nouvelle cyberattaque vise une société française.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-maileva-nouvelle-cyberattaque-contre-une-soci%C3%A9t%C3%A9-fran%C3%A7aise"
+          },
+          {
+            "text": "Nvidia : Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête du groupe.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/%C3%A9co-tech/20261116-elon-musk-uber-spacex-epic-games-157000-signataires-reclament-retour-jensen-huang-tete-nvidia-intelligence-artificielle-lettre-ouverte-enquete-independante"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "des pourparlers",
+        "des discussions préparatoires en vue d'un accord"
+      ],
+      [
+        "un hub de retour",
+        "un centre situé hors de l'UE où sont renvoyés des migrants déboutés"
+      ],
+      [
+        "le référendum obligatoire",
+        "un vote populaire imposé d'office, sans récolte de signatures"
+      ],
+      [
+        "un aveu d'échec",
+        "le fait de reconnaître, même implicitement, qu'on n'a pas réussi"
+      ],
+      [
+        "renoncer à faire appel",
+        "accepter un jugement sans demander qu'il soit réexaminé"
+      ],
+      [
+        "donner son feu vert",
+        "autoriser officiellement"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-16",
     "added": "2026-11-16T05:44:28Z",
     "title": "16 nov. : Estonie, médias tchèques, Booking.com",
