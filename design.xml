@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 05:43:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 05:53:12 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>17 nov. : pourparlers Ukraine, Smic, Commerzbank</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-17.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-17.html</guid>
-<pubDate>Tue, 17 Nov 2026 05:44:51 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 05:54:12 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Kiev, les Européens et les Américains engagent de nouveaux pourparlers, les candidats à la présidentielle française s'affrontent sur l'impôt et le Smic, et Bruxelles autorise le rachat de Commerzbank par UniCredit.
 
@@ -43,10 +43,34 @@ SUISSE
 Mots clés : des pourparlers — des discussions préparatoires en vue d'un accord ; un hub de retour — un centre situé hors de l'UE où sont renvoyés des migrants déboutés ; le référendum obligatoire — un vote populaire imposé d'office, sans récolte de signatures ; un aveu d'échec — le fait de reconnaître, même implicitement, qu'on n'a pas réussi ; renoncer à faire appel — accepter un jugement sans demander qu'il soit réexaminé ; donner son feu vert — autoriser officiellement</description>
 </item>
 <item>
+<title>Slop is moving up the stack</title>
+<link>https://gabeorlanski.github.io/posts/slop-moves-up/</link>
+<guid isPermaLink="true">https://gabeorlanski.github.io/posts/slop-moves-up/</guid>
+<pubDate>Tue, 17 Nov 2026 05:53:12 +0000</pubDate>
+<category>Sidebar</category>
+<description>A piece, as its title says, on low-quality 'slop' spreading to higher layers of the technology stack.
+
+Key terms: slop — low-quality content produced in bulk, often by AI; tech stack — the layers of tools and software a product is built on
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Glue work still hurts in the AI age</title>
+<link>https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</link>
+<guid isPermaLink="true">https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</guid>
+<pubDate>Tue, 17 Nov 2026 05:53:12 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay, per its title, arguing that 'glue work' remains harmful for careers even with AI tools.
+
+Key terms: glue work — invisible coordination tasks that keep a team running; undervalued — not given the credit or importance it deserves
+
+Source: Sidebar</description>
+</item>
+<item>
 <title>16 nov. : Estonie, médias tchèques, Booking.com</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-16.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-16.html</guid>
-<pubDate>Mon, 16 Nov 2026 05:45:28 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>L'Estonie décide de fermer sa frontière avec la Russie après une tentative de sabotage, des centaines de milliers de Tchèques défendent leurs médias publics et plus de 800 hôtels suisses s'attaquent à Booking.com.
 
@@ -74,6 +98,102 @@ SUISSE
 • Meta, Google, Microsoft… France 24 s'interroge sur la dépendance technologique de l'Europe envers les géants américains. (France 24: https://www.france24.com/fr/vid%C3%A9o/20261115-m%C3%A9ta-google-microsoft-l-europe-sous-perfusion-technologique)
 
 Mots clés : une tentative de sabotage — un essai, réussi ou non, d'endommager volontairement une installation ; des concessions territoriales — l'abandon d'une partie de son territoire au profit d'un autre pays ; une primaire — une élection préalable pour désigner le candidat unique d'un camp politique ; une plainte collective — une action en justice menée ensemble par de nombreux plaignants ; être sous perfusion — dépendre entièrement d'une aide extérieure pour fonctionner ; dans la douleur — avec beaucoup de difficulté</description>
+</item>
+<item>
+<title>Why pay for software anymore?</title>
+<link>https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772</link>
+<guid isPermaLink="true">https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772</guid>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay arguing that good design, rather than AI, is the real answer to the question of what makes software worth paying for.
+
+Key terms: value proposition — the reason a customer should choose and pay for a product; commoditise — to make something so common that it loses its special value
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>A reference guide to UI edge cases</title>
+<link>https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef</link>
+<guid isPermaLink="true">https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef</guid>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>A categorised checklist of interface edge cases, such as empty, loading, error and offline states, with notes on how to test and fix each one.
+
+Key terms: edge case — an unusual situation at the limits of normal use; empty state — what a screen shows when there is no content yet
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>The trash robot that hands things out</title>
+<link>https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0</link>
+<guid isPermaLink="true">https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0</guid>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay on cuteness, embarrassment and how designers can invite people to interact with a product.
+
+Key terms: kawaii — the Japanese culture of cuteness; affordance — a feature that suggests how something should be used
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Mother Design's five typefaces for MLB</title>
+<link>https://www.itsnicethat.com/articles/mother-design-major-league-baseball-brand-refresh-graphic-design-project-161126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/mother-design-major-league-baseball-brand-refresh-graphic-design-project-161126</guid>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Mother Design has refreshed the Major League Baseball brand, building it around five bespoke typefaces.
+
+Key terms: brand refresh — an update to an existing brand's look without starting over; typeface — a family of letter designs sharing one style
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>How design turns buying into belonging</title>
+<link>https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126</guid>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>An opinion piece on how graphic design helps brands feel like communities and makes shopping feel like belonging.
+
+Key terms: monetise — to turn something into a source of money; point of view (POV) — a personal opinion or perspective
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Maria Zilli sketches everyday characters</title>
+<link>https://www.itsnicethat.com/articles/maria-zilli-illustration-discover-161126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/maria-zilli-illustration-discover-161126</guid>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Illustrator Maria Zilli draws costumes and characters she observes in ordinary daily life.
+
+Key terms: sketch — a quick, rough drawing; character study — a drawing focused on capturing one person's look and personality
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>V&amp;A East Storehouse wins design project award</title>
+<link>https://www.dezeen.com/2026/11/16/dezeen-awards-2026-design-project-of-the-year-winner-va-east-storehouse/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/16/dezeen-awards-2026-design-project-of-the-year-winner-va-east-storehouse/</guid>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>The V&amp;A East Storehouse has been named design project of the year at the Dezeen Awards 2026.
+
+Key terms: storehouse — a building where collections or goods are kept; accolade — an award or honour
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>Meet Dezeen's 2026 designers of the year</title>
+<link>https://www.dezeen.com/2026/11/16/discover-this-years-dezeen-awards-designers-of-the-year</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/16/discover-this-years-dezeen-awards-designers-of-the-year</guid>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>Dezeen introduces the designers who won its Designers of the Year categories at the 2026 awards.
+
+Key terms: laureate — a person honoured with an award; shortlist — the final group of candidates chosen before a winner
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>15 nov. : Donbass, acte V, austérité à Genève</title>
@@ -912,22 +1032,10 @@ Key terms: pain point — a specific problem that frustrates users; product-mark
 Source: Sidebar</description>
 </item>
 <item>
-<title>Mean: visual handoff for humans and agents</title>
-<link>https://mean.app/</link>
-<guid isPermaLink="true">https://mean.app/</guid>
-<pubDate>Mon, 09 Nov 2026 05:52:40 +0000</pubDate>
-<category>Sidebar</category>
-<description>A tool, shared on Sidebar, that lets you freeze or record your screen, annotate it and hand it off to people or AI agents.
-
-Key terms: handoff — passing work from one person or team to another; annotate — to add notes or marks to explain something
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>8 nov. : Cracovie, Mélenchon, Thomas Aeschi</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-08.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-08.html</guid>
-<pubDate>Sun, 08 Nov 2026 05:52:52 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 05:44:46 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Une fusillade fait six morts à Cracovie, Jean-Luc Mélenchon lance sa campagne au Bourget pendant une nouvelle journée de manifestations, et l'UDC Thomas Aeschi se porte candidat au Conseil fédéral.
 
@@ -958,82 +1066,10 @@ SUISSE
 Mots clés : une fusillade — une série de coups de feu tirés sur des personnes ; un tireur interpellé — l'auteur des tirs arrêté par la police ; une démonstration de force — une manifestation destinée à montrer sa puissance ou son soutien ; briguer un siège — se porter candidat à une fonction ; l'intersyndicale — le regroupement de plusieurs syndicats qui agissent ensemble ; un assouplissement — le fait de rendre des règles moins strictes</description>
 </item>
 <item>
-<title>Nubank's rebrand by Koto</title>
-<link>https://koto.com/projects/nubank</link>
-<guid isPermaLink="true">https://koto.com/projects/nubank</guid>
-<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
-<category>Sidebar</category>
-<description>Branding agency Koto presents its rebrand of the digital bank Nubank, shared on Sidebar.
-
-Key terms: rebrand — a change to a company's name, logo or visual identity; fintech — companies that use technology to offer financial services
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Designing a skill</title>
-<link>https://iamnoman.com/writing/designing-a-skill</link>
-<guid isPermaLink="true">https://iamnoman.com/writing/designing-a-skill</guid>
-<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
-<category>Sidebar</category>
-<description>A short essay, shared on Sidebar, about the process of designing a skill.
-
-Key terms: craft — skill and care in making something by hand or mind; iteration — repeating a process to improve the result each time
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>The window with no buttons</title>
-<link>https://www.baselinedesign.com/posts/the-window-with-no-buttons</link>
-<guid isPermaLink="true">https://www.baselinedesign.com/posts/the-window-with-no-buttons</guid>
-<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
-<category>Sidebar</category>
-<description>A design post, shared on Sidebar, about a window that has no buttons.
-
-Key terms: affordance — a visual clue that shows how something can be used; chrome — the frame and controls around a window's content
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Building an AI-ready design system library</title>
-<link>https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2</link>
-<guid isPermaLink="true">https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2</guid>
-<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
-<category>Sidebar</category>
-<description>A guide, shared on Sidebar, to preparing a design system library in code and Figma so AI tools can use it through MCP.
-
-Key terms: design system — shared components and rules a team reuses to build products; MCP — Model Context Protocol, a standard for connecting AI tools to data
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>M&amp;S Christmas ad stars Punch and Norton</title>
-<link>https://creativereview.co.uk/lucy-punch-james-norton-ms-christmas-ad</link>
-<guid isPermaLink="true">https://creativereview.co.uk/lucy-punch-james-norton-ms-christmas-ad</guid>
-<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
-<category>Creative Review</category>
-<description>Lucy Punch and James Norton appear in a glamorous but funny Christmas advert for M&amp;S.
-
-Key terms: glitzy — showy and glamorous; festive — related to a holiday, especially Christmas
-
-Source: Creative Review</description>
-</item>
-<item>
-<title>Richard Ayoade plays Scrooge for Argos</title>
-<link>https://creativereview.co.uk/argos-christmas-ad-2026-richard-ayoade-scrooge</link>
-<guid isPermaLink="true">https://creativereview.co.uk/argos-christmas-ad-2026-richard-ayoade-scrooge</guid>
-<pubDate>Sun, 08 Nov 2026 05:51:52 +0000</pubDate>
-<category>Creative Review</category>
-<description>Richard Ayoade takes on a Scrooge-like role in Argos's 2026 Christmas advert.
-
-Key terms: Scrooge — a mean person who hates spending, from Dickens; spot — a single television or video advert
-
-Source: Creative Review</description>
-</item>
-<item>
 <title>7 nov. : Ukraine, programme de LFI, Bourses en baisse</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-07.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-07.html</guid>
-<pubDate>Sat, 07 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 05:50:42 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Le bilan d'une frappe russe dans le sud de l'Ukraine s'alourdit, LFI dévoile son programme pour 2027 et les marchés européens reculent après les élections de mi-mandat américaines.
 
@@ -1062,42 +1098,6 @@ SUISSE
 • Pénurie de logements : la RTS passe en revue les solutions trouvées à l'étranger qui pourraient inspirer la Suisse. (RTS: https://www.rts.ch/info/economie/2026/article/penurie-de-logements-les-pistes-de-l-etranger-pour-la-suisse-29407513.html)
 
 Mots clés : un bilan — le nombre total de victimes d'un événement ; une fausse alerte — un avertissement de danger qui se révèle sans fondement ; la désobéissance — le refus délibéré d'obéir aux règles ou aux autorités ; l'aversion pour le risque — la tendance à éviter les placements jugés dangereux ; des représailles — des mesures prises pour riposter à une action jugée hostile ; patiner — ne pas avancer, piétiner</description>
-</item>
-<item>
-<title>Keep your craft as AI gets better</title>
-<link>https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5</link>
-<guid isPermaLink="true">https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5</guid>
-<pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>An essay arguing that as AI improves at design, designers should keep building their own craft, taste and judgement instead of handing their thinking to tools.
-
-Key terms: craft — the skill and care that goes into making something well; judgement — the ability to make good decisions after thinking carefully
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>SABO Project softens a Manhattan apartment</title>
-<link>https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side</guid>
-<pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Studio SABO Project renovated an apartment on Manhattan's Lower East Side, using gentler ways to divide the rooms.
-
-Key terms: renovation — the work of repairing and updating a building; partition — a light wall or screen that divides a space
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Eight art galleries built from concrete</title>
-<link>https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/</guid>
-<pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>A roundup of eight art galleries whose architecture is made mainly from concrete.
-
-Key terms: roundup — a short collection of related examples; raw concrete — concrete left exposed without paint or cladding
-
-Source: Dezeen</description>
 </item>
 <item>
 <title>6 nov. : grève en France, tech en chute, canicule</title>

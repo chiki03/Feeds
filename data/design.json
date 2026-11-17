@@ -1,5 +1,185 @@
 [
   {
+    "title": "Slop is moving up the stack",
+    "link": "https://gabeorlanski.github.io/posts/slop-moves-up/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "A piece, as its title says, on low-quality 'slop' spreading to higher layers of the technology stack.",
+    "terms": [
+      [
+        "slop",
+        "low-quality content produced in bulk, often by AI"
+      ],
+      [
+        "tech stack",
+        "the layers of tools and software a product is built on"
+      ]
+    ]
+  },
+  {
+    "title": "Glue work still hurts in the AI age",
+    "link": "https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "An essay, per its title, arguing that 'glue work' remains harmful for careers even with AI tools.",
+    "terms": [
+      [
+        "glue work",
+        "invisible coordination tasks that keep a team running"
+      ],
+      [
+        "undervalued",
+        "not given the credit or importance it deserves"
+      ]
+    ]
+  },
+  {
+    "title": "Why pay for software anymore?",
+    "link": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772",
+    "source": "UX Collective",
+    "date": "2026-11-16",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "An essay arguing that good design, rather than AI, is the real answer to the question of what makes software worth paying for.",
+    "terms": [
+      [
+        "value proposition",
+        "the reason a customer should choose and pay for a product"
+      ],
+      [
+        "commoditise",
+        "to make something so common that it loses its special value"
+      ]
+    ]
+  },
+  {
+    "title": "A reference guide to UI edge cases",
+    "link": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef",
+    "source": "UX Collective",
+    "date": "2026-11-16",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "A categorised checklist of interface edge cases, such as empty, loading, error and offline states, with notes on how to test and fix each one.",
+    "terms": [
+      [
+        "edge case",
+        "an unusual situation at the limits of normal use"
+      ],
+      [
+        "empty state",
+        "what a screen shows when there is no content yet"
+      ]
+    ]
+  },
+  {
+    "title": "The trash robot that hands things out",
+    "link": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0",
+    "source": "UX Collective",
+    "date": "2026-11-16",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "An essay on cuteness, embarrassment and how designers can invite people to interact with a product.",
+    "terms": [
+      [
+        "kawaii",
+        "the Japanese culture of cuteness"
+      ],
+      [
+        "affordance",
+        "a feature that suggests how something should be used"
+      ]
+    ]
+  },
+  {
+    "title": "Mother Design's five typefaces for MLB",
+    "link": "https://www.itsnicethat.com/articles/mother-design-major-league-baseball-brand-refresh-graphic-design-project-161126",
+    "source": "It's Nice That",
+    "date": "2026-11-16",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "Mother Design has refreshed the Major League Baseball brand, building it around five bespoke typefaces.",
+    "terms": [
+      [
+        "brand refresh",
+        "an update to an existing brand's look without starting over"
+      ],
+      [
+        "typeface",
+        "a family of letter designs sharing one style"
+      ]
+    ]
+  },
+  {
+    "title": "How design turns buying into belonging",
+    "link": "https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126",
+    "source": "It's Nice That",
+    "date": "2026-11-16",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "An opinion piece on how graphic design helps brands feel like communities and makes shopping feel like belonging.",
+    "terms": [
+      [
+        "monetise",
+        "to turn something into a source of money"
+      ],
+      [
+        "point of view (POV)",
+        "a personal opinion or perspective"
+      ]
+    ]
+  },
+  {
+    "title": "Maria Zilli sketches everyday characters",
+    "link": "https://www.itsnicethat.com/articles/maria-zilli-illustration-discover-161126",
+    "source": "It's Nice That",
+    "date": "2026-11-16",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "Illustrator Maria Zilli draws costumes and characters she observes in ordinary daily life.",
+    "terms": [
+      [
+        "sketch",
+        "a quick, rough drawing"
+      ],
+      [
+        "character study",
+        "a drawing focused on capturing one person's look and personality"
+      ]
+    ]
+  },
+  {
+    "title": "V&A East Storehouse wins design project award",
+    "link": "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-design-project-of-the-year-winner-va-east-storehouse/",
+    "source": "Dezeen",
+    "date": "2026-11-16",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "The V&A East Storehouse has been named design project of the year at the Dezeen Awards 2026.",
+    "terms": [
+      [
+        "storehouse",
+        "a building where collections or goods are kept"
+      ],
+      [
+        "accolade",
+        "an award or honour"
+      ]
+    ]
+  },
+  {
+    "title": "Meet Dezeen's 2026 designers of the year",
+    "link": "https://www.dezeen.com/2026/11/16/discover-this-years-dezeen-awards-designers-of-the-year",
+    "source": "Dezeen",
+    "date": "2026-11-16",
+    "added": "2026-11-17T05:53:12Z",
+    "summary": "Dezeen introduces the designers who won its Designers of the Year categories at the 2026 awards.",
+    "terms": [
+      [
+        "laureate",
+        "a person honoured with an award"
+      ],
+      [
+        "shortlist",
+        "the final group of candidates chosen before a winner"
+      ]
+    ]
+  },
+  {
     "title": "Kiln's playful identity for weight-loss brand Reset",
     "link": "https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/",
     "source": "Creative Review",
@@ -898,185 +1078,5 @@
       ]
     ],
     "added": "2026-11-09T05:52:40Z"
-  },
-  {
-    "title": "Mean: visual handoff for humans and agents",
-    "link": "https://mean.app/",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "A tool, shared on Sidebar, that lets you freeze or record your screen, annotate it and hand it off to people or AI agents.",
-    "terms": [
-      [
-        "handoff",
-        "passing work from one person or team to another"
-      ],
-      [
-        "annotate",
-        "to add notes or marks to explain something"
-      ]
-    ],
-    "added": "2026-11-09T05:52:40Z"
-  },
-  {
-    "title": "Nubank's rebrand by Koto",
-    "link": "https://koto.com/projects/nubank",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "Branding agency Koto presents its rebrand of the digital bank Nubank, shared on Sidebar.",
-    "terms": [
-      [
-        "rebrand",
-        "a change to a company's name, logo or visual identity"
-      ],
-      [
-        "fintech",
-        "companies that use technology to offer financial services"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "Designing a skill",
-    "link": "https://iamnoman.com/writing/designing-a-skill",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "A short essay, shared on Sidebar, about the process of designing a skill.",
-    "terms": [
-      [
-        "craft",
-        "skill and care in making something by hand or mind"
-      ],
-      [
-        "iteration",
-        "repeating a process to improve the result each time"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "The window with no buttons",
-    "link": "https://www.baselinedesign.com/posts/the-window-with-no-buttons",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "A design post, shared on Sidebar, about a window that has no buttons.",
-    "terms": [
-      [
-        "affordance",
-        "a visual clue that shows how something can be used"
-      ],
-      [
-        "chrome",
-        "the frame and controls around a window's content"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "Building an AI-ready design system library",
-    "link": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "A guide, shared on Sidebar, to preparing a design system library in code and Figma so AI tools can use it through MCP.",
-    "terms": [
-      [
-        "design system",
-        "shared components and rules a team reuses to build products"
-      ],
-      [
-        "MCP",
-        "Model Context Protocol, a standard for connecting AI tools to data"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "M&S Christmas ad stars Punch and Norton",
-    "link": "https://creativereview.co.uk/lucy-punch-james-norton-ms-christmas-ad",
-    "source": "Creative Review",
-    "date": "",
-    "summary": "Lucy Punch and James Norton appear in a glamorous but funny Christmas advert for M&S.",
-    "terms": [
-      [
-        "glitzy",
-        "showy and glamorous"
-      ],
-      [
-        "festive",
-        "related to a holiday, especially Christmas"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "Richard Ayoade plays Scrooge for Argos",
-    "link": "https://creativereview.co.uk/argos-christmas-ad-2026-richard-ayoade-scrooge",
-    "source": "Creative Review",
-    "date": "",
-    "summary": "Richard Ayoade takes on a Scrooge-like role in Argos's 2026 Christmas advert.",
-    "terms": [
-      [
-        "Scrooge",
-        "a mean person who hates spending, from Dickens"
-      ],
-      [
-        "spot",
-        "a single television or video advert"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "Keep your craft as AI gets better",
-    "link": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5",
-    "source": "UX Collective",
-    "date": "2026-11-07",
-    "summary": "An essay arguing that as AI improves at design, designers should keep building their own craft, taste and judgement instead of handing their thinking to tools.",
-    "terms": [
-      [
-        "craft",
-        "the skill and care that goes into making something well"
-      ],
-      [
-        "judgement",
-        "the ability to make good decisions after thinking carefully"
-      ]
-    ],
-    "added": "2026-11-09T05:52:40Z"
-  },
-  {
-    "title": "SABO Project softens a Manhattan apartment",
-    "link": "https://www.dezeen.com/2026/11/07/sabo-project-soft-divisions-apartment-renovation-lower-east-side",
-    "source": "Dezeen",
-    "date": "2026-11-07",
-    "summary": "Studio SABO Project renovated an apartment on Manhattan's Lower East Side, using gentler ways to divide the rooms.",
-    "terms": [
-      [
-        "renovation",
-        "the work of repairing and updating a building"
-      ],
-      [
-        "partition",
-        "a light wall or screen that divides a space"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
-  },
-  {
-    "title": "Eight art galleries built from concrete",
-    "link": "https://www.dezeen.com/2026/11/07/concrete-art-galleries-roundup/",
-    "source": "Dezeen",
-    "date": "2026-11-07",
-    "summary": "A roundup of eight art galleries whose architecture is made mainly from concrete.",
-    "terms": [
-      [
-        "roundup",
-        "a short collection of related examples"
-      ],
-      [
-        "raw concrete",
-        "concrete left exposed without paint or cladding"
-      ]
-    ],
-    "added": "2026-11-08T05:51:52Z"
   }
 ]
