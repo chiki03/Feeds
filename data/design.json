@@ -1,5 +1,77 @@
 [
   {
+    "title": "Iconden: a gallery of iPhone app icons",
+    "link": "https://iconden.com/",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "A community gallery of iPhone app icons that also tracks how icons change through redesigns, shared on Sidebar.",
+    "terms": [
+      [
+        "app icon",
+        "the small image that represents an app on a phone's home screen"
+      ],
+      [
+        "redesign",
+        "a new version of an existing design"
+      ]
+    ],
+    "added": "2026-11-18T05:52:33Z"
+  },
+  {
+    "title": "Rethinking what UX research is worth",
+    "link": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12",
+    "source": "UX Collective",
+    "date": "2026-11-17",
+    "summary": "An essay arguing that doubts about the value of user research say more about how organizations deal with inconvenient findings than about new technology.",
+    "terms": [
+      [
+        "inconvenient finding",
+        "a research result that challenges what a team already wants to do"
+      ],
+      [
+        "stakeholder",
+        "a person with an interest in, or influence over, a project"
+      ]
+    ],
+    "added": "2026-11-18T05:52:33Z"
+  },
+  {
+    "title": "Using AI sparkle icons for design audits",
+    "link": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11",
+    "source": "UX Collective",
+    "date": "2026-11-17",
+    "summary": "A designer explains how to make sense of a product manager's AI-generated mockup quickly, using the familiar sparkle icon as a marker during design audits.",
+    "terms": [
+      [
+        "design audit",
+        "a systematic review of a product's design for problems and inconsistencies"
+      ],
+      [
+        "mockup",
+        "a realistic visual model of a screen or product, not yet built"
+      ]
+    ],
+    "added": "2026-11-18T05:52:33Z"
+  },
+  {
+    "title": "Dezeen launches its 20×20 talent project",
+    "link": "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/",
+    "source": "Dezeen",
+    "date": "2026-11-17",
+    "summary": "Dezeen has launched a project called 20×20 to identify the architects and designers to watch over the next 20 years.",
+    "terms": [
+      [
+        "one to watch",
+        "a person expected to become successful or influential"
+      ],
+      [
+        "launch",
+        "to start or introduce something new publicly"
+      ]
+    ],
+    "added": "2026-11-18T05:52:33Z"
+  },
+  {
     "title": "Slop is moving up the stack",
     "link": "https://gabeorlanski.github.io/posts/slop-moves-up/",
     "source": "Sidebar",
@@ -34,6 +106,42 @@
         "not given the credit or importance it deserves"
       ]
     ]
+  },
+  {
+    "title": "It's Nice That's 2026 creative gift guide",
+    "link": "https://www.itsnicethat.com/features/the-nice-list-2026-creative-gift-guide-161126",
+    "source": "It's Nice That",
+    "date": "2026-11-16",
+    "summary": "The Nice List 2026 is a holiday gift guide gathering wish-list picks from 73 makers and brands.",
+    "terms": [
+      [
+        "gift guide",
+        "a curated list of present ideas"
+      ],
+      [
+        "maker",
+        "an independent person who designs and produces objects by hand or in small runs"
+      ]
+    ],
+    "added": "2026-11-18T05:52:33Z"
+  },
+  {
+    "title": "Advice: comparison is the biggest confidence blocker",
+    "link": "https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-161126",
+    "source": "It's Nice That",
+    "date": "2026-11-16",
+    "summary": "A career advice column for creatives, focused on how comparing yourself with others undermines confidence.",
+    "terms": [
+      [
+        "confidence blocker",
+        "something that stops you feeling sure of your abilities"
+      ],
+      [
+        "conundrum",
+        "a confusing and difficult problem"
+      ]
+    ],
+    "added": "2026-11-18T05:52:33Z"
   },
   {
     "title": "Why pay for software anymore?",
@@ -970,113 +1078,5 @@
         "a book where drawings carry much of the story or data"
       ]
     ]
-  },
-  {
-    "title": "What design tools quietly leave out",
-    "link": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85",
-    "source": "UX Collective",
-    "date": "2026-11-09",
-    "summary": "An essay arguing that building a design tool is like writing rules, and that those rules silently remove some possibilities from the world.",
-    "terms": [
-      [
-        "constraint",
-        "a limit that shapes what can be made"
-      ],
-      [
-        "affordance",
-        "what an object or tool suggests you can do with it"
-      ]
-    ],
-    "added": "2026-11-10T05:51:44Z"
-  },
-  {
-    "title": "What typesetters can teach designers about AI",
-    "link": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285",
-    "source": "UX Collective",
-    "date": "2026-11-09",
-    "summary": "An interview with Christian Crumlish comparing typesetters displaced by personal computers with designers now facing AI, and what that means for professional identity.",
-    "terms": [
-      [
-        "typesetter",
-        "a person who arranged type for printing"
-      ],
-      [
-        "displaced",
-        "pushed out of a job or place by something new"
-      ]
-    ],
-    "added": "2026-11-10T05:51:44Z"
-  },
-  {
-    "title": "Unlimited AI tokens as a status symbol",
-    "link": "https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3",
-    "source": "UX Collective",
-    "date": "2026-11-09",
-    "summary": "A short piece suggesting that huge AI usage budgets have become a kind of status display, while well-chosen limits actually help people think clearly.",
-    "terms": [
-      [
-        "flex",
-        "a showy display of wealth or status (informal)"
-      ],
-      [
-        "country club",
-        "an exclusive private club, used as a symbol of privilege"
-      ]
-    ],
-    "added": "2026-11-10T05:51:44Z"
-  },
-  {
-    "title": "Check this before shipping a year-end recap",
-    "link": "https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8",
-    "source": "UX Collective",
-    "date": "2026-11-09",
-    "summary": "A look at what last year's personalised year-in-review features got right, what has changed in 2026, and one step teams often skip before launch.",
-    "terms": [
-      [
-        "year-in-review",
-        "a summary of someone's activity over the past year"
-      ],
-      [
-        "personalisation",
-        "tailoring content to each individual user"
-      ]
-    ],
-    "added": "2026-11-10T05:51:44Z"
-  },
-  {
-    "title": "Career advice: you remain a designer regardless",
-    "link": "https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-091126",
-    "source": "It's Nice That",
-    "date": "2026-11-09",
-    "summary": "An entry in It's Nice That's careers advice column, reassuring a reader that being a designer is part of who you are, whether or not you do it full time.",
-    "terms": [
-      [
-        "side hustle",
-        "paid work done alongside a main job"
-      ],
-      [
-        "career pivot",
-        "a deliberate change of career direction"
-      ]
-    ],
-    "added": "2026-11-10T05:51:44Z"
-  },
-  {
-    "title": "Make painful things less painful",
-    "link": "https://www.lesswrong.com/posts/KThSe2vPZw4zn7f8W/great-but-painful",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "A short essay, shared on Sidebar, suggesting that good products come from making something people already do less painful.",
-    "terms": [
-      [
-        "pain point",
-        "a specific problem that frustrates users"
-      ],
-      [
-        "product-market fit",
-        "when a product clearly meets a real need of its market"
-      ]
-    ],
-    "added": "2026-11-09T05:52:40Z"
   }
 ]
