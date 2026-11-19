@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-19",
+    "added": "2026-11-19T05:43:35Z",
+    "title": "19 nov. : prêt à l'Ukraine, Philippe, budget fédéral",
+    "lede": "Bruxelles propose un nouveau prêt de 45 milliards d'euros à l'Ukraine, la campagne présidentielle française s'anime, et à Berne le budget 2027 et la succession au Conseil fédéral occupent les esprits.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "La Commission européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine ; selon Euronews, il serait garanti par une dette commune.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261118-commission-europ%C3%A9enne-propose-nouveau-pr%C3%AAt-45-milliards-euros-ukraine"
+          },
+          {
+            "text": "Guerre en Ukraine : un haut responsable du Pentagone critique les frappes ukrainiennes en territoire russe, signe d'un désaccord avec les Européens sur la conduite de la guerre.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261118-guerre-en-ukraine-un-haut-dirigeant-du-pentagone-critique-les-frappes-en-russie"
+          },
+          {
+            "text": "Sécurité européenne : plus de 50 menaces non conventionnelles ont été recensées en Europe depuis octobre.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/18/securite-europenne-plus-de-50-menaces-non-conventionnelles-recensees-depuis-octobre"
+          },
+          {
+            "text": "Xi Jinping reçoit Vladimir Poutine puis Donald Trump avant un sommet à trois inédit ; les alliés de l'Ukraine doivent ensuite se réunir à Berlin.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/asie-pacifique/20261118-sommet-de-l-apec-xi-jinping-re%C3%A7oit-vladimir-poutine-avant-un-sommet-in%C3%A9dit-avec-donald-trump"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Présidentielle 2027 : pour relancer sa campagne, Édouard Philippe promet de « rétablir l'ordre » dans « nos comptes » et « nos rues ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261118-france-presidentielle-2027-pour-relancer-campagne-edouard-philippe-promet-retablir-ordre-comptes-rues"
+          },
+          {
+            "text": "L'écologiste Marine Tondelier se dit « prête à travailler à une coalition » autour de Jean-Luc Mélenchon.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien"
+          },
+          {
+            "text": "Budget : Sébastien Lecornu listera « dans les prochains jours » ses priorités pour un compromis, selon David Amiel.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261118-budget-lecornu-listera-dans-les-prochains-jours-les-priorit%C3%A9s-pour-un-compromis-dit-amiel"
+          },
+          {
+            "text": "Des policiers ont manifesté à Paris pour réclamer une revalorisation de leur prime de risque.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261118-en-france-la-police-manifeste-pour-demander-une-revalorisation-de-la-prime-de-risque"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "La commission des finances du Conseil des États recommande d'approuver le budget 2027, pourtant refusé par le Conseil national.",
+            "source": "Le Temps",
+            "link": "https://www.letemps.ch/suisse/la-commission-des-etats-recommande-d-approuver-le-controverse-budget-2027-malgre-le-refus-du-national"
+          },
+          {
+            "text": "Élection au Conseil fédéral : l'UDC présentera un ticket à deux candidats.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-l-udc-presentera-un-ticket-a-deux-candidats-29420084.html"
+          },
+          {
+            "text": "Le Conseil fédéral propose de prolonger jusqu'en 2035 le soutien au transfert du fret transalpin de la route vers le rail.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Le Conseil fédéral envisage de soumettre les cigarettes électroniques à la même taxe de prévention que les cigarettes classiques.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "La prévision de croissance de 1 % pour 2027 « est à risque », reconnaît Roland Lescure.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261118-la-pr%C3%A9vision-de-croissance-de-1-pour-2027-est-%C3%A0-risque-reconna%C3%AEt-lescure"
+          },
+          {
+            "text": "Bruxelles relève ses prévisions de croissance pour la zone euro, mais s'inquiète du déficit français.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261117-zone-euro-bruxelles-rel%C3%A8ve-ses-pr%C3%A9visions-de-croissance-et-s-inqui%C3%A8te-du-d%C3%A9ficit-fran%C3%A7ais"
+          },
+          {
+            "text": "Suisse : selon l'indice Homegate, les loyers proposés ont atteint un nouveau record en octobre, en hausse dans tous les cantons.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "L'or est tombé à son plus bas niveau depuis plus d'un an, sur fond de crainte de nouvelles hausses des taux américains.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "un prêt",
+        "une somme d'argent prêtée, qui doit être remboursée"
+      ],
+      [
+        "une dette commune",
+        "un emprunt contracté ensemble par plusieurs États de l'UE"
+      ],
+      [
+        "un ticket",
+        "en Suisse, la liste des candidats proposés par un parti pour une élection"
+      ],
+      [
+        "la prime de risque",
+        "un supplément de salaire versé pour un métier dangereux"
+      ],
+      [
+        "le fret",
+        "les marchandises transportées"
+      ],
+      [
+        "revaloriser",
+        "augmenter un salaire ou une prestation"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-18",
     "added": "2026-11-18T05:43:32Z",
     "title": "18 nov. : pont de Crimée, retraites Le Pen, zone euro",
@@ -2772,121 +2906,6 @@
       [
         "les élections de mi-mandat",
         "des élections organisées au milieu du mandat présidentiel américain"
-      ]
-    ]
-  },
-  {
-    "date": "2026-10-28",
-    "added": "2026-10-28T08:15:00Z",
-    "title": "28 oct. : Otan, loi « casseurs-payeurs », Novartis",
-    "lede": "Les Européens se disent prêts à peser davantage dans l'Otan, le Sénat français adopte la loi « casseurs-payeurs », et en Suisse les chiffres de l'aide sociale et du logement tombent.",
-    "sections": [
-      {
-        "name": "Europe",
-        "points": [
-          {
-            "text": "Les cinq principales puissances militaires européennes (France, Allemagne, Italie, Pologne, Royaume-Uni) se disent prêtes à prendre davantage de responsabilités au sein de l'Otan face aux États-Unis.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261027-otan-france-allemange-italie-pologne-royaume-uni-pretes-assumer-responsabilite-accrue-etats-unis"
-          },
-          {
-            "text": "Ukraine : le Danemark reproche à la Finlande et à la Norvège d'avoir appelé Vladimir Poutine chacune de leur côté, sans concertation européenne.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine"
-          },
-          {
-            "text": "Ukraine : une trêve locale a commencé à Olechky pour permettre une opération humanitaire.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261027-ukraine-treve-olechky-commence-operation-humanitaire-russie"
-          },
-          {
-            "text": "Serbie : après des élections marquées par une forte mobilisation contre la fraude, Aleksandar Vučić est désormais présenté comme l'ex-dirigeant du pays.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261027-%C3%A9lections-serbie-mobilisation-contre-fraude-s%C3%BBrement-impact-r%C3%A9sultats"
-          }
-        ]
-      },
-      {
-        "name": "France",
-        "points": [
-          {
-            "text": "Le Sénat adopte le projet de loi « casseurs-payeurs », qui vise à faire payer les dégâts aux auteurs de violences après les émeutes du 17 octobre.",
-            "source": "Euronews",
-            "link": "https://fr.euronews.com/2026/10/28/casseurs-payeurs-apres-les-emeutes-du-17-octobre-le-projet-de-loi-passe-letape-du-senat"
-          },
-          {
-            "text": "La mobilisation étudiante continue malgré les annonces du gouvernement sur Parcoursup et le contrôle continu.",
-            "source": "France 24",
-            "link": "https://france24.com/fr/france/20261026-france-en-direct-emmanuel-macron-juge-que-samedi-prochain-sera-%C3%A0-risque"
-          }
-        ]
-      },
-      {
-        "name": "Suisse",
-        "points": [
-          {
-            "text": "Selon l'OFS, 267 300 personnes ont touché l'aide sociale en 2025, soit un taux de 2,9 %, avec une hausse marquée à Genève. Les familles monoparentales y sont de plus en plus nombreuses.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Une étude de TA-Swiss estime que les nouvelles technologies nucléaires pourraient réduire la dépendance de la Suisse aux importations d'électricité.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Et aussi : « goumin », « pain » et « battle d'aura » sont élus mots jeunes de l'année en Suisse romande.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          }
-        ]
-      },
-      {
-        "name": "Économie",
-        "points": [
-          {
-            "text": "Les prix du logement en Suisse accélèrent : +1,7 % au troisième trimestre et +4,4 % sur un an, selon l'OFS.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Novartis passe une dépréciation d'environ 2 milliards de dollars après l'échec d'un essai clinique ; son bénéfice net trimestriel recule de 70 %.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "UBS annonce un bénéfice net de 2,7 milliards de dollars au troisième trimestre, en hausse de 8 % sur un an.",
-            "source": "Le Temps",
-            "link": "https://www.letemps.ch/economie/finance/ubs-enregistre-un-benefice-net-de-2-7-milliards-de-dollars-au-3e-trimestre-en-hausse-de-8-sur-un-an"
-          },
-          {
-            "text": "La trêve commerciale entre les États-Unis et l'UE est menacée par un prêt de 3,4 milliards de dollars accordé à Airbus, avertit un responsable de l'administration Trump.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump"
-          }
-        ]
-      }
-    ],
-    "terms": [
-      [
-        "une responsabilité accrue",
-        "une part plus grande des obligations ou du rôle"
-      ],
-      [
-        "une trêve",
-        "un arrêt temporaire des combats"
-      ],
-      [
-        "un casseur",
-        "une personne qui commet des dégradations lors d'une manifestation"
-      ],
-      [
-        "une dépréciation",
-        "une baisse comptable de la valeur d'un actif"
-      ],
-      [
-        "l'aide sociale",
-        "le soutien financier public aux personnes sans ressources suffisantes"
       ]
     ]
   }
