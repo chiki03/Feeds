@@ -1,5 +1,113 @@
 [
   {
+    "title": "Disabled users building their own accessibility",
+    "link": "https://yatil.net/blog/band-aid-accessibility",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "An essay arguing that people with disabilities increasingly use AI coding tools to build their own accessibility fixes, which it calls band-aid accessibility; shared on Sidebar.",
+    "terms": [
+      [
+        "band-aid",
+        "a quick fix that does not solve the real problem"
+      ],
+      [
+        "accessibility",
+        "making products usable by people with disabilities"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
+  },
+  {
+    "title": "Declaring how diagrams can be dragged",
+    "link": "https://declarative-dragging.github.io/",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "An interactive experiment exploring whether a diagram's dragging behaviour can be defined simply by stating what shapes it is allowed to become; shared on Sidebar.",
+    "terms": [
+      [
+        "declarative",
+        "describing what you want rather than how to do it"
+      ],
+      [
+        "drag",
+        "to move something on screen by holding and pulling it"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
+  },
+  {
+    "title": "A love letter to alcohol markers",
+    "link": "https://www.kooslooijesteijn.net/blog/alcohol-markers",
+    "source": "Sidebar",
+    "date": "",
+    "summary": "A designer writes about looking after alcohol markers and why analog drawing is worth keeping alongside digital work; shared on Sidebar.",
+    "terms": [
+      [
+        "analog",
+        "done by hand with physical tools, not digitally"
+      ],
+      [
+        "alcohol marker",
+        "a pen with fast-drying, alcohol-based ink"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
+  },
+  {
+    "title": "Why commute to watch AI work?",
+    "link": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86",
+    "source": "UX Collective",
+    "date": "2026-11-18",
+    "summary": "The author argues that return-to-office mandates are hard to justify when AI and remote tools make most production work portable, while admitting the office still helps with collaboration, mentoring and learning.",
+    "terms": [
+      [
+        "mandate",
+        "an official order that people must follow"
+      ],
+      [
+        "portable",
+        "easy to move or do from anywhere"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
+  },
+  {
+    "title": "When your work looks too machine-made",
+    "link": "https://uxdesign.cc/too-claudified-9af067298b2a",
+    "source": "UX Collective",
+    "date": "2026-11-18",
+    "summary": "A designer describes having motion design work rejected because it looked as if an AI had made it.",
+    "terms": [
+      [
+        "motion design",
+        "animated graphics for screens"
+      ],
+      [
+        "machine-made",
+        "produced by a machine rather than a person"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
+  },
+  {
+    "title": "Callum Abbott on designing around type",
+    "link": "https://www.itsnicethat.com/articles/callum-abbott-other-almanac-mutt-art-review-graphic-design-publication-project-181126",
+    "source": "It's Nice That",
+    "date": "2026-11-18",
+    "summary": "Designer Callum Abbott talks about building publications around typography, arguing that a good designer can make a free font look expensive.",
+    "terms": [
+      [
+        "publication",
+        "a printed or published magazine, book or journal"
+      ],
+      [
+        "typography",
+        "the style and arrangement of letters on a page"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
+  },
+  {
     "title": "Iconden: a gallery of iPhone app icons",
     "link": "https://iconden.com/",
     "source": "Sidebar",
@@ -16,6 +124,42 @@
       ]
     ],
     "added": "2026-11-18T05:52:33Z"
+  },
+  {
+    "title": "Sainsbury art centre gets a sketch-based mark",
+    "link": "https://www.itsnicethat.com/articles/north-design-sainsbury-museum-and-art-centre-graphic-design-171126",
+    "source": "It's Nice That",
+    "date": "2026-11-17",
+    "summary": "North Design has rebranded the Sainsbury Museum and Art Centre, basing its new brand mark on a 1970s structural sketch from Norman Foster's original plans and pairing it with a custom monospaced typeface.",
+    "terms": [
+      [
+        "brand mark",
+        "the symbol that identifies an organisation"
+      ],
+      [
+        "monospaced",
+        "a typeface where every character takes the same width"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
+  },
+  {
+    "title": "Beach football photographed in Zanzibar",
+    "link": "https://www.itsnicethat.com/articles/nico-therin-photography-zanzibar-project-171126",
+    "source": "It's Nice That",
+    "date": "2026-11-17",
+    "summary": "Photographer Nico Therin's series on beach footballers in Zanzibar, which the headline says captures the sport in its purest form.",
+    "terms": [
+      [
+        "photo series",
+        "a group of photographs on one theme"
+      ],
+      [
+        "in its purest form",
+        "without anything extra or artificial"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
   },
   {
     "title": "Rethinking what UX research is worth",
@@ -106,6 +250,24 @@
         "not given the credit or importance it deserves"
       ]
     ]
+  },
+  {
+    "title": "Automattic turns design writing into agent skills",
+    "link": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents/",
+    "source": "Sidebar",
+    "date": "2026-11-16",
+    "summary": "Automattic's design writing team explains how it packaged its writing insights into two installable skills for AI agents, shared on Sidebar.",
+    "terms": [
+      [
+        "installable",
+        "able to be added to a system as a package"
+      ],
+      [
+        "AI agent",
+        "software that uses an AI model to carry out tasks"
+      ]
+    ],
+    "added": "2026-11-19T05:47:47Z"
   },
   {
     "title": "It's Nice That's 2026 creative gift guide",
@@ -914,168 +1076,6 @@
       [
         "album artwork",
         "the images and graphics designed for a music release"
-      ]
-    ]
-  },
-  {
-    "title": "What AI readiness means for design systems",
-    "link": "https://seanvoisen.com/writing/design-system-ai-readiness/",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "An essay, shared on Sidebar, arguing that making a design system ready for AI is less about machine-readable files and more about where people stay involved.",
-    "terms": [
-      [
-        "design system",
-        "a shared set of components and rules for building products"
-      ],
-      [
-        "human in the loop",
-        "a process where people review or guide automated steps"
-      ]
-    ],
-    "added": "2026-11-10T05:51:44Z"
-  },
-  {
-    "title": "Testing pages beyond the usual viewport",
-    "link": "https://ishadeed.com/article/beyond-the-viewport/",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "An article, shared on Sidebar, about a way to see how a web page behaves at unusual screen and window sizes.",
-    "terms": [
-      [
-        "viewport",
-        "the visible area of a web page in a browser"
-      ],
-      [
-        "responsive design",
-        "layouts that adapt to different screen sizes"
-      ]
-    ],
-    "added": "2026-11-10T05:51:44Z"
-  },
-  {
-    "title": "Boots goes for laughs at Christmas",
-    "link": "https://www.creativereview.co.uk/boots-christmas-ad-2026-wpp/",
-    "source": "Creative Review",
-    "date": "",
-    "summary": "Creative Review covers the British retailer Boots' 2026 Christmas advert, which takes a humorous approach.",
-    "terms": [
-      [
-        "festive",
-        "relating to Christmas or a holiday celebration"
-      ],
-      [
-        "tongue-in-cheek",
-        "meant to be funny, not taken seriously"
-      ]
-    ],
-    "added": "2026-11-10T05:51:44Z"
-  },
-  {
-    "title": "The broken economics of US art school",
-    "link": "https://www.itsnicethat.com/articles/elizabeth-goodspeed-art-school-economics-education-creative-industry-091126",
-    "source": "It's Nice That",
-    "date": "2026-11-09",
-    "summary": "Elizabeth Goodspeed argues that US art schools are closing or getting pricier as loan rules and limits on international students tighten. She makes the case that art education should be treated as a public good.",
-    "terms": [
-      [
-        "tuition",
-        "the fee a school charges for teaching"
-      ],
-      [
-        "public good",
-        "something that benefits society as a whole, not just individuals"
-      ]
-    ],
-    "added": "2026-11-16T05:53:10Z"
-  },
-  {
-    "title": "Studios must rebuild junior roles on purpose",
-    "link": "https://www.itsnicethat.com/career-predictions/cat-how-091126",
-    "source": "It's Nice That",
-    "date": "2026-11-09",
-    "summary": "Cat How of branding studio How&How predicts AI will erode entry-level creative work, leaving a gap in mid-level talent later. She argues studios will have to deliberately hire and train juniors again.",
-    "terms": [
-      [
-        "entry-level",
-        "suited to people starting their careers"
-      ],
-      [
-        "talent pipeline",
-        "the flow of people being trained up for future roles"
-      ]
-    ],
-    "added": "2026-11-16T05:53:10Z"
-  },
-  {
-    "title": "Invent your own creative career",
-    "link": "https://www.itsnicethat.com/career-predictions/marcus-wendt-091126",
-    "source": "It's Nice That",
-    "date": "2026-11-09",
-    "summary": "FIELD.IO founder Marcus Wendt predicts young creatives will increasingly build their own brands and products. He advises owning your work and valuing curiosity over mastery of tools.",
-    "terms": [
-      [
-        "ownership",
-        "having legal and practical control over something you made"
-      ],
-      [
-        "self-starter",
-        "someone who begins projects without being told to"
-      ]
-    ],
-    "added": "2026-11-16T05:53:10Z"
-  },
-  {
-    "title": "28 voices on starting a creative career",
-    "link": "https://www.itsnicethat.com/features/career-predictions-for-junior-creatives-creative-industry-091126",
-    "source": "It's Nice That",
-    "date": "2026-11-09",
-    "added": "2026-11-14T05:52:19Z",
-    "summary": "Industry figures discuss why junior creative careers feel harder to start. They cover fewer entry-level jobs, new routes into the industry and the mindset newcomers need.",
-    "terms": [
-      [
-        "entry-level",
-        "suitable for someone with little or no experience"
-      ],
-      [
-        "foothold",
-        "a secure first position from which to progress"
-      ]
-    ]
-  },
-  {
-    "title": "Dezeen Awards trophy remade in cork",
-    "link": "https://www.dezeen.com/2026/11/09/dezeen-awards-2026-trophy-cork-amorim-corticeira/",
-    "source": "Dezeen",
-    "date": "2026-11-09",
-    "added": "2026-11-12T05:52:22Z",
-    "summary": "The Dezeen Awards trophy has been updated using cork, which the piece calls one of humanity's oldest natural materials.",
-    "terms": [
-      [
-        "cork",
-        "a light, spongy material taken from the bark of the cork oak"
-      ],
-      [
-        "trophy",
-        "an object given as a prize for winning"
-      ]
-    ]
-  },
-  {
-    "title": "Mona Chalabi's illustrated book on wealth inequality",
-    "link": "https://www.itsnicethat.com/features/mona-chalabi-ten-lives-illustration-spotlight-091126",
-    "source": "It's Nice That",
-    "date": "2026-11-09",
-    "added": "2026-11-11T05:46:39Z",
-    "summary": "A feature on Mona Chalabi's new illustrated book about wealth inequality, which aims to get readers talking openly with friends about money.",
-    "terms": [
-      [
-        "wealth inequality",
-        "the uneven way money and assets are shared across a society"
-      ],
-      [
-        "illustrated book",
-        "a book where drawings carry much of the story or data"
       ]
     ]
   }
