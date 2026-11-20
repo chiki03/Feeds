@@ -1,5 +1,77 @@
 [
   {
+    "title": "Sheba wins over indifferent cats",
+    "link": "https://www.creativereview.co.uk/sheba-ignored-adored-social-advertising/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "An AMV BBDO social campaign for Sheba uses a feeding challenge to help cat owners win affection from pets that seem to ignore them.",
+    "terms": [
+      [
+        "indifferent",
+        "showing no interest or care"
+      ],
+      [
+        "social campaign",
+        "advertising designed to run on social media"
+      ]
+    ]
+  },
+  {
+    "title": "Skateboarding lessons: tools versus tricks",
+    "link": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924",
+    "source": "UX Collective",
+    "date": "2026-11-19",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "Uses the history of skateboarding to argue that designers should build a repertoire of moves and the ability to improvise, not just collect tools.",
+    "terms": [
+      [
+        "repertoire",
+        "the full set of skills or pieces someone can perform"
+      ],
+      [
+        "improvise",
+        "to make something up on the spot without preparation"
+      ]
+    ]
+  },
+  {
+    "title": "Dashboards should show broken things first",
+    "link": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7",
+    "source": "UX Collective",
+    "date": "2026-11-19",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "Argues that enterprise dashboards should put failing items at the top, ranked by severity, with only a quiet summary for everything that is healthy.",
+    "terms": [
+      [
+        "alert fatigue",
+        "when people stop reacting to warnings because there are too many"
+      ],
+      [
+        "management by exception",
+        "paying attention only to results that differ from the normal plan"
+      ]
+    ]
+  },
+  {
+    "title": "Vivid Cereal's patchwork graphic storytelling",
+    "link": "https://www.itsnicethat.com/articles/nika-belskaya-vivid-cereal-graphic-design-discover-191126",
+    "source": "It's Nice That",
+    "date": "2026-11-19",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "A profile of Tbilisi-based designer Nika Belskaya, who mixes archival images with modern references across posters, type and illustration, with her Georgian identity as a key theme.",
+    "terms": [
+      [
+        "archival",
+        "taken from old stored records or collections"
+      ],
+      [
+        "public domain",
+        "no longer protected by copyright, so free for anyone to use"
+      ]
+    ]
+  },
+  {
     "title": "Disabled users building their own accessibility",
     "link": "https://yatil.net/blog/band-aid-accessibility",
     "source": "Sidebar",
@@ -52,6 +124,78 @@
       ]
     ],
     "added": "2026-11-19T05:47:47Z"
+  },
+  {
+    "title": "Illustrating 50 years of Metropolitan Diary",
+    "link": "https://www.itsnicethat.com/features/agnes-lee-metropolitan-diary-illustration-spotlight-181126",
+    "source": "It's Nice That",
+    "date": "2026-11-18",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "Illustrator Agnes Lee talks about drawing for Metropolitan Diary, the long-running New York newspaper column, as it reaches 50 years.",
+    "terms": [
+      [
+        "column",
+        "a regular section of a newspaper on one theme"
+      ],
+      [
+        "milestone",
+        "an important point or anniversary in a history"
+      ]
+    ]
+  },
+  {
+    "title": "Turning everyday data into music",
+    "link": "https://www.itsnicethat.com/articles/matthew-wilcock-sound-design-project-181126",
+    "source": "It's Nice That",
+    "date": "2026-11-18",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "Covers Matthew Wilcock's sound design, which uses data from ordinary daily life to generate music.",
+    "terms": [
+      [
+        "sound design",
+        "the craft of creating and arranging audio for a work"
+      ],
+      [
+        "data-driven",
+        "guided or produced by collected information"
+      ]
+    ]
+  },
+  {
+    "title": "A whole town built by one designer",
+    "link": "https://www.tomjohn.design/content/tomjohnville",
+    "source": "Sidebar",
+    "date": "2026-11-18",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "A designer documents building a town project from his first idea onward, sharing his prompts, screenshots and videos along the way.",
+    "terms": [
+      [
+        "document",
+        "to record a process in detail"
+      ],
+      [
+        "prompt",
+        "an instruction or text given to an AI tool"
+      ]
+    ]
+  },
+  {
+    "title": "Glimm: a tiny page-transition effect",
+    "link": "https://glimm.dev/",
+    "source": "Sidebar",
+    "date": "2026-11-18",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "A small drop-in web library of about 11 KB that sweeps a WebGL band of light across the screen when the page route changes.",
+    "terms": [
+      [
+        "drop-in",
+        "easy to add to a project without changes"
+      ],
+      [
+        "page transition",
+        "the visual effect shown when moving between pages"
+      ]
+    ]
   },
   {
     "title": "Why commute to watch AI work?",
@@ -124,6 +268,24 @@
       ]
     ],
     "added": "2026-11-18T05:52:33Z"
+  },
+  {
+    "title": "A font that hides text from AI crawlers",
+    "link": "https://shieldfont.org/",
+    "source": "Sidebar",
+    "date": "2026-11-17",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "A web font that swaps words in the page code so human readers see the real text while AI crawlers collect a scrambled copy.",
+    "terms": [
+      [
+        "crawler",
+        "a program that automatically visits and copies web pages"
+      ],
+      [
+        "web font",
+        "a typeface loaded by a website rather than installed on a device"
+      ]
+    ]
   },
   {
     "title": "Sainsbury art centre gets a sketch-based mark",
@@ -248,6 +410,24 @@
       [
         "undervalued",
         "not given the credit or importance it deserves"
+      ]
+    ]
+  },
+  {
+    "title": "Dezeen names interiors project of the year",
+    "link": "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-interiors-project-of-the-year-announced/",
+    "source": "Dezeen",
+    "date": "2026-11-16",
+    "added": "2026-11-20T05:48:04Z",
+    "summary": "Dezeen announces which project won interiors project of the year at the Dezeen Awards 2026.",
+    "terms": [
+      [
+        "interiors",
+        "the design of the inside spaces of buildings"
+      ],
+      [
+        "shortlist",
+        "a final group of candidates chosen for a prize"
       ]
     ]
   },
@@ -896,186 +1076,6 @@
       [
         "tedious",
         "boring because it is long and repetitive"
-      ]
-    ]
-  },
-  {
-    "title": "What product strategy actually does",
-    "link": "https://www.davesresearch.com/product-strategy/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-12T05:52:22Z",
-    "summary": "A piece explaining what product strategy does for a team and a product.",
-    "terms": [
-      [
-        "product strategy",
-        "a plan for what a product should achieve and why"
-      ],
-      [
-        "roadmap",
-        "a plan showing what will be built and when"
-      ]
-    ]
-  },
-  {
-    "title": "Customer or product?",
-    "link": "https://customerorproduct.org/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-12T05:52:22Z",
-    "summary": "A site that asks whether you are the customer or the product.",
-    "terms": [
-      [
-        "customer",
-        "someone who pays for a product or service"
-      ],
-      [
-        "monetize",
-        "to make money from something"
-      ]
-    ]
-  },
-  {
-    "title": "Why build AI clones of Photoshop?",
-    "link": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7",
-    "source": "UX Collective",
-    "date": "2026-11-11",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "Heenesh Patel looks at AI-made copies of Photoshop and argues designers should focus on what users need to do and control, not on a cheaper copy.",
-    "terms": [
-      [
-        "clone",
-        "a close copy of an existing product"
-      ],
-      [
-        "user task",
-        "the goal a person is trying to complete with a tool"
-      ]
-    ]
-  },
-  {
-    "title": "Designing how paying per click feels",
-    "link": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8",
-    "source": "UX Collective",
-    "date": "2026-11-11",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "Arin Bhowmick says AI products are moving to usage- and credit-based pricing, and that UX designers should shape how that cost is shown to people.",
-    "terms": [
-      [
-        "usage-based pricing",
-        "charging people according to how much they use something"
-      ],
-      [
-        "credits",
-        "prepaid units spent on actions in a product"
-      ]
-    ]
-  },
-  {
-    "title": "Biabum's retro, illustration-led brand identities",
-    "link": "https://www.itsnicethat.com/articles/biabum-graphic-design-illustration-discover-111126",
-    "source": "It's Nice That",
-    "date": "2026-11-11",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "The piece explores why studio Biabum builds illustration into the core of its retro-style brand identities.",
-    "terms": [
-      [
-        "brand identity",
-        "the visual system (logo, colours, type) that represents a company"
-      ],
-      [
-        "retro",
-        "imitating styles from the recent past"
-      ]
-    ]
-  },
-  {
-    "title": "Emily Stein photographs Italian waterparks",
-    "link": "https://www.itsnicethat.com/articles/emily-stein-aquasplash-photography-project-111126",
-    "source": "It's Nice That",
-    "date": "2026-11-11",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "Photographer Emily Stein's colourful, chaotic pictures of waterparks in Italy.",
-    "terms": [
-      [
-        "chaotic",
-        "in a state of complete disorder"
-      ],
-      [
-        "snap",
-        "an informal word for a photograph"
-      ]
-    ]
-  },
-  {
-    "title": "John Lewis marks its 20th Christmas ad",
-    "link": "https://www.creativereview.co.uk/john-lewis-christmas-ad-2026-kristin-scott-thomas-sam-fender/",
-    "source": "Creative Review",
-    "date": "",
-    "added": "2026-11-11T05:46:39Z",
-    "summary": "John Lewis celebrates its twentieth Christmas advert with a star-studded film featuring Kristin Scott Thomas and Sam Fender.",
-    "terms": [
-      [
-        "star-studded",
-        "featuring many famous people"
-      ],
-      [
-        "milestone",
-        "an important point or anniversary in a long history"
-      ]
-    ]
-  },
-  {
-    "title": "Waitrose brings back The Perfect Gift lovers",
-    "link": "https://www.creativereview.co.uk/waitrose-the-perfect-gift-2-christmas-ad-keira-knightley-joe-wilkinson/",
-    "source": "Creative Review",
-    "date": "",
-    "added": "2026-11-11T05:46:39Z",
-    "summary": "Waitrose's Christmas ad is a sequel to The Perfect Gift, reuniting the star-crossed couple played by Keira Knightley and Joe Wilkinson.",
-    "terms": [
-      [
-        "sequel",
-        "a follow-up that continues an earlier story"
-      ],
-      [
-        "star-crossed lovers",
-        "a couple whose romance seems doomed by bad luck"
-      ]
-    ]
-  },
-  {
-    "title": "Nymzo: a sporty chess brand for new players",
-    "link": "https://www.itsnicethat.com/articles/nymzo-product-design-project-101126",
-    "source": "It's Nice That",
-    "date": "2026-11-10",
-    "added": "2026-11-14T05:52:19Z",
-    "summary": "A profile of Nymzo, a chess-equipment brand founded by two designers. Its second product series is lighter and cheaper than the first.",
-    "terms": [
-      [
-        "product line",
-        "a group of related products sold by one brand"
-      ],
-      [
-        "affordable",
-        "cheap enough for most people to buy"
-      ]
-    ]
-  },
-  {
-    "title": "Bon Iver's 22, A Million artwork revisited",
-    "link": "https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126",
-    "source": "It's Nice That",
-    "date": "2026-11-10",
-    "added": "2026-11-12T05:52:22Z",
-    "summary": "Designer Eric Timothy Carlson looks back, ten years on, at creating the visual world of Bon Iver's album 22, A Million.",
-    "terms": [
-      [
-        "visual universe",
-        "a consistent set of images, symbols and styles around one project"
-      ],
-      [
-        "album artwork",
-        "the images and graphics designed for a music release"
       ]
     ]
   }
