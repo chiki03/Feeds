@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 05:44:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 05:52:39 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>21 nov. : Missiles en Pologne, Villepin, Bourses et IA</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-21.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-21.html</guid>
-<pubDate>Sat, 21 Nov 2026 05:45:21 +0000</pubDate>
+<pubDate>Sat, 21 Nov 2026 05:47:46 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Deux missiles russes tombent en Pologne alors que Kiev subit de nouvelles frappes, Dominique de Villepin se lance dans la course à l'Élysée, et les doutes sur l'IA font chuter les Bourses mondiales.
 
@@ -41,6 +41,54 @@ SUISSE
 • Nestlé inaugure un centre de recherche appliquée à Orbe (VD), tandis que Partners Group rachète l'équipementier sportif américain Rawlings. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
 
 Mots clés : une provocation — un acte destiné à pousser l'autre à réagir, souvent de façon hostile ; la légitime défense — le droit de se défendre face à une attaque, reconnu par la loi ; un ticket (électoral) — en Suisse, la liste des candidats qu'un parti présente pour une élection ; un fonds activiste — un investisseur qui achète des actions pour pousser une entreprise à changer de stratégie ; la rentabilité — la capacité d'une activité à rapporter plus d'argent qu'elle n'en coûte ; un rapprochement — le fait de se rapprocher, de renouer des liens plus étroits</description>
+</item>
+<item>
+<title>What building a website means in 2026</title>
+<link>https://blog.jim-nielsen.com/2026/making-websites-in-2026/</link>
+<guid isPermaLink="true">https://blog.jim-nielsen.com/2026/making-websites-in-2026/</guid>
+<pubDate>Sat, 21 Nov 2026 05:46:46 +0000</pubDate>
+<category>Sidebar</category>
+<description>Jim Nielsen reflects on how AI website builders quietly choose third-party backends and credit systems for you, and why those hidden dependencies matter.
+
+Key terms: dependency — something your project relies on to work; opaque — hard to see into or understand
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Squircles are coming to the web</title>
+<link>https://jespervos.com/craft/squircles</link>
+<guid isPermaLink="true">https://jespervos.com/craft/squircles</guid>
+<pubDate>Sat, 21 Nov 2026 05:46:46 +0000</pubDate>
+<category>Sidebar</category>
+<description>A guide to squircles, the smooth shape between a square and a circle, explaining that browsers are starting to support them and how designers can get ready.
+
+Key terms: squircle — a shape halfway between a square and a circle; corner radius — how rounded the corners of a shape are
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Exactitudes: twenty years of social types</title>
+<link>https://exactitudes.com/collectie/</link>
+<guid isPermaLink="true">https://exactitudes.com/collectie/</guid>
+<pubDate>Sat, 21 Nov 2026 05:46:46 +0000</pubDate>
+<category>Sidebar</category>
+<description>A long-running photography project that records more than 3,000 social types, grouping people who dress and pose in strikingly similar ways.
+
+Key terms: typology — a system for sorting things into types; uniformity — the state of being the same or alike
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Arsenal gets a typeface honouring a club legend</title>
+<link>https://www.creativereview.co.uk/arsenal-football-club-rocastle-typeface-david-rudnick/</link>
+<guid isPermaLink="true">https://www.creativereview.co.uk/arsenal-football-club-rocastle-typeface-david-rudnick/</guid>
+<pubDate>Sat, 21 Nov 2026 05:46:46 +0000</pubDate>
+<category>Creative Review</category>
+<description>Arsenal Football Club has unveiled a bespoke typeface designed by David Rudnick and named after former player David Rocastle.
+
+Key terms: typeface — a family of letter designs sharing one style; unveil — to show something new to the public for the first time
+
+Source: Creative Review</description>
 </item>
 <item>
 <title>20 nov. : Kyiv à Berlin, Anthropic en Bourse, Finma</title>
@@ -121,6 +169,18 @@ SUISSE
 • L'or est tombé à son plus bas niveau depuis plus d'un an, sur fond de crainte de nouvelles hausses des taux américains. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
 
 Mots clés : un prêt — une somme d'argent prêtée, qui doit être remboursée ; une dette commune — un emprunt contracté ensemble par plusieurs États de l'UE ; un ticket — en Suisse, la liste des candidats proposés par un parti pour une élection ; la prime de risque — un supplément de salaire versé pour un métier dangereux ; le fret — les marchandises transportées ; revaloriser — augmenter un salaire ou une prestation</description>
+</item>
+<item>
+<title>Alice Poyzer's photos of quirky British hobbies</title>
+<link>https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126</guid>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A profile of photographer Alice Poyzer, whose work takes viewers into taxidermy, cat shows and beauty pageants. She also talks about how being neurodivergent shapes her view of the world.
+
+Key terms: taxidermy — the craft of preserving and stuffing dead animals; pageant — a public contest or show, often judging appearance
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>Skateboarding lessons: tools versus tricks</title>
@@ -1007,66 +1067,6 @@ Key terms: context switching — moving your attention from one task or tool to 
 Source: UX Collective</description>
 </item>
 <item>
-<title>Georgie McAusland skips expensive drawing tools</title>
-<link>https://www.itsnicethat.com/articles/georgie-mcausland-illustration-discover-121126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/georgie-mcausland-illustration-discover-121126</guid>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A profile of illustrator Georgie McAusland, who avoids expensive tools to keep more softness and texture in her drawings.
-
-Key terms: texture — the feel or surface quality of a material or image; illustrator — an artist who makes pictures for books, media or brands
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Dum Dum Studio's playful design approach</title>
-<link>https://www.itsnicethat.com/articles/dum-dum-studio-graphic-design-discover-121126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/dum-dum-studio-graphic-design-discover-121126</guid>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A look at Dum Dum Studio, whose inventive graphic design comes from an open mind and a love of play.
-
-Key terms: inventive — full of new and original ideas; playful — light-hearted and fun in spirit
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Cologne Cathedral lit with near-invisible lights</title>
-<link>https://www.dezeen.com/2026/11/12/licht-kunst-licht-cologne-cathedral</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/12/licht-kunst-licht-cologne-cathedral</guid>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Lighting designers Licht Kunst Licht have lit the historic facade of Cologne Cathedral using fittings meant to be almost invisible.
-
-Key terms: facade — the front or outer face of a building; lighting design — planning how light is used in a space or on a building
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>A better name for design systems?</title>
-<link>https://karolinaszczur.com/journal/translation-not-rebranding/</link>
-<guid isPermaLink="true">https://karolinaszczur.com/journal/translation-not-rebranding/</guid>
-<pubDate>Thu, 12 Nov 2026 05:52:22 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay titled "There's no better name for design systems", framed around translation rather than rebranding.
-
-Key terms: design system — a shared set of reusable components and rules for building products; rebranding — changing the name or image of something
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Let AI do what it does best</title>
-<link>https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/</link>
-<guid isPermaLink="true">https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/</guid>
-<pubDate>Thu, 12 Nov 2026 05:52:22 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay arguing that people should not be made to do tasks that AI is very good at.
-
-Key terms: delegate — to give a task to someone or something else; tedious — boring because it is long and repetitive
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>11 nov. : Abou Dhabi, Riner et Zemmour, OIT</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-11.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-11.html</guid>
@@ -1435,40 +1435,6 @@ SUISSE
 • Les colis envoyés de Suisse vers l'UE sont eux aussi frappés par cette nouvelle taxe. (RTS: https://www.rts.ch/info/economie/2026/article/les-colis-suisses-vers-l-ue-frappes-par-une-nouvelle-taxe-29400496.html)
 
 Mots clés : un cortège — un groupe de personnes qui défilent ensemble, par exemple lors d'une manifestation ; des heurts — des affrontements, souvent brefs, entre manifestants et forces de l'ordre ; des suites pénales — des poursuites devant la justice pénale après une affaire ; présenter des excuses officielles — reconnaître publiquement une faute au nom d'un État ou d'une institution ; des réparations — une compensation, souvent financière, accordée pour un tort subi ; entrer en vigueur — commencer à s'appliquer, pour une loi ou une règle</description>
-</item>
-<item>
-<title>31 oct. : manifestations, PIB en recul, Parmelin à Pékin</title>
-<link>https://chiki03.github.io/Feeds/actu/2026-10-31.html</link>
-<guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-10-31.html</guid>
-<pubDate>Sat, 31 Oct 2026 05:50:11 +0000</pubDate>
-<category>Le point du jour</category>
-<description>La France se prépare à un week-end de manifestations sous haute tension alors que son PIB recule au troisième trimestre, tandis que la Suisse signe à Pékin un accord de libre-échange modernisé avec la Chine.
-
-EUROPE
-• Pologne : la police antiémeute a été déployée après la suspension du président d'une haute juridiction, une décision qui a déclenché une crise politique. (France 24 (EN): https://www.france24.com/en/live-news/20261031-polish-riot-police-deployed-as-deposed-court-chief-sets-off-crisis)
-• Le Canada et l'Union européenne veulent renforcer leur alliance pour « résister ensemble aux chocs ». (France 24 (EN): https://www.france24.com/en/europe/20261030-canada-and-eu-seek-to-withstand-shocks-together-through-closer-alliance)
-• Espagne : après l'accident ferroviaire, les familles attendent toujours l'identification des victimes. (France 24: https://www.france24.com/fr/europe/20261030-drame-ferroviaire-en-espagne-les-familles-dans-l-attente-de-l-identification-des-victimes)
-• Guerre en Ukraine : la ville d'Olechky reste isolée et fait face à une crise humanitaire. (France 24: https://france24.com/fr/vid%C3%A9o/20261030-guerre-en-ukraine-la-ville-d-olechky-isol%C3%A9e-en-proie-%C3%A0-une-crise-humanitaire)
-
-FRANCE
-• Manifestations, milices d'ultradroite et Halloween : la France aborde un week-end sous haute tension. (France 24: https://www.france24.com/fr/france/20261030-manifestations-milices-ultradroite-halloween-week-end-sous-haute-tension-france)
-• Mobilisation du 31 octobre : les syndicats contestent devant la justice le parcours imposé à Paris. (France 24: https://france24.com/fr/france/20261030-mobilisation-du-31-octobre-le-parcours-%C3%A0-paris-contest%C3%A9-devant-la-justice)
-• Édouard Philippe, candidat déclaré à la présidentielle, a été interrogé dans une affaire de détournement de fonds. (France 24 (EN): https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case)
-
-SUISSE
-• Le conseiller fédéral Ignazio Cassis a achevé une visite de deux jours en Corée du Nord pour renouer le dialogue politique, une première pour un membre du gouvernement depuis 2003. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
-• Selon le ministre de la Défense Martin Pfister, les premiers éléments du système Patriot sont attendus à la mi-2027, ce qu'a confirmé l'ambassadeur des États-Unis en Suisse. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
-• Un tribunal français a rejeté le recours de la Ville de Genève contre les travaux de l'autoroute A412 Machilly-Thonon, qui se poursuivent jusqu'au jugement sur le fond. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
-• Zurich : les deux dirigeants du groupe d'extrême droite Junge Tat ont été condamnés à un an de prison avec sursis pour incitation à la haine et discrimination. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
-• L'association de retraités AVIVO a manifesté à Berne contre la hausse des primes maladie 2027 et réclame un gel de deux ans. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
-
-ÉCONOMIE
-• Le PIB français recule au troisième trimestre ; « l'économie française est à l'arrêt », prévient le ministre de l'Économie Roland Lescure. (France 24: https://www.france24.com/fr/info-en-continu/20261030-en-france-le-pib-recule-au-3%C3%A8me-trimestre-et-l-%C3%A9conomie-fran%C3%A7aise-est-%C3%A0-l-arr%C3%AAt)
-• À Pékin, le président de la Confédération Guy Parmelin et Xi Jinping ont signé l'accord de libre-échange modernisé, qui supprimera des taxes sur les exportations suisses vers la Chine. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
-• Les perspectives de l'économie suisse restent solides malgré un ralentissement en octobre dans les services, la finance et l'assurance. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
-• TotalEnergies annonce une baisse du prix du gazole dans certaines de ses stations dès samedi. (France 24: https://www.france24.com/fr/info-en-continu/20261030-totalenergies-annonce-baisser-le-prix-du-gazole-dans-certaines-stations-d%C3%A8s-samedi)
-
-Mots clés : être à l'arrêt — ne plus avancer, être bloqué ; un recours — une démarche pour contester une décision devant une autorité ou un tribunal ; avec sursis — se dit d'une peine qui ne sera pas exécutée si la personne ne récidive pas ; un accord de libre-échange — un traité qui réduit ou supprime les droits de douane entre pays ; sous haute tension — dans un climat de forte inquiétude, où un conflit peut éclater ; renouer le dialogue — reprendre des discussions interrompues</description>
 </item>
 </channel>
 </rss>

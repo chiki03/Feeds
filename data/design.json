@@ -1,5 +1,77 @@
 [
   {
+    "title": "What building a website means in 2026",
+    "link": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-21T05:46:46Z",
+    "summary": "Jim Nielsen reflects on how AI website builders quietly choose third-party backends and credit systems for you, and why those hidden dependencies matter.",
+    "terms": [
+      [
+        "dependency",
+        "something your project relies on to work"
+      ],
+      [
+        "opaque",
+        "hard to see into or understand"
+      ]
+    ]
+  },
+  {
+    "title": "Squircles are coming to the web",
+    "link": "https://jespervos.com/craft/squircles",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-21T05:46:46Z",
+    "summary": "A guide to squircles, the smooth shape between a square and a circle, explaining that browsers are starting to support them and how designers can get ready.",
+    "terms": [
+      [
+        "squircle",
+        "a shape halfway between a square and a circle"
+      ],
+      [
+        "corner radius",
+        "how rounded the corners of a shape are"
+      ]
+    ]
+  },
+  {
+    "title": "Exactitudes: twenty years of social types",
+    "link": "https://exactitudes.com/collectie/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-21T05:46:46Z",
+    "summary": "A long-running photography project that records more than 3,000 social types, grouping people who dress and pose in strikingly similar ways.",
+    "terms": [
+      [
+        "typology",
+        "a system for sorting things into types"
+      ],
+      [
+        "uniformity",
+        "the state of being the same or alike"
+      ]
+    ]
+  },
+  {
+    "title": "Arsenal gets a typeface honouring a club legend",
+    "link": "https://www.creativereview.co.uk/arsenal-football-club-rocastle-typeface-david-rudnick/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-21T05:46:46Z",
+    "summary": "Arsenal Football Club has unveiled a bespoke typeface designed by David Rudnick and named after former player David Rocastle.",
+    "terms": [
+      [
+        "typeface",
+        "a family of letter designs sharing one style"
+      ],
+      [
+        "unveil",
+        "to show something new to the public for the first time"
+      ]
+    ]
+  },
+  {
     "title": "Sheba wins over indifferent cats",
     "link": "https://www.creativereview.co.uk/sheba-ignored-adored-social-advertising/",
     "source": "Creative Review",
@@ -14,6 +86,24 @@
       [
         "social campaign",
         "advertising designed to run on social media"
+      ]
+    ]
+  },
+  {
+    "title": "Alice Poyzer's photos of quirky British hobbies",
+    "link": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+    "source": "It's Nice That",
+    "date": "2026-11-19",
+    "added": "2026-11-21T05:46:46Z",
+    "summary": "A profile of photographer Alice Poyzer, whose work takes viewers into taxidermy, cat shows and beauty pageants. She also talks about how being neurodivergent shapes her view of the world.",
+    "terms": [
+      [
+        "taxidermy",
+        "the craft of preserving and stuffing dead animals"
+      ],
+      [
+        "pageant",
+        "a public contest or show, often judging appearance"
       ]
     ]
   },
@@ -986,96 +1076,6 @@
       [
         "fatigue",
         "tiredness caused by effort over time"
-      ]
-    ]
-  },
-  {
-    "title": "Georgie McAusland skips expensive drawing tools",
-    "link": "https://www.itsnicethat.com/articles/georgie-mcausland-illustration-discover-121126",
-    "source": "It's Nice That",
-    "date": "2026-11-12",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "A profile of illustrator Georgie McAusland, who avoids expensive tools to keep more softness and texture in her drawings.",
-    "terms": [
-      [
-        "texture",
-        "the feel or surface quality of a material or image"
-      ],
-      [
-        "illustrator",
-        "an artist who makes pictures for books, media or brands"
-      ]
-    ]
-  },
-  {
-    "title": "Dum Dum Studio's playful design approach",
-    "link": "https://www.itsnicethat.com/articles/dum-dum-studio-graphic-design-discover-121126",
-    "source": "It's Nice That",
-    "date": "2026-11-12",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "A look at Dum Dum Studio, whose inventive graphic design comes from an open mind and a love of play.",
-    "terms": [
-      [
-        "inventive",
-        "full of new and original ideas"
-      ],
-      [
-        "playful",
-        "light-hearted and fun in spirit"
-      ]
-    ]
-  },
-  {
-    "title": "Cologne Cathedral lit with near-invisible lights",
-    "link": "https://www.dezeen.com/2026/11/12/licht-kunst-licht-cologne-cathedral",
-    "source": "Dezeen",
-    "date": "2026-11-12",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "Lighting designers Licht Kunst Licht have lit the historic facade of Cologne Cathedral using fittings meant to be almost invisible.",
-    "terms": [
-      [
-        "facade",
-        "the front or outer face of a building"
-      ],
-      [
-        "lighting design",
-        "planning how light is used in a space or on a building"
-      ]
-    ]
-  },
-  {
-    "title": "A better name for design systems?",
-    "link": "https://karolinaszczur.com/journal/translation-not-rebranding/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-12T05:52:22Z",
-    "summary": "An essay titled \"There's no better name for design systems\", framed around translation rather than rebranding.",
-    "terms": [
-      [
-        "design system",
-        "a shared set of reusable components and rules for building products"
-      ],
-      [
-        "rebranding",
-        "changing the name or image of something"
-      ]
-    ]
-  },
-  {
-    "title": "Let AI do what it does best",
-    "link": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-12T05:52:22Z",
-    "summary": "An essay arguing that people should not be made to do tasks that AI is very good at.",
-    "terms": [
-      [
-        "delegate",
-        "to give a task to someone or something else"
-      ],
-      [
-        "tedious",
-        "boring because it is long and repetitive"
       ]
     ]
   }
