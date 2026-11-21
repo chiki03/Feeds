@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-21",
+    "added": "2026-11-21T05:44:21Z",
+    "title": "21 nov. : Missiles en Pologne, Villepin, Bourses et IA",
+    "lede": "Deux missiles russes tombent en Pologne alors que Kiev subit de nouvelles frappes, Dominique de Villepin se lance dans la course à l'Élysée, et les doutes sur l'IA font chuter les Bourses mondiales.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Deux missiles russes et un drone sont tombés sur le territoire polonais ; le Premier ministre Donald Tusk dénonce « une provocation ».",
+            "source": "France 24",
+            "link": "https://france24.com/fr/europe/20261120-deux-missiles-chutent-pologne-premier-ministre-donald-tusk-d%C3%A9nonce-provocation-russie"
+          },
+          {
+            "text": "À Kiev, des frappes russes ont fait trois morts et endommagé deux ponts ; Emmanuel Macron dénonce un « agenda agressif » de la Russie sur le « territoire européen ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261120-en-direct-trois-morts-et-deux-ponts-endommag%C3%A9s-%C3%A0-kiev-suite-%C3%A0-des-frappes-russes"
+          },
+          {
+            "text": "La France demande une réunion du Conseil de sécurité de l'ONU après que des frappes russes ont touché des ambassades européennes à Kiev.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says"
+          },
+          {
+            "text": "Le Royaume-Uni et l'Union européenne comptent s'entendre sur un rapprochement lors d'un sommet à Bruxelles.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261120-royaume-uni-et-union-europenne-comptent-s-entendre-sur-rapprochement-sommet-bruxelles"
+          },
+          {
+            "text": "Contre la guerre et pour la jeunesse, des jeunes manifestent dans toute l'Europe et appellent à poursuivre le mouvement.",
+            "source": "France 24",
+            "link": "https://france24.com/fr/europe/20261120-contre-la-guerre-pour-la-jeunesse-vague-de-manifestations-%C3%A0-travers-l-europe-%C3%A0-partir-de-vendredi"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "La loi sur la présomption de légitime défense pour les policiers a été définitivement adoptée par le Parlement ; ses opposants parlent de « permis de tuer ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261120-police-la-loi-sur-la-pr%C3%A9somption-de-l%C3%A9gitime-d%C3%A9fense-d%C3%A9finitivement-adopt%C3%A9e-par-le-parlement"
+          },
+          {
+            "text": "L'ancien Premier ministre Dominique de Villepin est candidat à la présidentielle de 2027 : un homme de droite populaire à gauche, mais en quête d'électeurs.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261120-france-presidentielle-2027-dominique-de-villepin-homme-droite-populaire-gauche-sans-electeurs"
+          },
+          {
+            "text": "La justice française a ouvert une enquête visant l'acteur Gérard Depardieu et l'écrivain Michel Houellebecq pour un viol en réunion présumé.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Succession de Guy Parmelin au Conseil fédéral : l'UDC a choisi un ticket composé de Thomas Aeschi et Michael Graber.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-l-udc-n-a-pas-encore-choisi-son-ticket-29422478.html"
+          },
+          {
+            "text": "Grève de la jeunesse : des mobilisations ont eu lieu dans toute la Suisse ; à Genève, environ un millier de jeunes ont manifesté.",
+            "source": "Tribune de Genève",
+            "link": "https://www.tdg.ch/greve-etudiante-un-millier-de-jeunes-manifestent-a-geneve-506502266943"
+          },
+          {
+            "text": "Le conseiller fédéral Albert Rösti affirme que la politique énergétique passe avant la politique climatique.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Après l'annonce par des pays européens d'un projet de centre au Rwanda pour les migrants, la Suisse pourrait suivre le mouvement.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Les doutes sur la rentabilité de l'intelligence artificielle font de nouveau chuter les Bourses mondiales ; Wall Street enregistre de lourdes pertes.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261120-les-bourses-mondiales-emport%C3%A9es-par-les-doutes-sur-la-rentabilit%C3%A9-de-l-ia"
+          },
+          {
+            "text": "Après son introduction en Bourse record, l'action d'Anthropic a reculé de 9 %.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/%C3%A9co-tech/20261120-apr%C3%A8s-une-introduction-en-bourse-record-l-action-d-anthropic-chute-de-9"
+          },
+          {
+            "text": "Le groupe hôtelier Accor traverse des turbulences après l'offensive d'un fonds activiste.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261120-turbulences-chez-accor-apr%C3%A8s-l-offensive-d-un-fonds-activiste"
+          },
+          {
+            "text": "Nestlé inaugure un centre de recherche appliquée à Orbe (VD), tandis que Partners Group rachète l'équipementier sportif américain Rawlings.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "une provocation",
+        "un acte destiné à pousser l'autre à réagir, souvent de façon hostile"
+      ],
+      [
+        "la légitime défense",
+        "le droit de se défendre face à une attaque, reconnu par la loi"
+      ],
+      [
+        "un ticket (électoral)",
+        "en Suisse, la liste des candidats qu'un parti présente pour une élection"
+      ],
+      [
+        "un fonds activiste",
+        "un investisseur qui achète des actions pour pousser une entreprise à changer de stratégie"
+      ],
+      [
+        "la rentabilité",
+        "la capacité d'une activité à rapporter plus d'argent qu'elle n'en coûte"
+      ],
+      [
+        "un rapprochement",
+        "le fait de se rapprocher, de renouer des liens plus étroits"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-20",
     "added": "2026-11-20T05:43:20Z",
     "title": "20 nov. : Kyiv à Berlin, Anthropic en Bourse, Finma",
@@ -2772,140 +2906,6 @@
       [
         "renouer le dialogue",
         "reprendre des discussions interrompues"
-      ]
-    ]
-  },
-  {
-    "date": "2026-10-30",
-    "added": "2026-10-30T08:14:13Z",
-    "title": "30 oct. : Lagarde quitte la BCE, Dnipro, Binance",
-    "lede": "Christine Lagarde annonce son départ anticipé de la BCE, une frappe russe endeuille la gare de Dnipro, et la France se prépare à un week-end de manifestations sous haute tension.",
-    "sections": [
-      {
-        "name": "Europe",
-        "points": [
-          {
-            "text": "Ukraine : une attaque de drone russe a fait au moins 13 morts à la gare centrale de Dnipro.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261029-ukraine-une-attaque-de-drone-russe-fait-13-morts-sur-la-gare-de-dnipro"
-          },
-          {
-            "text": "Après ces nouvelles frappes, l'Union européenne, par la voix de Kaja Kallas, presse ses alliés de renforcer la pression sur la Russie.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261029-ukraine-union-europenne-presse-alli%C3%A9s-renforcer-pression-russie-apr%C3%A8s-nouvelles-frappes-dnipro-kaja-kallas"
-          },
-          {
-            "text": "Dans la nuit, la Russie a visé des installations énergétiques, portuaires et militaires ukrainiennes ; des frappes meurtrières sont signalées dans la région de Kiev.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261030-ukraine-en-direct-frappes-meurtri%C3%A8res-dans-la-r%C3%A9gion-de-kiev-le-r%C3%A9seau-%C3%A9lectrique-cibl%C3%A9"
-          },
-          {
-            "text": "Espagne : après la collision de deux trains à grande vitesse, la Croix-Rouge se mobilise pour soutenir les familles des victimes.",
-            "source": "Euronews",
-            "link": "https://fr.euronews.com/2026/10/30/accident-ferroviaire-en-espagne-la-croix-rouge-soutien-indispensable-aux-familles-des-vict"
-          }
-        ]
-      },
-      {
-        "name": "France",
-        "points": [
-          {
-            "text": "Le candidat à la présidentielle Édouard Philippe a été placé sous le statut de témoin assisté.",
-            "source": "Euronews",
-            "link": "https://fr.euronews.com/2026/10/30/le-candidat-a-la-presidentielle-edouard-philippe-place-sous-le-statut-de-temoin-assiste"
-          },
-          {
-            "text": "Attentat de Trappes : selon le parquet antiterroriste, le suspect a reconnu avoir visé délibérément des musulmans et des Africains.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/france/20261029-live-french-anti-terrorism-prosecutor-to-give-press-conference-on-racist-paris-shooting"
-          },
-          {
-            "text": "À l'approche des manifestations prévues pour Halloween, un ministre met en garde contre un risque de violences « très élevé ».",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests"
-          },
-          {
-            "text": "Face à la contestation, la revalorisation du salaire minimum (SMIC) pourrait être avancée.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/video/20261029-minimum-wage-increase-could-come-early-as-france-braces-for-protests"
-          }
-        ]
-      },
-      {
-        "name": "Suisse",
-        "points": [
-          {
-            "text": "La numérisation de l'infrastructure ferroviaire suisse d'ici 2045 devrait coûter sept milliards de francs.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Berne : le gouvernement cantonal a relevé le plafond de revenus donnant droit à la réduction des primes d'assurance maladie.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "La Chaîne du Bonheur a organisé jeudi une journée nationale de dons en faveur du Soudan.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Vaud : Prilly-Malley inaugure la tour la plus haute de Suisse romande.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/audio-podcast/2026/audio/reportage-a-prilly-malley-qui-inaugure-la-tour-la-plus-haute-de-suisse-romande-29399692.html"
-          }
-        ]
-      },
-      {
-        "name": "Économie",
-        "points": [
-          {
-            "text": "Christine Lagarde quittera la présidence de la Banque centrale européenne en février 2027, avant la fin de son mandat. La BCE a laissé ses taux inchangés et affirme disposer d'outils pour calmer les marchés, inquiets de la dette française.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261029-christine-lagarde-va-quitter-la-pr%C3%A9sidence-de-la-bce-en-f%C3%A9vrier-2027"
-          },
-          {
-            "text": "Cryptomonnaies : visée par une cyberattaque massive, la plateforme Binance a gelé 2,5 milliards de dollars.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/%C3%A9co-tech/20261030-cryptomonnaies-binance-cyberattaque-massive-gel-2-5-milliards-de-dollars-bitcoin-ether"
-          },
-          {
-            "text": "La Bourse de Paris a terminé jeudi en hausse, portée par les résultats d'entreprises, tandis que Wall Street a ouvert en baisse, plombée par la chute de plus de 10 % d'Alphabet.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261029-la-bourse-de-paris-termine-en-hausse-port%C3%A9e-par-les-r%C3%A9sultats-d-entreprises"
-          },
-          {
-            "text": "En Suisse, Glencore a augmenté de 3 % sa production de cuivre sur neuf mois, Implenia a décroché un contrat de 165 millions de francs pour construire l'hôpital de Schaffhouse, et Oerlikon se dit en bonne voie après un bon troisième trimestre.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          }
-        ]
-      }
-    ],
-    "terms": [
-      [
-        "un mandat",
-        "la durée pendant laquelle une personne exerce une fonction pour laquelle elle a été choisie"
-      ],
-      [
-        "un témoin assisté",
-        "dans une enquête judiciaire, une personne entendue avec un avocat, entre le simple témoin et le mis en examen"
-      ],
-      [
-        "geler des fonds",
-        "bloquer de l'argent pour qu'il ne puisse plus être déplacé ni utilisé"
-      ],
-      [
-        "revaloriser",
-        "augmenter le montant d'un salaire, d'une pension ou d'une allocation"
-      ],
-      [
-        "une cyberattaque",
-        "une attaque informatique visant un système ou un réseau"
-      ],
-      [
-        "la réduction des primes",
-        "l'aide publique qui diminue le coût de l'assurance maladie pour les revenus modestes"
       ]
     ]
   }
