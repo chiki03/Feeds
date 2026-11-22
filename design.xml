@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 05:44:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 05:47:25 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>22 nov. : Ukraine, Ruffin se retire, départ de Lagarde</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-22.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-22.html</guid>
-<pubDate>Sun, 22 Nov 2026 05:45:22 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 05:51:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Des bombardements russes meurtriers frappent l'Ukraine, jusqu'à la ville natale de Volodymyr Zelensky, tandis qu'en France François Ruffin renonce à la présidentielle et qu'en Suisse le ticket UDC pour le Conseil fédéral essuie les critiques de la presse romande.
 
@@ -44,10 +44,46 @@ SUISSE
 Mots clés : fustiger — critiquer très sévèrement, condamner publiquement ; retirer sa candidature — renoncer à se présenter à une élection ; un complot — un projet secret préparé contre quelqu'un ; un encadrement — un ensemble de règles qui fixent des limites à une activité ; un départ anticipé — le fait de quitter un poste avant la fin prévue du mandat ; le second tour — le deuxième vote d'une élection, entre les candidats arrivés en tête</description>
 </item>
 <item>
+<title>How rich is a billionaire, really?</title>
+<link>https://www.thehowpage.com/economics/billionaire-wealth</link>
+<guid isPermaLink="true">https://www.thehowpage.com/economics/billionaire-wealth</guid>
+<pubDate>Sun, 22 Nov 2026 05:50:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>An explainer that tries to show how large a billionaire's wealth really is.
+
+Key terms: wealth — a large amount of money or possessions; explainer — a piece that makes a complex topic easy to understand
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>In making things, we make ourselves</title>
+<link>https://justinjay.wang/in-making-things-we-make-ourselves/</link>
+<guid isPermaLink="true">https://justinjay.wang/in-making-things-we-make-ourselves/</guid>
+<pubDate>Sun, 22 Nov 2026 05:50:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay on the idea that the act of making things also shapes who we are.
+
+Key terms: maker — a person who builds or creates things; shape — to influence how something develops
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>A technical wiki page on squircles</title>
+<link>https://linebender.org/wiki/curves/squircle/</link>
+<guid isPermaLink="true">https://linebender.org/wiki/curves/squircle/</guid>
+<pubDate>Sun, 22 Nov 2026 05:50:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>A wiki page about squircles, the rounded shapes between a square and a circle.
+
+Key terms: squircle — a shape between a square and a circle; curve — a line that bends smoothly
+
+Source: Sidebar</description>
+</item>
+<item>
 <title>21 nov. : Missiles en Pologne, Villepin, Bourses et IA</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-21.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-21.html</guid>
-<pubDate>Sat, 21 Nov 2026 05:47:46 +0000</pubDate>
+<pubDate>Sat, 21 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Deux missiles russes tombent en Pologne alors que Kiev subit de nouvelles frappes, Dominique de Villepin se lance dans la course à l'Élysée, et les doutes sur l'IA font chuter les Bourses mondiales.
 
@@ -76,6 +112,30 @@ SUISSE
 • Nestlé inaugure un centre de recherche appliquée à Orbe (VD), tandis que Partners Group rachète l'équipementier sportif américain Rawlings. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
 
 Mots clés : une provocation — un acte destiné à pousser l'autre à réagir, souvent de façon hostile ; la légitime défense — le droit de se défendre face à une attaque, reconnu par la loi ; un ticket (électoral) — en Suisse, la liste des candidats qu'un parti présente pour une élection ; un fonds activiste — un investisseur qui achète des actions pour pousser une entreprise à changer de stratégie ; la rentabilité — la capacité d'une activité à rapporter plus d'argent qu'elle n'en coûte ; un rapprochement — le fait de se rapprocher, de renouer des liens plus étroits</description>
+</item>
+<item>
+<title>When AI removed the slow middle</title>
+<link>https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32</link>
+<guid isPermaLink="true">https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32</guid>
+<pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>Wira Indra Kusuma argues that AI has cut out the slow middle stage of building things, and with it the people who used to decide what counts as correct.
+
+Key terms: judge — a person who decides whether something is right or good; collapse — to fall in or shrink suddenly
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Dezeen launches its 20x20 project</title>
+<link>https://www.dezeen.com/2026/11/21/dezeen-20x20-this-week/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/21/dezeen-20x20-this-week/</guid>
+<pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>A weekly roundup noting that Dezeen launched its Dezeen 20x20 project this week.
+
+Key terms: launch — to introduce something new to the public; roundup — a summary of recent news
+
+Source: Dezeen</description>
 </item>
 <item>
 <title>What building a website means in 2026</title>
@@ -129,7 +189,7 @@ Source: Creative Review</description>
 <title>20 nov. : Kyiv à Berlin, Anthropic en Bourse, Finma</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-20.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-20.html</guid>
-<pubDate>Fri, 20 Nov 2026 05:49:04 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les alliés de l'Ukraine se retrouvent à Berlin après le sommet Trump-Poutine-Xi, la Bourse est éclipsée par l'entrée fracassante d'Anthropic, et en Suisse l'extension des pouvoirs de la Finma suscite de vives critiques.
 
@@ -158,6 +218,42 @@ SUISSE
 • L'Agence internationale de l'énergie (AIE) prévient que la consommation électrique des centres de données pourrait doubler d'ici 2030. (Euronews: https://fr.euronews.com/2026/11/19/centres-de-donnees-laie-alerte-sur-une-consommation-electrique-doublee-dici-2030)
 
 Mots clés : une coalition des volontaires — un groupe de pays qui s'engagent ensemble à soutenir l'Ukraine ; une cyberattaque — une attaque informatique contre des systèmes ou des données ; l'encadrement des loyers — une règle qui limite le montant des loyers dans certaines villes ; une introduction en Bourse — la première mise en vente des actions d'une entreprise sur le marché ; une scène ouverte — un lieu public où des drogues sont consommées au grand jour ; l'assurance-invalidité (AI) — en Suisse, l'assurance qui soutient les personnes ne pouvant plus travailler pour raison de santé</description>
+</item>
+<item>
+<title>Qualitative research methods, an overview</title>
+<link>https://www.nngroup.com/articles/qual-research-methods/</link>
+<guid isPermaLink="true">https://www.nngroup.com/articles/qual-research-methods/</guid>
+<pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+<category>Nielsen Norman Group</category>
+<description>An overview of four qualitative research methods, including usability testing, interviews, field studies and diary studies, and roughly what each costs.
+
+Key terms: qualitative — about qualities and reasons rather than numbers; diary study — research where people record their experiences over time
+
+Source: Nielsen Norman Group</description>
+</item>
+<item>
+<title>Can AI design from raw user data?</title>
+<link>https://www.nngroup.com/articles/raw-data-vs-synthesized-data/</link>
+<guid isPermaLink="true">https://www.nngroup.com/articles/raw-data-vs-synthesized-data/</guid>
+<pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+<category>Nielsen Norman Group</category>
+<description>A study comparing AI-generated designs: they were better when the AI was given summarized research findings instead of raw user comments.
+
+Key terms: raw data — information that has not been processed or organized; synthesize — to combine pieces of information into a clear whole
+
+Source: Nielsen Norman Group</description>
+</item>
+<item>
+<title>A small game about impermanence</title>
+<link>https://tcosta.com/impermanence/</link>
+<guid isPermaLink="true">https://tcosta.com/impermanence/</guid>
+<pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>A small browser game that explores craft and the idea that nothing lasts.
+
+Key terms: impermanence — the state of not lasting forever; craft — skill in making things carefully
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>Sheba wins over indifferent cats</title>
@@ -972,82 +1068,10 @@ Key terms: concept car — a prototype built to show future design ideas, not fo
 Source: Dezeen</description>
 </item>
 <item>
-<title>Decision theatre versus real decision design</title>
-<link>https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685</link>
-<guid isPermaLink="true">https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685</guid>
-<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>An essay on how AI output can leave human decisions hollow, and what skills, authority and process people need to truly own AI-assisted decisions.
-
-Key terms: accountability — being responsible for a decision and its results; rubber-stamp — to approve something without really examining it
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>A crooked plate beats algorithmic perfection</title>
-<link>https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147</link>
-<guid isPermaLink="true">https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147</guid>
-<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>An essay arguing that the flawless results of AI can feel empty, and that small imperfections make things feel more human.
-
-Key terms: flawless — without any mistakes or defects; handmade — made by a person rather than a machine
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>AI as the new old design material</title>
-<link>https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a</link>
-<guid isPermaLink="true">https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a</guid>
-<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>Argues that designers should learn AI models by building with them, just as earlier designers learned paint, print and HTML.
-
-Key terms: design material — the medium a designer shapes, like paper, pixels or code; hands-on — learning by doing rather than by reading
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>A football fan zine for Gothenburg's streets</title>
-<link>https://www.itsnicethat.com/features/uefa-womens-champions-league-queenzine-swedish-girls-gothenburg-collaboration-sponsored-content-131126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/features/uefa-womens-champions-league-queenzine-swedish-girls-gothenburg-collaboration-sponsored-content-131126</guid>
-<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A sponsored feature on a UEFA Women's Champions League zine made with the art duo Swedish Girls to bring fan culture onto the streets of Gothenburg.
-
-Key terms: zine — a small, self-published magazine, often handmade; fandom — the community and culture of a group of fans
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Live one life in real statistics</title>
-<link>https://1in8b.life/en/</link>
-<guid isPermaLink="true">https://1in8b.life/en/</guid>
-<pubDate>Fri, 13 Nov 2026 05:52:37 +0000</pubDate>
-<category>Sidebar</category>
-<description>An interactive site that plays out the life of a baby born today using real national statistics.
-
-Key terms: statistics — numbers collected to describe a population; interactive — responding to what the user does
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>How AI agents decide what to remember</title>
-<link>https://www.anthropic.com/research/components-of-agent-memory</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/components-of-agent-memory</guid>
-<pubDate>Fri, 13 Nov 2026 05:52:37 +0000</pubDate>
-<category>Sidebar</category>
-<description>A research piece on how an AI assistant decides what is worth remembering before it knows what will come next.
-
-Key terms: agent — an AI system that carries out tasks on its own; memory — stored information that can be used later
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>12 nov. : prisonniers, primaire à droite, Moody's</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-12.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-12.html</guid>
-<pubDate>Thu, 12 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 05:45:45 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les pourparlers d'Abou Dhabi s'achèvent sur un vaste échange de prisonniers entre l'Ukraine et la Russie, Bruno Retailleau propose une primaire de la droite et du centre, et Moody's abaisse sa prévision de croissance pour la France.
 
@@ -1076,30 +1100,6 @@ SUISSE
 • L'Allemagne va constituer une réserve stratégique de gaz pour faire face aux situations d'urgence. (France 24 (EN): https://www.france24.com/en/live-news/20261111-germany-to-create-strategic-gas-reserve-to-guard-against-emergencies)
 
 Mots clés : un échange de prisonniers — la libération réciproque de détenus entre deux camps ; une primaire — un vote organisé pour désigner le candidat unique d'un camp politique ; lever des sanctions — supprimer des mesures de pression économiques ou politiques ; une prévision de croissance — une estimation de l'évolution future de l'activité économique ; interdire d'entrée — refuser à quelqu'un l'accès au territoire d'un pays ; comparaître — se présenter devant un tribunal</description>
-</item>
-<item>
-<title>Vucko's joyful motion identity for Etsy</title>
-<link>https://www.itsnicethat.com/articles/vucko-etsy-motion-graphic-design-sponsored-content-121126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/vucko-etsy-motion-graphic-design-sponsored-content-121126</guid>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A sponsored piece about the motion identity the studio Vucko created for Etsy, built on joy, simplicity and craft.
-
-Key terms: motion identity — a brand's visual system designed to move and animate; craft — skill in making things carefully by hand
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>The hidden mental cost of heavy AI use</title>
-<link>https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0</link>
-<guid isPermaLink="true">https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0</guid>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>Dan Maccarone argues that the people who rely on AI most carry an extra job: juggling many separate AI tools. He points to research on context switching and mental fatigue.
-
-Key terms: context switching — moving your attention from one task or tool to another; fatigue — tiredness caused by effort over time
-
-Source: UX Collective</description>
 </item>
 <item>
 <title>11 nov. : Abou Dhabi, Riner et Zemmour, OIT</title>

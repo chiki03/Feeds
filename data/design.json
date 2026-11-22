@@ -1,5 +1,95 @@
 [
   {
+    "title": "How rich is a billionaire, really?",
+    "link": "https://www.thehowpage.com/economics/billionaire-wealth",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-22T05:50:00Z",
+    "summary": "An explainer that tries to show how large a billionaire's wealth really is.",
+    "terms": [
+      [
+        "wealth",
+        "a large amount of money or possessions"
+      ],
+      [
+        "explainer",
+        "a piece that makes a complex topic easy to understand"
+      ]
+    ]
+  },
+  {
+    "title": "In making things, we make ourselves",
+    "link": "https://justinjay.wang/in-making-things-we-make-ourselves/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-22T05:50:00Z",
+    "summary": "An essay on the idea that the act of making things also shapes who we are.",
+    "terms": [
+      [
+        "maker",
+        "a person who builds or creates things"
+      ],
+      [
+        "shape",
+        "to influence how something develops"
+      ]
+    ]
+  },
+  {
+    "title": "A technical wiki page on squircles",
+    "link": "https://linebender.org/wiki/curves/squircle/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-22T05:50:00Z",
+    "summary": "A wiki page about squircles, the rounded shapes between a square and a circle.",
+    "terms": [
+      [
+        "squircle",
+        "a shape between a square and a circle"
+      ],
+      [
+        "curve",
+        "a line that bends smoothly"
+      ]
+    ]
+  },
+  {
+    "title": "When AI removed the slow middle",
+    "link": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32",
+    "source": "UX Collective",
+    "date": "2026-11-21",
+    "added": "2026-11-22T05:50:00Z",
+    "summary": "Wira Indra Kusuma argues that AI has cut out the slow middle stage of building things, and with it the people who used to decide what counts as correct.",
+    "terms": [
+      [
+        "judge",
+        "a person who decides whether something is right or good"
+      ],
+      [
+        "collapse",
+        "to fall in or shrink suddenly"
+      ]
+    ]
+  },
+  {
+    "title": "Dezeen launches its 20x20 project",
+    "link": "https://www.dezeen.com/2026/11/21/dezeen-20x20-this-week/",
+    "source": "Dezeen",
+    "date": "2026-11-21",
+    "added": "2026-11-22T05:50:00Z",
+    "summary": "A weekly roundup noting that Dezeen launched its Dezeen 20x20 project this week.",
+    "terms": [
+      [
+        "launch",
+        "to introduce something new to the public"
+      ],
+      [
+        "roundup",
+        "a summary of recent news"
+      ]
+    ]
+  },
+  {
     "title": "What building a website means in 2026",
     "link": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
     "source": "Sidebar",
@@ -68,6 +158,60 @@
       [
         "unveil",
         "to show something new to the public for the first time"
+      ]
+    ]
+  },
+  {
+    "title": "Qualitative research methods, an overview",
+    "link": "https://www.nngroup.com/articles/qual-research-methods/",
+    "source": "Nielsen Norman Group",
+    "date": "2026-11-20",
+    "added": "2026-11-22T05:50:00Z",
+    "summary": "An overview of four qualitative research methods, including usability testing, interviews, field studies and diary studies, and roughly what each costs.",
+    "terms": [
+      [
+        "qualitative",
+        "about qualities and reasons rather than numbers"
+      ],
+      [
+        "diary study",
+        "research where people record their experiences over time"
+      ]
+    ]
+  },
+  {
+    "title": "Can AI design from raw user data?",
+    "link": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/",
+    "source": "Nielsen Norman Group",
+    "date": "2026-11-20",
+    "added": "2026-11-22T05:50:00Z",
+    "summary": "A study comparing AI-generated designs: they were better when the AI was given summarized research findings instead of raw user comments.",
+    "terms": [
+      [
+        "raw data",
+        "information that has not been processed or organized"
+      ],
+      [
+        "synthesize",
+        "to combine pieces of information into a clear whole"
+      ]
+    ]
+  },
+  {
+    "title": "A small game about impermanence",
+    "link": "https://tcosta.com/impermanence/",
+    "source": "Sidebar",
+    "date": "2026-11-20",
+    "added": "2026-11-22T05:50:00Z",
+    "summary": "A small browser game that explores craft and the idea that nothing lasts.",
+    "terms": [
+      [
+        "impermanence",
+        "the state of not lasting forever"
+      ],
+      [
+        "craft",
+        "skill in making things carefully"
       ]
     ]
   },
@@ -934,149 +1078,5 @@
       ]
     ],
     "added": "2026-11-16T05:53:10Z"
-  },
-  {
-    "title": "Decision theatre versus real decision design",
-    "link": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685",
-    "source": "UX Collective",
-    "date": "2026-11-13",
-    "added": "2026-11-15T05:53:12Z",
-    "summary": "An essay on how AI output can leave human decisions hollow, and what skills, authority and process people need to truly own AI-assisted decisions.",
-    "terms": [
-      [
-        "accountability",
-        "being responsible for a decision and its results"
-      ],
-      [
-        "rubber-stamp",
-        "to approve something without really examining it"
-      ]
-    ]
-  },
-  {
-    "title": "A crooked plate beats algorithmic perfection",
-    "link": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147",
-    "source": "UX Collective",
-    "date": "2026-11-13",
-    "added": "2026-11-15T05:53:12Z",
-    "summary": "An essay arguing that the flawless results of AI can feel empty, and that small imperfections make things feel more human.",
-    "terms": [
-      [
-        "flawless",
-        "without any mistakes or defects"
-      ],
-      [
-        "handmade",
-        "made by a person rather than a machine"
-      ]
-    ]
-  },
-  {
-    "title": "AI as the new old design material",
-    "link": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a",
-    "source": "UX Collective",
-    "date": "2026-11-13",
-    "added": "2026-11-15T05:53:12Z",
-    "summary": "Argues that designers should learn AI models by building with them, just as earlier designers learned paint, print and HTML.",
-    "terms": [
-      [
-        "design material",
-        "the medium a designer shapes, like paper, pixels or code"
-      ],
-      [
-        "hands-on",
-        "learning by doing rather than by reading"
-      ]
-    ]
-  },
-  {
-    "title": "A football fan zine for Gothenburg's streets",
-    "link": "https://www.itsnicethat.com/features/uefa-womens-champions-league-queenzine-swedish-girls-gothenburg-collaboration-sponsored-content-131126",
-    "source": "It's Nice That",
-    "date": "2026-11-13",
-    "added": "2026-11-15T05:53:12Z",
-    "summary": "A sponsored feature on a UEFA Women's Champions League zine made with the art duo Swedish Girls to bring fan culture onto the streets of Gothenburg.",
-    "terms": [
-      [
-        "zine",
-        "a small, self-published magazine, often handmade"
-      ],
-      [
-        "fandom",
-        "the community and culture of a group of fans"
-      ]
-    ]
-  },
-  {
-    "title": "Live one life in real statistics",
-    "link": "https://1in8b.life/en/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "An interactive site that plays out the life of a baby born today using real national statistics.",
-    "terms": [
-      [
-        "statistics",
-        "numbers collected to describe a population"
-      ],
-      [
-        "interactive",
-        "responding to what the user does"
-      ]
-    ]
-  },
-  {
-    "title": "How AI agents decide what to remember",
-    "link": "https://www.anthropic.com/research/components-of-agent-memory",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "A research piece on how an AI assistant decides what is worth remembering before it knows what will come next.",
-    "terms": [
-      [
-        "agent",
-        "an AI system that carries out tasks on its own"
-      ],
-      [
-        "memory",
-        "stored information that can be used later"
-      ]
-    ]
-  },
-  {
-    "title": "Vucko's joyful motion identity for Etsy",
-    "link": "https://www.itsnicethat.com/articles/vucko-etsy-motion-graphic-design-sponsored-content-121126",
-    "source": "It's Nice That",
-    "date": "2026-11-12",
-    "added": "2026-11-15T05:53:12Z",
-    "summary": "A sponsored piece about the motion identity the studio Vucko created for Etsy, built on joy, simplicity and craft.",
-    "terms": [
-      [
-        "motion identity",
-        "a brand's visual system designed to move and animate"
-      ],
-      [
-        "craft",
-        "skill in making things carefully by hand"
-      ]
-    ]
-  },
-  {
-    "title": "The hidden mental cost of heavy AI use",
-    "link": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0",
-    "source": "UX Collective",
-    "date": "2026-11-12",
-    "added": "2026-11-13T05:52:37Z",
-    "summary": "Dan Maccarone argues that the people who rely on AI most carry an extra job: juggling many separate AI tools. He points to research on context switching and mental fatigue.",
-    "terms": [
-      [
-        "context switching",
-        "moving your attention from one task or tool to another"
-      ],
-      [
-        "fatigue",
-        "tiredness caused by effort over time"
-      ]
-    ]
   }
 ]
