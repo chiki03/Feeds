@@ -1,5 +1,144 @@
 [
   {
+    "date": "2026-11-22",
+    "added": "2026-11-22T05:44:22Z",
+    "title": "22 nov. : Ukraine, Ruffin se retire, départ de Lagarde",
+    "lede": "Des bombardements russes meurtriers frappent l'Ukraine, jusqu'à la ville natale de Volodymyr Zelensky, tandis qu'en France François Ruffin renonce à la présidentielle et qu'en Suisse le ticket UDC pour le Conseil fédéral essuie les critiques de la presse romande.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Des bombardements russes meurtriers ont visé l'Ukraine, notamment la ville de naissance du président Volodymyr Zelensky.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/21/bombardements-meurtriers-sur-lukraine-et-la-ville-de-naissance-de-volodymyr-zelensky"
+          },
+          {
+            "text": "Après ces frappes, l'Ukraine a réaffirmé sa volonté de rejoindre l'Otan.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato"
+          },
+          {
+            "text": "Une attaque de drone a été détectée contre un cargo russe dans le golfe de Finlande ; le navire a pris feu.",
+            "source": "France 24",
+            "link": "https://france24.com/fr/europe/20261121-une-attaque-de-drone-contre-un-cargo-russe-d%C3%A9tect%C3%A9e-dans-le-golfe-de-finlande"
+          },
+          {
+            "text": "La présidente de la Commission européenne juge « inacceptable » un complot russe présumé visant à tuer un citoyen américano-ukrainien.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen"
+          },
+          {
+            "text": "Budget de l'UE : le président du Conseil européen, Antonio Costa, propose 200 milliards d'euros de coupes et une taxe sur le numérique.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/21/budget-de-lue-antonio-costa-propose-200-milliards-de-coupes-et-une-taxe-numerique"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Pour le sixième samedi consécutif, syndicats, jeunes et gilets jaunes ont manifesté contre la vie chère, mais un peu moins nombreux ; une première journée contre les violences sexistes s'y est ajoutée.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re"
+          },
+          {
+            "text": "Selon le ministère de l'Intérieur, 82 500 personnes ont défilé dans le pays ; les syndicats en revendiquent 150 000.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week"
+          },
+          {
+            "text": "Présidentielle : prenant « acte de l'impasse » de sa campagne, François Ruffin retire sa candidature.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature"
+          },
+          {
+            "text": "La secrétaire générale de la CFDT, Marylise Léon, demande de changer la date de la présidentielle pour éviter un second tour le 2 mai.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261121-pr%C3%A9sidentielle-marylise-l%C3%A9on-appelle-%C3%A0-changer-la-date-pour-%C3%A9viter-un-second-tour-le-2-mai"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Succession de Guy Parmelin : la presse romande fustige le ticket UDC Thomas Aeschi – Michael Graber, jugé « 100% masculin et alémanique ».",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/succession-parmelin-la-presse-romande-fustige-le-ticket-udc-29423034.html"
+          },
+          {
+            "text": "À Berne, près de 2000 personnes, selon les organisateurs, ont manifesté sur la Place fédérale contre les coupes dans les médias.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "« Robots tueurs » : réunis à Genève pour une conférence de l'ONU, les pays se sont mis d'accord en vue d'un possible encadrement des armes autonomes.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Le Festival international du film des cultures juives de Genève a débuté samedi ; il dure jusqu'au 29 novembre.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Le départ anticipé de Christine Lagarde de la présidence de la BCE relance les spéculations sur une candidature à la présidentielle française.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/21/le-depart-anticipe-de-christine-lagarde-de-la-bce-ravive-les-speculations-sur-la-president"
+          },
+          {
+            "text": "L'UE et l'Indonésie ont signé des accords commerciaux et d'investissement après dix ans de négociations.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/21/lue-et-lindonesie-signent-des-accords-commerciaux-et-dinvestissement-apres-dix-ans-de-nego"
+          },
+          {
+            "text": "La dégradation des sols pourrait coûter entre 286 et 509 milliards d'euros à l'UE d'ici 2034.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/21/la-degradation-des-sols-pourrait-couter-286-a-509-milliards-a-lue-dici-2034"
+          },
+          {
+            "text": "Aux États-Unis, un accord de plusieurs milliards de dollars met fin aux litiges sur le désherbant Roundup.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261121-etats-unis-un-accord-de-plusieurs-milliards-de-dollars-met-fin-aux-litiges-sur-le-roundup"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "fustiger",
+        "critiquer très sévèrement, condamner publiquement"
+      ],
+      [
+        "retirer sa candidature",
+        "renoncer à se présenter à une élection"
+      ],
+      [
+        "un complot",
+        "un projet secret préparé contre quelqu'un"
+      ],
+      [
+        "un encadrement",
+        "un ensemble de règles qui fixent des limites à une activité"
+      ],
+      [
+        "un départ anticipé",
+        "le fait de quitter un poste avant la fin prévue du mandat"
+      ],
+      [
+        "le second tour",
+        "le deuxième vote d'une élection, entre les candidats arrivés en tête"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-21",
     "added": "2026-11-21T05:44:21Z",
     "title": "21 nov. : Missiles en Pologne, Villepin, Bourses et IA",
@@ -2772,140 +2911,6 @@
       [
         "entrer en vigueur",
         "commencer à s'appliquer, pour une loi ou une règle"
-      ]
-    ]
-  },
-  {
-    "date": "2026-10-31",
-    "added": "2026-10-31T05:49:11Z",
-    "title": "31 oct. : manifestations, PIB en recul, Parmelin à Pékin",
-    "lede": "La France se prépare à un week-end de manifestations sous haute tension alors que son PIB recule au troisième trimestre, tandis que la Suisse signe à Pékin un accord de libre-échange modernisé avec la Chine.",
-    "sections": [
-      {
-        "name": "Europe",
-        "points": [
-          {
-            "text": "Pologne : la police antiémeute a été déployée après la suspension du président d'une haute juridiction, une décision qui a déclenché une crise politique.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/live-news/20261031-polish-riot-police-deployed-as-deposed-court-chief-sets-off-crisis"
-          },
-          {
-            "text": "Le Canada et l'Union européenne veulent renforcer leur alliance pour « résister ensemble aux chocs ».",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/europe/20261030-canada-and-eu-seek-to-withstand-shocks-together-through-closer-alliance"
-          },
-          {
-            "text": "Espagne : après l'accident ferroviaire, les familles attendent toujours l'identification des victimes.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261030-drame-ferroviaire-en-espagne-les-familles-dans-l-attente-de-l-identification-des-victimes"
-          },
-          {
-            "text": "Guerre en Ukraine : la ville d'Olechky reste isolée et fait face à une crise humanitaire.",
-            "source": "France 24",
-            "link": "https://france24.com/fr/vid%C3%A9o/20261030-guerre-en-ukraine-la-ville-d-olechky-isol%C3%A9e-en-proie-%C3%A0-une-crise-humanitaire"
-          }
-        ]
-      },
-      {
-        "name": "France",
-        "points": [
-          {
-            "text": "Manifestations, milices d'ultradroite et Halloween : la France aborde un week-end sous haute tension.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/france/20261030-manifestations-milices-ultradroite-halloween-week-end-sous-haute-tension-france"
-          },
-          {
-            "text": "Mobilisation du 31 octobre : les syndicats contestent devant la justice le parcours imposé à Paris.",
-            "source": "France 24",
-            "link": "https://france24.com/fr/france/20261030-mobilisation-du-31-octobre-le-parcours-%C3%A0-paris-contest%C3%A9-devant-la-justice"
-          },
-          {
-            "text": "Édouard Philippe, candidat déclaré à la présidentielle, a été interrogé dans une affaire de détournement de fonds.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case"
-          }
-        ]
-      },
-      {
-        "name": "Suisse",
-        "points": [
-          {
-            "text": "Le conseiller fédéral Ignazio Cassis a achevé une visite de deux jours en Corée du Nord pour renouer le dialogue politique, une première pour un membre du gouvernement depuis 2003.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Selon le ministre de la Défense Martin Pfister, les premiers éléments du système Patriot sont attendus à la mi-2027, ce qu'a confirmé l'ambassadeur des États-Unis en Suisse.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Un tribunal français a rejeté le recours de la Ville de Genève contre les travaux de l'autoroute A412 Machilly-Thonon, qui se poursuivent jusqu'au jugement sur le fond.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Zurich : les deux dirigeants du groupe d'extrême droite Junge Tat ont été condamnés à un an de prison avec sursis pour incitation à la haine et discrimination.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "L'association de retraités AVIVO a manifesté à Berne contre la hausse des primes maladie 2027 et réclame un gel de deux ans.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          }
-        ]
-      },
-      {
-        "name": "Économie",
-        "points": [
-          {
-            "text": "Le PIB français recule au troisième trimestre ; « l'économie française est à l'arrêt », prévient le ministre de l'Économie Roland Lescure.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261030-en-france-le-pib-recule-au-3%C3%A8me-trimestre-et-l-%C3%A9conomie-fran%C3%A7aise-est-%C3%A0-l-arr%C3%AAt"
-          },
-          {
-            "text": "À Pékin, le président de la Confédération Guy Parmelin et Xi Jinping ont signé l'accord de libre-échange modernisé, qui supprimera des taxes sur les exportations suisses vers la Chine.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Les perspectives de l'économie suisse restent solides malgré un ralentissement en octobre dans les services, la finance et l'assurance.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "TotalEnergies annonce une baisse du prix du gazole dans certaines de ses stations dès samedi.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261030-totalenergies-annonce-baisser-le-prix-du-gazole-dans-certaines-stations-d%C3%A8s-samedi"
-          }
-        ]
-      }
-    ],
-    "terms": [
-      [
-        "être à l'arrêt",
-        "ne plus avancer, être bloqué"
-      ],
-      [
-        "un recours",
-        "une démarche pour contester une décision devant une autorité ou un tribunal"
-      ],
-      [
-        "avec sursis",
-        "se dit d'une peine qui ne sera pas exécutée si la personne ne récidive pas"
-      ],
-      [
-        "un accord de libre-échange",
-        "un traité qui réduit ou supprime les droits de douane entre pays"
-      ],
-      [
-        "sous haute tension",
-        "dans un climat de forte inquiétude, où un conflit peut éclater"
-      ],
-      [
-        "renouer le dialogue",
-        "reprendre des discussions interrompues"
       ]
     ]
   }
