@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-23",
+    "added": "2026-11-23T05:43:41Z",
+    "title": "23 nov. : Ukraine, enquête RN, ticket UDC",
+    "lede": "Les frappes russes font de nouvelles victimes en Ukraine, l'enquête sur des fuites au profit du RN emporte le préfet Moutouh, et la COP31 s'achève sans accord, au grand regret de la Suisse.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "Ukraine : des attaques russes ont fait au moins 13 morts, et les secouristes cherchent encore des survivants dans les décombres.",
+            "source": "France 24",
+            "link": "https://france24.com/fr/europe/20261122-en-direct-la-finlande-d%C3%A9nonce-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique"
+          },
+          {
+            "text": "Près de Kyiv, une frappe de drone russe sur un immeuble a fait trois morts et plusieurs disparus.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/22/ukraine-une-frappe-de-drone-russe-sur-un-immeuble-pres-de-kyiv-fait-un-mort-et-15-disparus"
+          },
+          {
+            "text": "Mer Baltique : la Finlande dénonce une attaque de drone ukrainien contre un cargo russe, qui a été remorqué vers les eaux russes.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261122-russian-cargo-ship-hit-by-ukrainian-drone-towed-to-home-waters"
+          },
+          {
+            "text": "Climat : la COP31 s'est achevée sans accord, l'UE et plusieurs pays ayant rejeté le texte final, qui ne mentionnait pas les combustibles fossiles.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/22/cop31-lue-et-dautres-pays-font-echouer-laccord-final-sans-mention-des-combustibles-fossile"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "Enquête sur des fuites au profit du RN : un mail du service du préfet Moutouh a été découvert lors d'une perquisition chez un proche de Marine Le Pen, qui nie avoir reçu des informations confidentielles.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261122-enqu%C3%AAte-rn-un-mail-du-service-du-pr%C3%A9fet-moutouh-d%C3%A9couvert-en-perquisition-chez-un-proche-de-le-pen"
+          },
+          {
+            "text": "Dans un communiqué, le préfet Moutouh demande à être relevé de ses fonctions.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-enqu%C3%AAte-rn-le-pr%C3%A9fet-moutouh-demande-%C3%A0-%C3%AAtre-relev%C3%A9-de-ses-fonctions-communiqu%C3%A9"
+          },
+          {
+            "text": "Présidentielle 2027 : selon un invité de France 24, « la dynamique de vote utile s'exprime de manière très anticipée ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-pr%C3%A9sidentielle-2027-la-dynamique-de-vote-utile-s-exprime-de-mani%C3%A8re-tr%C3%A8s-anticip%C3%A9e"
+          },
+          {
+            "text": "Paris : le marché de Noël fait son retour sur les Champs-Élysées.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/video/20261123-christmas-market-returns-to-paris-champs-elys%C3%A9es"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Ticket UDC : l'élu valaisan Jean-Luc Addor (UDC/VS) qualifie de « grave erreur politique » le choix de deux Alémaniques, Thomas Aeschi et Michael Graber.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "La Suisse se dit déçue par l'échec de la COP31 ; l'ambassadeur pour l'environnement Felix Wertli parle d'un signal positif manqué.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Genève : plusieurs milliers de personnes ont manifesté à l'appel de la Coalition contre l'austérité, opposée aux coupes budgétaires.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-des-milliers-de-manifestants-contre-l-austerite-29415964.html"
+          },
+          {
+            "text": "À Genève, un guide pratique aide les psychologues à témoigner en justice pour les victimes de violences conjugales, avant la journée du 25 novembre contre les violences faites aux femmes.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Lausanne : Bô Noël revient pour sa 12e et dernière édition, pour la première fois sur la place de la Riponne, jusqu'au 31 décembre.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Choose France : les entreprises françaises se disent prêtes à investir 42,5 milliards d'euros.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261122-choose-france-entreprises-fran%C3%A7aises-pr%C3%AAtent-investir-42-5-milliards-euros-emmanuel-macron-%C3%A9conomie-investissements-projet"
+          },
+          {
+            "text": "Finances publiques : Emmanuel Macron pourrait faire inscrire une « règle d'or » budgétaire dans la Constitution.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261122-macron-pourrait-faire-inscrire-sur-une-r%C3%A8gle-d-or-dans-la-constitution"
+          },
+          {
+            "text": "Marine Le Pen s'en prend à David Lisnard et à son projet de « broyer » le code du travail.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261122-le-pen-attaque-lisnard-et-son-projet-de-broyer-le-code-du-travail"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "une perquisition",
+        "une fouille d'un lieu ordonnée par la justice pour trouver des preuves"
+      ],
+      [
+        "être relevé de ses fonctions",
+        "perdre son poste, être écarté de ses responsabilités"
+      ],
+      [
+        "le vote utile",
+        "voter pour le candidat qui a le plus de chances de gagner plutôt que pour son préféré"
+      ],
+      [
+        "une règle d'or",
+        "un principe budgétaire qui interdit ou limite le déficit public"
+      ],
+      [
+        "l'austérité",
+        "une politique de fortes économies dans les dépenses publiques"
+      ],
+      [
+        "un ticket",
+        "une liste de candidats proposés par un parti pour une élection"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-22",
     "added": "2026-11-22T05:44:22Z",
     "title": "22 nov. : Ukraine, Ruffin se retire, départ de Lagarde",
@@ -2794,124 +2928,6 @@
         "une taxe calculée sur la valeur totale des biens d'une personne"
       ]
     ]
-  },
-  {
-    "date": "2026-11-01",
-    "added": "2026-11-01T05:49:42Z",
-    "title": "1er nov. : Acte III, scandale Ruag, taxe sur les colis",
-    "lede": "La France a connu un troisième samedi de manifestations contre la vie chère, la Suisse découvre l'ampleur du scandale Ruag, et la nouvelle taxe européenne sur les petits colis entre en vigueur.",
-    "sections": [
-      {
-        "name": "Europe",
-        "points": [
-          {
-            "text": "Ukraine : des habitants d'Olechky, ville occupée par la Russie, ont retrouvé leurs proches après avoir été évacués grâce à un cessez-le-feu local et à une opération humanitaire.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261031-ukraine-habitants-olechky-retrouvent-leurs-proches-apr%C3%A8s-avoir-%C3%A9t%C3%A9-%C3%A9vacu%C3%A9s-cessez-feu-russie-op%C3%A9ration-humanitaire-melania-trump"
-          },
-          {
-            "text": "Le président turc Recep Tayyip Erdogan reproche à la fois à la Russie et à l'Ukraine leurs attaques en mer Noire.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/live-news/20261031-erdogan-takes-russia-ukraine-to-task-over-black-sea-attacks"
-          },
-          {
-            "text": "Royaume-Uni : le Premier ministre Andy Burnham se dit prêt à présenter des excuses officielles pour le rôle du pays dans l'esclavage, mais exclut des réparations financières.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261031-andy-burnham-royaume-uni-pr%C3%AAt-pr%C3%A9senter-excuses-pour-son-r%C3%B4le-dans-esclavage-traite-transatlantique"
-          },
-          {
-            "text": "Allemagne : des manifestations de la « génération Z » ont réclamé plus de moyens pour l'éducation ; la police a utilisé des canons à eau lors de rassemblements tendus.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos"
-          }
-        ]
-      },
-      {
-        "name": "France",
-        "points": [
-          {
-            "text": "Acte III de la mobilisation : le ministre de l'Intérieur Laurent Nuñez affirme que « les cortèges se sont bien déroulés », malgré des heurts à Paris.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween"
-          },
-          {
-            "text": "Quelque 320 000 personnes ont manifesté samedi dans toute la France, dans des cortèges en grande partie pacifiques.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france"
-          },
-          {
-            "text": "La RTS revient avec Fabien Truong sur ce troisième samedi de manifestations contre la vie chère en France.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/audio-podcast/2026/audio/troisieme-samedi-de-manifestations-contre-la-vie-chere-en-france-interview-de-fabien-truong-29401530.html"
-          }
-        ]
-      },
-      {
-        "name": "Suisse",
-        "points": [
-          {
-            "text": "Ruag : les dysfonctionnements révélés au sein de l'entreprise d'armement auront des suites pénales. Selon Swissinfo, le scandale de fraude est bien plus étendu que prévu, avec de graves lacunes dans la surveillance.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/suisse/2026/article/ruag-les-dysfonctionnements-auront-des-suites-penales-29400740.html"
-          },
-          {
-            "text": "Le Conseil fédéral s'oppose à une interdiction des feux d'artifice.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/suisse/2026/article/feux-d-artifice-le-conseil-federal-s-oppose-a-l-interdiction-29393210.html"
-          },
-          {
-            "text": "Votations fédérales du 29 novembre : selon le sondage SSR, l'issue reste incertaine.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/suisse/2026/article/votations-du-29-novembre-issue-incertaine-selon-le-sondage-ssr-29392960.html"
-          },
-          {
-            "text": "Avant le vote du 29 novembre sur les exportations d'armes, la RTS présente les chiffres de l'industrie suisse de l'armement.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/suisse/2026/article/industrie-de-l-armement-en-suisse-les-chiffres-du-secteur-29399632.html"
-          }
-        ]
-      },
-      {
-        "name": "Économie",
-        "points": [
-          {
-            "text": "La nouvelle taxe de l'Union européenne sur les petits colis venant de pays tiers entre en vigueur ce dimanche 1er novembre.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/live-news/20261101-eu-s-new-levy-on-parcels-kicks-in"
-          },
-          {
-            "text": "Les colis envoyés de Suisse vers l'UE sont eux aussi frappés par cette nouvelle taxe.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/economie/2026/article/les-colis-suisses-vers-l-ue-frappes-par-une-nouvelle-taxe-29400496.html"
-          }
-        ]
-      }
-    ],
-    "terms": [
-      [
-        "un cortège",
-        "un groupe de personnes qui défilent ensemble, par exemple lors d'une manifestation"
-      ],
-      [
-        "des heurts",
-        "des affrontements, souvent brefs, entre manifestants et forces de l'ordre"
-      ],
-      [
-        "des suites pénales",
-        "des poursuites devant la justice pénale après une affaire"
-      ],
-      [
-        "présenter des excuses officielles",
-        "reconnaître publiquement une faute au nom d'un État ou d'une institution"
-      ],
-      [
-        "des réparations",
-        "une compensation, souvent financière, accordée pour un tort subi"
-      ],
-      [
-        "entrer en vigueur",
-        "commencer à s'appliquer, pour une loi ou une règle"
-      ]
-    ]
   }
 ]
+
