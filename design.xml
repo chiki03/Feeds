@@ -6,7 +6,7 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 05:44:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 05:48:42 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>26 nov. : sommet UE, droits de douane, Lisnard</title>
@@ -46,7 +46,7 @@ Mots clés : hausser le ton — parler plus fermement pour marquer son méconten
 <title>25 nov. : Ukraine, Sarkozy-Bruni, BYD en France</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-25.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-25.html</guid>
-<pubDate>Wed, 25 Nov 2026 05:48:16 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Vladimir Poutine accuse Kiev de continuer à frapper les raffineries russes, Nicolas Sarkozy et Carla Bruni sont renvoyés en procès, et le chinois BYD choisit la France pour sa première usine d'Europe de l'Ouest.
 
@@ -75,6 +75,18 @@ SUISSE
 • Allemagne : le moral des entreprises s'est de nouveau amélioré en novembre. (France 24 (EN): https://www.france24.com/en/live-news/20261124-german-business-morale-rises-again-in-november)
 
 Mots clés : être renvoyé en procès — être envoyé devant un tribunal pour y être jugé ; une rétractation — le fait de revenir sur une déclaration faite auparavant ; un détournement de fonds publics — l'utilisation illégale d'argent public à des fins non prévues ; requérir une peine — pour le procureur, demander au tribunal une sanction précise ; violer l'espace aérien — pénétrer sans autorisation dans le ciel d'un autre pays ; des fonds propres — l'argent qui appartient à l'entreprise et à ses actionnaires, et non à ses créanciers</description>
+</item>
+<item>
+<title>Writing about work when bosses read</title>
+<link>https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185</link>
+<guid isPermaLink="true">https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185</guid>
+<pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay asking how honest writing about your job changes when the people reading it can hire or fire you.
+
+Key terms: candid — honest and direct, even when it is uncomfortable; self-censorship — holding back what you think out of fear of consequences
+
+Source: UX Collective</description>
 </item>
 <item>
 <title>Visa brand refresh spotlights progress</title>
@@ -121,6 +133,54 @@ SUISSE
 • Espagne : à l'approche du scrutin, la forte croissance économique du pays ne profite pas à tout le monde, selon France 24. (France 24 (EN): https://www.france24.com/en/live-news/20261124-living-less-well-spain-s-strong-growth-fails-to-benefit-all)
 
 Mots clés : déjouer les pronostics — faire mentir les prévisions, réussir alors qu'on était donné perdant ; une élection anticipée — un scrutin organisé avant la date normalement prévue ; être interpellé — être arrêté et emmené par la police pour être interrogé ; des stocks stratégiques — des réserves constituées par un État pour faire face à une pénurie ; un convoi — un groupe de véhicules qui voyagent ensemble ; faire halte — s'arrêter quelque part au cours d'un voyage</description>
+</item>
+<item>
+<title>Futures thinking as a daily design habit</title>
+<link>https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8</link>
+<guid isPermaLink="true">https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8</guid>
+<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>Revisits the Three Horizons framework as a practical way for design teams to organize their work around what comes next.
+
+Key terms: foresight — the ability to anticipate future needs or events; framework — a structure of ideas used to guide decisions
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Designing for shoppers' AI agents</title>
+<link>https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37</link>
+<guid isPermaLink="true">https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37</guid>
+<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>Looks at how products and marketing must adapt when personal AI assistants compare options and buy things on people's behalf.
+
+Key terms: agentic — able to act on its own to reach a goal; on someone's behalf — acting for someone else, in their place
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Silvana Trevale photographs Venezuelan youth</title>
+<link>https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-silvana-trivale-241126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-silvana-trivale-241126</guid>
+<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Photographer Silvana Trevale talks about capturing the hardships, beauty and hope of young people in Venezuela, from a Nicer Tuesdays talk.
+
+Key terms: portraiture — the art of making pictures of people; resilience — the ability to recover from difficulty
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>A designer's notes on drawing icons</title>
+<link>https://pierre.computer/writing/on-drawing-icons</link>
+<guid isPermaLink="true">https://pierre.computer/writing/on-drawing-icons</guid>
+<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>A write-up of an icon library drawn at three sizes, and the pipeline that turns the Figma files into React components.
+
+Key terms: pixel grid — the grid of screen pixels icons are aligned to; pipeline — a chain of automated steps that turns input into output
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>New York's new November design week</title>
@@ -251,6 +311,30 @@ SUISSE
 • Marine Le Pen s'en prend à David Lisnard et à son projet de « broyer » le code du travail. (France 24: https://www.france24.com/fr/info-en-continu/20261122-le-pen-attaque-lisnard-et-son-projet-de-broyer-le-code-du-travail)
 
 Mots clés : une perquisition — une fouille d'un lieu ordonnée par la justice pour trouver des preuves ; être relevé de ses fonctions — perdre son poste, être écarté de ses responsabilités ; le vote utile — voter pour le candidat qui a le plus de chances de gagner plutôt que pour son préféré ; une règle d'or — un principe budgétaire qui interdit ou limite le déficit public ; l'austérité — une politique de fortes économies dans les dépenses publiques ; un ticket — une liste de candidats proposés par un parti pour une élection</description>
+</item>
+<item>
+<title>The trouble with artist biopics</title>
+<link>https://www.itsnicethat.com/articles/artist-biopics-gary-grimes-culture-column-231126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/artist-biopics-gary-grimes-culture-column-231126</guid>
+<pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A culture column by Gary Grimes on why turning real artists' lives into films is so often a risky undertaking.
+
+Key terms: biopic — a film telling the life story of a real person; poisoned chalice — something that seems attractive but brings trouble
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>The coming era of personal software</title>
+<link>https://jakub.kr/writing/the-era-of-personal-software</link>
+<guid isPermaLink="true">https://jakub.kr/writing/the-era-of-personal-software</guid>
+<pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>Argues that custom-built software will become cheap enough to replace much of the off-the-shelf software people use today.
+
+Key terms: bespoke — made for one specific person or client; off-the-shelf — ready-made and sold to everyone, not customized
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>Paris Photo makes the case for photobooks</title>
@@ -986,82 +1070,10 @@ Key terms: brand mark — the symbol that identifies an organisation; monospaced
 Source: It's Nice That</description>
 </item>
 <item>
-<title>Beach football photographed in Zanzibar</title>
-<link>https://www.itsnicethat.com/articles/nico-therin-photography-zanzibar-project-171126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/nico-therin-photography-zanzibar-project-171126</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Photographer Nico Therin's series on beach footballers in Zanzibar, which the headline says captures the sport in its purest form.
-
-Key terms: photo series — a group of photographs on one theme; in its purest form — without anything extra or artificial
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Rethinking what UX research is worth</title>
-<link>https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12</link>
-<guid isPermaLink="true">https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>An essay arguing that doubts about the value of user research say more about how organizations deal with inconvenient findings than about new technology.
-
-Key terms: inconvenient finding — a research result that challenges what a team already wants to do; stakeholder — a person with an interest in, or influence over, a project
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Using AI sparkle icons for design audits</title>
-<link>https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11</link>
-<guid isPermaLink="true">https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>A designer explains how to make sense of a product manager's AI-generated mockup quickly, using the familiar sparkle icon as a marker during design audits.
-
-Key terms: design audit — a systematic review of a product's design for problems and inconsistencies; mockup — a realistic visual model of a screen or product, not yet built
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Dezeen launches its 20×20 talent project</title>
-<link>https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Dezeen has launched a project called 20×20 to identify the architects and designers to watch over the next 20 years.
-
-Key terms: one to watch — a person expected to become successful or influential; launch — to start or introduce something new publicly
-
-Source: Dezeen</description>
-</item>
-<item>
-<title>Slop is moving up the stack</title>
-<link>https://gabeorlanski.github.io/posts/slop-moves-up/</link>
-<guid isPermaLink="true">https://gabeorlanski.github.io/posts/slop-moves-up/</guid>
-<pubDate>Tue, 17 Nov 2026 05:53:12 +0000</pubDate>
-<category>Sidebar</category>
-<description>A piece, as its title says, on low-quality 'slop' spreading to higher layers of the technology stack.
-
-Key terms: slop — low-quality content produced in bulk, often by AI; tech stack — the layers of tools and software a product is built on
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Glue work still hurts in the AI age</title>
-<link>https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</link>
-<guid isPermaLink="true">https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</guid>
-<pubDate>Tue, 17 Nov 2026 05:53:12 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay, per its title, arguing that 'glue work' remains harmful for careers even with AI tools.
-
-Key terms: glue work — invisible coordination tasks that keep a team running; undervalued — not given the credit or importance it deserves
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>16 nov. : Estonie, médias tchèques, Booking.com</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-16.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-16.html</guid>
-<pubDate>Mon, 16 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 05:45:28 +0000</pubDate>
 <category>Le point du jour</category>
 <description>L'Estonie décide de fermer sa frontière avec la Russie après une tentative de sabotage, des centaines de milliers de Tchèques défendent leurs médias publics et plus de 800 hôtels suisses s'attaquent à Booking.com.
 
@@ -1089,18 +1101,6 @@ SUISSE
 • Meta, Google, Microsoft… France 24 s'interroge sur la dépendance technologique de l'Europe envers les géants américains. (France 24: https://www.france24.com/fr/vid%C3%A9o/20261115-m%C3%A9ta-google-microsoft-l-europe-sous-perfusion-technologique)
 
 Mots clés : une tentative de sabotage — un essai, réussi ou non, d'endommager volontairement une installation ; des concessions territoriales — l'abandon d'une partie de son territoire au profit d'un autre pays ; une primaire — une élection préalable pour désigner le candidat unique d'un camp politique ; une plainte collective — une action en justice menée ensemble par de nombreux plaignants ; être sous perfusion — dépendre entièrement d'une aide extérieure pour fonctionner ; dans la douleur — avec beaucoup de difficulté</description>
-</item>
-<item>
-<title>Dezeen names interiors project of the year</title>
-<link>https://www.dezeen.com/2026/11/16/dezeen-awards-2026-interiors-project-of-the-year-announced/</link>
-<guid isPermaLink="true">https://www.dezeen.com/2026/11/16/dezeen-awards-2026-interiors-project-of-the-year-announced/</guid>
-<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
-<category>Dezeen</category>
-<description>Dezeen announces which project won interiors project of the year at the Dezeen Awards 2026.
-
-Key terms: interiors — the design of the inside spaces of buildings; shortlist — a final group of candidates chosen for a prize
-
-Source: Dezeen</description>
 </item>
 <item>
 <title>15 nov. : Donbass, acte V, austérité à Genève</title>

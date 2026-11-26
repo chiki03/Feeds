@@ -1,5 +1,23 @@
 [
   {
+    "title": "Writing about work when bosses read",
+    "link": "https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185",
+    "source": "UX Collective",
+    "date": "2026-11-25",
+    "added": "2026-11-26T05:48:26Z",
+    "summary": "An essay asking how honest writing about your job changes when the people reading it can hire or fire you.",
+    "terms": [
+      [
+        "candid",
+        "honest and direct, even when it is uncomfortable"
+      ],
+      [
+        "self-censorship",
+        "holding back what you think out of fear of consequences"
+      ]
+    ]
+  },
+  {
     "title": "Visa brand refresh spotlights progress",
     "link": "https://www.creativereview.co.uk/visa-global-brand-refresh-base-design/",
     "source": "Creative Review",
@@ -14,6 +32,78 @@
       [
         "symbol",
         "a simple mark that stands for a brand"
+      ]
+    ]
+  },
+  {
+    "title": "Futures thinking as a daily design habit",
+    "link": "https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8",
+    "source": "UX Collective",
+    "date": "2026-11-24",
+    "added": "2026-11-26T05:48:26Z",
+    "summary": "Revisits the Three Horizons framework as a practical way for design teams to organize their work around what comes next.",
+    "terms": [
+      [
+        "foresight",
+        "the ability to anticipate future needs or events"
+      ],
+      [
+        "framework",
+        "a structure of ideas used to guide decisions"
+      ]
+    ]
+  },
+  {
+    "title": "Designing for shoppers' AI agents",
+    "link": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37",
+    "source": "UX Collective",
+    "date": "2026-11-24",
+    "added": "2026-11-26T05:48:26Z",
+    "summary": "Looks at how products and marketing must adapt when personal AI assistants compare options and buy things on people's behalf.",
+    "terms": [
+      [
+        "agentic",
+        "able to act on its own to reach a goal"
+      ],
+      [
+        "on someone's behalf",
+        "acting for someone else, in their place"
+      ]
+    ]
+  },
+  {
+    "title": "Silvana Trevale photographs Venezuelan youth",
+    "link": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-silvana-trivale-241126",
+    "source": "It's Nice That",
+    "date": "2026-11-24",
+    "added": "2026-11-26T05:48:26Z",
+    "summary": "Photographer Silvana Trevale talks about capturing the hardships, beauty and hope of young people in Venezuela, from a Nicer Tuesdays talk.",
+    "terms": [
+      [
+        "portraiture",
+        "the art of making pictures of people"
+      ],
+      [
+        "resilience",
+        "the ability to recover from difficulty"
+      ]
+    ]
+  },
+  {
+    "title": "A designer's notes on drawing icons",
+    "link": "https://pierre.computer/writing/on-drawing-icons",
+    "source": "Sidebar",
+    "date": "2026-11-24",
+    "added": "2026-11-26T05:48:26Z",
+    "summary": "A write-up of an icon library drawn at three sizes, and the pipeline that turns the Figma files into React components.",
+    "terms": [
+      [
+        "pixel grid",
+        "the grid of screen pixels icons are aligned to"
+      ],
+      [
+        "pipeline",
+        "a chain of automated steps that turns input into output"
       ]
     ]
   },
@@ -158,6 +248,42 @@
       [
         "taste",
         "the ability to judge what is good or fitting"
+      ]
+    ]
+  },
+  {
+    "title": "The trouble with artist biopics",
+    "link": "https://www.itsnicethat.com/articles/artist-biopics-gary-grimes-culture-column-231126",
+    "source": "It's Nice That",
+    "date": "2026-11-23",
+    "added": "2026-11-26T05:48:26Z",
+    "summary": "A culture column by Gary Grimes on why turning real artists' lives into films is so often a risky undertaking.",
+    "terms": [
+      [
+        "biopic",
+        "a film telling the life story of a real person"
+      ],
+      [
+        "poisoned chalice",
+        "something that seems attractive but brings trouble"
+      ]
+    ]
+  },
+  {
+    "title": "The coming era of personal software",
+    "link": "https://jakub.kr/writing/the-era-of-personal-software",
+    "source": "Sidebar",
+    "date": "2026-11-23",
+    "added": "2026-11-26T05:48:26Z",
+    "summary": "Argues that custom-built software will become cheap enough to replace much of the off-the-shelf software people use today.",
+    "terms": [
+      [
+        "bespoke",
+        "made for one specific person or client"
+      ],
+      [
+        "off-the-shelf",
+        "ready-made and sold to everyone, not customized"
       ]
     ]
   },
@@ -952,131 +1078,5 @@
       ]
     ],
     "added": "2026-11-19T05:47:47Z"
-  },
-  {
-    "title": "Beach football photographed in Zanzibar",
-    "link": "https://www.itsnicethat.com/articles/nico-therin-photography-zanzibar-project-171126",
-    "source": "It's Nice That",
-    "date": "2026-11-17",
-    "summary": "Photographer Nico Therin's series on beach footballers in Zanzibar, which the headline says captures the sport in its purest form.",
-    "terms": [
-      [
-        "photo series",
-        "a group of photographs on one theme"
-      ],
-      [
-        "in its purest form",
-        "without anything extra or artificial"
-      ]
-    ],
-    "added": "2026-11-19T05:47:47Z"
-  },
-  {
-    "title": "Rethinking what UX research is worth",
-    "link": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12",
-    "source": "UX Collective",
-    "date": "2026-11-17",
-    "summary": "An essay arguing that doubts about the value of user research say more about how organizations deal with inconvenient findings than about new technology.",
-    "terms": [
-      [
-        "inconvenient finding",
-        "a research result that challenges what a team already wants to do"
-      ],
-      [
-        "stakeholder",
-        "a person with an interest in, or influence over, a project"
-      ]
-    ],
-    "added": "2026-11-18T05:52:33Z"
-  },
-  {
-    "title": "Using AI sparkle icons for design audits",
-    "link": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11",
-    "source": "UX Collective",
-    "date": "2026-11-17",
-    "summary": "A designer explains how to make sense of a product manager's AI-generated mockup quickly, using the familiar sparkle icon as a marker during design audits.",
-    "terms": [
-      [
-        "design audit",
-        "a systematic review of a product's design for problems and inconsistencies"
-      ],
-      [
-        "mockup",
-        "a realistic visual model of a screen or product, not yet built"
-      ]
-    ],
-    "added": "2026-11-18T05:52:33Z"
-  },
-  {
-    "title": "Dezeen launches its 20×20 talent project",
-    "link": "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/",
-    "source": "Dezeen",
-    "date": "2026-11-17",
-    "summary": "Dezeen has launched a project called 20×20 to identify the architects and designers to watch over the next 20 years.",
-    "terms": [
-      [
-        "one to watch",
-        "a person expected to become successful or influential"
-      ],
-      [
-        "launch",
-        "to start or introduce something new publicly"
-      ]
-    ],
-    "added": "2026-11-18T05:52:33Z"
-  },
-  {
-    "title": "Slop is moving up the stack",
-    "link": "https://gabeorlanski.github.io/posts/slop-moves-up/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-17T05:53:12Z",
-    "summary": "A piece, as its title says, on low-quality 'slop' spreading to higher layers of the technology stack.",
-    "terms": [
-      [
-        "slop",
-        "low-quality content produced in bulk, often by AI"
-      ],
-      [
-        "tech stack",
-        "the layers of tools and software a product is built on"
-      ]
-    ]
-  },
-  {
-    "title": "Glue work still hurts in the AI age",
-    "link": "https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
-    "source": "Sidebar",
-    "date": "",
-    "added": "2026-11-17T05:53:12Z",
-    "summary": "An essay, per its title, arguing that 'glue work' remains harmful for careers even with AI tools.",
-    "terms": [
-      [
-        "glue work",
-        "invisible coordination tasks that keep a team running"
-      ],
-      [
-        "undervalued",
-        "not given the credit or importance it deserves"
-      ]
-    ]
-  },
-  {
-    "title": "Dezeen names interiors project of the year",
-    "link": "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-interiors-project-of-the-year-announced/",
-    "source": "Dezeen",
-    "date": "2026-11-16",
-    "added": "2026-11-20T05:48:04Z",
-    "summary": "Dezeen announces which project won interiors project of the year at the Dezeen Awards 2026.",
-    "terms": [
-      [
-        "interiors",
-        "the design of the inside spaces of buildings"
-      ],
-      [
-        "shortlist",
-        "a final group of candidates chosen for a prize"
-      ]
-    ]
   }
 ]
