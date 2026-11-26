@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-26",
+    "added": "2026-11-26T05:44:14Z",
+    "title": "26 nov. : sommet UE, droits de douane, Lisnard",
+    "lede": "Les dirigeants européens se retrouvent pour un sommet tendu sur le budget de l'UE et l'aide à l'Ukraine, Washington propose de nouveaux droits de douane visant notamment l'UE et la Suisse, et David Lisnard est réélu à la tête des maires de France.",
+    "sections": [
+      {
+        "name": "Europe",
+        "points": [
+          {
+            "text": "À la veille d'un sommet européen jugé décisif sur le budget de l'Union et l'aide à l'Ukraine, Emmanuel Macron a haussé le ton.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261125-budget-de-l-ue-macron-hausse-le-ton-%C3%A0-la-veille-d-un-sommet-cl%C3%A9"
+          },
+          {
+            "text": "Donald Trump et le secrétaire général de l'Otan ont exhorté Moscou à ne pas « étendre la guerre » avec l'Ukraine.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261126-en-direct-ukraine-russie-ue-sommet-aide-zelensky-poutine"
+          },
+          {
+            "text": "La Pologne annonce qu'elle va instaurer une zone d'exclusion aérienne à sa frontière avec l'Ukraine, après des violations répétées de son espace aérien.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/europe/20261125-en-direct-ukraine-russie-libye-benghazi-union-europeenne-zelensky-poutine"
+          },
+          {
+            "text": "L'indépendantiste catalan Carles Puigdemont a annoncé son retour en Espagne.",
+            "source": "Euronews",
+            "link": "https://fr.euronews.com/video/2026/11/25/lindependantiste-catalan-carles-puigdemont-annonce-son-retour-en-espagne"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "points": [
+          {
+            "text": "David Lisnard, maire de Cannes et candidat à l'Élysée, a été largement réélu à la tête de l'Association des maires de France.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261125-france-david-lisnard-annonce-sa-reelection-a-la-tete-de-l-association-des-maires-de-france"
+          },
+          {
+            "text": "Présidentielle 2027 : Édouard Philippe propose un débat à David Lisnard et tente de relancer sa campagne.",
+            "source": "France 24",
+            "link": "https://france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261125-%C3%A9lection-pr%C3%A9sidentielle-2027-philippe-propose-un-d%C3%A9bat-%C3%A0-lisnard-et-tente-de-se-relancer"
+          },
+          {
+            "text": "Enquête visant le RN : un préfet a été remplacé, et un vice-procureur présent au siège du parti lors d'une perquisition fait l'objet d'une enquête administrative de l'Inspection judiciaire.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261125-un-vice-procureur-pr%C3%A9sent-au-si%C3%A8ge-du-rn-lors-d-une-perquisition-vis%C3%A9-par-une-enqu%C3%AAte-administrative"
+          },
+          {
+            "text": "Le judoka Teddy Riner appelle à cesser de donner de l'argent à l'Ukraine, affirmant que « ce n'est pas notre guerre ».",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/france/20261125-notre-guerre-teddy-riner-exhorte-arr%C3%AAter-donner-argent-ukraine-%C3%A9lection-fran%C3%A7aise-pr%C3%A9sidentielle"
+          }
+        ]
+      },
+      {
+        "name": "Suisse",
+        "points": [
+          {
+            "text": "Succession de Guy Parmelin : les élus UDC romands se réuniront mardi à Berne ; le président du parti, Marcel Dettling, dit comprendre la frustration des Romands.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Votations fédérales du 29 novembre : l'issue reste incertaine, selon le sondage SSR.",
+            "source": "RTS",
+            "link": "https://www.rts.ch/info/suisse/2026/article/votations-du-29-novembre-issue-incertaine-selon-le-sondage-ssr-29392960.html"
+          },
+          {
+            "text": "Genève : la commission des finances a accepté le projet de budget 2027, dont le déficit a été ramené à 437,2 millions de francs, contre 546 millions dans le projet initial du Conseil d'État.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Le dispositif genevois d'hébergement d'urgence compte désormais 548 places ouvertes toute l'année, un record ; la Ville en ajoute 80 lorsque le plan grand froid est déclenché.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          }
+        ]
+      },
+      {
+        "name": "Économie",
+        "points": [
+          {
+            "text": "Le représentant américain au commerce propose une nouvelle série de droits de douane visant notamment l'UE, la Chine et le Brésil ; pour la Suisse, ils pourraient aller jusqu'à 15 %.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/am%C3%A9riques/20261125-union-europ%C3%A9enne-chine-br%C3%A9sil-administration-am%C3%A9ricaine-donald-trump-propose-nouvelle-s%C3%A9rie-droits-douane-%C3%A9tats-unis"
+          },
+          {
+            "text": "Cartel des parfums : l'Union européenne a infligé 471,9 millions d'euros d'amendes, notamment aux groupes suisses Givaudan et Firmenich ainsi qu'à l'américain IFF.",
+            "source": "Swissinfo",
+            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
+          },
+          {
+            "text": "Pour la première fois, les paiements par carte ont dépassé les espèces dans les commerces de la zone euro, selon une enquête.",
+            "source": "France 24 (EN)",
+            "link": "https://www.france24.com/en/live-news/20261125-card-payments-overtake-cash-in-eurozone-shops-for-first-time-survey"
+          },
+          {
+            "text": "La Bourse de Paris a progressé mercredi, entre recul du pétrole et publication de chiffres d'inflation américains.",
+            "source": "France 24",
+            "link": "https://www.france24.com/fr/info-en-continu/20261125-la-bourse-de-paris-avance-entre-recul-du-p%C3%A9trole-et-inflation-am%C3%A9ricaine"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      [
+        "hausser le ton",
+        "parler plus fermement pour marquer son mécontentement"
+      ],
+      [
+        "une zone d'exclusion aérienne",
+        "un espace où le survol par des aéronefs est interdit"
+      ],
+      [
+        "une perquisition",
+        "une fouille d'un lieu ordonnée par la justice pour y chercher des preuves"
+      ],
+      [
+        "un cartel",
+        "une entente illégale entre entreprises pour fixer les prix ou se partager un marché"
+      ],
+      [
+        "un droit de douane",
+        "une taxe prélevée sur des marchandises importées"
+      ],
+      [
+        "l'hébergement d'urgence",
+        "un logement temporaire offert aux personnes sans abri"
+      ]
+    ]
+  },
+  {
     "date": "2026-11-25",
     "added": "2026-11-25T05:44:13Z",
     "title": "25 nov. : Ukraine, Sarkozy-Bruni, BYD en France",
@@ -2662,270 +2796,6 @@
       [
         "l'austérité",
         "une politique de réduction des dépenses publiques"
-      ]
-    ]
-  },
-  {
-    "date": "2026-11-05",
-    "added": "2026-11-05T05:43:57Z",
-    "title": "5 nov. : grève en France, budget rejeté, réforme AI",
-    "lede": "Les syndicats appellent à une journée de grève en France après le rejet unanime du budget 2027 à l'Assemblée, l'Europe analyse la défaite de Donald Trump aux élections de mi-mandat, et le Conseil fédéral lance une nouvelle réforme de l'assurance invalidité.",
-    "sections": [
-      {
-        "name": "Europe",
-        "points": [
-          {
-            "text": "Après la lourde défaite des républicains aux élections de mi-mandat américaines, les dirigeants européens observent les conséquences possibles de cette « claque » infligée à Donald Trump.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261104-la-claque-inflig%C3%A9e-%C3%A0-trump-vue-d-europe"
-          },
-          {
-            "text": "Ukraine : France 24 montre comment la photo d'un enfant a été instrumentalisée par la Russie pour accréditer l'existence d'une prétendue « maison de torture » à Kiev.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261104-ukraine-maison-torture-kiev-photo-enfant-instrumentalis%C3%A9e-russie"
-          },
-          {
-            "text": "La Hongrie ouvre au public les dossiers des informateurs de la police politique de l'époque communiste.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261104-la-hongrie-ouvre-les-dossiers-des-informateurs-de-l-%C3%A9poque-communiste"
-          }
-        ]
-      },
-      {
-        "name": "France",
-        "points": [
-          {
-            "text": "L'Assemblée nationale a rejeté à l'unanimité, en première lecture, le projet de budget de l'État pour 2027.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances"
-          },
-          {
-            "text": "Les syndicats appellent à manifester ce jeudi 5 novembre pour les salaires ; perturbations attendues dans l'éducation, les transports et la santé. Le gouvernement se dit « vigilant ».",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261104-les-syndicats-dans-la-rue-jeudi-pour-les-salaires-nouvel-%C3%A9pisode-d-un-automne-social-houleux"
-          },
-          {
-            "text": "Des chambres froides de l'Établissement français du sang ont été visées par une cyberattaque passée par un prestataire.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261104-des-chambres-froides-de-l-%C3%A9tablissement-fran%C3%A7ais-du-sang-victimes-d-une-cyberattaque-d-un-prestataire"
-          },
-          {
-            "text": "Grippe aviaire : le niveau de risque en France est relevé à « modéré ».",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261104-grippe-aviaire-le-niveau-de-risque-en-france-relev%C3%A9-%C3%A0-mod%C3%A9r%C3%A9"
-          }
-        ]
-      },
-      {
-        "name": "Suisse",
-        "points": [
-          {
-            "text": "Le Conseil fédéral lance une « réforme d'intégration » de l'assurance invalidité, qui vise à maintenir ou ramener les assurés sur le marché du travail. Les cotisations salariales augmenteront de 0,2 point.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Le soutien fédéral à Swissinfo baissera de 44 % pour 2027-2030, passant de 18,8 à 10,5 millions de francs ; des offres en deux langues seront supprimées.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "La Suisse débloque 40 millions de francs d'aide pour le Yémen et l'Éthiopie, dont la moitié doit encore être validée par le Parlement.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Le Conseil fédéral renonce à demander le remboursement des frais médicaux des douze victimes italiennes de l'incendie du Constellation à Crans-Montana, hospitalisées en Suisse.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Vaud accorde la pleine indexation des salaires de la fonction publique pour 2027, à la veille d'une manifestation contre 100 millions de francs de coupes budgétaires.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          }
-        ]
-      },
-      {
-        "name": "Économie",
-        "points": [
-          {
-            "text": "Prévoyance professionnelle : le Conseil fédéral relève le taux d'intérêt minimal LPP à 2 %.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/suisse/2026/article/lpp-le-conseil-federal-augmente-le-taux-minimal-a-2-29405447.html"
-          },
-          {
-            "text": "La Bourse suisse s'est redressée mercredi dans un marché européen positif, mais les investisseurs restent prudents après la victoire démocrate aux États-Unis ; l'or et l'argent étaient en hausse.",
-            "source": "Swissinfo",
-            "link": "https://www.swissinfo.ch/fre/toute-l-actu-en-bref/"
-          },
-          {
-            "text": "Crédit Mutuel Arkéa annonce avoir été victime d'une cyberattaque qui a permis des « opérations frauduleuses ».",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261104-cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-une-cyberattaque-ayant-permis-des-op%C3%A9rations-frauduleuses"
-          },
-          {
-            "text": "La direction de la BCE exhorte la zone euro à s'adapter plus vite au changement climatique.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/live-news/20261104-ecb-chief-urges-eurozone-to-adapt-faster-to-climate-change"
-          }
-        ]
-      }
-    ],
-    "terms": [
-      [
-        "une première lecture",
-        "le premier examen d'un texte de loi par une assemblée parlementaire"
-      ],
-      [
-        "l'indexation des salaires",
-        "l'ajustement des salaires à la hausse des prix"
-      ],
-      [
-        "une cotisation salariale",
-        "la part du salaire prélevée pour financer une assurance sociale"
-      ],
-      [
-        "les élections de mi-mandat",
-        "aux États-Unis, élections organisées au milieu du mandat présidentiel"
-      ],
-      [
-        "un prestataire",
-        "une entreprise qui fournit un service à une autre"
-      ],
-      [
-        "un taux d'intérêt minimal",
-        "le rendement plancher que les caisses de pension doivent verser sur l'avoir de vieillesse"
-      ]
-    ]
-  },
-  {
-    "date": "2026-11-04",
-    "added": "2026-11-04T05:48:48Z",
-    "title": "4 nov. : Ukraine, blocages scolaires, TVA armée",
-    "lede": "De nouvelles frappes russes meurtrières touchent un centre humanitaire en Ukraine, les blocages de facs et de lycées reprennent en France, et une commission parlementaire suisse rejette la hausse de la TVA pour l'armée.",
-    "sections": [
-      {
-        "name": "Europe",
-        "points": [
-          {
-            "text": "Ukraine : au moins 33 personnes sont mortes dans des frappes russes contre un centre humanitaire, selon France 24.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/vid%C3%A9o/20261103-ukraine-au-moins-33-personnes-meurent-dans-des-frappes-russes-sur-un-centre-humanitaire"
-          },
-          {
-            "text": "La Force multinationale pour l'Ukraine, portée notamment par la France et le Royaume-Uni, tiendra son premier exercice en Pologne en novembre.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/europe/20261103-force-multinationale-pour-l-ukraine-pemier-exercice-pologne-novembre-france-royaume-uni"
-          },
-          {
-            "text": "Des alertes à la bombe visant des compagnies aériennes européennes ont entraîné la fermeture de l'aéroport de Varsovie et perturbé plusieurs vols.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights"
-          },
-          {
-            "text": "L'Italie a tenu des discussions sur la sécurité après la vague de cyberattaques contre des congélateurs de supermarchés en Europe.",
-            "source": "France 24 (EN)",
-            "link": "https://www.france24.com/en/live-news/20261103-italy-holds-security-talks-after-european-freezer-cyberattacks"
-          }
-        ]
-      },
-      {
-        "name": "France",
-        "points": [
-          {
-            "text": "Avec la fin des vacances, de nouveaux blocages touchent des universités et des lycées ; certains parents et lycéens se disent préoccupés.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/vid%C3%A9o/20261103-mobilisations-en-france-nouveaux-blocages-de-facs-et-de-lyc%C3%A9es"
-          },
-          {
-            "text": "Une partie de l'épargne placée sur le Livret A contribuera au financement des lycées et des collèges.",
-            "source": "Euronews",
-            "link": "https://fr.euronews.com/2026/11/03/livret-a-lepargne-des-francais-contribuera-au-financement-des-lycees-et-des-colleges"
-          },
-          {
-            "text": "Budget 2027 : le gouvernement est rattrapé par la réalité économique, alors que le ministre Roland Lescure a récemment jugé l'économie française « à l'arrêt ».",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261103-budget-2027-le-gouvernement-rattrap%C3%A9-par-la-r%C3%A9alit%C3%A9-%C3%A9conomique"
-          }
-        ]
-      },
-      {
-        "name": "Suisse",
-        "points": [
-          {
-            "text": "Une commission parlementaire dit non à la hausse de la TVA destinée à financer l'armée.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/suisse/2026/article/hausse-de-la-tva-pour-l-armee-une-commission-dit-non-29404706.html"
-          },
-          {
-            "text": "13e rente AVS : la conseillère fédérale Élisabeth Baume-Schneider défend une hausse de la TVA pour la financer.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/suisse/2026/article/13e-rente-avs-baume-schneider-defend-la-hausse-de-la-tva-29402432.html"
-          },
-          {
-            "text": "CFF : le trafic ferroviaire a été interrompu entre Lausanne et Genève.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/suisse/2026/article/cff-le-trafic-interrompu-entre-lausanne-et-geneve-29404815.html"
-          },
-          {
-            "text": "À Genève, les milieux culturels craignent des coupes budgétaires en cascade.",
-            "source": "RTS",
-            "link": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-la-culture-craint-des-coupes-budgetaires-en-cascade-29404151.html"
-          }
-        ]
-      },
-      {
-        "name": "Économie",
-        "points": [
-          {
-            "text": "L'équipementier automobile allemand Schaeffler va supprimer 3 460 postes et fermer cinq sites en Europe.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261103-automobile-l-%C3%A9quipementier-schaeffler-va-supprimer-3-460-postes-et-fermer-cinq-sites-en-europe"
-          },
-          {
-            "text": "En grande difficulté, l'enseigne GiFi est placée en redressement judiciaire.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261103-en-grande-difficult%C3%A9-le-groupe-gifi-plac%C3%A9-en-redressement-judiciaire"
-          },
-          {
-            "text": "L'Union européenne valide le rachat du deuxième actionnaire de Fnac Darty par le géant chinois JD.com.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261103-l-ue-valide-le-rachat-du-2e-actionnaire-de-fnac-darty-par-le-g%C3%A9ant-chinois-jd-com"
-          },
-          {
-            "text": "Le groupe bâlois Lonza rachète cinq sites de production de l'allemand Merck aux États-Unis.",
-            "source": "Swissinfo",
-            "link": "https://swissinfo.ch/fre/lonza-rach%C3%A8te-cinq-sites-de-production-de-l'allemand-merck-aux-usa/92317936"
-          },
-          {
-            "text": "La Bourse de Paris a terminé en baisse mardi, l'attention des marchés étant tournée vers les élections de mi-mandat américaines.",
-            "source": "France 24",
-            "link": "https://www.france24.com/fr/info-en-continu/20261103-la-bourse-de-paris-termine-en-baisse-les-mid-terms-captent-l-attention"
-          }
-        ]
-      }
-    ],
-    "terms": [
-      [
-        "un redressement judiciaire",
-        "une procédure qui permet à une entreprise en difficulté de continuer son activité sous le contrôle d'un tribunal"
-      ],
-      [
-        "un blocage",
-        "le fait d'empêcher l'accès à un établissement pour protester"
-      ],
-      [
-        "une alerte à la bombe",
-        "une menace annonçant la présence d'un engin explosif"
-      ],
-      [
-        "un équipementier",
-        "une entreprise qui fabrique des pièces pour les constructeurs automobiles"
-      ],
-      [
-        "les élections de mi-mandat",
-        "aux États-Unis, élections législatives organisées au milieu du mandat présidentiel"
       ]
     ]
   }
