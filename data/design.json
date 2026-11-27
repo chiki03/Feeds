@@ -1,5 +1,149 @@
 [
   {
+    "title": "Kiln brands weight-loss product Reset",
+    "link": "https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/",
+    "source": "Creative Review",
+    "date": "",
+    "added": "2026-11-27T05:48:09Z",
+    "summary": "Studio Kiln has designed the identity for Reset, a new weight-loss product, built around a friendly block-like character.",
+    "terms": [
+      [
+        "visual identity",
+        "the logo, colours, type and imagery that make a brand recognisable"
+      ],
+      [
+        "brand character",
+        "a mascot or figure that represents a brand"
+      ]
+    ]
+  },
+  {
+    "title": "Designers should work in the real codebase",
+    "link": "https://mattstromawn.com/writing/mirror-mode/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-27T05:48:09Z",
+    "summary": "An essay arguing that designers should work directly in the production code while also keeping a separate sandbox for prototyping.",
+    "terms": [
+      [
+        "codebase",
+        "all the source code of a software product"
+      ],
+      [
+        "sandbox",
+        "a safe space for experimenting without affecting the real product"
+      ]
+    ]
+  },
+  {
+    "title": "AI slop as an accessibility problem",
+    "link": "https://www.soren.work/writing/the-slopnami-is-an-accessibility-problem/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-27T05:48:09Z",
+    "summary": "Argues that automation which saves the sender time often costs the receiver time, and that disabled people have the least room to absorb that cost.",
+    "terms": [
+      [
+        "slop",
+        "low-quality content produced in large amounts, often by AI"
+      ],
+      [
+        "accessibility",
+        "how easily people with disabilities can use something"
+      ]
+    ]
+  },
+  {
+    "title": "A survival guide to AI design slop",
+    "link": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4",
+    "source": "UX Collective",
+    "date": "",
+    "added": "2026-11-27T05:48:09Z",
+    "summary": "An essay on how AI has changed UX design in unpredictable ways this year, with advice for designers on coping.",
+    "terms": [
+      [
+        "survival guide",
+        "practical advice for getting through a difficult situation"
+      ],
+      [
+        "unpredictable",
+        "impossible to know in advance"
+      ]
+    ]
+  },
+  {
+    "title": "Are we really building better products?",
+    "link": "https://medium.com/design-bootcamp/are-we-actually-building-better-things-the-great-software-bazaar-c2494d208934",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-27T05:48:09Z",
+    "summary": "Argues that in today's crowded software market the winning product may be the one with the best story, not the best solution.",
+    "terms": [
+      [
+        "bazaar",
+        "a busy market with many sellers"
+      ],
+      [
+        "narrative",
+        "the story told about something"
+      ]
+    ]
+  },
+  {
+    "title": "Why young designers feel powerless",
+    "link": "https://www.dezeen.com/2026/11/26/design-power-change-celine-semaan-opinion/",
+    "source": "Dezeen",
+    "date": "2026-11-26",
+    "added": "2026-11-27T05:48:09Z",
+    "summary": "An opinion piece asking how young designers came to believe they cannot change anything, and arguing that they have more power than they think.",
+    "terms": [
+      [
+        "powerlessness",
+        "the feeling of having no ability to change things"
+      ],
+      [
+        "op-ed",
+        "an article giving the writer's personal opinion"
+      ]
+    ]
+  },
+  {
+    "title": "Turning London billboards into maximalist art",
+    "link": "https://www.itsnicethat.com/articles/fiona-quadri-the-abundance-of-being-art-project-261126",
+    "source": "It's Nice That",
+    "date": "2026-11-26",
+    "added": "2026-11-27T05:48:09Z",
+    "summary": "Artist Fiona Quadri talks about replacing advertising on London billboards with bold, busy artworks.",
+    "terms": [
+      [
+        "maximalist",
+        "using many colours, patterns and details rather than keeping things minimal"
+      ],
+      [
+        "billboard",
+        "a large outdoor board for posters or adverts"
+      ]
+    ]
+  },
+  {
+    "title": "ManvsMachine on playful premium motion design",
+    "link": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-manvsmachine-261126",
+    "source": "It's Nice That",
+    "date": "2026-11-26",
+    "added": "2026-11-27T05:48:09Z",
+    "summary": "A look at how the studio ManvsMachine brings humour into serious, high-end motion design projects, from its Nicer Tuesdays talk.",
+    "terms": [
+      [
+        "motion design",
+        "graphic design that moves, such as animated titles and ads"
+      ],
+      [
+        "premium",
+        "high-quality and expensive, aimed at a top-end market"
+      ]
+    ]
+  },
+  {
     "title": "Writing about work when bosses read",
     "link": "https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185",
     "source": "UX Collective",
@@ -934,149 +1078,5 @@
         "an instruction or text given to an AI tool"
       ]
     ]
-  },
-  {
-    "title": "Glimm: a tiny page-transition effect",
-    "link": "https://glimm.dev/",
-    "source": "Sidebar",
-    "date": "2026-11-18",
-    "added": "2026-11-20T05:48:04Z",
-    "summary": "A small drop-in web library of about 11 KB that sweeps a WebGL band of light across the screen when the page route changes.",
-    "terms": [
-      [
-        "drop-in",
-        "easy to add to a project without changes"
-      ],
-      [
-        "page transition",
-        "the visual effect shown when moving between pages"
-      ]
-    ]
-  },
-  {
-    "title": "Why commute to watch AI work?",
-    "link": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86",
-    "source": "UX Collective",
-    "date": "2026-11-18",
-    "summary": "The author argues that return-to-office mandates are hard to justify when AI and remote tools make most production work portable, while admitting the office still helps with collaboration, mentoring and learning.",
-    "terms": [
-      [
-        "mandate",
-        "an official order that people must follow"
-      ],
-      [
-        "portable",
-        "easy to move or do from anywhere"
-      ]
-    ],
-    "added": "2026-11-19T05:47:47Z"
-  },
-  {
-    "title": "When your work looks too machine-made",
-    "link": "https://uxdesign.cc/too-claudified-9af067298b2a",
-    "source": "UX Collective",
-    "date": "2026-11-18",
-    "summary": "A designer describes having motion design work rejected because it looked as if an AI had made it.",
-    "terms": [
-      [
-        "motion design",
-        "animated graphics for screens"
-      ],
-      [
-        "machine-made",
-        "produced by a machine rather than a person"
-      ]
-    ],
-    "added": "2026-11-19T05:47:47Z"
-  },
-  {
-    "title": "Callum Abbott on designing around type",
-    "link": "https://www.itsnicethat.com/articles/callum-abbott-other-almanac-mutt-art-review-graphic-design-publication-project-181126",
-    "source": "It's Nice That",
-    "date": "2026-11-18",
-    "summary": "Designer Callum Abbott talks about building publications around typography, arguing that a good designer can make a free font look expensive.",
-    "terms": [
-      [
-        "publication",
-        "a printed or published magazine, book or journal"
-      ],
-      [
-        "typography",
-        "the style and arrangement of letters on a page"
-      ]
-    ],
-    "added": "2026-11-19T05:47:47Z"
-  },
-  {
-    "title": "Iconden: a gallery of iPhone app icons",
-    "link": "https://iconden.com/",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "A community gallery of iPhone app icons that also tracks how icons change through redesigns, shared on Sidebar.",
-    "terms": [
-      [
-        "app icon",
-        "the small image that represents an app on a phone's home screen"
-      ],
-      [
-        "redesign",
-        "a new version of an existing design"
-      ]
-    ],
-    "added": "2026-11-18T05:52:33Z"
-  },
-  {
-    "title": "Only the human merges",
-    "link": "https://itsmeduncan.com/2026/11/17/only-the-human-merges/",
-    "source": "Sidebar",
-    "date": "2026-11-17",
-    "added": "2026-11-23T05:48:11Z",
-    "summary": "A short essay featured on Sidebar arguing that, even with AI tools, the final decision to merge work belongs to a human.",
-    "terms": [
-      [
-        "merge",
-        "to combine a change into the main version of a project"
-      ],
-      [
-        "accountability",
-        "being responsible for a decision and its results"
-      ]
-    ]
-  },
-  {
-    "title": "A font that hides text from AI crawlers",
-    "link": "https://shieldfont.org/",
-    "source": "Sidebar",
-    "date": "2026-11-17",
-    "added": "2026-11-20T05:48:04Z",
-    "summary": "A web font that swaps words in the page code so human readers see the real text while AI crawlers collect a scrambled copy.",
-    "terms": [
-      [
-        "crawler",
-        "a program that automatically visits and copies web pages"
-      ],
-      [
-        "web font",
-        "a typeface loaded by a website rather than installed on a device"
-      ]
-    ]
-  },
-  {
-    "title": "Sainsbury art centre gets a sketch-based mark",
-    "link": "https://www.itsnicethat.com/articles/north-design-sainsbury-museum-and-art-centre-graphic-design-171126",
-    "source": "It's Nice That",
-    "date": "2026-11-17",
-    "summary": "North Design has rebranded the Sainsbury Museum and Art Centre, basing its new brand mark on a 1970s structural sketch from Norman Foster's original plans and pairing it with a custom monospaced typeface.",
-    "terms": [
-      [
-        "brand mark",
-        "the symbol that identifies an organisation"
-      ],
-      [
-        "monospaced",
-        "a typeface where every character takes the same width"
-      ]
-    ],
-    "added": "2026-11-19T05:47:47Z"
   }
 ]

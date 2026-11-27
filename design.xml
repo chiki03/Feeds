@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 05:44:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 05:48:10 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>27 nov. : budget de l'UE, BCE, grève à Genève</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-27.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-27.html</guid>
-<pubDate>Fri, 27 Nov 2026 05:45:28 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 05:49:09 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Le sommet européen de Bruxelles s'est achevé sans accord sur le budget de l'Union, l'Espagnol Pablo Hernández de Cos a été choisi pour succéder à Christine Lagarde à la BCE, et plus de 2000 personnes ont manifesté à Genève contre le projet de budget cantonal.
 
@@ -42,10 +42,70 @@ SUISSE
 Mots clés : une passe d'armes — un échange vif et polémique entre deux adversaires ; le 49.3 — l'article de la Constitution qui permet au gouvernement de faire adopter un texte sans vote, sauf si une motion de censure est votée ; succéder à quelqu'un — prendre sa place dans une fonction après son départ ; une infiltration — l'entrée discrète de personnes dans un groupe pour l'influencer de l'intérieur ; le fret — le transport de marchandises</description>
 </item>
 <item>
+<title>Kiln brands weight-loss product Reset</title>
+<link>https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/</link>
+<guid isPermaLink="true">https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/</guid>
+<pubDate>Fri, 27 Nov 2026 05:48:09 +0000</pubDate>
+<category>Creative Review</category>
+<description>Studio Kiln has designed the identity for Reset, a new weight-loss product, built around a friendly block-like character.
+
+Key terms: visual identity — the logo, colours, type and imagery that make a brand recognisable; brand character — a mascot or figure that represents a brand
+
+Source: Creative Review</description>
+</item>
+<item>
+<title>Designers should work in the real codebase</title>
+<link>https://mattstromawn.com/writing/mirror-mode/</link>
+<guid isPermaLink="true">https://mattstromawn.com/writing/mirror-mode/</guid>
+<pubDate>Fri, 27 Nov 2026 05:48:09 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay arguing that designers should work directly in the production code while also keeping a separate sandbox for prototyping.
+
+Key terms: codebase — all the source code of a software product; sandbox — a safe space for experimenting without affecting the real product
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>AI slop as an accessibility problem</title>
+<link>https://www.soren.work/writing/the-slopnami-is-an-accessibility-problem/</link>
+<guid isPermaLink="true">https://www.soren.work/writing/the-slopnami-is-an-accessibility-problem/</guid>
+<pubDate>Fri, 27 Nov 2026 05:48:09 +0000</pubDate>
+<category>Sidebar</category>
+<description>Argues that automation which saves the sender time often costs the receiver time, and that disabled people have the least room to absorb that cost.
+
+Key terms: slop — low-quality content produced in large amounts, often by AI; accessibility — how easily people with disabilities can use something
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>A survival guide to AI design slop</title>
+<link>https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4</link>
+<guid isPermaLink="true">https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4</guid>
+<pubDate>Fri, 27 Nov 2026 05:48:09 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay on how AI has changed UX design in unpredictable ways this year, with advice for designers on coping.
+
+Key terms: survival guide — practical advice for getting through a difficult situation; unpredictable — impossible to know in advance
+
+Source: UX Collective</description>
+</item>
+<item>
+<title>Are we really building better products?</title>
+<link>https://medium.com/design-bootcamp/are-we-actually-building-better-things-the-great-software-bazaar-c2494d208934</link>
+<guid isPermaLink="true">https://medium.com/design-bootcamp/are-we-actually-building-better-things-the-great-software-bazaar-c2494d208934</guid>
+<pubDate>Fri, 27 Nov 2026 05:48:09 +0000</pubDate>
+<category>Sidebar</category>
+<description>Argues that in today's crowded software market the winning product may be the one with the best story, not the best solution.
+
+Key terms: bazaar — a busy market with many sellers; narrative — the story told about something
+
+Source: Sidebar</description>
+</item>
+<item>
 <title>26 nov. : sommet UE, droits de douane, Lisnard</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-26.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-26.html</guid>
-<pubDate>Thu, 26 Nov 2026 05:45:14 +0000</pubDate>
+<pubDate>Thu, 26 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Les dirigeants européens se retrouvent pour un sommet tendu sur le budget de l'UE et l'aide à l'Ukraine, Washington propose de nouveaux droits de douane visant notamment l'UE et la Suisse, et David Lisnard est réélu à la tête des maires de France.
 
@@ -74,6 +134,42 @@ SUISSE
 • La Bourse de Paris a progressé mercredi, entre recul du pétrole et publication de chiffres d'inflation américains. (France 24: https://www.france24.com/fr/info-en-continu/20261125-la-bourse-de-paris-avance-entre-recul-du-p%C3%A9trole-et-inflation-am%C3%A9ricaine)
 
 Mots clés : hausser le ton — parler plus fermement pour marquer son mécontentement ; une zone d'exclusion aérienne — un espace où le survol par des aéronefs est interdit ; une perquisition — une fouille d'un lieu ordonnée par la justice pour y chercher des preuves ; un cartel — une entente illégale entre entreprises pour fixer les prix ou se partager un marché ; un droit de douane — une taxe prélevée sur des marchandises importées ; l'hébergement d'urgence — un logement temporaire offert aux personnes sans abri</description>
+</item>
+<item>
+<title>Why young designers feel powerless</title>
+<link>https://www.dezeen.com/2026/11/26/design-power-change-celine-semaan-opinion/</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/26/design-power-change-celine-semaan-opinion/</guid>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>An opinion piece asking how young designers came to believe they cannot change anything, and arguing that they have more power than they think.
+
+Key terms: powerlessness — the feeling of having no ability to change things; op-ed — an article giving the writer's personal opinion
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>Turning London billboards into maximalist art</title>
+<link>https://www.itsnicethat.com/articles/fiona-quadri-the-abundance-of-being-art-project-261126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/fiona-quadri-the-abundance-of-being-art-project-261126</guid>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Artist Fiona Quadri talks about replacing advertising on London billboards with bold, busy artworks.
+
+Key terms: maximalist — using many colours, patterns and details rather than keeping things minimal; billboard — a large outdoor board for posters or adverts
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>ManvsMachine on playful premium motion design</title>
+<link>https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-manvsmachine-261126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-manvsmachine-261126</guid>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>A look at how the studio ManvsMachine brings humour into serious, high-end motion design projects, from its Nicer Tuesdays talk.
+
+Key terms: motion design — graphic design that moves, such as animated titles and ads; premium — high-quality and expensive, aimed at a top-end market
+
+Source: It's Nice That</description>
 </item>
 <item>
 <title>25 nov. : Ukraine, Sarkozy-Bruni, BYD en France</title>
@@ -973,70 +1069,10 @@ Key terms: document — to record a process in detail; prompt — an instruction
 Source: Sidebar</description>
 </item>
 <item>
-<title>Glimm: a tiny page-transition effect</title>
-<link>https://glimm.dev/</link>
-<guid isPermaLink="true">https://glimm.dev/</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<category>Sidebar</category>
-<description>A small drop-in web library of about 11 KB that sweeps a WebGL band of light across the screen when the page route changes.
-
-Key terms: drop-in — easy to add to a project without changes; page transition — the visual effect shown when moving between pages
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Why commute to watch AI work?</title>
-<link>https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86</link>
-<guid isPermaLink="true">https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>The author argues that return-to-office mandates are hard to justify when AI and remote tools make most production work portable, while admitting the office still helps with collaboration, mentoring and learning.
-
-Key terms: mandate — an official order that people must follow; portable — easy to move or do from anywhere
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>When your work looks too machine-made</title>
-<link>https://uxdesign.cc/too-claudified-9af067298b2a</link>
-<guid isPermaLink="true">https://uxdesign.cc/too-claudified-9af067298b2a</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>A designer describes having motion design work rejected because it looked as if an AI had made it.
-
-Key terms: motion design — animated graphics for screens; machine-made — produced by a machine rather than a person
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Callum Abbott on designing around type</title>
-<link>https://www.itsnicethat.com/articles/callum-abbott-other-almanac-mutt-art-review-graphic-design-publication-project-181126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/callum-abbott-other-almanac-mutt-art-review-graphic-design-publication-project-181126</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Designer Callum Abbott talks about building publications around typography, arguing that a good designer can make a free font look expensive.
-
-Key terms: publication — a printed or published magazine, book or journal; typography — the style and arrangement of letters on a page
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Iconden: a gallery of iPhone app icons</title>
-<link>https://iconden.com/</link>
-<guid isPermaLink="true">https://iconden.com/</guid>
-<pubDate>Wed, 18 Nov 2026 05:52:33 +0000</pubDate>
-<category>Sidebar</category>
-<description>A community gallery of iPhone app icons that also tracks how icons change through redesigns, shared on Sidebar.
-
-Key terms: app icon — the small image that represents an app on a phone's home screen; redesign — a new version of an existing design
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>17 nov. : pourparlers Ukraine, Smic, Commerzbank</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-17.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-17.html</guid>
-<pubDate>Tue, 17 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 05:44:51 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Kiev, les Européens et les Américains engagent de nouveaux pourparlers, les candidats à la présidentielle française s'affrontent sur l'impôt et le Smic, et Bruxelles autorise le rachat de Commerzbank par UniCredit.
 
@@ -1065,42 +1101,6 @@ SUISSE
 • Nvidia : Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête du groupe. (France 24: https://www.france24.com/fr/%C3%A9co-tech/20261116-elon-musk-uber-spacex-epic-games-157000-signataires-reclament-retour-jensen-huang-tete-nvidia-intelligence-artificielle-lettre-ouverte-enquete-independante)
 
 Mots clés : des pourparlers — des discussions préparatoires en vue d'un accord ; un hub de retour — un centre situé hors de l'UE où sont renvoyés des migrants déboutés ; le référendum obligatoire — un vote populaire imposé d'office, sans récolte de signatures ; un aveu d'échec — le fait de reconnaître, même implicitement, qu'on n'a pas réussi ; renoncer à faire appel — accepter un jugement sans demander qu'il soit réexaminé ; donner son feu vert — autoriser officiellement</description>
-</item>
-<item>
-<title>Only the human merges</title>
-<link>https://itsmeduncan.com/2026/11/17/only-the-human-merges/</link>
-<guid isPermaLink="true">https://itsmeduncan.com/2026/11/17/only-the-human-merges/</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-<category>Sidebar</category>
-<description>A short essay featured on Sidebar arguing that, even with AI tools, the final decision to merge work belongs to a human.
-
-Key terms: merge — to combine a change into the main version of a project; accountability — being responsible for a decision and its results
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>A font that hides text from AI crawlers</title>
-<link>https://shieldfont.org/</link>
-<guid isPermaLink="true">https://shieldfont.org/</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-<category>Sidebar</category>
-<description>A web font that swaps words in the page code so human readers see the real text while AI crawlers collect a scrambled copy.
-
-Key terms: crawler — a program that automatically visits and copies web pages; web font — a typeface loaded by a website rather than installed on a device
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Sainsbury art centre gets a sketch-based mark</title>
-<link>https://www.itsnicethat.com/articles/north-design-sainsbury-museum-and-art-centre-graphic-design-171126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/north-design-sainsbury-museum-and-art-centre-graphic-design-171126</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>North Design has rebranded the Sainsbury Museum and Art Centre, basing its new brand mark on a 1970s structural sketch from Norman Foster's original plans and pairing it with a custom monospaced typeface.
-
-Key terms: brand mark — the symbol that identifies an organisation; monospaced — a typeface where every character takes the same width
-
-Source: It's Nice That</description>
 </item>
 <item>
 <title>16 nov. : Estonie, médias tchèques, Booking.com</title>
