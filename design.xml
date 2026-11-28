@@ -6,13 +6,13 @@
 <atom:link href="https://chiki03.github.io/Feeds/design.xml" rel="self" type="application/rss+xml"/>
 <description>Kikichou's morning read: le point du jour en français, then design picks in English.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 05:44:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 05:47:18 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>28 nov. : récession, mer Noire, crack à Genève</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-28.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-28.html</guid>
-<pubDate>Sat, 28 Nov 2026 05:45:22 +0000</pubDate>
+<pubDate>Sat, 28 Nov 2026 05:48:18 +0000</pubDate>
 <category>Le point du jour</category>
 <description>La France est officiellement entrée en récession, l'Ukraine propose une trêve en mer Noire et Genève lance un essai de prescription de cocaïne pour les consommateurs de crack.
 
@@ -43,10 +43,34 @@ SUISSE
 Mots clés : une récession — un recul de l'activité économique pendant au moins deux trimestres de suite ; la perspective (d'une note) — l'indication par une agence de notation de l'évolution probable de la note d'un pays ; un témoin assisté — dans une enquête, une personne ni simple témoin ni mise en examen, qui a droit à un avocat ; un cessez-le-feu — l'arrêt des tirs et des combats convenu entre belligérants ; germanophobe — hostile à l'Allemagne ou aux Allemands ; une lettre d'intention — un document par lequel des parties s'engagent à négocier ou coopérer, sans obligation définitive</description>
 </item>
 <item>
+<title>Lighting that feels just right</title>
+<link>https://blog.maximeheckel.com/posts/lighting-that-feels-just-right/</link>
+<guid isPermaLink="true">https://blog.maximeheckel.com/posts/lighting-that-feels-just-right/</guid>
+<pubDate>Sat, 28 Nov 2026 05:47:18 +0000</pubDate>
+<category>Sidebar</category>
+<description>A blog post about creating lighting that feels just right, linked on Sidebar.
+
+Key terms: just right — exactly as it should be, neither too much nor too little; lighting — the way light is arranged in a scene or space
+
+Source: Sidebar</description>
+</item>
+<item>
+<title>Forward-deployed design as plumbing</title>
+<link>https://blog.ronbronson.com/forward-deployed-design-as-plumbing</link>
+<guid isPermaLink="true">https://blog.ronbronson.com/forward-deployed-design-as-plumbing</guid>
+<pubDate>Sat, 28 Nov 2026 05:47:18 +0000</pubDate>
+<category>Sidebar</category>
+<description>An essay comparing forward-deployed design work to plumbing, linked on Sidebar.
+
+Key terms: forward-deployed — working directly on site with a client or team; plumbing — the hidden pipes that make a system work; figuratively, unglamorous infrastructure
+
+Source: Sidebar</description>
+</item>
+<item>
 <title>27 nov. : budget de l'UE, BCE, grève à Genève</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-27.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-27.html</guid>
-<pubDate>Fri, 27 Nov 2026 05:49:09 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 06:01:00 +0000</pubDate>
 <category>Le point du jour</category>
 <description>Le sommet européen de Bruxelles s'est achevé sans accord sur le budget de l'Union, l'Espagnol Pablo Hernández de Cos a été choisi pour succéder à Christine Lagarde à la BCE, et plus de 2000 personnes ont manifesté à Genève contre le projet de budget cantonal.
 
@@ -74,6 +98,42 @@ SUISSE
 • En Suisse, la part du rail dans le transport de marchandises a encore reculé de 2 points en 2025, à 35%, son plus bas niveau jamais enregistré. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
 
 Mots clés : une passe d'armes — un échange vif et polémique entre deux adversaires ; le 49.3 — l'article de la Constitution qui permet au gouvernement de faire adopter un texte sans vote, sauf si une motion de censure est votée ; succéder à quelqu'un — prendre sa place dans une fonction après son départ ; une infiltration — l'entrée discrète de personnes dans un groupe pour l'influencer de l'intérieur ; le fret — le transport de marchandises</description>
+</item>
+<item>
+<title>Kelly Wearstler picks Kiki Goti for 20x20</title>
+<link>https://www.dezeen.com/2026/11/27/kiki-goti-interview-20x20-kelly-wearstler</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/27/kiki-goti-interview-20x20-kelly-wearstler</guid>
+<pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>An interview with designer Kiki Goti, chosen by Kelly Wearstler for Dezeen's 20x20 project naming the most influential designers of the next 20 years.
+
+Key terms: influential — having a strong effect on how others think or work; to nominate — to formally put someone forward for an honour
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>Vitra Design Museum shows Geoffrey Bawa</title>
+<link>https://www.dezeen.com/2026/11/27/geoffrey-bawa-exhibition-vitra-design-museum</link>
+<guid isPermaLink="true">https://www.dezeen.com/2026/11/27/geoffrey-bawa-exhibition-vitra-design-museum</guid>
+<pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+<category>Dezeen</category>
+<description>The Vitra Design Museum has unveiled an exhibition about Geoffrey Bawa, the Sri Lankan architect.
+
+Key terms: to unveil — to show something to the public for the first time; exhibition — a public display of works of art or design
+
+Source: Dezeen</description>
+</item>
+<item>
+<title>How a solo designer uses AI</title>
+<link>https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e</link>
+<guid isPermaLink="true">https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e</guid>
+<pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>A designer working alone at a B2B company describes which AI tools helped, and which didn't, for prototyping, usability testing, research synthesis and feedback.
+
+Key terms: B2B — business-to-business: selling to companies, not consumers; synthesis — combining many findings into a clear overall picture
+
+Source: UX Collective</description>
 </item>
 <item>
 <title>Kiln brands weight-loss product Reset</title>
@@ -170,6 +230,30 @@ SUISSE
 Mots clés : hausser le ton — parler plus fermement pour marquer son mécontentement ; une zone d'exclusion aérienne — un espace où le survol par des aéronefs est interdit ; une perquisition — une fouille d'un lieu ordonnée par la justice pour y chercher des preuves ; un cartel — une entente illégale entre entreprises pour fixer les prix ou se partager un marché ; un droit de douane — une taxe prélevée sur des marchandises importées ; l'hébergement d'urgence — un logement temporaire offert aux personnes sans abri</description>
 </item>
 <item>
+<title>Illustrated A.G. Cook book embodies PC Music</title>
+<link>https://www.itsnicethat.com/articles/jacob-hulmston-martin-uhrecky-the-soulbreaker-codex-graphic-design-publication-project-261126</link>
+<guid isPermaLink="true">https://www.itsnicethat.com/articles/jacob-hulmston-martin-uhrecky-the-soulbreaker-codex-graphic-design-publication-project-261126</guid>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<category>It's Nice That</category>
+<description>Jacob Hulmston and Martin Uhrecky designed The Soulbreaker Codex, an illustrated, multimedia book about A.G. Cook that captures the spirit of the PC Music label.
+
+Key terms: codex — an old-fashioned word for a bound book; to embody — to express an idea or quality in a visible form
+
+Source: It's Nice That</description>
+</item>
+<item>
+<title>Gut feelings, machines and design intuition</title>
+<link>https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d</link>
+<guid isPermaLink="true">https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d</guid>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<category>UX Collective</category>
+<description>An essay arguing that intuition is a learnable skill, asking whether AI can develop something like it, and warning about models learning from other models.
+
+Key terms: gut feeling — an instinctive sense that something is right or wrong; intuition — understanding something without conscious reasoning
+
+Source: UX Collective</description>
+</item>
+<item>
 <title>Why young designers feel powerless</title>
 <link>https://www.dezeen.com/2026/11/26/design-power-change-celine-semaan-opinion/</link>
 <guid isPermaLink="true">https://www.dezeen.com/2026/11/26/design-power-change-celine-semaan-opinion/</guid>
@@ -238,6 +322,18 @@ SUISSE
 • Allemagne : le moral des entreprises s'est de nouveau amélioré en novembre. (France 24 (EN): https://www.france24.com/en/live-news/20261124-german-business-morale-rises-again-in-november)
 
 Mots clés : être renvoyé en procès — être envoyé devant un tribunal pour y être jugé ; une rétractation — le fait de revenir sur une déclaration faite auparavant ; un détournement de fonds publics — l'utilisation illégale d'argent public à des fins non prévues ; requérir une peine — pour le procureur, demander au tribunal une sanction précise ; violer l'espace aérien — pénétrer sans autorisation dans le ciel d'un autre pays ; des fonds propres — l'argent qui appartient à l'entreprise et à ses actionnaires, et non à ses créanciers</description>
+</item>
+<item>
+<title>The year the web industry gave up</title>
+<link>https://dbushell.com/2026/11/25/web-industry/</link>
+<guid isPermaLink="true">https://dbushell.com/2026/11/25/web-industry/</guid>
+<pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+<category>Sidebar</category>
+<description>A web developer's essay, under the headline of the web industry giving up this year.
+
+Key terms: to give up — to stop trying; industry — all the companies and people doing one kind of work
+
+Source: Sidebar</description>
 </item>
 <item>
 <title>Writing about work when bosses read</title>
@@ -973,70 +1069,10 @@ Key terms: repertoire — the full set of skills or pieces someone can perform; 
 Source: UX Collective</description>
 </item>
 <item>
-<title>Dashboards should show broken things first</title>
-<link>https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7</link>
-<guid isPermaLink="true">https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7</guid>
-<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
-<category>UX Collective</category>
-<description>Argues that enterprise dashboards should put failing items at the top, ranked by severity, with only a quiet summary for everything that is healthy.
-
-Key terms: alert fatigue — when people stop reacting to warnings because there are too many; management by exception — paying attention only to results that differ from the normal plan
-
-Source: UX Collective</description>
-</item>
-<item>
-<title>Vivid Cereal's patchwork graphic storytelling</title>
-<link>https://www.itsnicethat.com/articles/nika-belskaya-vivid-cereal-graphic-design-discover-191126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/nika-belskaya-vivid-cereal-graphic-design-discover-191126</guid>
-<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>A profile of Tbilisi-based designer Nika Belskaya, who mixes archival images with modern references across posters, type and illustration, with her Georgian identity as a key theme.
-
-Key terms: archival — taken from old stored records or collections; public domain — no longer protected by copyright, so free for anyone to use
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Disabled users building their own accessibility</title>
-<link>https://yatil.net/blog/band-aid-accessibility</link>
-<guid isPermaLink="true">https://yatil.net/blog/band-aid-accessibility</guid>
-<pubDate>Thu, 19 Nov 2026 05:47:47 +0000</pubDate>
-<category>Sidebar</category>
-<description>An essay arguing that people with disabilities increasingly use AI coding tools to build their own accessibility fixes, which it calls band-aid accessibility; shared on Sidebar.
-
-Key terms: band-aid — a quick fix that does not solve the real problem; accessibility — making products usable by people with disabilities
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>Declaring how diagrams can be dragged</title>
-<link>https://declarative-dragging.github.io/</link>
-<guid isPermaLink="true">https://declarative-dragging.github.io/</guid>
-<pubDate>Thu, 19 Nov 2026 05:47:47 +0000</pubDate>
-<category>Sidebar</category>
-<description>An interactive experiment exploring whether a diagram's dragging behaviour can be defined simply by stating what shapes it is allowed to become; shared on Sidebar.
-
-Key terms: declarative — describing what you want rather than how to do it; drag — to move something on screen by holding and pulling it
-
-Source: Sidebar</description>
-</item>
-<item>
-<title>A love letter to alcohol markers</title>
-<link>https://www.kooslooijesteijn.net/blog/alcohol-markers</link>
-<guid isPermaLink="true">https://www.kooslooijesteijn.net/blog/alcohol-markers</guid>
-<pubDate>Thu, 19 Nov 2026 05:47:47 +0000</pubDate>
-<category>Sidebar</category>
-<description>A designer writes about looking after alcohol markers and why analog drawing is worth keeping alongside digital work; shared on Sidebar.
-
-Key terms: analog — done by hand with physical tools, not digitally; alcohol marker — a pen with fast-drying, alcohol-based ink
-
-Source: Sidebar</description>
-</item>
-<item>
 <title>18 nov. : pont de Crimée, retraites Le Pen, zone euro</title>
 <link>https://chiki03.github.io/Feeds/actu/2026-11-18.html</link>
 <guid isPermaLink="true">https://chiki03.github.io/Feeds/actu/2026-11-18.html</guid>
-<pubDate>Wed, 18 Nov 2026 06:01:00 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 05:44:32 +0000</pubDate>
 <category>Le point du jour</category>
 <description>L'Ukraine frappe le pont de Crimée pendant que Vladimir Poutine est reçu en Chine, Marine Le Pen présente sa réforme des retraites, et Bruxelles relève ses prévisions de croissance tout en s'inquiétant du déficit français.
 
@@ -1065,42 +1101,6 @@ SUISSE
 • Chaleur, sécheresse et baisse du prix du porc : la valeur ajoutée brute de l'agriculture suisse recule de 11,7 % en 2026, à 4,5 milliards de francs selon les estimations. (Swissinfo: https://www.swissinfo.ch/fre/toute-l-actu-en-bref/)
 
 Mots clés : la capitalisation — un système de retraite où chacun épargne pour sa propre pension ; une primaire — une élection interne pour désigner le candidat d'un camp ; l'austérité — une politique de réduction forte des dépenses publiques ; une fuite de documents — la divulgation de documents confidentiels ; homologuer — autoriser officiellement, par exemple un médicament ; la valeur ajoutée brute — la richesse produite par un secteur, avant amortissements</description>
-</item>
-<item>
-<title>Illustrating 50 years of Metropolitan Diary</title>
-<link>https://www.itsnicethat.com/features/agnes-lee-metropolitan-diary-illustration-spotlight-181126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/features/agnes-lee-metropolitan-diary-illustration-spotlight-181126</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Illustrator Agnes Lee talks about drawing for Metropolitan Diary, the long-running New York newspaper column, as it reaches 50 years.
-
-Key terms: column — a regular section of a newspaper on one theme; milestone — an important point or anniversary in a history
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>Turning everyday data into music</title>
-<link>https://www.itsnicethat.com/articles/matthew-wilcock-sound-design-project-181126</link>
-<guid isPermaLink="true">https://www.itsnicethat.com/articles/matthew-wilcock-sound-design-project-181126</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<category>It's Nice That</category>
-<description>Covers Matthew Wilcock's sound design, which uses data from ordinary daily life to generate music.
-
-Key terms: sound design — the craft of creating and arranging audio for a work; data-driven — guided or produced by collected information
-
-Source: It's Nice That</description>
-</item>
-<item>
-<title>A whole town built by one designer</title>
-<link>https://www.tomjohn.design/content/tomjohnville</link>
-<guid isPermaLink="true">https://www.tomjohn.design/content/tomjohnville</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<category>Sidebar</category>
-<description>A designer documents building a town project from his first idea onward, sharing his prompts, screenshots and videos along the way.
-
-Key terms: document — to record a process in detail; prompt — an instruction or text given to an AI tool
-
-Source: Sidebar</description>
 </item>
 <item>
 <title>17 nov. : pourparlers Ukraine, Smic, Commerzbank</title>

@@ -1,5 +1,95 @@
 [
   {
+    "title": "Lighting that feels just right",
+    "link": "https://blog.maximeheckel.com/posts/lighting-that-feels-just-right/",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-28T05:47:18Z",
+    "summary": "A blog post about creating lighting that feels just right, linked on Sidebar.",
+    "terms": [
+      [
+        "just right",
+        "exactly as it should be, neither too much nor too little"
+      ],
+      [
+        "lighting",
+        "the way light is arranged in a scene or space"
+      ]
+    ]
+  },
+  {
+    "title": "Forward-deployed design as plumbing",
+    "link": "https://blog.ronbronson.com/forward-deployed-design-as-plumbing",
+    "source": "Sidebar",
+    "date": "",
+    "added": "2026-11-28T05:47:18Z",
+    "summary": "An essay comparing forward-deployed design work to plumbing, linked on Sidebar.",
+    "terms": [
+      [
+        "forward-deployed",
+        "working directly on site with a client or team"
+      ],
+      [
+        "plumbing",
+        "the hidden pipes that make a system work; figuratively, unglamorous infrastructure"
+      ]
+    ]
+  },
+  {
+    "title": "Kelly Wearstler picks Kiki Goti for 20x20",
+    "link": "https://www.dezeen.com/2026/11/27/kiki-goti-interview-20x20-kelly-wearstler",
+    "source": "Dezeen",
+    "date": "2026-11-27",
+    "added": "2026-11-28T05:47:18Z",
+    "summary": "An interview with designer Kiki Goti, chosen by Kelly Wearstler for Dezeen's 20x20 project naming the most influential designers of the next 20 years.",
+    "terms": [
+      [
+        "influential",
+        "having a strong effect on how others think or work"
+      ],
+      [
+        "to nominate",
+        "to formally put someone forward for an honour"
+      ]
+    ]
+  },
+  {
+    "title": "Vitra Design Museum shows Geoffrey Bawa",
+    "link": "https://www.dezeen.com/2026/11/27/geoffrey-bawa-exhibition-vitra-design-museum",
+    "source": "Dezeen",
+    "date": "2026-11-27",
+    "added": "2026-11-28T05:47:18Z",
+    "summary": "The Vitra Design Museum has unveiled an exhibition about Geoffrey Bawa, the Sri Lankan architect.",
+    "terms": [
+      [
+        "to unveil",
+        "to show something to the public for the first time"
+      ],
+      [
+        "exhibition",
+        "a public display of works of art or design"
+      ]
+    ]
+  },
+  {
+    "title": "How a solo designer uses AI",
+    "link": "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e",
+    "source": "UX Collective",
+    "date": "2026-11-27",
+    "added": "2026-11-28T05:47:18Z",
+    "summary": "A designer working alone at a B2B company describes which AI tools helped, and which didn't, for prototyping, usability testing, research synthesis and feedback.",
+    "terms": [
+      [
+        "B2B",
+        "business-to-business: selling to companies, not consumers"
+      ],
+      [
+        "synthesis",
+        "combining many findings into a clear overall picture"
+      ]
+    ]
+  },
+  {
     "title": "Kiln brands weight-loss product Reset",
     "link": "https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/",
     "source": "Creative Review",
@@ -90,6 +180,42 @@
     ]
   },
   {
+    "title": "Illustrated A.G. Cook book embodies PC Music",
+    "link": "https://www.itsnicethat.com/articles/jacob-hulmston-martin-uhrecky-the-soulbreaker-codex-graphic-design-publication-project-261126",
+    "source": "It's Nice That",
+    "date": "2026-11-26",
+    "added": "2026-11-28T05:47:18Z",
+    "summary": "Jacob Hulmston and Martin Uhrecky designed The Soulbreaker Codex, an illustrated, multimedia book about A.G. Cook that captures the spirit of the PC Music label.",
+    "terms": [
+      [
+        "codex",
+        "an old-fashioned word for a bound book"
+      ],
+      [
+        "to embody",
+        "to express an idea or quality in a visible form"
+      ]
+    ]
+  },
+  {
+    "title": "Gut feelings, machines and design intuition",
+    "link": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d",
+    "source": "UX Collective",
+    "date": "2026-11-26",
+    "added": "2026-11-28T05:47:18Z",
+    "summary": "An essay arguing that intuition is a learnable skill, asking whether AI can develop something like it, and warning about models learning from other models.",
+    "terms": [
+      [
+        "gut feeling",
+        "an instinctive sense that something is right or wrong"
+      ],
+      [
+        "intuition",
+        "understanding something without conscious reasoning"
+      ]
+    ]
+  },
+  {
     "title": "Why young designers feel powerless",
     "link": "https://www.dezeen.com/2026/11/26/design-power-change-celine-semaan-opinion/",
     "source": "Dezeen",
@@ -140,6 +266,24 @@
       [
         "premium",
         "high-quality and expensive, aimed at a top-end market"
+      ]
+    ]
+  },
+  {
+    "title": "The year the web industry gave up",
+    "link": "https://dbushell.com/2026/11/25/web-industry/",
+    "source": "Sidebar",
+    "date": "2026-11-25",
+    "added": "2026-11-28T05:47:18Z",
+    "summary": "A web developer's essay, under the headline of the web industry giving up this year.",
+    "terms": [
+      [
+        "to give up",
+        "to stop trying"
+      ],
+      [
+        "industry",
+        "all the companies and people doing one kind of work"
       ]
     ]
   },
@@ -932,150 +1076,6 @@
       [
         "improvise",
         "to make something up on the spot without preparation"
-      ]
-    ]
-  },
-  {
-    "title": "Dashboards should show broken things first",
-    "link": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7",
-    "source": "UX Collective",
-    "date": "2026-11-19",
-    "added": "2026-11-20T05:48:04Z",
-    "summary": "Argues that enterprise dashboards should put failing items at the top, ranked by severity, with only a quiet summary for everything that is healthy.",
-    "terms": [
-      [
-        "alert fatigue",
-        "when people stop reacting to warnings because there are too many"
-      ],
-      [
-        "management by exception",
-        "paying attention only to results that differ from the normal plan"
-      ]
-    ]
-  },
-  {
-    "title": "Vivid Cereal's patchwork graphic storytelling",
-    "link": "https://www.itsnicethat.com/articles/nika-belskaya-vivid-cereal-graphic-design-discover-191126",
-    "source": "It's Nice That",
-    "date": "2026-11-19",
-    "added": "2026-11-20T05:48:04Z",
-    "summary": "A profile of Tbilisi-based designer Nika Belskaya, who mixes archival images with modern references across posters, type and illustration, with her Georgian identity as a key theme.",
-    "terms": [
-      [
-        "archival",
-        "taken from old stored records or collections"
-      ],
-      [
-        "public domain",
-        "no longer protected by copyright, so free for anyone to use"
-      ]
-    ]
-  },
-  {
-    "title": "Disabled users building their own accessibility",
-    "link": "https://yatil.net/blog/band-aid-accessibility",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "An essay arguing that people with disabilities increasingly use AI coding tools to build their own accessibility fixes, which it calls band-aid accessibility; shared on Sidebar.",
-    "terms": [
-      [
-        "band-aid",
-        "a quick fix that does not solve the real problem"
-      ],
-      [
-        "accessibility",
-        "making products usable by people with disabilities"
-      ]
-    ],
-    "added": "2026-11-19T05:47:47Z"
-  },
-  {
-    "title": "Declaring how diagrams can be dragged",
-    "link": "https://declarative-dragging.github.io/",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "An interactive experiment exploring whether a diagram's dragging behaviour can be defined simply by stating what shapes it is allowed to become; shared on Sidebar.",
-    "terms": [
-      [
-        "declarative",
-        "describing what you want rather than how to do it"
-      ],
-      [
-        "drag",
-        "to move something on screen by holding and pulling it"
-      ]
-    ],
-    "added": "2026-11-19T05:47:47Z"
-  },
-  {
-    "title": "A love letter to alcohol markers",
-    "link": "https://www.kooslooijesteijn.net/blog/alcohol-markers",
-    "source": "Sidebar",
-    "date": "",
-    "summary": "A designer writes about looking after alcohol markers and why analog drawing is worth keeping alongside digital work; shared on Sidebar.",
-    "terms": [
-      [
-        "analog",
-        "done by hand with physical tools, not digitally"
-      ],
-      [
-        "alcohol marker",
-        "a pen with fast-drying, alcohol-based ink"
-      ]
-    ],
-    "added": "2026-11-19T05:47:47Z"
-  },
-  {
-    "title": "Illustrating 50 years of Metropolitan Diary",
-    "link": "https://www.itsnicethat.com/features/agnes-lee-metropolitan-diary-illustration-spotlight-181126",
-    "source": "It's Nice That",
-    "date": "2026-11-18",
-    "added": "2026-11-20T05:48:04Z",
-    "summary": "Illustrator Agnes Lee talks about drawing for Metropolitan Diary, the long-running New York newspaper column, as it reaches 50 years.",
-    "terms": [
-      [
-        "column",
-        "a regular section of a newspaper on one theme"
-      ],
-      [
-        "milestone",
-        "an important point or anniversary in a history"
-      ]
-    ]
-  },
-  {
-    "title": "Turning everyday data into music",
-    "link": "https://www.itsnicethat.com/articles/matthew-wilcock-sound-design-project-181126",
-    "source": "It's Nice That",
-    "date": "2026-11-18",
-    "added": "2026-11-20T05:48:04Z",
-    "summary": "Covers Matthew Wilcock's sound design, which uses data from ordinary daily life to generate music.",
-    "terms": [
-      [
-        "sound design",
-        "the craft of creating and arranging audio for a work"
-      ],
-      [
-        "data-driven",
-        "guided or produced by collected information"
-      ]
-    ]
-  },
-  {
-    "title": "A whole town built by one designer",
-    "link": "https://www.tomjohn.design/content/tomjohnville",
-    "source": "Sidebar",
-    "date": "2026-11-18",
-    "added": "2026-11-20T05:48:04Z",
-    "summary": "A designer documents building a town project from his first idea onward, sharing his prompts, screenshots and videos along the way.",
-    "terms": [
-      [
-        "document",
-        "to record a process in detail"
-      ],
-      [
-        "prompt",
-        "an instruction or text given to an AI tool"
       ]
     ]
   }
